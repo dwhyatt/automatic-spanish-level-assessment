@@ -60,7 +60,7 @@ class LemmaFeatures:
                 
         return out_vector
 
-class PosTrigrams:
+class PosTrigrams:    #### POS trigrams instead of word trigrams should help for data sparcity and should produce some informative patterns, such as with clitics/prepositions
 
     def __init__(self, rootdir):
         

@@ -1,12 +1,14 @@
 # -*- coding: UTF-8- -*-
 #!/bin/env python3.4
 
-class Embeddings:
+### getting started on features from 'freeling' files
+
+class Embeddings:  
 
     def __init__(self, freeling):
         self.freeling = freeling
 
-    def countEmbeddings(self):
+    def countEmbeddings(self):   ### should be highly informative, 'better' speakers should have much more subordination/embedding
         sentences = 0
         subord = 0
 
@@ -23,7 +25,7 @@ class Embeddings:
         else:
             return subord/sentences
 
-    def getCoordinations(self):
+    def getCoordinations(self):  ### not sure what will come out of this...
         coordinating = 0
         subordinating = 0
 

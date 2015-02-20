@@ -23,7 +23,7 @@ class WordFeatures:
         self.getVerbFeatures()
 
 
-    def getSentences(self):
+    def getSentences(self):     ### this gets lines of 'sentences' () from conll files 
         all_conll_sentences = []
         # all_words_sentences = []
 
@@ -35,7 +35,7 @@ class WordFeatures:
             
             if line:
                 line = line.split('\t')
-                if line[0] == '1':
+                if line[0] == '1':          #### this should be fized - looks like it will miss last sentence
                     
                     conll_sentence.append(line)
                     # words_sentence.append(line[1])
@@ -71,6 +71,8 @@ class WordFeatures:
 
         feminine_end_in_e = ['calle', 'carne', 'clase', 'clave', 'corriente', 'fe', 'frase', 'fuente', 'gente', 'leche', 'lente', 'mente', 'muerte', 'nieve', 
         'noche', 'nube', 'sangre', 'sede', 'serpiente', 'tarde', 'suerte', 'tarde', 'torre'] 
+
+        ## most other common(ish) nouns which end in e are masculine, but I think it is better not to default to masculine just on the basis of the small list of feminine 'e' nouns
 
         feminine_exceptions = feminine_end_in_e + feminine_end_in_o
 
@@ -138,7 +140,7 @@ class WordFeatures:
             else:
                 mod = 'U'
             
-            if mod == 'U' or noun == 'U':
+            if mod == 'U' or noun == 'U':    ## there will be lots of cases where we don't have agreement, either correctly ('su') or becuase we don't have the gender of the noun
                 pass
 
             else:
@@ -160,7 +162,7 @@ class WordFeatures:
 
         return [percentage_agree, masc_fem_ratio]
 
-    def basicCountFeatures(self):
+    def basicCountFeatures(self):   #### sentence length should be useful, and perhaps word length.  Type token here might be ok as the text are very similar in length
 
         sent_lengths = []
         word_length = []
@@ -181,7 +183,8 @@ class WordFeatures:
         return [average_len_sentence, average_len_word, type_token]
 
    
-    def getVerbFeatures(self):
+    def getVerbFeatures(self):     #### this is called when the class is instantiated.  It gets the TAM (Tense/Aspect/Mood) information.
+                                    ### as well as 'estimates' of person for the verbs (many spanish verbs are synchronous)
         
         stem_dict = self.stem_dict
         tam_dict = self.tam_dict
@@ -197,7 +200,7 @@ class WordFeatures:
                 tag = line[5]
                 if tag == 'v':
                     with Capturing() as output:
-                        l3.anal('es', word)
+                        l3.anal('es', word)      ### his is printed output which is redirected.  This is a little hackey but I coulnd't get figure out how to parse the native data format.
                     paramorph.append(output)
                     
         
@@ -334,7 +337,7 @@ class WordFeatures:
             s_all = 0
             ser_forms = 0
 
-        if 'era' in stem_dict:
+        if 'era' in stem_dict:       #### somehow this is not included as a form of 'ser'
             era = stem_dict['era']
             er_all = len(era)
             era_forms = len(set(era))
@@ -391,7 +394,7 @@ class WordFeatures:
                 tag = line[5]
                 dep = line[9]
 
-                if tag == 'v':
+                if tag == 'v':      #### more things could be added here, maybe including modals ...
 
                     if lemma == 'ir':
                         for l in sent:
@@ -433,7 +436,7 @@ class WordFeatures:
 
     def getClitics(self):
 
-        list_of_clitics = ['se', 'la', 'lo', 'le', 'los', 'las', 'les']
+        list_of_clitics = ['se', 'la', 'lo', 'le', 'los', 'las', 'les', 'me', 'te', 'nos', 'os']  ### vosotros? 
         clitics = []
 
         for sent in self.sentences:
@@ -457,7 +460,7 @@ class WordFeatures:
 
         return [len(clitics)]
 
-    def getNullSubjets(self):  ### still very crude
+    def getNullSubjets(self):  ### still very crude, there is a lot of work which could be done to refine this
 
         movement = open('freeling_data_files/spanish_movement_verbs.txt', 'r').readlines()
         a_verbs = open('freeling_data_files/spanish_a_verbs.txt', 'r').readlines()
@@ -502,14 +505,14 @@ class WordFeatures:
                         for l1 in sent:
                             if l1[9] == word_id:
                                 if l1[5] == 'n' or l1[5] == 'p':
-                                    if l1[1] not in doubling_clitics:
+                                    if l1[1] not in doubling_clitics:  ### don't want to give arguments, but we could check also for 'real' prepositions here
                                         num_of_arguments += 1
 
                         for l2 in sent:
                             if l2[0] == word_id:
                                 if l2[0] == 'a':
-                                    if verb not in a_verbs:
-                                        if verb not in movement:
+                                    if verb not in a_verbs:  ### to exclude verbs which take 'a' as a preposition
+                                        if verb not in movement:  ### 'a' could also be preposition in this case
                                             for l3 in sent:
                                                 if l3[9] == l2[0]:
                                                     if l3[5] == 'n' or l3[5] == 'p':
@@ -551,7 +554,7 @@ class WordFeatures:
         return [percentage_pro_drop]
 
 
-class Capturing(list):
+class Capturing(list):  ### this is from some nice person at stack overflow, and redirecs the ParaMorfo printed output
 
     def __enter__(self):
         self._stdout = sys.stdout

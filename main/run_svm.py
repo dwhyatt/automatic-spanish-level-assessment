@@ -19,15 +19,22 @@ scores = []
 
 
 
-def randomSplit():
-    train = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
-    x = 0
-    while x < 3: 
-        i = random.choice(train)
-        train.remove(i)
-        x += 1
+# def randomSplit():
+#     train = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]   ### 15 is the cut-off as some files (native speakers) only have 15 files.  But it would be to somehow use the 
+#                                                     ### extra data in cases where its available.
+#     x = 0
+#     while x < 3: 
+#         i = random.choice(train)
+#         train.remove(i)
+#         x += 1
 
-    return train
+#     return train
+
+# training = []
+# i = 0
+# while i < 10:
+#     training.append(randomSplit())
+
 
 
 lemmas = LemmaFeatures(rootdir)
@@ -42,7 +49,7 @@ training = ['1']
 train = [1]
 #train = [1,2,3,4,5,6,7,8,9,10,11,12]
 
-for fold in training:
+for fold in training:   ##### 'training' here would be 10 iterations of random splits
 
     samples = []
     testing = []
@@ -65,7 +72,7 @@ for fold in training:
 
                 features = []
                 
-                file_id = this_file.split('.')[-8].split('/')[-1]
+                file_id = this_file.split('.')[-8].split('/')[-1]   ### parsed from end so it can be moved
                     
                 
                 text = open(this_file, 'r').readlines()
@@ -76,7 +83,7 @@ for fold in training:
                 words.getCompoundTenses, words.getClitics, words.getNullSubjets, words.getVerbBasics]
 
 
-                for feat in word_features:
+                for feat in word_features:  ### what is returned from each call should be iterable.
                     f = feat()
                     if f:
                         for i in f:
@@ -105,10 +112,10 @@ for fold in training:
             
             elif 'freeling_parsed' in this_file:    
                 
-                file_id = this_file.split('.')[-5].split('/')[1]
+                file_id = this_file.split('.')[-5].split('/')[1]   ### should match file_id from dependencies files
                 print('freeling id', file_id)
                     
-                if file_id not in samples and file_id not in testing:
+                if file_id not in samples and file_id not in testing:   ### this should always match, we might want to add and exception here.
                     print('cant find it')
                     print('file_id', file_id)
 
@@ -134,7 +141,7 @@ for fold in training:
 
     training_classes = []
 
-    for s in samples:
+    for s in samples:   #### this turn the file_ids into the CEF levels so they can be evaluated...
         
         if type(s) == str:
             file_id = s

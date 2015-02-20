@@ -1,6 +1,7 @@
 #!/usr/bin/env python3.4
 # -*- coding: utf-8 -*-
 
+### this is done with the thought of producing descriptive stats for every feature.  Which one appear to be the most informative?
 
 from sklearn import svm as SVM
 import sys
@@ -21,32 +22,6 @@ scores = []  ### do we need this
 
 
 
-def tenFoldValidation():
-
-    train = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
-    possibilities = []
-
-    for L in range(0, len(train)+1):
-        for subset in itertools.combinations(train, L):
-            if (len(subset)) == 12:
-                possibilities.append(subset)
-
-    training_data = random.sample(possibilities, 10)
-
-    return training_data
-
-
-def randomSplit():
-    train = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
-    x = 0
-    while x < 3: 
-        i = random.choice(train)
-        train.remove(i)
-        x += 1
-
-    return train
-
-
 lemmas = LemmaFeatures(rootdir)
 lemma_vector = lemmas.lemma_list
 
@@ -56,7 +31,7 @@ tri_vector = tri.trigram_list
 
 
 training = ['1'] # for only one iteration
-train = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+train = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]  ### 'train' is a poor name here - there is no test data!
 
 for fold in training:
 
