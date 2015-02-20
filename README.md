@@ -22,6 +22,13 @@ To download ParaMorpho, a morphological analyzer for Spanish (and Guarani!):
 http://www.cs.indiana.edu/~gasser/Research/software.html
 
 
-In brief, this code uses a combination of brute-force methods (such as POS-tag trigrams) and linguistically-motivated features (such as percentage of null subjects and agreement errors) to identify the level of Spanish learners.  Mate dependency parses and Freeling constituency parses are both used.  ParaMorfo is used to analyze verb forms, which are the big morphological challenge in Spanish (and morphology is always a big problem for L2 learners!).  The resulting feature-set is used to build a model for scikit's SVM tool, and then tested on held-out data.
+And NLTK for python3:
+
+http://www.nltk.org/install.html
+
+
+In brief, this code uses a combination of brute-force methods (such as POS-tag trigrams) and linguistically-motivated features (such as percentage of null subjects and agreement errors) to identify the level of Spanish learners.  Mate dependency parses and Freeling constituency parses are both used.  ParaMorfo is used to analyze verb forms, which are the big morphological challenge in Spanish (and morphology is always a big problem for L2 learners!).  The resulting feature-set is used to build a model for scikit's SVM tool.
+
+The files 'consituency_features.py', 'dependency_features.py', and 'vector_features.py' have the classes with the methods which get (numerical) data from the data for the feature set.  'test_features.py' and 'run_svm' import and call these classes, with the difference being that 'test_features.py' is mainly to be run to produce descriptive statistics for the four classes (basically beginner, intermediate, advanced, natave) to get a sense of how the features perform, while 'run-svm.py' throws the feature set into the black box of scikit's SVM implementation and then tests performance out on held-out data.
 
 
