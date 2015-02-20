@@ -15,7 +15,7 @@ from vector_features import *
 
 rootdir = sys.argv[1] 
 
-scores = []  ### do we need this
+scores = [] 
 
 
 
@@ -38,7 +38,6 @@ tri = PosTrigrams(rootdir)
 tri_vector = tri.trigram_list
 
 
-
 training = ['1']
 train = [1]
 #train = [1,2,3,4,5,6,7,8,9,10,11,12]
@@ -47,7 +46,7 @@ for fold in training:
 
     samples = []
     testing = []
-    file_number = 1 ### remember to iterate from 1.
+    file_number = 1 
     
     
     for subdir, dirs, files in os.walk(rootdir): 
@@ -74,7 +73,7 @@ for fold in training:
                 words = WordFeatures(text)
 
                 word_features = [words.findAgreementErrors, words.basicCountFeatures, words.getVerbFeatures, words.serEstar, 
-                words.getCompoundTenses, words.getClitics, words.getNullSubjets]
+                words.getCompoundTenses, words.getClitics, words.getNullSubjets, words.getVerbBasics]
 
 
                 for feat in word_features:

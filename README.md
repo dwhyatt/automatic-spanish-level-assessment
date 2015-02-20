@@ -22,6 +22,6 @@ To download ParaMorpho, a morphological analyzer for Spanish (and Guarani!):
 http://www.cs.indiana.edu/~gasser/Research/software.html
 
 
-In brief, this code uses a combination of brute-force methods (such as POS-tag trigrams) and linguistically-motivated features (such as percentage of null subjects) to identify the level of Spanish learners.  Mate dependency parses and Freeling constituency parses are both used.  ParaMorfo is used to analyze verb forms, which are the big morphological challenge in Spanish (and morphology is always a big problem for L2 learners).  The resulting feature-set is used to build a model for scikit's SVM tool, and then tested on held-out data.
+In brief, this code uses a combination of brute-force methods (such as POS-tag trigrams) and linguistically-motivated features (such as percentage of null subjects and agreement erros) to identify the level of Spanish learners.  Mate dependency parses and Freeling constituency parses are both used.  ParaMorfo is used to analyze verb forms, which are the big morphological challenge in Spanish (and morphology is always a big problem for L2 learners).  The resulting feature-set is used to build a model for scikit's SVM tool, and then tested on held-out data.
 
 
