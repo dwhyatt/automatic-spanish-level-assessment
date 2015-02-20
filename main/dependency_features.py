@@ -433,8 +433,8 @@ class WordFeatures:
             t = len(v)
             verb_tokens += t
 
-        for t in self.tam_dict.values():
-            to_return.append(t)
+        #for t in self.tam_dict.values():
+         #   to_return.append(t)
 
         to_return.append(verb_types/verb_tokens)
 
