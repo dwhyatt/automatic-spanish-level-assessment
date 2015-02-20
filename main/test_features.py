@@ -9,7 +9,9 @@ import os
 import random
 import numpy
 import itertools
-from all_splloc_features import *
+from constituency_features import *
+from dependency_features import *
+from vector_features import *
 
 
 
