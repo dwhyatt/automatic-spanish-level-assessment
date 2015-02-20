@@ -158,13 +158,40 @@ for fold in training:
             samples.remove(s)
 
     results = zip(training_classes, samples)
-    for pair in results:
-        print(pair)
+    
 
     A = []
     B = []
     C = []
-    D = []
+    N = []
+
+    for pair in results:
+        label = pair[0]
+        data = pair[1]
+        if label == 'A':
+            A.append(data)
+        elif label == 'B':
+            B.append(data)
+        elif label == 'C':
+            C.append(data)
+        elif label == 'N':
+            N.append(data)
+
+    print('A ', A)
+    print(sum(A)/len(A))
+
+    print('B ', B)
+    print(sum(B)/len(B))
+
+    print('C ', C)
+    print(sum(C)/len(C))
+
+    print('N ', N)
+    print(sum(N)/len(N))
+
+
+
+
         
         
             
