@@ -421,24 +421,15 @@ class WordFeatures:
 
     def getVerbBasics(self):
 
-        to_return = []
-
-        for v in self.subj_dict.values():
-            to_return.append(v)
-
         verb_types = len(self.stem_dict.keys())
-        verb_tokens = 0
-
+        verb_tokens = []
         for v in self.stem_dict.values():
-            t = len(v)
-            verb_tokens += t
+            verb_tokens.append(len(v))
 
-        #for t in self.tam_dict.values():
-         #   to_return.append(t)
-
-        to_return.append(verb_types/verb_tokens)
-
-        return [to_return]
+        verb_tokens = sum(verb_tokens)
+        # print(self.stem_dict.keys())
+        # print(self.stem_dict.values())
+        return [verb_types, verb_tokens, (verb_types/verb_tokens)]
 
     def getClitics(self):
 
