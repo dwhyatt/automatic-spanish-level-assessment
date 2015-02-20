@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L14MJA9"
+      Date="2007-04-16">
+<Participants>
+<participant
+  id="L14"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="MJA"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-APR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Warning">background noise</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:04:22</comment>
+<u who="MJA" uID="u0">
+<freecode>eng: student number fourteen Loch Ness april the sixteenth School Name</freecode>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u1">
+<w>cuando</w>
+<w>quieras</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u2">
+<w>una</w>
+<g><w>familia</w><error/></g>
+<w>eh</w>
+<g><w>van</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>van</w>
+<g><w>a</w><k type="retracing with correction"/></g>
+<w>de</w>
+<w>vacaciones</w>
+<w>en</w>
+<w>Escocia</w>
+<t type="p"/>
+
+<a type="errcoding">famalia = familia .</a>
+</u>
+<u who="L14" uID="u3">
+<w>llegan</w>
+<w>en</w>
+<w>Escocia</w>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>en</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u4">
+<g><w>pintan</w><k type="retracing"/></g>
+<w>pintan</w>
+<w>la</w>
+<w>picturas<f type="neologism"/></w>
+<g><w>de</w><k type="retracing"/></g>
+<w>de</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u5">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u6">
+<w>están</w>
+<w>la</w>
+<g><w>mo<shortening>nstruo</shortening></w><k type="retracing"/></g>
+<w>monstruo</w>
+<w>en</w>
+<w>lago</w>
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u7">
+<w>el</w>
+<w>madre</w>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<w>el</w>
+<w>chico</w>
+<w>ehm</w>
+<w>van</w>
+<w>a</w>
+<w>las</w>
+<w>tiendas</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u8">
+<w>eh</w>
+<w>compra</w>
+<w>las</w>
+<w>faldas</w>
+<w>ehm</w>
+<w>a</w>
+<w>las</w>
+<w>tiendas</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u9">
+<w>ehm</w>
+<w>el</w>
+<w>chico</w>
+<w>y</w>
+<w>la</w>
+<w>chica</w>
+<pause symbolic-length="simple"></pause>
+<w>van</w>
+<w>a</w>
+<w>pintar</w>
+<w>la</w>
+<w>rueda</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u10">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u11">
+<pause symbolic-length="simple"></pause>
+<w>van</w>
+<w>a</w>
+<w>el</w>
+<w>agua</w>
+<w>ehm</w>
+<w>en</w>
+<w>el</w>
+<w>monstruo</w>
+<w>en</w>
+<w>lago</w>
+<w>um</w>
+<w>en</w>
+<pause symbolic-length="simple"></pause>
+<t type="trail off"/>
+
+</u>
+<u who="MJA" uID="u12">
+<w>qué</w>
+<w>le</w>
+<w>dice</w>
+<w>el</w>
+<w>niño</w>
+<t type="q"/>
+
+</u>
+<u who="MJA" uID="u13">
+<w>qué</w>
+<w>dice</w>
+<t type="q"/>
+
+</u>
+<u who="L14" uID="u14">
+<freecode>eng: that the monster is in the water</freecode>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u15">
+<w>mmm</w>
+<t type="p"/>
+
+<a type="comments">Investigator Laughing .</a>
+</u>
+<u who="L14" uID="u16">
+<freecode>eng: I dont know</freecode>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u17">
+<w>bueno</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u18">
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u19">
+<w>eh</w>
+<w>mucha</w>
+<g><w>gente</w><error/></g>
+<w>eh</w>
+<w>van</w>
+<w>al</w>
+<w>lago</w>
+<w>eh</w>
+<w>hacer</w>
+<w>fotos</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">guente = gente</a>
+</u>
+<u who="L14" uID="u20">
+<w>el</w>
+<w>monstruo</w>
+<w>ehm</w>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u21">
+<w>el</w>
+<w>monstruo</w>
+<w>no</w>
+<w>de</w>
+<w>verdad</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L14" uID="u22">
+<w>es</w>
+<w>de</w>
+<g><w>ver<shortening>dad</shortening></w><k type="retracing"/></g>
+<w>verdad</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u23">
+<w>ah</w>
+<t type="p"/>
+
+</u>
+</CHAT>

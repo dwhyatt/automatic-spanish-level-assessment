@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C09MPS10"
+      Date="2009-03-18">
+<Participants>
+<participant
+  id="C09"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">18-MAR-2009</comment>
+<comment type="Location">BS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:07:09</comment>
+<u who="C09" uID="u0">
+<w>Natalia</w>
+<w>era</w>
+<g><w>hacendo<replacement><w>haciendo</w></replacement></w><error/></g>
+<w>dibujo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u1">
+<w>fue</w>
+<w>a</w>
+<w>la</w>
+<w>parque</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u2">
+<w>fue</w>
+<w>en</w>
+<g><w>bici<shortening>cleta</shortening></w><k type="retracing with correction"/></g>
+<w>bicicleta</w>
+<w>con</w>
+<w>un</w>
+<w>amigo</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u3">
+<g><w>su<shortening>bió</shortening></w><k type="retracing"/></g>
+<w>subió</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>cualquier</w>
+<w>cosa</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u4">
+<w>Pancho</w>
+<w>durmió</w>
+<w>en</w>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<w>cesta</w>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u5">
+<w>durmió</w>
+<g><w>el</w>
+<w>son<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>sol</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u6">
+<freecode>eng: oh I see</freecode>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u7">
+<g><w>fue</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>fue</w>
+<w>salir</w>
+<w>el</w>
+<w>puerta</w>
+<w>del</w>
+<w>gato</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u8">
+<g><w>es<shortening>caló</shortening></w><k type="retracing"/></g>
+<w>escaló</w>
+<w>el</w>
+<w>arbuelo<f type="neologism"/></w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u9">
+<g><w>juegue</w><k type="retracing"/></g>
+<w>juegue</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u10">
+<w>vio</w>
+<w>un</w>
+<w>mariposa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u11">
+<w>durmió</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u12">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<g><w>cincuenta</w><k type="retracing with correction"/></g>
+<w>tres</w>
+<w>Natalia</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C09" uID="u13">
+<w xml:lang="v">stroke</w>
+<t type="q"/>
+
+</u>
+<u who="MPS" uID="u14">
+<w>acariciar</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u15">
+<linker type="self completion"/>
+<w>acariciar<f type="generic"/></w>
+<w>el</w>
+<w>gato</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u16">
+<w>fue</w>
+<w>al</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u17">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>fue</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>salí</w><k type="retracing with correction"/></g>
+<g><w>salía</w><k type="retracing with correction"/></g>
+<w>no</w>
+<g><w>sal<shortening>ió</shortening></w><k type="retracing"/></g>
+<w>salió</w>
+<w>el</w>
+<w>puerte<f type="neologism"/></w>
+<g><w>y</w><k type="retracing"/></g>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u18">
+<w>un</w>
+<g><w>pajenero<f type="neologism"/></w><k type="retracing with correction"/></g>
+<g><w>pajanero<f type="neologism"/></w><k type="best guess"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="MPS" uID="u19">
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u20">
+<linker type="self completion"/>
+<g><w>pájaro<f type="generic"/></w><k type="retracing with correction"/></g>
+<w>juega</w>
+<w>con</w>
+<w>el</w>
+<w>pájaro</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u21">
+<w>ahora</w>
+<w>el</w>
+<w>ratón</w>
+<w>en</w>
+<w>el</w>
+<w>basura</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u22">
+<w>encontrar</w>
+<w>un</w>
+<w>perro</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u23">
+<g><w>corre</w><k type="retracing"/></g>
+<freecode>eng: he ran</freecode>
+<g><w>corre</w><k type="retracing with correction"/></g>
+<w>corrió</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u24">
+<w>Nati</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>quincenta<f type="neologism"/></w>
+<w>donde</w>
+<w>el</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u25">
+<w>vio</w>
+<w>para</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u26">
+<w>vio</w>
+<w>en</w>
+<w>el</w>
+<w>cesta</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>el</w>
+<w>sofá</w>
+<t type="interruption"/>
+
+</u>
+<u who="MPS" uID="u27">
+<w>sofá</w>
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u28">
+<linker type="self completion"/>
+<w>y</w>
+<w>en</w>
+<w>el</w>
+<w>arbuelo<f type="neologism"/></w>
+<w>y</w>
+<t type="interruption"/>
+
+</u>
+<u who="C09" uID="u29">
+<w>oh</w>
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u30">
+<linker type="self completion"/>
+<g><w>busca</w><k type="retracing with correction"/></g>
+<w>buscó</w>
+<w>en</w>
+<w>el</w>
+<w>arbuelo<f type="neologism"/></w>
+<w>y</w>
+<t type="p"/>
+
+<a type="comments">[laugh]</a>
+</u>
+<u who="C09" uID="u31">
+<w>pide</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>rana</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u32">
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<w>no</w>
+<w>sé</w>
+<w>dónde</w>
+<w>Pancho</w>
+<w>era</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u33">
+<g><w>eché</w><k type="retracing with correction"/></g>
+<w>echó</w>
+<w>alimentación</w>
+<w>para</w>
+<w>el</w>
+<w>gato</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u34">
+<w>no</w>
+<w>sé</w>
+<w>dónde</w>
+<w>es</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u35">
+<w>Pancho</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>es</w>
+<w>buscando</w>
+<w>para</w>
+<w>Nati</w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="interruption"/>
+
+</u>
+<u who="MPS" uID="u36">
+<w>pensar</w>
+<t type="q"/>
+
+</u>
+<u who="C09" uID="u37">
+<w>oh</w>
+<t type="p"/>
+
+</u>
+<u who="MPS" uID="u38">
+<w>Pancho</w>
+<w>pensar</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u39">
+<w>sí</w>
+<w>con</w>
+<w>xx</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u40">
+<linker type="self completion"/>
+<w>Pancho</w>
+<w>hace</w>
+<g><w>llueva</w><k type="retracing with correction"/></g>
+<w>llueve</w>
+<w>y</w>
+<w>así</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u41">
+<w>fue</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<g><w>y</w><k type="retracing"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="C09" uID="u42">
+<w>oh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u43">
+<linker type="self completion"/>
+<w>era</w>
+<w>el</w>
+<g><w>galet<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>gatero</w>
+<g><w>y</w>
+<w>tu</w><k type="retracing with correction"/></g>
+<w>y</w>
+<w>a</w>
+<w>el</w>
+<w>cesta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u44">
+<w>y</w>
+<w>Natalia</w>
+<w xml:lang="pro">she</w>
+<w>xx</w>
+<t type="interruption"/>
+
+</u>
+<u who="C09" uID="u45">
+<w>oh</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u46">
+<linker type="self completion"/>
+<w>y</w>
+<w>encontró</w>
+<w>Natalia</w>
+<t type="p"/>
+
+</u>
+<u who="C09" uID="u47">
+<w>fin</w>
+<t type="p"/>
+
+</u>
+</CHAT>

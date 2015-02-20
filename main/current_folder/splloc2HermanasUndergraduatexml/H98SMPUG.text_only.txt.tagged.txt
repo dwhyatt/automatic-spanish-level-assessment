@@ -1,0 +1,285 @@
+vale	vmip000
+cuéntame	pt000000
+la	da0000
+historia	nc0s000
+de	sp000
+las	da0000
+hermanas	nc0p000
+.	fp
+
+en	sp000
+el	da0000
+verano	nc0s000
+de	sp000
+dos	dn0000
+mil	dn0000
+seis	dn0000
+las	da0000
+hermanas	nc0p000
+Sarah	np00000
+y	cc
+Gwen	np00000
+um	np00000
+fueron	vsis000
+a	sp000
+España	np00000
+de	sp000
+vacaciones	nc0p000
+.	fp
+
+primero	rg
+fueron	vsis000
+a	sp000
+Madrid	np00000
+para	sp000
+visitar	vmn0000
+la	da0000
+ciudad	nc0s000
+y	cc
+um	nc0n000
+cuando	pr000000
+estaban	vmii000
+ahí	rg
+comieron	vmis000
+comieron	vmis000
+tapas	nc0p000
+y	cc
+.	fp
+
+bebieron	vmis000
+vino	nc0s000
+.	fp
+
+um	nc0n000
+muy	rg
+bien	rg
+.	fp
+
+um	nc0n000
+después	rg
+decidieron	vmis000
+ir	vmn0000
+a	sp000
+Barcelona	np00000
+um	np00000
+.	fp
+
+para	sp000
+llegar	vmn0000
+ahí	rg
+cogieron	vmis000
+el	da0000
+tren	nc0s000
+.	fp
+
+um	nc0n000
+.	fp
+
+y	cc
+ah	vmis000
+durante	sp000
+el	da0000
+viaje	nc0s000
+hablaron	vmis000
+sobre	sp000
+su	dp0000
+niñez	nc0s000
+.	fp
+
+de	sp000
+pequeñas	aq0000
+eran	vsii000
+muy	rg
+diferentes	aq0000
+.	fp
+
+de	sp000
+niña	nc0s000
+cada	di0000
+fin	nc0s000
+de	sp000
+semana	nc0s000
+Gwen	np00000
+leyó	vmis000
+un	di0000
+libro	nc0s000
+.	fp
+
+escribía	vmii000
+un	di0000
+cuento	nc0s000
+o	cc
+.	fp
+
+pintaba	vmii000
+un	di0000
+cuadro	nc0s000
+.	fp
+
+durante	sp000
+la	da0000
+semana	nc0s000
+se	p0000000
+despertaba	vmii000
+temprano	rg
+y	cc
+.	fp
+
+siempre	rg
+terminaba	vmii000
+sus	dp0000
+deberes	nc0p000
+temprano	rg
+también	rg
+.	fp
+
+Sarah	np00000
+era	vsii000
+muy	rg
+diferente	aq0000
+.	fp
+
+los	da0000
+fines	nc0p000
+de	sp000
+semana	nc0s000
+um	np00000
+le	pp000000
+gustaba	vmii000
+jugar	vmn0000
+al	aq0000
+fútbol	nc0s000
+y	cc
+ver	vmn0000
+películas	nc0p000
+y	cc
+.	fp
+
+durante	sp000
+la	da0000
+semana	nc0s000
+em	nc0s000
+iba	vmii000
+al	np00000
+colegio	nc0s000
+en	sp000
+bicicleta	nc0s000
+y	cc
+.	fp
+
+siempre	rg
+llegaba	vmii000
+tarde	rg
+a	sp000
+clase	nc0s000
+.	fp
+
+um	pp000000
+hacía	vmii000
+sus	dp0000
+deberes	nc0p000
+por	sp000
+la	da0000
+noche	nc0s000
+y	cc
+.	fp
+
+um	pp000000
+como	cs
+consecuencia	nc0s000
+se	p0000000
+acostaba	vmii000
+muy	rg
+tarde	rg
+.	fp
+
+um	nc0n000
+muy	rg
+bien	rg
+.	fp
+
+um	nc0n000
+de	sp000
+repente	nc0s000
+en	sp000
+el	da0000
+tren	nc0s000
+hubo	vais000
+un	di0000
+gran	aq0000
+revuelo	nc0s000
+.	fp
+
+eh	vmis000
+las	da0000
+chicas	nc0p000
+eh	np00000
+creían	vmii000
+que	cs
+había	vaii000
+xx	nc0n000
+que	pr000000
+había	vaii000
+un	di0000
+problema	nc0s000
+.	fp
+
+um	nc0n000
+.	fp
+
+Gwen	np00000
+sentía	vmii000
+agua	nc0s000
+de	sp000
+de	sp000
+lluvia	nc0s000
+um	pp000000
+.	fp
+
+necesitaban	vmii000
+la	da0000
+ayuda	nc0s000
+del	sp000
+revisor	nc0s000
+um	pp000000
+.	fp
+
+quien	pr000000
+les	pp000000
+ayudó	vmis000
+a	sp000
+cambiarse	vmn0000
+de	sp000
+asiento	nc0s000
+.	fp
+
+um	nc0n000
+.	fp
+
+y	cc
+después	rg
+podían	vmii000
+tranquilizarse	vmn0000
+.	fp
+
+um	nc0n000
+.	fp
+
+al	vmip000
+final	nc0s000
+en	sp000
+Barcelona	np00000
+comieron	vmis000
+una	di0000
+pizza	nc0s000
+y	cc
+.	fp
+
+se	p0000000
+rió	vmis000
+al	nc0n000
+recordar	vmn0000
+el	da0000
+viaje	nc0s000
+.	fp
+

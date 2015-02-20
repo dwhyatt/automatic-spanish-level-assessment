@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L08COG9"
+      Date="2007-03-26">
+<Participants>
+<participant
+  id="L08"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-MAR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:06:15</comment>
+<u who="COG" uID="u0">
+<freecode>eng: today is twentysixth of March this is student number eight and this is the Loch Ness task</freecode>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u1">
+<w>ehm</w>
+<w>en</w>
+<w>el</w>
+<w>dibujo</w>
+<w>ehm</w>
+<w>los</w>
+<w>chicos</w>
+<w>están</w>
+<g><w>quedars<shortening>e</shortening></w><k type="retracing"/></g>
+<w>quedar</w>
+<w>ehm</w>
+<w>se</w>
+<w>en</w>
+<w>ehm</w>
+<w xml:lang="d">Scotland</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u2">
+<w>um</w>
+<w>hay</w>
+<w>ehm</w>
+<w>cinco</w>
+<g><w>personas</w><error/></g>
+<w>en</w>
+<w>el</w>
+<w>dibujo</w>
+<t type="p"/>
+
+<a type="errcoding">persones = personas .</a>
+</u>
+<u who="L08" uID="u3">
+<w>ehm</w>
+<g><w>una</w>
+<w>un</w><k type="retracing with correction"/></g>
+<w>está</w>
+<w>un</w>
+<w>madre</w>
+<w>y</w>
+<w>ehm</w>
+<w>tres</w>
+<w>niños</w>
+<w>y</w>
+<g><w>un</w>
+<w>abue<shortening>la</shortening></w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>abuela</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u4">
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>en</w>
+<w>aquí</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>el</w>
+<w>madre</w>
+<w>está</w>
+<w>ehm</w>
+<g><w>lier<replacement><w>leer</w></replacement></w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u5">
+<w>ehm</w>
+<g><w>lo</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>niño</w>
+<w>y</w>
+<g><w>un</w>
+<w>abuel<shortening>a</shortening></w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>abuela</w>
+<w>ehm</w>
+<w>están</w>
+<w>pintar</w>
+<w>ehm</w>
+<w>mmm</w>
+<w>hace</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u6">
+<w>ehm</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>pintan</w>
+<w>ehm</w>
+<w>un</w>
+<w xml:lang="d">monster</w>
+<g><w>se</w><k type="retracing"/></g>
+<w>se</w>
+<w>llama</w>
+<w>ehm</w>
+<w>Loch</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u7">
+<w>ehm</w>
+<w>sí</w>
+<w>ehm</w>
+<g><w>el</w>
+<w>chi<shortening>co</shortening></w><k type="retracing with correction"/></g>
+<g><w>la</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>un</w>
+<w>niño</w>
+<w>ehm</w>
+<w>van</w>
+<w>en</w>
+<w>coche</w>
+<w>al</w>
+<w>ciudad</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u8">
+<w>ehm</w>
+<w>el</w>
+<w>madre</w>
+<w>ehm</w>
+<w>mira</w>
+<w>al</w>
+<w>escaparates</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u9">
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>va</w>
+<g><w>de</w>
+<w>compra</w><k type="retracing with correction"/></g>
+<w>de</w>
+<w>compras</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u10">
+<w>en</w>
+<w>el</w>
+<w>dibujo</w>
+<w>ehm</w>
+<w>aquí</w>
+<w>um</w>
+<w>hay</w>
+<w>cuatro</w>
+<g><w>ruedas</w><error/></g>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">rudeas = ruedas .</a>
+</u>
+<u who="L08" uID="u11">
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>está</w>
+<w>pintar</w>
+<w>de</w>
+<w>las</w>
+<w>ruedas</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u12">
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>niños</w>
+<w>ehm</w>
+<w>están</w>
+<w>en</w>
+<w>el</w>
+<w>baja</w>
+<w>y</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u13">
+<g><w>poner</w><k type="retracing"/></g>
+<g><w>poners<shortening>e</shortening></w><k type="retracing"/></g>
+<w>eh</w>
+<w>ponerse</w>
+<w>eh</w>
+<w>las</w>
+<w>ruedas</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<t type="p"/>
+
+<a type="errcoding">rudeas = ruedas .</a>
+</u>
+<u who="L08" uID="u14">
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>el</w>
+<w>madre</w>
+<w>vuelvo</w>
+<w>a</w>
+<g><w>um</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>um</w>
+<w>vuelvo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u15">
+<w>um</w>
+<w>mira</w>
+<w>los</w>
+<w>ruedas</w>
+<g><w>um</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u16">
+<w>todas</w>
+<w>no</w>
+<w>ehm</w>
+<g><w>muchos</w><k type="retracing with correction"/></g>
+<w>muchas</w>
+<w>periodistas</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>hacen</w>
+<w>fotos</w>
+<w>ehm</w>
+<w>y</w>
+<w>hay</w>
+<w>muchas</w>
+<w>niños</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u17">
+<w>ehm</w>
+<w>los</w>
+<w>niños</w>
+<g><w>van</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>ehm</w>
+<g><w>ven</w><k type="retracing"/></g>
+<w>mmm</w>
+<g><w>v<shortening>en</shortening></w><k type="retracing with correction"/></g>
+<g><w>veo</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>oh</w>
+<w xml:lang="d">shit</w>
+<w>ven</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>los</w>
+<g><w>ruedas</w><error/></g>
+<w>en</w>
+<w>la</w>
+<w>televisión</w>
+<t type="p"/>
+
+<a type="errcoding">rudeas = ruedas .</a>
+</u>
+<u who="L08" uID="u18">
+<w>la</w>
+<w>periodista</w>
+<w>habla</w>
+<w>a</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u19">
+<w>ehm</w>
+<g><w>hablas</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>hab<shortening>la</shortening></w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>los</w>
+<g><w>ruedas</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">rudias = ruedas .</a>
+</u>
+<u who="L08" uID="u20">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="L08" uID="u21">
+<w>ehm</w>
+<w>en</w>
+<w>el</w>
+<w>dibujo</w>
+<w>ehm</w>
+<w>hay</w>
+<w>un</w>
+<w xml:lang="d">monster</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u22">
+<w>muchas</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

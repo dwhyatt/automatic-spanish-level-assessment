@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C67NTV13"
+      Date="2009-06-23">
+<Participants>
+<participant
+  id="C67"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year13"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">23-JUN-2009</comment>
+<comment type="Location">IC</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:07:57</comment>
+<u who="NTV" uID="u0">
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u1">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u2">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u3">
+<w>Natalia</w>
+<w>lee</w>
+<w>un</w>
+<w>libro</w>
+<pause symbolic-length="simple"></pause>
+<w>para</w>
+<pause symbolic-length="simple"></pause>
+<w>su</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u4">
+<w>peluches</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u5">
+<linker type="self completion"/>
+<w>peluches<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u6">
+<w>pintar</w>
+<freecode>eng: to paint</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u7">
+<linker type="self completion"/>
+<w>pintar<f type="generic"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u8">
+<w>no</w>
+<w xml:lang="adv">so</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u9">
+<linker type="self completion"/>
+<g><w>pin<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>pinté</w>
+<w>los</w>
+<w>pictoras<f type="neologism"/></w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u10">
+<g><w>mon<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>monté</w>
+<w>un</w>
+<w>bici</w>
+<w>mini</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u11">
+<w>visité</w>
+<w>los</w>
+<w>parques</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u12">
+<w>Pancho</w>
+<g><w>dorme<replacement><w>duerme</w></replacement></w><error/></g>
+<w>en</w>
+<g><w>su</w><k type="retracing"/></g>
+<w>su</w>
+<w>cama</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u13">
+<w>escalar</w>
+<freecode>eng: to climb</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u14">
+<linker type="self completion"/>
+<pause symbolic-length="simple"></pause>
+<w>escalé</w>
+<w>la</w>
+<g><w>ár<shortening>xx</shortening></w><k type="retracing"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u15">
+<w>árbol</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u16">
+<linker type="self completion"/>
+<w>árbol<f type="generic"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u17">
+<w xml:lang="adv">so</w>
+<w>el</w>
+<w>árbol</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u18">
+<linker type="self completion"/>
+<w>y</w>
+<w>sentiré</w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u19">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u20">
+<linker type="self completion"/>
+<w>sentí</w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u21">
+<w>sentarse</w>
+<freecode>eng: is to sit</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u22">
+<w xml:lang="adv">so</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u23">
+<linker type="self completion"/>
+<g><w>se<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>sentí</w>
+<w>en</w>
+<w>el</w>
+<w>muro</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u24">
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u25">
+<freecode>eng: oh no should I say that</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u26">
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u27">
+<linker type="self completion"/>
+<w>al</w>
+<w>final</w>
+<w>de</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u28">
+<w>Nati</w>
+<w>y</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u29">
+<linker type="self completion"/>
+<w>Natalia</w>
+<w>y</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>encontré</w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u30">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u31">
+<linker type="self completion"/>
+<g><w>encontran<replacement><w>encuentran</w></replacement></w><error/></g>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u32">
+<freecode>eng: what was to walk again</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u33">
+<w>caminar</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u34">
+<linker type="self completion"/>
+<w>caminan</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u35">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<g><w>persigüeren<replacement><w>persiguió</w></replacement></w><error/></g>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u36">
+<freecode>eng: how do you say he</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u37">
+<w>persiguió</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u38">
+<linker type="self completion"/>
+<w>persiguió<f type="generic"/></w>
+<w>un</w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u39">
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u40">
+<linker type="self completion"/>
+<w>pájaro<f type="generic"/></w>
+<w>y</w>
+<w>un</w>
+<w>ratón</w>
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u41">
+<w>un</w>
+<w>perro</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u42">
+<freecode>eng: how do you say massive</freecode>
+<t type="q"/>
+
+</u>
+<u who="C67" uID="u43">
+<w>masivo</w>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u44">
+<w>feroz</w>
+<w>grande</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u45">
+<linker type="self completion"/>
+<w>grande<f type="generic"/></w>
+<w>y</w>
+<w>Pancho</w>
+<w>salir</w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u46">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u47">
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u48">
+<linker type="self completion"/>
+<w>salir</w>
+<w>corriendo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u49">
+<w>Nati</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>quince</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u50">
+<freecode>eng: she didn't know right</freecode>
+<t type="q"/>
+
+</u>
+<u who="C67" uID="u51">
+<freecode>eng: yeah something like that</freecode>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u52">
+<w>saber</w>
+<freecode>eng: is to know</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u53">
+<linker type="self completion"/>
+<g><w>no</w>
+<w>saber</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>sabe</w>
+<w>dónde</w>
+<w>el</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u54">
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u55">
+<linker type="self completion"/>
+<w>entonces<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<w>busqué</w>
+<w>Pancho</w>
+<w>en</w>
+<w>la</w>
+<w>gardenaría<f type="neologism"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u56">
+<w>el</w>
+<w>jardín</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u57">
+<linker type="self completion"/>
+<w>el<f type="generic"/></w>
+<w>jardín<f type="generic"/></w>
+<w>en</w>
+<w>su</w>
+<w>cama</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u58">
+<freecode>eng: what's behind</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u59">
+<w>detrás</w>
+<w>de</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u60">
+<linker type="self completion"/>
+<w>detrá<shortening>s</shortening></w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u61">
+<w>detrás</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u62">
+<linker type="self completion"/>
+<w>detrás<f type="generic"/></w>
+<w>de<f type="generic"/></w>
+<g><w>el</w>
+<w>sofá</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>sofá</w>
+<w>y</w>
+<w>en</w>
+<w>árbol</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u63">
+<w>preguntar</w>
+<freecode>eng: is to ask</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u64">
+<w>preguntar<f type="generic"/></w>
+<w xml:lang="adv">so</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u65">
+<linker type="self completion"/>
+<w>pregunté</w>
+<w>el</w>
+<w xml:lang="d">frog</w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u66">
+<w>ehm</w>
+<w>una</w>
+<w>rana</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u67">
+<linker type="self completion"/>
+<w>la</w>
+<w>rana<f type="generic"/></w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u68">
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u69">
+<freecode>eng: how do you say thought</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u70">
+<freecode>eng: she thought</freecode>
+<t type="q"/>
+
+</u>
+<u who="C67" uID="u71">
+<w xml:lang="adv">yeah</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u72">
+<w>pensar</w>
+<freecode>eng: is to think</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u73">
+<w xml:lang="adv">so</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u74">
+<linker type="self completion"/>
+<w>piense</w>
+<w>dónde</w>
+<w>es</w>
+<w>Pancho</w>
+<w>entonces</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u75">
+<w>tiré</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u76">
+<w>comida</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u77">
+<linker type="self completion"/>
+<w>comida<f type="generic"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u78">
+<freecode>eng: how do you say everywhere</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u79">
+<w>por</w>
+<w>todos</w>
+<w>lados</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u80">
+<linker type="self completion"/>
+<w>todos<f type="generic"/></w>
+<w>lados<f type="generic"/></w>
+<w>y</w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u81">
+<freecode>eng: what's waited</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u82">
+<w>esperar</w>
+<freecode>eng: is to wait</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u83">
+<w xml:lang="adv">so</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u84">
+<linker type="self completion"/>
+<w>esperé</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u85">
+<w>Pancho</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u86">
+<freecode>eng: what's thought again he thought</freecode>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u87">
+<w>pensar</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u88">
+<w xml:lang="adv">so</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u89">
+<linker type="self completion"/>
+<w>piense</w>
+<w>dónde</w>
+<w>es</w>
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u90">
+<w>piense</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u91">
+<freecode>eng: what's she left</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u92">
+<w>irse</w>
+<freecode>eng: is to leave</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u93">
+<w xml:lang="adv">so</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u94">
+<freecode>eng: it's irregular do you know the past of</freecode>
+<w>ir</w>
+<t type="q"/>
+
+</u>
+<u who="C67" uID="u95">
+<freecode>eng: I can't remember now</freecode>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u96">
+<w>fue</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u97">
+<linker type="self completion"/>
+<w>y</w>
+<w>piense</w>
+<w>fue<f type="generic"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="C67" uID="u98">
+<freecode>eng: does that make sense</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u99">
+<w>ah</w>
+<w>uh</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u100">
+<linker type="self completion"/>
+<w>y</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>busqué</w>
+<w>todo</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u101">
+<w>no</w>
+<g><w>descubr<shortening>xx</shortening></w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u102">
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u103">
+<freecode>eng: I can't say it</freecode>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u104">
+<linker type="self completion"/>
+<g><w>descubre</w><k type="retracing with correction"/></g>
+<g><w>descubré<replacement><w>descubrió</w></replacement></w><error/></g>
+<w>a</w>
+<w>Nati</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u105">
+<w>entré</w>
+<w>a</w>
+<pause symbolic-length="simple"></pause>
+<w>el</w>
+<w>gatero</w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u106">
+<w>ir</w>
+<w>a</w>
+<w>su</w>
+<w>cama</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u107">
+<w>descubre</w>
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C67" uID="u108">
+<w>fin</w>
+<t type="p"/>
+
+</u>
+</CHAT>

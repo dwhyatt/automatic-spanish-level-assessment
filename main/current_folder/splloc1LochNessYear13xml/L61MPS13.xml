@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L61MPS13"
+      Date="2007-03-27">
+<Participants>
+<participant
+  id="L61"
+  role="Participant"
+language="es"
+sex="male"
+group="Year13"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">27-MAR-2007</comment>
+<comment type="Location">BP</comment>
+<comment type="Situation">Story retelling based on a picture book about a family staying by the Loch Ness.</comment>
+<comment type="Transcriber">OLB</comment>
+<comment type="Time Duration">0:03:30</comment>
+<u who="MPS" uID="u0">
+<freecode>eng: twenty seventh of March School Name subject number fifty nine eh Loch Ness</freecode>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u1">
+<w>eh</w>
+<w>en</w>
+<w>la</w>
+<w>historia</w>
+<w>eh</w>
+<w>hay</w>
+<w>una</w>
+<w>familia</w>
+<w>y</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u2">
+<w>de</w>
+<w>vacaciones</w>
+<w>de</w>
+<w>una</w>
+<w>familia</w>
+<w>es</w>
+<w>eh</w>
+<w>en</w>
+<w>una</w>
+<w>casa</w>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u3">
+<w>eh</w>
+<w>es</w>
+<w>cerca</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>lago</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u4">
+<w>la</w>
+<g><w>familia</w><k type="retracing"/></g>
+<w>familia</w>
+<w>eh</w>
+<w>tiene</w>
+<w>eh</w>
+<w>mucho</w>
+<w>divertido</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u5">
+<w>eh</w>
+<w>los</w>
+<w>niños</w>
+<w>pesca</w>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>pinta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u6">
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<g><w>lee</w><k type="retracing"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>lee</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u7">
+<w>eh</w>
+<w>en</w>
+<w>una</w>
+<w>dibujo</w>
+<w>de</w>
+<w>la</w>
+<w>abuela</w>
+<w>es</w>
+<w>una</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u8">
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<w>eh</w>
+<w>viaja</w>
+<w>eh</w>
+<w>a</w>
+<w>la</w>
+<w>ciudad</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u9">
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>sí</w>
+<w xml:lang="pre">in</w>
+<g><w>es<shortening>caparates</shortening></w><k type="retracing"/></g>
+<g><w>escaparates</w><error/></g>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>compran</w>
+<w>eh</w>
+<g><w>ruedos<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>ruedas</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">escabaretes = escaparates</a>
+</u>
+<u who="L61" uID="u10">
+<g><w>los</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>el</w>
+<w>abuela</w>
+<w>eh</w>
+<w>hacen</w>
+<w>una</w>
+<w>monstruo</w>
+<w>eh</w>
+<w>no</w>
+<w>de</w>
+<w>verdad</w>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u11">
+<w>los</w>
+<w>niños</w>
+<w>ayudan</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u12">
+<w>eh</w>
+<w>el</w>
+<w>monstruo</w>
+<w>de</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>es</w>
+<w>en</w>
+<w>el</w>
+<g><w>lago</w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">laga = lago</a>
+</u>
+<u who="L61" uID="u13">
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<w>eh</w>
+<w>vuelven</w>
+<w>y</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u14">
+<w>también</w>
+<w>muchos</w>
+<w>turistas</w>
+<w>y</w>
+<w>periodistas</w>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>vuelven</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u15">
+<w>hacen</w>
+<w>muchos</w>
+<w>fotos</w>
+<w>y</w>
+<w>eh</w>
+<g><w>la</w>
+<w>mon<shortening>struo</shortening></w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>monstruo</w>
+<w>es</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u16">
+<w>sin</w>
+<w>embargo</w>
+<g><w>en</w>
+<w>el</w>
+<w>el</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>el</w>
+<w>fin</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>dicen</w>
+<w>a</w>
+<w>la</w>
+<w>periodista</w>
+<w>eh</w>
+<g><w>lo</w><k type="retracing with correction"/></g>
+<g><w>que</w>
+<w>el</w>
+<w>monstruo</w>
+<w>no</w>
+<w>es</w>
+<w>de</w>
+<w>verdad</w><a type="explanation">r</a></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u17">
+<w>eh</w>
+<w>los</w>
+<w>niños</w>
+<w>eh</w>
+<w>tienen</w>
+<w>mucho</w>
+<w>divertido</w>
+<w>porque</w>
+<g><w>es</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>un</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>xx</w>
+<w>es</w>
+<w>divertido</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L61" uID="u18">
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>fin</w>
+<w>de</w>
+<w>la</w>
+<w>vacaciones</w>
+<w>eh</w>
+<w>los</w>
+<w>niños</w>
+<w>y</w>
+<w>el</w>
+<w>abuela</w>
+<w>eh</w>
+<w>parece</w>
+<w>que</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>verdad</w>
+<w>en</w>
+<g><w>le</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+</CHAT>

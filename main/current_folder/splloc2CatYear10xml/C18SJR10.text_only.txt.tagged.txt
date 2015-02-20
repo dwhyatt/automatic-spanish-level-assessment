@@ -1,0 +1,216 @@
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalie	np00000
+en	sp000
+cama	nc0s000
+y	cc
+.	fp
+
+pinta	nc0s000
+y	cc
+.	fp
+
+construye	vmip000
+un	di0000
+cartón	nc0s000
+casa	nc0s000
+y	cc
+.	fp
+
+sale	vmip000
+un	di0000
+bicicleta	nc0s000
+y	cc
+.	fp
+
+salí	vmis000
+escuela	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+despertarse	vmsi000
+.	fp
+
+salí	vmis000
+un	di0000
+gatero	np00000
+y	cc
+.	fp
+
+escala	nc0s000
+un	di0000
+árbol	nc0s000
+y	cc
+.	fp
+
+perseguir	vmn0000
+un	di0000
+mariposa	aq0000
+y	cc
+.	fp
+
+tome	vmsp000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+de	sp000
+día	nc0s000
+Nati	np00000
+y	cc
+Pancho	np00000
+encontra	np00000
+y	cc
+.	fp
+
+volver	vmn0000
+en	sp000
+casa	nc0s000
+juntos	aq0000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+salí	vmis000
+un	di0000
+gatero	np00000
+y	cc
+.	fp
+
+persigue	vmip000
+un	di0000
+un	dn0000
+paloma	nc0s000
+una	pi000000
+paloma	nc0s000
+y	cc
+.	fp
+
+persigue	vmip000
+un	di0000
+ratón	nc0s000
+pero	cc
+.	fp
+
+un	di0000
+perro	nc0s000
+ladra	vmip000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+sale	vmip000
+corriendo	vmg0000
+y	cc
+.	fp
+
+Nati	np00000
+no	rn
+describe	vmip000
+describir	vmn0000
+Pancho	np00000
+.	fp
+
+buscar	vmn0000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+no	rn
+en	sp000
+la	da0000
+cama	nc0s000
+o	cc
+en	sp000
+la	da0000
+sofá	nc0s000
+.	fp
+
+Nati	np00000
+escala	nc0s000
+un	di0000
+árbol	nc0s000
+y	cc
+.	fp
+
+describir	vmn0000
+un	di0000
+rana	aq0000
+.	fp
+
+qué	pt000000
+hace	vmip000
+.	fp
+
+puedes	vmip000
+decir	vmn0000
+tirar	vmn0000
+Nati	np00000
+tira	nc0s000
+un	di0000
+comida	nc0s000
+.	fp
+
+en	sp000
+la	da0000
+suelo	nc0s000
+.	fp
+
+para	sp000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+no	rn
+Nati	np00000
+.	fp
+
+Pancho	np00000
+volver	vmn0000
+en	sp000
+casa	nc0s000
+.	fp
+
+Pancho	np00000
+un	di0000
+comer	vmn0000
+comida	nc0s000
+.	fp
+
+en	sp000
+la	da0000
+cama	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+Nati	np00000
+en	sp000
+la	da0000
+cama	nc0s000
+.	fp
+
+fin	nc0s000
+.	fp
+
+gracias	nc0p000
+muy	rg
+bien	rg
+.	fp
+
+y	cc
+están	vmip000
+contentos	aq0000
+.	fp
+

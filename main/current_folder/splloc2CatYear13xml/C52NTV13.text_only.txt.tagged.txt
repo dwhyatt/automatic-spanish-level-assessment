@@ -1,0 +1,413 @@
+todo	di0000
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+um	np00000
+es	vsip000
+estaría	vmic000
+leer	vmn0000
+a	sp000
+todos	di0000
+sus	dp0000
+juguetes	nc0p000
+en	sp000
+su	dp0000
+cama	nc0s000
+y	cc
+.	fp
+
+después	rg
+Natalia	np00000
+pinta	vmip000
+mucho	rg
+y	cc
+.	fp
+
+crear	vmn0000
+muchos	di0000
+muchas	pi000000
+cosas	nc0p000
+porque	cs
+era	vsii000
+muy	rg
+artística	aq0000
+.	fp
+
+sí	rg
+y	cc
+.	fp
+
+también	rg
+tenía	vmii000
+un	di0000
+amigo	nc0s000
+con	sp000
+el	da0000
+pelo	nc0s000
+ehm	nc0s000
+pelirrojo	vmis000
+.	fp
+
+y	cc
+.	fp
+
+irían	vmic000
+al	aq0000
+parque	nc0s000
+y	cc
+.	fp
+
+jugaría	vmic000
+con	sp000
+el	da0000
+y	cc
+.	fp
+
+tenía	vmii000
+un	di0000
+gato	nc0s000
+que	pr000000
+se	p0000000
+llama	vmip000
+Pancho	np00000
+y	cc
+.	fp
+
+Pancho	np00000
+a	sp000
+Pancho	np00000
+le	pp000000
+gusta	vmip000
+dormir	vmn0000
+en	sp000
+su	dp0000
+cesta	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+a	sp000
+veces	nc0p000
+saldría	vmic000
+por	sp000
+la	pp000000
+el	da0000
+puerto	nc0s000
+gatero	aq0000
+.	fp
+
+y	cc
+.	fp
+
+una	di0000
+vez	nc0s000
+subir	vmn0000
+subí	nc0s000
+subió	vmis000
+el	da0000
+árbol	nc0s000
+y	cc
+.	fp
+
+a	sp000
+Pancho	np00000
+le	pp000000
+gusta	vmip000
+los	da0000
+mariposas	aq0000
+y	cc
+.	fp
+
+quizás	rg
+persiguiendo	vmg0000
+las	da0000
+mariposas	aq0000
+.	fp
+
+y	cc
+a	sp000
+le	pp000000
+a	sp000
+Pancho	np00000
+le	pp000000
+gusta	vmip000
+el	da0000
+sol	nc0s000
+también	rg
+.	fp
+
+tomar	vmn0000
+el	da0000
+le	pp000000
+gusta	vmip000
+tomar	vmn0000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+a	sp000
+las	da0000
+tres	dn0000
+por	sp000
+la	da0000
+tarde	nc0s000
+Natalia	np00000
+iría	vmic000
+volvería	vmic000
+a	sp000
+casa	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+esperaría	vmic000
+por	sp000
+ella	pp000000
+y	cc
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+um	np00000
+estaba	vmii000
+persiguiendo	vmg0000
+un	di0000
+pájaro	nc0s000
+y	cc
+.	fp
+
+hasta	sp000
+que	cs
+encontré	vmis000
+un	di0000
+ratón	nc0s000
+pero	cc
+.	fp
+
+había	vaii000
+un	di0000
+perro	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+no	rn
+le	pp000000
+gustan	vmip000
+los	da0000
+perros	nc0p000
+.	fp
+
+así	rg
+que	pr000000
+Pancho	np00000
+corrió	vmis000
+muy	rg
+rápido	aq0000
+y	cc
+.	fp
+
+Nati	np00000
+no	rn
+podía	vmii000
+encontrar	vmn0000
+Pancho	np00000
+encontrar	vmn0000
+a	sp000
+Pancho	np00000
+.	fp
+
+encontraba	vmii000
+um	nc0n000
+en	sp000
+el	da0000
+jardín	nc0s000
+pero	cc
+.	fp
+
+Pancho	np00000
+no	rn
+había	vaii000
+allí	rg
+.	fp
+
+encontraba	vmii000
+en	sp000
+el	da0000
+cesta	np00000
+pero	cc
+.	fp
+
+no	rn
+es	vsip000
+no	rn
+estaba	vmii000
+Pancho	np00000
+no	rn
+estaba	vmii000
+allí	rg
+oh	np00000
+.	fp
+
+buscando	vmg0000
+.	fp
+
+y	cc
+um	np00000
+buscaba	vmii000
+um	nc0n000
+de	sp000
+detrás	rg
+.	fp
+
+del	sp000
+sofá	nc0s000
+.	fp
+
+y	cc
+en	sp000
+el	da0000
+árbol	nc0s000
+y	cc
+.	fp
+
+pienso	vmip000
+que	cs
+um	nc0n000
+pidió	vmis000
+a	sp000
+el	da0000
+una	di0000
+rana	nc0s000
+.	fp
+
+la	pp000000
+pero	cc
+.	fp
+
+la	pp000000
+rana	aq0000
+no	rn
+um	np00000
+supe	vmis000
+no	rn
+no	rn
+supe	vmis000
+que	cs
+dónde	rg
+Pancho	np00000
+está	vmip000
+.	fp
+
+Nati	np00000
+um	pp000000
+era	vsii000
+no	rn
+.	fp
+
+estuve	vmis000
+estuvo	vmis000
+muy	rg
+triste	aq0000
+estaba	vmii000
+muy	rg
+triste	aq0000
+.	fp
+
+así	rg
+que	pr000000
+tira	nc0s000
+tiró	vmis000
+la	da0000
+comida	nc0s000
+de	sp000
+Pancho	np00000
+um	np00000
+sobre	sp000
+el	da0000
+suelo	nc0s000
+um	np00000
+y	cc
+.	fp
+
+estaba	vmii000
+esperando	vmg0000
+que	cs
+Pancho	np00000
+comería	vmic000
+la	da0000
+comida	nc0s000
+y	cc
+.	fp
+
+venir	vmn0000
+a	sp000
+volver	vmn0000
+a	sp000
+casa	nc0s000
+um	np00000
+pero	cc
+.	fp
+
+Pancho	np00000
+um	np00000
+estaba	vmii000
+buscando	vmg0000
+por	sp000
+um	np00000
+Nati	np00000
+.	fp
+
+um	nc0n000
+Pancho	np00000
+volvió	vmis000
+a	sp000
+casa	nc0s000
+.	fp
+
+lluvia	nc0s000
+a	sp000
+cántaros	nc0p000
+llovió	vmis000
+a	sp000
+cántaros	nc0p000
+y	cc
+.	fp
+
+era	vsii000
+estaba	vmii000
+muy	rg
+triste	aq0000
+también	rg
+pero	cc
+.	fp
+
+fue	vsis000
+porque	cs
+Pancho	np00000
+y	cc
+Nati	np00000
+um	np00000
+encontraron	vmis000
+ellos	pp000000
+mismos	pi000000
+fin	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+

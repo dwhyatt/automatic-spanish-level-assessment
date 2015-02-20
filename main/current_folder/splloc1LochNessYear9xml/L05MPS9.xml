@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L05MPS9"
+      Date="2007-03-26">
+<Participants>
+<participant
+  id="L05"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-MAR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Warning">severe back ground noise unexpected noises</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:05:45</comment>
+<u who="MPS" uID="u0">
+<freecode>eng: student number five Loch Ness School Name and today is the sixteenth of April</freecode>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u1">
+<w>ehm</w>
+<w>la</w>
+<w>familia</w>
+<w>eh</w>
+<w>es</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>eh</w>
+<w>en</w>
+<w>la</w>
+<w>casa</w>
+<w>al</w>
+<w>lado</w>
+<g><w>de</w>
+<w>l<shortening>a</shortening></w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>del</w>
+<w>agua</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u2">
+<w>eh</w>
+<w>la</w>
+<w>madre</w>
+<w>ehm</w>
+<w>el</w>
+<w>libro</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u3">
+<g><w>eh</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>las</w>
+<g><w>person<shortening>as</shortening></w><error/><k type="retracing"/></g>
+<w>personas</w>
+<t type="trail off"/>
+
+<a type="errcoding">persanas = personas .</a>
+</u>
+<u who="L05" uID="u4">
+<w>pequeño</w>
+<w>eh</w>
+<w>es</w>
+<w>dibujo</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u5">
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>la</w>
+<w>madre</w>
+<g><w>es</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>bebo</w>
+<w>la</w>
+<w>café</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u6">
+<w>eh</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>chica</w>
+<w>eh</w>
+<w>dibujo</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u7">
+<w>es</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u8">
+<w>ehm</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>la</w>
+<w>personas</w>
+<w>pequeños</w>
+<w>ehm</w>
+<w>ir</w>
+<w>de</w>
+<w>compras</w>
+<w>eh</w>
+<w>en</w>
+<w>la</w>
+<w>coche</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u9">
+<w>la</w>
+<w>madre</w>
+<w>eh</w>
+<w>comprar</w>
+<w>las</w>
+<w>faldas</w>
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>centro</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u10">
+<w>las</w>
+<w>personas</w>
+<w>pequeños</w>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>el</w>
+<w>dibujo</w>
+<w>en</w>
+<w>eh</w>
+<w>cuatro</w>
+<w>ruedas</w>
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u11">
+<g><w>las</w>
+<w>personas</w><k type="retracing with correction"/></g>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>las</w>
+<w>personas</w>
+<w>eh</w>
+<w>ver</w>
+<w>ehm</w>
+<w>la</w>
+<w>monstruo</w>
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u12">
+<w>la</w>
+<w>madre</w>
+<w>eh</w>
+<w>ver</w>
+<w>la</w>
+<w>monstruo</w>
+<w>con</w>
+<w>las</w>
+<w>personas</w>
+<w>ehm</w>
+<w>pequeños</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u13">
+<w>periodistas</w>
+<w>eh</w>
+<w>hacer</w>
+<w>fotos</w>
+<w>eh</w>
+<w>el</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u14">
+<w>las</w>
+<w>personas</w>
+<w>eh</w>
+<w>pequeñas</w>
+<g><w>y</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>via<f type="neologism"/></w>
+<w>de</w>
+<w>la</w>
+<w>televisión</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u15">
+<w>las</w>
+<w>periodistas</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>ver</w>
+<w>la</w>
+<w>monstruo</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u16">
+<w>la</w>
+<w>personas</w>
+<w>es</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>xx</w>
+<w>ehm</w>
+<w>xx</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u17">
+<w>la</w>
+<w>monstruo</w>
+<w>eh</w>
+<g><w>el</w>
+<w>lado</w>
+<w>de</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>casa</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L05" uID="u18">
+<w>ya</w>
+<w>está</w>
+<t type="p"/>
+
+</u>
+<u who="MPS" uID="u19">
+<w>ya</w>
+<w>está</w>
+<t type="q"/>
+
+</u>
+</CHAT>

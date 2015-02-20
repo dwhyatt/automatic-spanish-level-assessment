@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Font="Win95:Courier:-13:0"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L11MJA9"
+      Date="2007-04-16">
+<Participants>
+<participant
+  id="L11"
+  role="Participant"
+language="es"
+sex="male"
+group="Year9"
+
+/>
+<participant
+  id="MJA"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-APR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:05:49</comment>
+<u who="MJA" uID="u0">
+<freecode>eng: so student number eleven Loch Ness April the sixteenth School Name</freecode>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u1">
+<w>cuando</w>
+<w>quieras</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u2">
+<w>eh</w>
+<w>uno</w>
+<w>familia</w>
+<w>eh</w>
+<w>van</w>
+<w>a</w>
+<w>ir</w>
+<w>a</w>
+<w>Escocia</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u3">
+<w>en</w>
+<g><w>el</w>
+<w>famil<shortening>ia</shortening></w><k type="retracing"/></g>
+<w>el</w>
+<w>familia</w>
+<w>hay</w>
+<w>un</w>
+<w>madre</w>
+<w>eh</w>
+<w>tres</w>
+<w>niñas</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>y</w>
+<w>un</w>
+<w>lago</w>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>oh</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u4">
+<w>una</w>
+<w>persona</w>
+<w>eh</w>
+<w>pinta</w>
+<w>un</w>
+<g><w>dibujo</w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">dibiujo = dibujo .</a>
+</u>
+<u who="L11" uID="u5">
+<w>también</w>
+<g><w>el</w>
+<w>abuela</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>es</w>
+<w>pintar</w>
+<w>un</w>
+<g><w>dibujo</w><error/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<w>oh</w>
+<t type="p"/>
+
+<a type="errcoding">dibiujo = dibujo .</a>
+</u>
+<u who="L11" uID="u6">
+<w>están</w>
+<w>al</w>
+<w>lado</w>
+<w>de</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u7">
+<w>eh</w>
+<w>el</w>
+<g><w>dibujo</w><error/></g>
+<g><w>es</w>
+<w>un</w>
+<w>monstruo</w><k type="retracing"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>es</w>
+<w>un</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u8">
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>la</w>
+<w>abuelo</w>
+<w>eh</w>
+<w>pinta</w>
+<w>este</w>
+<w>dibujo</w>
+<t type="p"/>
+
+<a type="errcoding">dibiujo = dibujo .</a>
+</u>
+<u who="L11" uID="u9">
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<w>va</w>
+<g><w>a</w>
+<w>las</w>
+<w>tienda</w>
+<w>tiendas</w>
+<w>eh</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>a</w>
+<w>las</w>
+<w>tiendas</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u10">
+<w>es</w>
+<w>con</w>
+<w>un</w>
+<w>niño</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u11">
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>tienes</w>
+<w>ruedas</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>pintar</w>
+<w>eh</w>
+<g><w>los</w><k type="retracing with correction"/></g>
+<w>las</w>
+<w>ruedas</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u12">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u13">
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>niñas</w>
+<g><w>s<shortening>on</shortening></w><k type="retracing with correction"/></g>
+<w>están</w>
+<w>en</w>
+<w>un</w>
+<w>barco</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u14">
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>es</w>
+<w>pote<f type="neologism"/></w>
+<freecode>eng: what is there put</freecode>
+<t type="q"/>
+
+</u>
+<u who="MJA" uID="u15">
+<g><w>el</w>
+<w xml:lang="d">boat</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>bote</w>
+<w>sí</w>
+<w>una</w>
+<w>barca</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u16">
+<freecode>eng: put put I dont know eh I will go onto the next one</freecode>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u17">
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<w>eh</w>
+<g><w>va<replacement><w>ve</w></replacement></w><error/></g>
+<w>el</w>
+<w>monstruo</w>
+<w>en</w>
+<w>lago</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u18">
+<g><w>muchos</w>
+<w>personas</w>
+<w>ven</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>mucha</w>
+<g><w>gente</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>ven</w>
+<w>eh</w>
+<freecode>eng: I don't know</freecode>
+<w>el</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">yente = gente .</a>
+</u>
+<u who="L11" uID="u19">
+<w>está</w>
+<w>en</w>
+<w>el</w>
+<w>tele</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u20">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u21">
+<g><w>perio<shortening>dista</shortening></w>
+<w>u<shortening>n</shortening></w><k type="retracing with correction"/></g>
+<w>un</w>
+<g><w>periodista</w><error/></g>
+<w>eh</w>
+<w>habla</w>
+<w>con</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">periodisto = periodista .</a>
+</u>
+<u who="L11" uID="u22">
+<w>es</w>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<w>xxx</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L11" uID="u23">
+<w>de</w>
+<w>verdad</w>
+<w>monstruo</w>
+<w>está</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u24">
+<w>mmm</w>
+<w>muchas</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

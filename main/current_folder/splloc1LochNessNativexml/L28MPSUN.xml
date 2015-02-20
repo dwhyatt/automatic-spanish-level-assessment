@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es eng"
+      Corpus="splloc"
+      Id="L28MPSUN"
+      Date="2007-11-29">
+<Participants>
+<participant
+  id="L28"
+  role="Participant"
+language="es"
+sex="female"
+group="Native"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">29-NOV-2007</comment>
+<comment type="Location">UoS</comment>
+<comment type="Situation">Story retelling based on a picture book about a family staying by Loch Ness.</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:02:21</comment>
+<u who="MPS" uID="u0">
+<freecode>eng: subject L28</freecode>
+<t type="p"/>
+
+</u>
+<u who="MPS" uID="u1">
+<freecode>eng: today is the twentyninth of November and this is Loch Ness</freecode>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u2">
+<w>bueno</w>
+<w>pues</w>
+<w>esta</w>
+<w>es</w>
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>una</w>
+<w>familia</w>
+<w>la</w>
+<w>abuela</w>
+<w>los</w>
+<w>nietecitos</w>
+<w>y</w>
+<w>la</w>
+<w>madre</w>
+<w>que</w>
+<w>deciden</w>
+<w>ir</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>Escocia</w>
+<w>al</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u3">
+<w>durante</w>
+<w>sus</w>
+<w>vacaciones</w>
+<w>se</w>
+<w>dedican</w>
+<w>a</w>
+<w>pescar</w>
+<w>a</w>
+<w>pintar</w>
+<w>a</w>
+<w>descansar</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u4">
+<w>uno</w>
+<w>de</w>
+<w>los</w>
+<w>dibujos</w>
+<w>que</w>
+<w>la</w>
+<w>abuela</w>
+<w>hace</w>
+<w>es</w>
+<g><w>del</w>
+<w>Lago</w>
+<w>Ness</w><k type="retracing with correction"/></g>
+<g><w>de</w><k type="retracing with correction"/></g>
+<g><w>huy</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w><k type="retracing with correction"/></g>
+<w>del</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u5">
+<w>a</w>
+<w>los</w>
+<w>niños</w>
+<w>les</w>
+<w>encanta</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>monstruo</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u6">
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<g><w>deciden</w>
+<w>ir</w>
+<w>a</w>
+<w>por</w><k type="retracing with correction"/></g>
+<w>bueno</w>
+<w>se</w>
+<w>van</w>
+<w>a</w>
+<w>comprar</w>
+<w>a</w>
+<w>la</w>
+<w>ciudad</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u7">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>de</w>
+<w>los</w>
+<w>nietos</w>
+<w>se</w>
+<w>quedan</w>
+<g><w>en</w><k type="retracing"/></g>
+<g><w>en</w><k type="retracing"/></g>
+<g><w>en</w><k type="retracing with correction"/></g>
+<w>al</w>
+<w>lado</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u8">
+<w>siguen</w>
+<w>con</w>
+<w>sus</w>
+<w>actividades</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u9">
+<w>mientras</w>
+<w>la</w>
+<w>madre</w>
+<w>está</w>
+<w>de</w>
+<w>compras</w>
+<w>con</w>
+<w>el</w>
+<w>niño</w>
+<w>pequeño</w>
+<w>viendo</w>
+<w>tiendas</w>
+<w>la</w>
+<w>abuela</w>
+<w>decide</w>
+<w>preparar</w>
+<g><w>con</w>
+<w>los</w>
+<w>otros</w>
+<w>dos</w>
+<w>nie<shortening>tos</shortening></w><k type="retracing with correction"/></g>
+<w>con</w>
+<w>sus</w>
+<w>otros</w>
+<w>dos</w>
+<w>nietos</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>eh</w>
+<w>un</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u10">
+<w>esto</w>
+<w>lo</w>
+<w>hace</w>
+<w>con</w>
+<w>pintura</w>
+<w>y</w>
+<w>con</w>
+<w>unas</w>
+<w>ruedas</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u11">
+<w>los</w>
+<w>niños</w>
+<g><w>y</w>
+<w>la</w><k type="retracing"/></g>
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>salen</w>
+<w>en</w>
+<w>una</w>
+<w>barca</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u12">
+<w>colocan</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>eh</w>
+<w>las</w>
+<w>ruedas</w>
+<g><w>y</w><k type="retracing with correction"/></g>
+<w>para</w>
+<w>que</w>
+<w>parezca</w>
+<w>que</w>
+<w>es</w>
+<w>el</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u13">
+<w>cuando</w>
+<w>llegan</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<g><w>de</w><k type="retracing"/></g>
+<w>de</w>
+<w>comprar</w>
+<w>los</w>
+<w>otros</w>
+<w>dos</w>
+<w>hijos</w>
+<w>le</w>
+<w>dicen</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L28" uID="u14">
+<linker type="quoted utterance next"/>
+<w>mira</w>
+<w>mamá</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u15">
+<w>y</w>
+<w>se</w>
+<w>lo</w>
+<w>creen</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u16">
+<g><w>el</w>
+<w>niño</w>
+<w>pue<shortening>s</shortening></w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>niño</w>
+<w>más</w>
+<w>pequeño</w>
+<w>también</w>
+<w>se</w>
+<w>lo</w>
+<w>cree</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u17">
+<w>el</w>
+<w>rumor</w>
+<w>llega</w>
+<w>a</w>
+<w>más</w>
+<w>gente</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u18">
+<w>periodistas</w>
+<w>gente</w>
+<w>con</w>
+<w>cámara</w>
+<w>o</w>
+<w>sea</w>
+<w>un</w>
+<w>montón</w>
+<w>de</w>
+<w>gente</w>
+<w>llega</w>
+<w>al</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u19">
+<w>se</w>
+<w>quedan</w>
+<w>sorprendidos</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u20">
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>la</w>
+<w>familia</w>
+<g><w>viendo</w><k type="retracing with correction"/></g>
+<w>ven</w>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u21">
+<g><w>que</w>
+<w>sale</w>
+<w>el</w>
+<w>Lago</w>
+<w>Ness</w><k type="retracing"/></g>
+<w>o</w>
+<w>sea</w>
+<g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>sale</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u22">
+<g><w>al</w>
+<w>día</w>
+<w>siguiente</w><k type="retracing with correction"/></g>
+<w>bueno</w>
+<w>al</w>
+<w>día</w>
+<w>siguiente</w>
+<w>después</w>
+<w>todo</w>
+<w>se</w>
+<w>vuelve</w>
+<w>a</w>
+<w>llenar</w>
+<w>de</w>
+<w>periodistas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u23">
+<w>la</w>
+<w>abuela</w>
+<w>no</w>
+<w>tiene</w>
+<w>más</w>
+<w>remedio</w>
+<w>que</w>
+<w>confesar</w>
+<w>que</w>
+<w>todo</w>
+<w>ha</w>
+<w>sido</w>
+<w>mentira</w>
+<w>que</w>
+<w>simplemente</w>
+<w>era</w>
+<w>de</w>
+<w>mentira</w>
+<w>el</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u24">
+<w>todos</w>
+<w>se</w>
+<w>vuelven</w>
+<w>a</w>
+<w>su</w>
+<w>casa</w>
+<w>decepcionados</w>
+<w>porque</w>
+<w>no</w>
+<w>ha</w>
+<w>habido</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>o</w>
+<w>sea</w>
+<w>no</w>
+<w>ha</w>
+<w>habido</w>
+<w>monstruo</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u25">
+<w>por</w>
+<w>ahí</w>
+<w>se</w>
+<w>asoma</w>
+<w>el</w>
+<w>monstruo</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="L28" uID="u26">
+<w>claro</w>
+<w>se</w>
+<w>asoma</w>
+<w>ya</w>
+<w>después</w>
+<w>de</w>
+<w>que</w>
+<w>se</w>
+<w>haya</w>
+<w>ido</w>
+<w>todo</w>
+<w>el</w>
+<w>mundo</w>
+<w>y</w>
+<w>nada</w>
+<t type="p"/>
+
+</u>
+</CHAT>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C26NTV10N"
+      Date="2009-04-02">
+<Participants>
+<participant
+  id="C26"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year10N"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">02-APR-2009</comment>
+<comment type="Location">AS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">ART</comment>
+<comment type="Time Duration">00:01:46</comment>
+<u who="NTV" uID="u0">
+<freecode>eng: participant twenty-six cat</freecode>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u1">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u2">
+<w>Natalia</w>
+<w>leía</w>
+<w>cuentos</w>
+<w>a</w>
+<w>sus</w>
+<w>peluches</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u3">
+<w>dibujaba</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u4">
+<w>hacía</w>
+<w>casas</w>
+<w>de</w>
+<w>juguete</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u5">
+<w>montaba</w>
+<w>en</w>
+<w>triciclo</w>
+<w>con</w>
+<w>sus</w>
+<w>amigos</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u6">
+<w>se</w>
+<w>subía</w>
+<w>a</w>
+<w>los</w>
+<w>columpios</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u7">
+<w>y</w>
+<w>Pancho</w>
+<w>descansaba</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u8">
+<w>seguidamente</w>
+<w>salía</w>
+<w>al</w>
+<w>exterior</w>
+<w>a</w>
+<w>jugar</w>
+<w>con</w>
+<w>el</w>
+<w>árbol</w>
+<w>con</w>
+<w>la</w>
+<w>mariposa</w>
+<w>incluso</w>
+<w>a</w>
+<w>tomar</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u9">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>Pancho</w>
+<w>se</w>
+<w>encontraba</w>
+<w>con</w>
+<w>Natalia</w>
+<g><w>en</w><error/><k type="retracing with correction"/></g>
+<w>en</w>
+<w>el</w>
+<w>mismo</w>
+<w>sitio</w>
+<w>todas</w>
+<w>las</w>
+<w>veces</w>
+<t type="p"/>
+
+<a type="errcoding">an = en</a>
+</u>
+<u who="C26" uID="u10">
+<w>y</w>
+<w>volvían</w>
+<w>a</w>
+<w>casa</w>
+<w>juntos</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u11">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salió</w>
+<w>a</w>
+<w>jugar</w>
+<g><w>como</w>
+<w>tod<shortening>os</shortening></w><k type="retracing with correction"/></g>
+<w>como</w>
+<w>siempre</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u12">
+<w>esta</w>
+<w>vez</w>
+<w>se</w>
+<w>encontró</w>
+<g><w>con</w>
+<w>una</w><k type="retracing with correction"/></g>
+<g><w>con</w>
+<w>un</w><k type="retracing"/></g>
+<w>con</w>
+<w>un</w>
+<w>ratoncito</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u13">
+<w>lo</w>
+<w>persiguió</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u14">
+<w>se</w>
+<w>encontró</w>
+<g><w>un</w>
+<w>terrible</w>
+<w>pe<shortening>rro</shortening></w><k type="retracing"/></g>
+<w>un</w>
+<w>terrible</w>
+<w>perro</w>
+<w>que</w>
+<w>asustó</w>
+<w>a</w>
+<w>Panchó</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u15">
+<w>y</w>
+<w>huyó</w>
+<w>corriendo</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u16">
+<w>eh</w>
+<w>a</w>
+<w>la</w>
+<w>misma</w>
+<w>hora</w>
+<w>que</w>
+<w>siempre</w>
+<w>Natalia</w>
+<w>esperaba</w>
+<w>a</w>
+<w>Pancho</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u17">
+<w>no</w>
+<w>aparecía</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u18">
+<w>Natalia</w>
+<w>empezó</w>
+<w>a</w>
+<w>buscarlo</w>
+<w>por</w>
+<w>todas</w>
+<w>partes</w>
+<w>en</w>
+<w>su</w>
+<w>cesta</w>
+<w>de</w>
+<w>dormir</w>
+<w>en</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>debajo</w>
+<w>del</w>
+<w>sofá</w>
+<w>en</w>
+<w>el</w>
+<w>árbol</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u19">
+<g><w>in<shortening>cluso</shortening></w><k type="retracing"/></g>
+<w>incluso</w>
+<w>hablaba</w>
+<w>con</w>
+<w>animales</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u20">
+<w>Natalia</w>
+<g><w>pensaba</w><k type="retracing with correction"/></g>
+<w>estaba</w>
+<w>muy</w>
+<w>preocupada</w>
+<w>por</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u21">
+<w>así</w>
+<w>que</w>
+<w>decidió</w>
+<w>echar</w>
+<w>comida</w>
+<w>para</w>
+<w>ver</w>
+<w>si</w>
+<w>volvía</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u22">
+<w>Pancho</w>
+<w>se</w>
+<w>quedó</w>
+<w>esperando</w>
+<w>a</w>
+<w>Natalia</w>
+<w>esperando</w>
+<w>que</w>
+<w>volviese</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u23">
+<w>y</w>
+<w>él</w>
+<w>pensó</w>
+<w>que</w>
+<w>se</w>
+<w>podía</w>
+<w>haber</w>
+<w>ido</w>
+<g><w>y</w>
+<w>abandond<shortening>ado</shortening></w><k type="retracing with correction"/></g>
+<w>y</w>
+<w>haberlo</w>
+<w>abandonado</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u24">
+<w>Pancho</w>
+<w>volvía</w>
+<w>a</w>
+<w>casa</w>
+<w>muy</w>
+<w>desanimado</w>
+<w>hasta</w>
+<w>que</w>
+<w>empezó</w>
+<w>a</w>
+<w>encontrar</w>
+<w>huellas</w>
+<w>o</w>
+<w>comida</w>
+<w>y</w>
+<w>encontrar</w>
+<w>Natalia</w>
+<w>en</w>
+<w>su</w>
+<w>cesta</w>
+<w>de</w>
+<w>dormir</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u25">
+<w>juntos</w>
+<t type="p"/>
+
+</u>
+<u who="C26" uID="u26">
+<w>y</w>
+<w>finalizaron</w>
+<w>la</w>
+<w>historia</w>
+<t type="p"/>
+
+</u>
+</CHAT>

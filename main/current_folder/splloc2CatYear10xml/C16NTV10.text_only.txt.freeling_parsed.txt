@@ -1,0 +1,1540 @@
+F-term_[
+  +(. . Fp -)
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  sn_[
+    espec-fp_[
+      +grup-complex-spec-fp_[
+        +indef-fp_[
+          +(todas todo DI0FP0 -)
+        ]
+        j-fp_[
+          +(las el DA0FP0 -)
+        ]
+      ]
+    ]
+    +grup-nom-fp_[
+      +n-fp_[
+        +(mañanas mañana NCFP000 -)
+      ]
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(eran ser VSII3P0 -)
+    ]
+  ]
+  s-adj_[
+    +s-a-mp_[
+      +a-mp_[
+        +(iguales igual AQ0CP0 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Natalia natalia NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(leí leer VMIS1S0 -)
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +indef-ms_[
+        +(un uno DI0MS0 -)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(libro libro NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(pintar pintar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  espec-ms_[
+    +indef-ms_[
+      +(un uno DI0MS0 -)
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(cuadro cuadro NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(construí construir VMIS1S0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  espec-ms_[
+    +indef-ms_[
+      +(un uno DI0MS0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(casa casa NCFS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  grup-verb_[
+    +verb_[
+      +(jugué jugar VMIS1S0 -)
+    ]
+  ]
+  prep_[
+    +(con con SPS00 -)
+  ]
+  espec-ms_[
+    +indef-ms_[
+      +(un uno DI0MS0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(bicicleta bicicleta NCFS000 -)
+      ]
+      n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(mm milímetro NCMN000 -)
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(oh oh I -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  grup-verb_[
+    +verb_[
+      +(jugué jugar VMIS1S0 -)
+    ]
+  ]
+  prep_[
+    +(con con SPS00 -)
+  ]
+  espec-fp_[
+    +j-fp_[
+      +(las el DA0FP0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-mp_[
+      +n-mp_[
+        +(juguetes juguete NCMP000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-mp_[
+      +n-mp_[
+        +(juguetes juguete NCMP000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sadv_[
+    +(muy muy RG -)
+  ]
+  sadv_[
+    +(bien bien RG -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(dormir dormir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  coord_[
+    +(o o CC -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb_[
+    +verb_[
+      +(dormí dormir VMIS1S0 -)
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(salir salir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(salir salir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SPS00 -)
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(mmm mmm NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  s-adj_[
+    +s-a-ms_[
+      +a-ms_[
+        +(gatero gatero AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(escalar escalar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SPS00 -)
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(árbol árbol NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  grup-verb_[
+    +verb_[
+      +(perseguí perseguir VMIS1S0 -)
+    ]
+  ]
+  espec-ms_[
+    +indef-ms_[
+      +(un uno DI0MS0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(mariposa mariposa NCFS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  coord_[
+    +(y y CC -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(dormir dormir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(en en SPS00 -)
+    ]
+    sn_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0 -)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(sol sol NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(tomar tomar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(sol sol NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  prep_[
+    +(a a SPS00 -)
+  ]
+  espec-ms_[
+    +j-ms_[
+      +(el el DA0MS0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(final final NCFS000 -)
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SPS00 -)
+    sn_[
+      espec-ms_[
+        +j-ms_[
+          +(el el DA0MS0 -)
+        ]
+      ]
+      +grup-nom-ms_[
+        +n-ms_[
+          +(día día NCMS000 -)
+        ]
+        n-ms_[
+          +(um um NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(mmm mmm NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(encontrar encontrar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb_[
+    +verb_[
+      +(volví volver VMIS1S0 -)
+    ]
+  ]
+  sp-de_[
+    +(de de SPS00 -)
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(casa casa NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sadv_[
+    +(muy muy RG -)
+  ]
+  sadv_[
+    +(bien bien RG -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  prep_[
+    +(hasta hasta SPS00 -)
+  ]
+  conj-subord_[
+    +(que que CS -)
+  ]
+  sn_[
+    espec-ms_[
+      +indef-ms_[
+        +(un uno DI0MS0 -)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(día día NCMS000 -)
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(salir salir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(de de SPS00 -)
+    ]
+    s-a-ms_[
+      +a-ms_[
+        +(gatero gatero AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(gato gato NCMS000 -)
+      ]
+      n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(perseguir perseguir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +indef-ms_[
+        +(un uno DI0MS0 -)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      n-ms_[
+        +(pájaro pájaro NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  neg_[
+    +(no no RN -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  interjeccio_[
+    +(ah ah I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(descubrir descubrir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +indef-ms_[
+        +(un uno DI0MS0 -)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(ratón ratón NCMS000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  neg_[
+    +(no no RN -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  s-adj_[
+    +s-a-ms_[
+      +a-ms_[
+        +(Pancho pancho AQ0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(asustar asustar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +indef-ms_[
+        +(un uno DI0MS0 -)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(perro perro NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(salir salir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  forma-ger_[
+    +(corriendo correr VMG0000 -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  coord_[
+    +(y y CC -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(buscar buscar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(buscar buscar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(por por SPS00 -)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(um um NCMS000 -)
+        ]
+        w-ms_[
+          +(Pancho pancho NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  prep_[
+    +(en en SPS00 -)
+  ]
+  espec-ms_[
+    +j-ms_[
+      +(el el DA0MS0 -)
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    espec-fs_[
+      +j-fs_[
+        +(la el DA0FS0 -)
+      ]
+    ]
+    +grup-nom-fs_[
+      +n-fs_[
+        +(cesta cesta NCFS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  coord_[
+    +(y y CC -)
+  ]
+  interjeccio_[
+    +(um um I -)
+  ]
+  sadv_[
+    +(detrás detrás RG -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-sp_[
+    +prep_[
+      +(detrás_de detrás_de SPS00 -)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(sofá sofá NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(sofá sofá NCMS000 -)
+      ]
+      n-ms_[
+        +(um um NCMS000 -)
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(preguntar preguntar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(preguntar preguntar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  espec-ms_[
+    +indef-ms_[
+      +(un uno DI0MS0 -)
+    ]
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(rana rana NCFS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  neg_[
+    +(no no RN -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  s-adj_[
+    +s-a-ms_[
+      +a-ms_[
+        +(triste triste AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(es ser VSIP3S0 -)
+    ]
+  ]
+  s-adj_[
+    +s-a-ms_[
+      +a-ms_[
+        +(triste triste AQ0CS0 -)
+      ]
+    ]
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  conj-subord_[
+    +(porque porque CS -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  neg_[
+    +(no no RN -)
+  ]
+  grup-verb_[
+    +verb_[
+      +(es ser VSIP3S0 -)
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(descubrí descubrir VMIS1S0 -)
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(um um NCMS000 -)
+      ]
+      n-ms_[
+        +(mmm mmm NCMS000 -)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(buscar buscar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(pensar pensar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(pensar pensar VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+F-term_[
+  +(. . Fp -)
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb_[
+    +verb_[
+      +(es ser VSIP3S0 -)
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(salir salir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  forma-ger_[
+    +(corriendo correr VMG0000 -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  interjeccio_[
+    +(um um I -)
+  ]
+  interjeccio_[
+    +(euh euh I -)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Pancho pancho NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(volver volver VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SPS00 -)
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(casa casa NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  coord_[
+    +(y y CC -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(descubrir descubrir VMN0000 -)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Nati nati NP00000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sadv_[
+    +(muy muy RG -)
+  ]
+  sadv_[
+    +(bien bien RG -)
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+
+S_[
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(fin fin NCMS000 -)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp -)
+  ]
+]
+
+

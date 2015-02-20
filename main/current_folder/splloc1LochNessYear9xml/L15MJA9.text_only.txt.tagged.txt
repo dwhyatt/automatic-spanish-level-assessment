@@ -1,0 +1,67 @@
+.	fp
+
+ehm	nc0s000
+un	di0000
+eh	nc0s000
+de	sp000
+vacaciones	nc0p000
+ehm	nc0s000
+en	sp000
+Loch	np00000
+Ness	np00000
+ehm	nc0s000
+.	fp
+
+pinta	nc0s000
+en	sp000
+Loch	np00000
+Ness	np00000
+ehm	nc0s000
+.	fp
+
+eh	vmis000
+pinta	aq0000
+en	sp000
+un	di0000
+monstruo	nc0s000
+ehm	nc0s000
+y	cc
+.	fp
+
+tiendas	nc0p000
+.	fp
+
+ehm	nc0s000
+eh	np00000
+pinta	aq0000
+en	sp000
+rueda	nc0s000
+en	sp000
+ehm	dn0000
+monstruo	nc0s000
+.	fp
+
+ehm	nc0s000
+mucha	di0000
+gente	nc0s000
+hace	vmip000
+fotos	nc0p000
+ehm	nc0s000
+.	fp
+
+en	sp000
+televisión	nc0s000
+eh	np00000
+periodista	nc0s000
+hace	vmip000
+fotos	nc0p000
+en	sp000
+monstruo	nc0s000
+.	fp
+
+ya	rg
+.	fp
+
+gracias	nc0p000
+.	fp
+

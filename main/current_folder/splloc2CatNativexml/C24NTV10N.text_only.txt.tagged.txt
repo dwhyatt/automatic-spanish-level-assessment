@@ -1,0 +1,317 @@
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+leía	vmii000
+cuentos	dt0000
+a	sp000
+sus	dp0000
+peluches	nc0p000
+.	fp
+
+pintaba	vmii000
+cuadros	nc0p000
+.	fp
+
+construía	vmii000
+una	di0000
+casa	nc0s000
+para	sp000
+sus	dp0000
+muñecas	nc0p000
+y	cc
+.	fp
+
+jugaba	vmii000
+con	sp000
+su	dp0000
+amigo	nc0s000
+Oscar	np00000
+a	sp000
+montar	vmn0000
+en	sp000
+bicicleta	nc0s000
+.	fp
+
+luego	rg
+se	p0000000
+columpiaba	vmii000
+en	sp000
+su	dp0000
+columpio	nc0s000
+.	fp
+
+Pancho	np00000
+dormía	vmii000
+en	sp000
+su	dp0000
+sofá	nc0s000
+.	fp
+
+salía	vmii000
+a	sp000
+las	da0000
+calles	nc0p000
+.	fp
+
+trepaba	vmii000
+por	sp000
+un	di0000
+árbol	nc0s000
+.	fp
+
+cazaba	vmii000
+mariposas	aq0000
+y	cc
+.	fp
+
+se	p0000000
+ponía	vmii000
+a	sp000
+tomar	vmn0000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+cuando	pr000000
+Natalia	np00000
+.	fp
+
+volvía	vmii000
+del	sp000
+colegio	nc0s000
+acariciaba	vmii000
+Pancho	np00000
+que	cs
+la	da0000
+estaba	vmii000
+esperando	vmg0000
+en	sp000
+la	da0000
+calle	nc0s000
+para	sp000
+volver	vmn0000
+juntos	aq0000
+a	sp000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+salió	vmis000
+a	sp000
+buscar	vmn0000
+un	di0000
+pájaro	nc0s000
+.	fp
+
+luego	rg
+se	p0000000
+perdió	vmis000
+buscando	vmg0000
+una	di0000
+rata	nc0s000
+.	fp
+
+siguió	vmis000
+andando	vmg0000
+y	cc
+.	fp
+
+un	di0000
+perro	nc0s000
+le	pp000000
+asustó	vmis000
+y	cc
+.	fp
+
+salió	vmis000
+corriendo	vmg0000
+y	cc
+.	fp
+
+Natalia	np00000
+se	p0000000
+quedó	vmis000
+preocupada	aq0000
+pensando	vmg0000
+dónde	pt000000
+está	vmip000
+Pancho	np00000
+.	fp
+
+salió	vmis000
+a	sp000
+buscarlo	nc0s000
+.	fp
+
+xx	nc0n000
+o	cc
+sea	vssp000
+lo	da0000
+buscó	vmis000
+por	sp000
+el	da0000
+jardín	nc0s000
+por	sp000
+su	dp0000
+en	sp000
+su	dp0000
+cama	nc0s000
+debajo	rg
+del	sp000
+sofá	nc0s000
+en	sp000
+un	di0000
+árbol	nc0s000
+y	cc
+.	fp
+
+preocupada	vmp0000
+puso	vmis000
+comida	nc0s000
+junto	aq0000
+a	sp000
+la	da0000
+casa	nc0s000
+para	sp000
+que	cs
+siguiera	vmsi000
+el	da0000
+rastro	nc0s000
+y	cc
+llegara	vmsi000
+hasta	sp000
+allí	rg
+.	fp
+
+se	p0000000
+sentó	vmis000
+a	sp000
+esperar	vmn0000
+al	np00000
+lado	nc0s000
+de	sp000
+su	dp0000
+cama	nc0s000
+para	sp000
+ver	vmn0000
+si	cs
+regresaba	vmii000
+pero	cc
+nada	rg
+.	fp
+
+Pancho	np00000
+le	pp000000
+pasó	vmis000
+lo	da0000
+mismo	aq0000
+.	fp
+
+estaba	vmii000
+esperando	vmg0000
+a	sp000
+Nati	np00000
+y	cc
+.	fp
+
+pensaba	vmii000
+dónde	pt000000
+está	vmip000
+Nati	np00000
+.	fp
+
+y	cc
+pensó	vmis000
+ay	i
+pues	cs
+eso	pd000000
+es	vsip000
+que	cs
+se	p0000000
+ha	vaip000
+ido	vmp0000
+de	sp000
+casa	nc0s000
+.	fp
+
+Pancho	np00000
+fue	vsis000
+a	sp000
+buscarla	nc0s000
+bajo	sp000
+la	da0000
+lluvia	nc0s000
+.	fp
+
+cansado	aq0000
+llegó	vmis000
+a	sp000
+casa	nc0s000
+.	fp
+
+miró	vmis000
+por	sp000
+todos	di0000
+los	da0000
+sitios	nc0p000
+y	cc
+.	fp
+
+vio	vmis000
+que	cs
+la	da0000
+casa	nc0s000
+estaba	vmii000
+llena	aq0000
+de	sp000
+comida	nc0s000
+para	sp000
+gato	nc0s000
+y	cc
+.	fp
+
+se	p0000000
+asomó	vmis000
+a	sp000
+ver	vmn0000
+quién	pt000000
+estaba	vmii000
+en	sp000
+su	dp0000
+sofá	nc0s000
+.	fp
+
+vio	vmis000
+que	cs
+era	vsii000
+Nati	np00000
+y	cc
+.	fp
+
+juntos	aq0000
+se	p0000000
+alegraron	vmis000
+de	sp000
+verse	vmn0000
+y	cc
+.	fp
+
+fin	nc0s000
+de	sp000
+la	da0000
+historia	nc0s000
+.	fp
+

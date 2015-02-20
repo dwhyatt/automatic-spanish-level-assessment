@@ -1,0 +1,252 @@
+.	fp
+
+ehm	nc0s000
+un	di0000
+familia	nc0s000
+y	cc
+.	fp
+
+vacaciones	nc0p000
+en	sp000
+el	da0000
+coche	nc0s000
+eh	np00000
+con	sp000
+dos	pn000000
+un	di0000
+chico	nc0s000
+y	cc
+dos	pn000000
+un	di0000
+chica	nc0s000
+y	cc
+un	di0000
+chicos	nc0p000
+y	cc
+un	di0000
+madre	nc0s000
+eh	np00000
+.	fp
+
+ha	vaip000
+um	nc0n000
+madre	nc0s000
+y	cc
+leer	vmn0000
+um	pp000000
+eh	nc0s000
+.	fp
+
+un	di0000
+chico	nc0s000
+um	nc0n000
+ehm	nc0s000
+.	fp
+
+un	di0000
+chica	nc0s000
+y	cc
+un	di0000
+chico	nc0s000
+um	nc0n000
+eh	np00000
+xx	np00000
+eh	np00000
+xx	np00000
+.	fp
+
+ah	vmis000
+un	di0000
+madre	nc0s000
+un	di0000
+chica	nc0s000
+un	di0000
+chico	nc0s000
+eh	rg
+un	di0000
+fotos	nc0p000
+ah	nc0s000
+fotos	nc0p000
+ah	np00000
+sí	rg
+ah	vmis000
+adiós	nc0n000
+.	fp
+
+un	di0000
+madre	nc0s000
+y	cc
+un	di0000
+chico	nc0s000
+eh	np00000
+eres	vsip000
+ir	vmn0000
+en	sp000
+el	da0000
+coche	nc0s000
+ehm	nc0s000
+.	fp
+
+un	di0000
+madre	nc0s000
+y	cc
+un	di0000
+chico	nc0s000
+un	di0000
+comercial	aq0000
+sí	pp000000
+eh	np00000
+ehm	np00000
+la	da0000
+abuela	nc0s000
+.	fp
+
+y	cc
+un	di0000
+rueda	nc0s000
+y	cc
+.	fp
+
+uno	di0000
+dos	dn0000
+tres	dn0000
+cuatro	dn0000
+ehm	nc0s000
+.	fp
+
+un	di0000
+chico	nc0s000
+un	di0000
+chica	nc0s000
+eh	pp000000
+quiere	vmip000
+.	fp
+
+eh	vmis000
+un	di0000
+la	da0000
+abuela	nc0s000
+.	fp
+
+la	pp000000
+oh	np00000
+.	fp
+
+y	cc
+eh	np00000
+un	di0000
+chico	nc0s000
+un	di0000
+chica	nc0s000
+ehm	nc0s000
+un	di0000
+.	fp
+
+mmm	vmis000
+barco	nc0s000
+mmm	nc0s000
+.	fp
+
+um	nc0n000
+xxx	np00000
+um	np00000
+nada	pi000000
+mi	dp0000
+nada	nc0s000
+eh	np00000
+madre	nc0s000
+no	rn
+un	di0000
+chica	nc0s000
+un	di0000
+chico	nc0s000
+eh	pp000000
+de	sp000
+verdad	nc0s000
+eh	np00000
+Loch	np00000
+Ness	np00000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+eh	vmis000
+mucho	rg
+periodista	nc0s000
+y	cc
+eh	np00000
+mucho	di0000
+fotos	nc0p000
+y	cc
+.	fp
+
+eh	vmis000
+periodista	nc0s000
+hace	vmip000
+fotos	nc0p000
+eh	np00000
+.	fp
+
+un	di0000
+chica	nc0s000
+y	cc
+un	di0000
+chico	nc0s000
+eh	np00000
+parecer	vmn0000
+un	di0000
+Loch	np00000
+Ness	np00000
+eh	np00000
+.	fp
+
+eh	vmis000
+un	di0000
+chico	nc0s000
+no	rn
+dos	dn0000
+chicos	nc0p000
+y	cc
+un	di0000
+chica	nc0s000
+eh	rg
+un	di0000
+tele	nc0s000
+Loch	np00000
+Ness	np00000
+eh	np00000
+.	fp
+
+la	da0000
+abuela	nc0s000
+ehm	nc0s000
+nadan	vmip000
+no	rn
+Loch	np00000
+Ness	np00000
+ehm	nc0s000
+.	fp
+
+periodista	nc0s000
+qué	pt000000
+eh	np00000
+un	di0000
+familia	nc0s000
+en	sp000
+un	di0000
+casa	nc0s000
+.	fp
+
+ehm	nc0s000
+el	da0000
+Ness	np00000
+ehm	np00000
+verdad	nc0s000
+mentira	nc0s000
+.	fp
+
+eh	vmis000
+verdad	nc0s000
+.	fp
+

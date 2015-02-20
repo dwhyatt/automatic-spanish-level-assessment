@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L20COG9"
+      Date="2007-06-19">
+<Participants>
+<participant
+  id="L20"
+  role="Participant"
+language="es"
+sex="male"
+group="Year9"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">19-JUN-2007</comment>
+<comment type="Location">H</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:04:13</comment>
+<u who="COG" uID="u0">
+<freecode>eng: this is the Loch Ness task student number twenty today is the nineteenth of June we are in School Name</freecode>
+<t type="p"/>
+
+</u>
+<u who="L20" uID="u1">
+<w>una</w>
+<w>familia</w>
+<w>de</w>
+<g><w>vacaciones</w><error/></g>
+<w>en</w>
+<g><w>Escocia</w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">vacunas = vacaciones Escusia = Escocia .</a>
+</u>
+<u who="L20" uID="u2">
+<w>el</w>
+<w>madre</w>
+<w>el</w>
+<w>abuela</w>
+<w>el</w>
+<w>hermano</w>
+<w>el</w>
+<w>hermana</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L20" uID="u3">
+<w>el</w>
+<w>madre</w>
+<g><w>libro</w><error/></g>
+<w>el</w>
+<w>hermano</w>
+<w>pintar</w>
+<t type="p"/>
+
+<a type="errcoding">libre = libro</a>
+</u>
+<u who="L20" uID="u4">
+<w>el</w>
+<w>abuelo</w>
+<w>pintar</w>
+<t type="p"/>
+
+</u>
+<u who="L20" uID="u5">
+<w>el</w>
+<w>hermano</w>
+<g><w xml:lang="con">and</w><k type="retracing with correction"/></g>
+<w>y</w>
+<w>el</w>
+<g><w>hermano</w><k type="retracing with correction"/></g>
+<w><shortening>herman</shortening>a</w>
+<g><w>jueve<replacement><w>juega</w></replacement></w><error/></g>
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>pintar</w>
+<w>el</w>
+<g><w>monstruo</w><error/><k type="retracing with correction"/></g>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">montruez = monstruo .</a>
+</u>
+<u who="L20" uID="u6">
+<w>el</w>
+<w>abuelo</w>
+<w>pintar</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">montrez = monstruo .</a>
+</u>
+<u who="L20" uID="u7">
+<g><w>el</w>
+<w>madre</w>
+<w>y</w><k type="retracing"/></g>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>una</w>
+<w>chica</w>
+<w>van</w>
+<w>el</w>
+<w>coche</w>
+<t type="p"/>
+
+</u>
+<u who="L20" uID="u8">
+<g><w>el</w>
+<w><shortening>a</shortening>buelo</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>el</w>
+<w><shortening>a</shortening>buelo</w>
+<w>y</w>
+<w>hermano</w>
+<w>y</w>
+<w>hermana</w>
+<w>se</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L20" uID="u9">
+<linker type="quoted utterance next"/>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+<u who="L20" uID="u10">
+<g><w>el</w>
+<w>mad<shortening>re</shortening></w><k type="retracing"/></g>
+<w>el</w>
+<w>madre</w>
+<g><w>escaparates</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">escaparetas = escaparates .</a>
+</u>
+<u who="L20" uID="u11">
+<w>el</w>
+<w>abuelo</w>
+<w>y</w>
+<w>pintar</w>
+<w>rueda</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">montres = monstruo .</a>
+</u>
+<u who="L20" uID="u12">
+<w>el</w>
+<w>hermano</w>
+<w>el</w>
+<w>hermana</w>
+<pause symbolic-length="simple"></pause>
+<t type="trail off"/>
+
+</u>
+<u who="L20" uID="u13">
+<w>el</w>
+<w>abuela</w>
+<w>y</w>
+<w>hermano</w>
+<w xml:lang="con">and</w>
+<w>hermana</w>
+<w>en</w>
+<w>una</w>
+<w>barco</w>
+<w>rueda</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<g><w>en</w><k type="retracing"/></g>
+<w>ah</w>
+<w>en</w>
+<w>el</w>
+<w>mar</w>
+<t type="p"/>
+
+<a type="errcoding">montres = monstruo .</a>
+</u>
+<u who="L20" uID="u14">
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>el</w>
+<w>madre</w>
+<w>sí</w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">montresa = monstruo .</a>
+</u>
+<u who="L20" uID="u15">
+<pause symbolic-length="simple"></pause>
+<w>parecí<shortening>a</shortening></w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">montresa = monstruo .</a>
+</u>
+<u who="L20" uID="u16">
+<w>porzunez<f type="neologism"/></w>
+<w>esa</w>
+<w>fotos</w>
+<w>a</w>
+<w>la</w>
+<g><w>monstruo</w><error/></g>
+<w>en</w>
+<w>el</w>
+<w>televisión</w>
+<t type="p"/>
+
+<a type="errcoding">montresa = monstruo .</a>
+</u>
+<u who="L20" uID="u17">
+<w>periodista</w>
+<w>en</w>
+<w>el</w>
+<w>abuelo</w>
+<w>y</w>
+<g><w>monstruo</w><error/></g>
+<w>en</w>
+<w>el</w>
+<w>rueda</w>
+<t type="p"/>
+
+<a type="errcoding">montresa = monstruo .</a>
+</u>
+<u who="L20" uID="u18">
+<w>en</w>
+<w>la</w>
+<w>familia</w>
+<w>xxx</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

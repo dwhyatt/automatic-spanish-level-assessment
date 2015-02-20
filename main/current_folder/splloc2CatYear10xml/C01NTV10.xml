@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C01NTV10"
+      Date="2009-03-06">
+<Participants>
+<participant
+  id="C01"
+  role="Participant"
+language="es"
+sex="male"
+SES="10"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">06-MAR-2009</comment>
+<comment type="Location">BS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:05:02</comment>
+<u who="C01" uID="u0">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u1">
+<g><w>Na<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>Natalia</w>
+<pause symbolic-length="simple"></pause>
+<g><w>so<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>solió</w>
+<w>leer</w>
+<w>a</w>
+<w>sus</w>
+<g><w>juguetes</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">jugüetes = juguetes</a>
+</u>
+<u who="C01" uID="u2">
+<w>Natalia</w>
+<w>le</w>
+<w>gusta</w>
+<g><w>pintura</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>pinturo<f type="neologism"/></w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>hacer</w>
+<w>cosas</w>
+<w>también</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u3">
+<w>jugó</w>
+<w>con</w>
+<w>sus</w>
+<w>amigos</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u4">
+<w>luego</w>
+<w>hay</w>
+<w>Pancho</w>
+<w>su</w>
+<w>gato</w>
+<w>y</w>
+<w>su</w>
+<pause symbolic-length="simple"></pause>
+<w>amiga</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u5">
+<w>Pancho</w>
+<w>le</w>
+<w>gusta</w>
+<w>dormir</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+<a type="comments">[cough]</a>
+</u>
+<u who="C01" uID="u6">
+<linker type="self completion"/>
+<w>y</w>
+<g><w>persegüir<replacement><w>perseguir</w></replacement></w><error/></g>
+<w>mariposas</w>
+<w>y</w>
+<w>tomar</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u7">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C01" uID="u8">
+<freecode>eng: what's meet up</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u9">
+<w>encontrar</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u10">
+<linker type="self completion"/>
+<w>encontraron</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u11">
+<w>después</w>
+<pause symbolic-length="simple"></pause>
+<g><w>venieron<replacement><w>vinieron</w></replacement></w><error/></g>
+<w>a</w>
+<w>su</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u12">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>hay</w>
+<w>un</w>
+<w>perro</w>
+<w>que</w>
+<g><w>perse<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>persegüió<replacement><w>persiguió</w></replacement></w><error/></g>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>cuando</w>
+<w>Pancho</w>
+<g><w>jugue<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>jugó</w>
+<pause symbolic-length="simple"></pause>
+<w>con</w>
+<w>el</w>
+<w>ratón</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>perro</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u13">
+<w>mientras</w>
+<w>que</w>
+<w>Natalia</w>
+<t type="interruption"/>
+
+</u>
+<u who="C01" uID="u14">
+<freecode>eng: what's to wait</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u15">
+<w>esperar</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u16">
+<linker type="self completion"/>
+<w>espera</w>
+<w>hasta</w>
+<w>tres</w>
+<w>y</w>
+<w>cuarto</w>
+<pause symbolic-length="simple"></pause>
+<w>cuando</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+<a type="comments">[cough]</a>
+</u>
+<u who="C01" uID="u17">
+<linker type="self completion"/>
+<g><w>empe<shortening>xx</shortening></w><k type="retracing"/></g>
+<g><w>empe<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>empezó</w>
+<pause symbolic-length="simple"></pause>
+<w>buscar</w>
+<w>por</w>
+<w>su</w>
+<w>gato</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u18">
+<w>busca</w>
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>abajo</w>
+<w>de</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u19">
+<w>sofá</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u20">
+<linker type="self completion"/>
+<w>sofá<f type="generic"/></w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u21">
+<w>pregunta</w>
+<g><w>una</w><k type="retracing"/></g>
+<w>una</w>
+<w>rana</w>
+<pause symbolic-length="simple"></pause>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u22">
+<w>no</w>
+<w>puede</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u23">
+<w>encontrar</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u24">
+<linker type="self completion"/>
+<w>encontrar<f type="generic"/></w>
+<w>su</w>
+<w>gato</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u25">
+<w>así</w>
+<w>decidió</w>
+<w>dejar</w>
+<w>unas</w>
+<pause symbolic-length="simple"></pause>
+<w>comida</w>
+<pause symbolic-length="simple"></pause>
+<w>atemptar<f type="neologism"/></w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C01" uID="u26">
+<freecode>eng: what's to attract</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u27">
+<w>atraer</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u28">
+<linker type="self completion"/>
+<w>atraer<f type="generic"/></w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u29">
+<w>normalmente</w>
+<g><w>Nataly</w><k type="retracing with correction"/></g>
+<w>Natalia</w>
+<pause symbolic-length="simple"></pause>
+<g><w>se</w>
+<w>que<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>se</w>
+<w>quedó</w>
+<w>a</w>
+<w>su</w>
+<w>punto</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u30">
+<w>Pancho</w>
+<w>fui</w>
+<w>tarde</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<g><w>no</w>
+<w>llega</w><k type="retracing with correction"/></g>
+<w>llega</w>
+<w>tarde</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u31">
+<w>a</w>
+<w>qué</w>
+<w>hora</w>
+<w>Natalia</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+<a type="comments">[cough]</a>
+</u>
+<u who="C01" uID="u32">
+<linker type="self completion"/>
+<pause symbolic-length="simple"></pause>
+<g><w>venió<replacement><w>vino</w></replacement></w><error/></g>
+<w>a</w>
+<w>su</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u33">
+<w>Pancho</w>
+<w>decidió</w>
+<pause symbolic-length="simple"></pause>
+<w>ir</w>
+<w>a</w>
+<w>su</w>
+<w>casa</w>
+<w>también</w>
+<w>donde</w>
+<g><w>encontra<replacement><w>encuentra</w></replacement></w><error/></g>
+<w>Natalia</w>
+<w>en</w>
+<w>su</w>
+<w>cama</w>
+<t type="p"/>
+
+</u>
+<u who="C01" uID="u34">
+<w>el</w>
+<w>fin</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u35">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

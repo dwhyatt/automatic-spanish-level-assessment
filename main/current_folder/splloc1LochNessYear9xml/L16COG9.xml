@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L16COG9"
+      Date="2007-04-16">
+<Participants>
+<participant
+  id="L16"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-APR-2007</comment>
+<comment type="Location">H</comment>
+<comment type="Warning">background noise</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:06:32</comment>
+<u who="COG" uID="u0">
+<freecode>eng: this is student number sixteen we are in School Name today is nineteen of June</freecode>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u1">
+<w>ehm</w>
+<w>un</w>
+<w>familia</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u2">
+<w xml:lang="v">going</w>
+<g><w>di<f type="words to be excluded"/></w><k type="retracing with correction"/></g>
+<w>vacaciones</w>
+<w>en</w>
+<w>el</w>
+<w>coche</w>
+<w>eh</w>
+<w>con</w>
+<g><w>dos</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>chico</w>
+<w>y</w>
+<g><w>dos</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>chica</w>
+<w>y</w>
+<w>un</w>
+<w>chicos</w>
+<w>y</w>
+<w>un</w>
+<w>madre</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u3">
+<pause symbolic-length="simple"></pause>
+<w>ha</w>
+<w>reci<f type="neologism"/></w>
+<g><w>um</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>um</w>
+<w>madre</w>
+<w>y</w>
+<g><w>lir<replacement><w>leer</w></replacement></w><error/></g>
+<w>um</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u4">
+<w>un</w>
+<w>chico</w>
+<w>um</w>
+<w xml:lang="v">painting</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u5">
+<w>un</w>
+<w>chica</w>
+<w>y</w>
+<w>un</w>
+<w>chico</w>
+<w>um</w>
+<w xml:lang="v">fishing</w>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w xml:lang="pre">by</w>
+<w>xx</w>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>xx</w>
+<t type="p"/>
+
+<a type="comments">Subject Laughing .</a>
+</u>
+<u who="L16" uID="u6">
+<w>ah</w>
+<w>un</w>
+<w>madre</w>
+<w>un</w>
+<w>chica</w>
+<w>un</w>
+<w>chico</w>
+<w xml:lang="v">looking</w>
+<w xml:lang="pre">at</w>
+<w>eh</w>
+<g><w>un</w>
+<w>fotos</w><k type="retracing with correction"/></g>
+<w>ah</w>
+<w>fotos</w>
+<w>ah</w>
+<w>sí</w>
+<w>ah</w>
+<freecode>eng: then they say</freecode>
+<t type="quotation next line"/>
+
+</u>
+<u who="L16" uID="u7">
+<linker type="quoted utterance next"/>
+<w>adiós</w>
+<freecode>eng: bye bye</freecode>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u8">
+<freecode>eng: then</freecode>
+<w>un</w>
+<w>madre</w>
+<w>y</w>
+<w>un</w>
+<w>chico</w>
+<w>eh</w>
+<g><w>eres</w><k type="retracing with correction"/></g>
+<w>ir</w>
+<w>en</w>
+<w>el</w>
+<w>coche</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u9">
+<w>un</w>
+<w>madre</w>
+<w>y</w>
+<w>un</w>
+<w>chico</w>
+<w xml:lang="pre">in</w>
+<w>un</w>
+<w>comercial</w>
+<w>sí</w>
+<w>eh</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<t type="trail off"/>
+
+</u>
+<u who="COG" uID="u10">
+<w>la</w>
+<w>abuela</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u11">
+<w>la<f type="generic"/></w>
+<w>abuela<f type="generic"/></w>
+<w>y</w>
+<w>un</w>
+<w xml:lang="v">painting</w>
+<w>rueda</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u12">
+<w>uno</w>
+<w>dos</w>
+<w>tres</w>
+<w>cuatro</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u13">
+<w>un</w>
+<w>chico</w>
+<w>un</w>
+<w>chica</w>
+<w>eh</w>
+<g><w>quiora<replacement><w>quiere</w></replacement></w><error/></g>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u14">
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>eh</w><k type="retracing"/></g>
+<w>t<f type="neologism"/></w>
+<w>eh</w>
+<w>un</w>
+<t type="trail off"/>
+
+</u>
+<u who="COG" uID="u15">
+<w>la</w>
+<w>abuela</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u16">
+<w>la</w>
+<w>oh</w>
+<w xml:lang="adv">yeah</w>
+<t type="p"/>
+
+<a type="comments">Subject Laughing .</a>
+</u>
+<u who="L16" uID="u17">
+<w>la<f type="generic"/></w>
+<w>abuela<f type="generic"/></w>
+<w>y</w>
+<w>eh</w>
+<w>un</w>
+<w>chico</w>
+<w>un</w>
+<w>chica</w>
+<w>ehm</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w xml:lang="d">boat</w>
+<t type="p"/>
+
+<a type="comments">subject laughing .</a>
+</u>
+<u who="COG" uID="u18">
+<w>mmm</w>
+<w>barco</w>
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u19">
+<w>barco<f type="generic"/></w>
+<w>um</w>
+<w>xxx</w>
+<g><w>um</w>
+<w>nada</w><k type="retracing with correction"/></g>
+<w>mi</w>
+<w>nada</w>
+<w>eh</w>
+<t type="trail off"/>
+
+</u>
+<u who="L16" uID="u20">
+<w>madre</w>
+<g><w>qui<shortening>ere</shortening></w><k type="retracing"/></g>
+<g><w>quir<shortening>ere</shortening></w><k type="retracing"/></g>
+<w>qui<shortening>ere</shortening></w>
+<w>no</w>
+<t type="trail off"/>
+
+</u>
+<u who="L16" uID="u21">
+<w>un</w>
+<w>chica</w>
+<w>un</w>
+<w>chico</w>
+<w>eh</w>
+<w>de</w>
+<w>verdad</w>
+<w>eh</w>
+<g><w>Lo<shortening>ch</shortening></w><k type="retracing"/></g>
+<g><w>Lo<shortening>ch</shortening></w><k type="retracing with correction"/></g>
+<w>Loch</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u22">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u23">
+<w>eh</w>
+<w>mucho</w>
+<w>periodista</w>
+<w>y</w>
+<w>eh</w>
+<w>mucho</w>
+<w>fotos</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u24">
+<w>eh</w>
+<w>periodista</w>
+<w>hace</w>
+<w>fotos</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u25">
+<w>un</w>
+<w>chica</w>
+<w>y</w>
+<w>un</w>
+<w>chico</w>
+<w>t<f type="neologism"/></w>
+<w>eh</w>
+<w>parecer</w>
+<w>un</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<w>eh</w>
+<freecode>eng: and@s:con then@s:adv</freecode>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u26">
+<w>eh</w>
+<g><w>un</w>
+<w>chico</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>dos</w>
+<w>chicos</w>
+<w>y</w>
+<w>un</w>
+<w>chica</w>
+<w>eh</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>tele</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<g><w>eh</w><k type="retracing"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<t type="p"/>
+
+<a type="comments">Subject Laughing .</a>
+</u>
+<u who="L16" uID="u27">
+<g><w>la</w>
+<w>abuela</w><k type="retracing"/></g>
+<w>abuela</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L16" uID="u28">
+<linker type="quoted utterance next"/>
+<w>ehm</w>
+<w>nadan</w>
+<w>no</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<freecode>eng: it wasn't real</freecode>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u29">
+<w>periodista</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L16" uID="u30">
+<linker type="quoted utterance next"/>
+<g><w>qué</w><error/><k type="retracing"/></g>
+<g><w>qué</w><error/></g>
+<t type="q"/>
+
+<a type="errcoding">qui = qué qui = qué .</a>
+</u>
+<u who="L16" uID="u31">
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>un</w>
+<w>familia</w>
+<w xml:lang="v">gone</w>
+<w>en</w>
+<w>un</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="L16" uID="u32">
+<w>ehm</w>
+<w xml:lang="adv">then</w>
+<w>el</w>
+<w xml:lang="d">Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<w>ehm</w>
+<g><w>di<f type="words to be excluded"/></w><k type="retracing with correction"/></g>
+<w>verdad</w>
+<w>di<f type="words to be excluded"/></w>
+<w>mentira</w>
+<t type="p"/>
+
+<a type="comments">subject laugh .</a>
+</u>
+<u who="L16" uID="u33">
+<w>eh</w>
+<w>verdad</w>
+<t type="p"/>
+
+</u>
+</CHAT>

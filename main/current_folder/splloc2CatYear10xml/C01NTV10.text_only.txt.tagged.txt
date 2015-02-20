@@ -1,0 +1,224 @@
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+solió	vmis000
+leer	vmn0000
+a	sp000
+sus	dp0000
+juguetes	nc0p000
+y	cc
+.	fp
+
+Natalia	np00000
+le	pp000000
+gusta	vmip000
+pintura	nc0s000
+y	cc
+hacer	vmn0000
+cosas	nc0p000
+también	rg
+y	cc
+.	fp
+
+jugó	vmis000
+con	sp000
+sus	dp0000
+amigos	nc0p000
+y	cc
+.	fp
+
+luego	rg
+hay	vaip000
+Pancho	np00000
+su	dp0000
+gato	nc0s000
+y	cc
+su	dp0000
+amiga	nc0s000
+.	fp
+
+Pancho	np00000
+le	pp000000
+gusta	vmip000
+dormir	vmn0000
+y	cc
+y	cc
+perseguir	vmn0000
+mariposas	nc0p000
+y	cc
+tomar	vmn0000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+Natalia	np00000
+y	cc
+su	dp0000
+gato	nc0s000
+Pancho	np00000
+encontrar	vmn0000
+.	fp
+
+encontraron	vmis000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+.	fp
+
+después	rg
+vinieron	vmis000
+a	sp000
+su	dp0000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+hay	vaip000
+un	di0000
+perro	nc0s000
+que	pr000000
+persiguió	vmis000
+Pancho	np00000
+cuando	cs
+Pancho	np00000
+jugó	vmis000
+con	sp000
+el	da0000
+ratón	nc0s000
+y	cc
+perro	nc0s000
+.	fp
+
+mientras	cs
+que	pr000000
+Natalia	np00000
+esperar	vmn0000
+.	fp
+
+espera	vmip000
+hasta	sp000
+tres	pn000000
+y	cc
+cuarto	nc0s000
+cuando	pr000000
+empezó	vmis000
+buscar	vmn0000
+por	sp000
+su	dp0000
+gato	nc0s000
+.	fp
+
+busca	vmip000
+en	sp000
+el	da0000
+jardín	nc0s000
+y	cc
+abajo	rg
+de	sp000
+sofá	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+pregunta	vmip000
+una	di0000
+rana	aq0000
+pero	cc
+.	fp
+
+no	rn
+puede	vmip000
+encontrar	vmn0000
+.	fp
+
+su	dp0000
+gato	nc0s000
+.	fp
+
+así	rg
+decidió	vmis000
+dejar	vmn0000
+unas	di0000
+comida	nc0s000
+atraer	vmn0000
+.	fp
+
+Pancho	np00000
+y	cc
+.	fp
+
+normalmente	rg
+Nataly	np00000
+Natalia	np00000
+se	pp000000
+se	p0000000
+quedó	vmis000
+a	sp000
+su	dp0000
+punto	nc0s000
+pero	cc
+.	fp
+
+Pancho	np00000
+fui	vmis000
+tarde	rg
+y	cc
+no	rn
+llega	vmip000
+llega	vmip000
+tarde	rg
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+media	aq0000
+.	fp
+
+a	sp000
+qué	dt0000
+hora	nc0s000
+Natalia	np00000
+vino	vmis000
+a	sp000
+su	dp0000
+casa	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+decidió	vmis000
+ir	vmn0000
+a	sp000
+su	dp0000
+casa	nc0s000
+también	rg
+donde	cs
+encuentra	vmip000
+Natalia	np00000
+en	sp000
+su	dp0000
+cama	nc0s000
+.	fp
+
+el	da0000
+fin	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+

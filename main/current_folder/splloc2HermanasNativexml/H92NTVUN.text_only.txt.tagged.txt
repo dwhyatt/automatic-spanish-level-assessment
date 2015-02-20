@@ -1,0 +1,279 @@
+las	da0000
+hermanas	nc0p000
+.	fp
+
+las	da0000
+vacaciones	nc0p000
+de	sp000
+Sara	np00000
+y	cc
+Gwen	np00000
+en	sp000
+España	np00000
+.	fp
+
+verano	nc0s000
+del	sp000
+dos	pn000000
+mil	dn0000
+seis	pn000000
+.	fp
+
+empezaron	vmis000
+por	sp000
+Madrid	np00000
+.	fp
+
+visitaron	vmis000
+la	da0000
+ciudad	nc0s000
+.	fp
+
+comieron	vmis000
+tapas	nc0p000
+.	fp
+
+y	cc
+bebieron	vmis000
+vino	nc0s000
+.	fp
+
+después	rg
+en	sp000
+la	da0000
+estación	nc0s000
+de	sp000
+tren	nc0s000
+decidieron	vmis000
+irse	vmm0000
+a	sp000
+Barcelona	np00000
+.	fp
+
+cogieron	vmis000
+el	da0000
+tren	nc0s000
+.	fp
+
+hablaron	vmis000
+sobre	sp000
+su	dp0000
+niñez	nc0s000
+.	fp
+
+y	cc
+de	sp000
+niñez	nc0s000
+resultó	vmis000
+que	cs
+de	sp000
+pequeñas	aq0000
+eran	vsii000
+muy	rg
+diferentes	aq0000
+.	fp
+
+Gwen	np00000
+de	sp000
+niña	nc0s000
+cada	di0000
+fin	nc0s000
+de	sp000
+semana	nc0s000
+leía	vmii000
+un	di0000
+libro	nc0s000
+.	fp
+
+pintaba	vmii000
+un	di0000
+cuadro	nc0s000
+.	fp
+
+escribía	vmii000
+un	di0000
+cuento	nc0s000
+.	fp
+
+en	sp000
+cambio	nc0s000
+por	sp000
+durante	sp000
+la	da0000
+semana	nc0s000
+.	fp
+
+se	p0000000
+despertaba	vmii000
+temprano	rg
+.	fp
+
+terminaba	vmii000
+sus	dp0000
+deberes	nc0p000
+temprano	aq0000
+.	fp
+
+en	sp000
+cambio	nc0s000
+Sara	np00000
+de	sp000
+niña	nc0s000
+los	pp000000
+fines	nc0p000
+de	sp000
+semana	nc0s000
+jugaba	vmii000
+al	np00000
+fútbol	nc0s000
+.	fp
+
+veía	vmii000
+una	di0000
+película	nc0s000
+.	fp
+
+y	cc
+durante	sp000
+la	da0000
+semana	nc0s000
+iba	vmii000
+al	np00000
+colegio	nc0s000
+en	sp000
+bicicleta	nc0s000
+.	fp
+
+y	cc
+llegaba	vmii000
+tarde	rg
+a	sp000
+clase	nc0s000
+.	fp
+
+hacía	vmii000
+sus	dp0000
+deberes	nc0p000
+por	sp000
+la	da0000
+noche	nc0s000
+.	fp
+
+y	cc
+se	p0000000
+acostaba	vmii000
+muy	rg
+temprano	aq0000
+muy	rg
+tarde	rg
+.	fp
+
+de	sp000
+repente	nc0s000
+mientras	cs
+viajaban	vmii000
+en	sp000
+el	da0000
+tren	nc0s000
+había	vaii000
+un	di0000
+gran	aq0000
+revuelo	nc0s000
+.	fp
+
+creían	vmii000
+.	fp
+
+Gwen	np00000
+y	cc
+Sara	np00000
+.	fp
+
+creían	vmii000
+que	cs
+había	vaii000
+un	di0000
+problema	nc0s000
+.	fp
+
+Gwen	np00000
+sentía	vmii000
+agua	nc0s000
+de	sp000
+lluvia	nc0s000
+en	sp000
+la	da0000
+cabeza	nc0s000
+.	fp
+
+mientras	cs
+Sara	np00000
+.	fp
+
+reía	vmii000
+.	fp
+
+necesitaban	vmii000
+ayuda	nc0s000
+del	sp000
+revisor	nc0s000
+.	fp
+
+y	cc
+el	da0000
+revisor	nc0s000
+les	pp000000
+ayudó	vmis000
+.	fp
+
+y	cc
+les	pp000000
+ayudó	vmis000
+a	sp000
+cambiarse	vmn0000
+de	sp000
+asiento	nc0s000
+.	fp
+
+esto	pd000000
+hizo	vmis000
+que	cs
+Sara	np00000
+y	cc
+Gwen	np00000
+pudieran	vmsi000
+tranquilizarse	vmn0000
+.	fp
+
+y	cc
+terminaran	vmsi000
+el	da0000
+viaje	nc0s000
+mucho	di0000
+mas	rg
+tranquilas	aq0000
+.	fp
+
+al	vmip000
+final	nc0s000
+en	sp000
+Barcelona	np00000
+ellas	pp000000
+se	p0000000
+comieron	vmis000
+una	di0000
+pizza	nc0s000
+.	fp
+
+rieron	vmis000
+a	sp000
+y	cc
+se	p0000000
+rieron	vmis000
+al	nc0n000
+recordar	vmn0000
+el	da0000
+viaje	nc0s000
+.	fp
+.	fp
+

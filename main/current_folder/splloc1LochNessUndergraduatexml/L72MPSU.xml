@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L72MPSU"
+      Date="2006-11-27">
+<Participants>
+<participant
+  id="L72"
+  role="Participant"
+language="es"
+sex="female"
+group="Undergraduate"
+education="U"
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">27-NOV-2006</comment>
+<comment type="Location">UoS</comment>
+<comment type="Situation">Story retelling based on a picture book about a family staying by the Loch Ness .</comment>
+<comment type="Transcriber">MPS</comment>
+<u who="MPS" uID="u0">
+<w>xxx</w>
+<w>lago</w>
+<w>Ness</w>
+<w>veintisiete</w>
+<w>de</w>
+<w>noviembre</w>
+<w>del</w>
+<w>dos</w>
+<w>mil</w>
+<w>séis</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u1">
+<w>una</w>
+<w>familia</w>
+<w>decidió</w>
+<w>pasar</w>
+<w>sus</w>
+<w>vacaciones</w>
+<w>en</w>
+<w>Escocia</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u2">
+<w>eh</w>
+<w>en</w>
+<w>un</w>
+<g><w>pequeño</w>
+<w>casa</w><k type="retracing with correction"/></g>
+<w>pequeña</w>
+<w>casa</w>
+<w>cerca</w>
+<w>del</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u3">
+<w>eh</w>
+<w>en</w>
+<w>la</w>
+<w>familia</w>
+<w>hay</w>
+<w>la</w>
+<w>abuela</w>
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>los</w>
+<w>tres</w>
+<w>niños</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u4">
+<w>durante</w>
+<w>los</w>
+<w>vacaciones</w>
+<w>pasan</w>
+<w>el</w>
+<w>tiempo</w>
+<t type="interruption"/>
+
+</u>
+<u who="L72" uID="u5">
+<linker type="self completion"/>
+<w>hacen</w>
+<w>las</w>
+<w>cosas</w>
+<w>que</w>
+<w>le</w>
+<w>gustan</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u6">
+<w>por</w>
+<w>ejemplo</w>
+<g><w>los</w>
+<w>niños</w>
+<w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>los</w>
+<w>niños</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>le</w>
+<w>gustan</w>
+<w>eh</w>
+<w>pescar</w>
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u7">
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>eh</w>
+<g><w>lo</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>pequeño</w>
+<w>niño</w>
+<w>pintan</w>
+<w>mientras</w>
+<g><w>el</w>
+<w>ma<shortening>dre</shortening></w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>madre</w>
+<w>está</w>
+<w>leyendo</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u8">
+<g><w>el</w>
+<w>chico</w>
+<w>noto</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>chico</w>
+<w>eh</w>
+<w>nota</w>
+<w>que</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>está</w>
+<w>pintando</w><k type="retracing"/></g>
+<w>está</w>
+<w>pintando</w>
+<w>un</w>
+<w>monstruo</w>
+<g><w>en</w>
+<w>la</w><k type="retracing"/></g>
+<w>en</w>
+<w>la</w>
+<w>lago</w>
+<w>y</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u9">
+<w>en</w>
+<w>el</w>
+<w>tarde</w>
+<w>la</w>
+<w>madre</w>
+<g><w>deci<shortening>de</shortening></w><k type="retracing"/></g>
+<w>decide</w>
+<w>ir</w>
+<w>de</w>
+<w>compras</w>
+<w>en</w>
+<w>la</w>
+<w>ciudad</w>
+<w>con</w>
+<g><w>el</w>
+<w>peque<shortening>ño</shortening></w><k type="retracing"/></g>
+<w>el</w>
+<w>pequeño</w>
+<w>chico</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u10">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<g><w>los</w>
+<w>dos</w>
+<w>otros</w><k type="retracing"/></g>
+<w>los</w>
+<w>dos</w>
+<w>otros</w>
+<w>chicos</w>
+<w>pasan</w>
+<w>el</w>
+<w>tiempo</w>
+<w>en</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u11">
+<w>mientras</w>
+<w>la</w>
+<w>madre</w>
+<w>está</w>
+<w>en</w>
+<w>um</w>
+<w>la</w>
+<w>ciudad</w>
+<g><w>mirando</w><k type="retracing"/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u12">
+<g><w>están</w><k type="retracing"/></g>
+<w>están</w>
+<w>mirando</w>
+<w>a</w>
+<w>los</w>
+<w>escaparates</w>
+<w>en</w>
+<w>la</w>
+<w>ventana</w>
+<w>de</w>
+<w>una</w>
+<w>tienda</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u13">
+<w>la</w>
+<w>abuela</w>
+<w>está</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>pintando</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u14">
+<g><w>está</w>
+<w>pi<shortening>ntando</shortening></w><k type="retracing"/></g>
+<w>está</w>
+<w>pintando</w>
+<w>las</w>
+<w>ruedas</w>
+<pause symbolic-length="simple"></pause>
+<w>porque</w>
+<w>quiere</w>
+<w>ah</w>
+<w>construir</w>
+<w>un</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u15">
+<w>al</w>
+<w>mismo</w>
+<w>tiempo</w>
+<w>los</w>
+<w>niños</w>
+<w>está</w>
+<w>ayudando</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u16">
+<w>finalmente</w>
+<w>después</w>
+<w>muchas</w>
+<w>horas</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>ha</w>
+<w>construido</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>las</w>
+<w>ruedas</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u17">
+<w>cuando</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>otro</w>
+<w>niño</w>
+<w>eh</w>
+<g><w>vuel<shortening>van</shortening></w><k type="retracing"/></g>
+<w>vuelvan</w>
+<w>eh</w>
+<w>de</w>
+<w>la</w>
+<w>ciudad</w>
+<w>ven</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>un</w>
+<w>grande</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u18">
+<w>después</w>
+<w>mucho</w>
+<w>tiempo</w>
+<w>hay</w>
+<w>muchas</w>
+<w>personas</w>
+<w>con</w>
+<g><w>lo</w><k type="retracing with correction"/></g>
+<w>las</w>
+<w>cámaras</w>
+<w>cerca</w>
+<w>del</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u19">
+<w>porque</w>
+<g><w>creen</w><k type="retracing with correction"/></g>
+<w>piensan</w>
+<w>que</w>
+<w>es</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>eh</w>
+<g><w>una</w><k type="retracing"/></g>
+<w>una</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u20">
+<w>en</w>
+<w>la</w>
+<w>televisión</w>
+<w>los</w>
+<w>niños</w>
+<w>ven</w>
+<w>esta</w>
+<w>monstruo</w>
+<w>que</w>
+<w>la</w>
+<w>abuela</w>
+<w>ha</w>
+<w>construido</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u21">
+<g><w>un</w>
+<w>eh</w>
+<w>periodista</w><k type="retracing with correction"/></g>
+<g><w>un</w>
+<w>periodisto</w><k type="retracing"/></g>
+<w>un</w>
+<w>periodista</w>
+<w>va</w>
+<w>al</w>
+<w>lago</w>
+<w>para</w>
+<w>hablar</w>
+<w>con</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u22">
+<w>finalmente</w>
+<w>la</w>
+<w>abuela</w>
+<w>tiene</w>
+<w>que</w>
+<w>decir</w>
+<w>que</w>
+<w>no</w>
+<w>es</w>
+<w>un</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u23">
+<w>es</w>
+<w>solo</w>
+<w>una</w>
+<w>xx</w>
+<w>las</w>
+<w>ruedas</w>
+<w>ehm</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>para</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>broma</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u24">
+<w>después</w>
+<w>toda</w>
+<w>la</w>
+<w>gente</w>
+<w>y</w>
+<w>las</w>
+<w>periodistas</w>
+<g><w>han</w>
+<w>ido</w>
+<w>de</w><k type="retracing with correction"/></g>
+<w>han</w>
+<w>partido</w>
+<w>del</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u25">
+<w>la</w>
+<w>eh</w>
+<w>familia</w>
+<w>um</w>
+<g><w>están</w><k type="retracing with correction"/></g>
+<w>está</w>
+<w>preparando</w>
+<w>para</w>
+<w>partir</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u26">
+<g><w>ve</w><k type="retracing with correction"/></g>
+<w>ven</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>un</w>
+<w>monstruo</w>
+<w>gigante</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="L72" uID="u27">
+<w>este</w>
+<w>tiempo</w>
+<w>monstruo</w>
+<w>real</w>
+<t type="p"/>
+
+</u>
+</CHAT>

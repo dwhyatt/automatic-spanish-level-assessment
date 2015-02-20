@@ -1,0 +1,115 @@
+.	fp
+
+cuando	cs
+quieras	vmsp000
+.	fp
+
+familia	nc0s000
+visité	vmis000
+Lago	np00000
+Ness	np00000
+de	sp000
+vacaciones	nc0p000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+las	da0000
+abuela	nc0s000
+no	rn
+la	da0000
+abuela	nc0s000
+pinta	aq0000
+y	cc
+.	fp
+
+la	da0000
+madre	nc0s000
+leer	vmn0000
+de	sp000
+libro	nc0s000
+.	fp
+
+la	da0000
+madre	nc0s000
+de	sp000
+tiendas	nc0p000
+con	sp000
+el	da0000
+chico	nc0s000
+.	fp
+
+la	da0000
+abuela	nc0s000
+y	cc
+dos	pn000000
+chicos	nc0p000
+ruedas	nc0p000
+y	cc
+.	fp
+
+pinta	vmip000
+ruedas	nc0p000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+um	nc0n000
+cuatro	dn0000
+ruedas	nc0p000
+de	sp000
+monstruo	nc0s000
+.	fp
+
+la	da0000
+madre	nc0s000
+y	cc
+lo	da0000
+chico	nc0s000
+volvió	vmis000
+.	fp
+
+muchas	di0000
+turistas	nc0p000
+visité	vmis000
+la	da0000
+monstruo	nc0s000
+.	fp
+
+la	da0000
+periodista	nc0s000
+y	cc
+la	da0000
+abuela	nc0s000
+escucha	vmip000
+de	sp000
+monstruo	nc0s000
+.	fp
+
+eh	vmis000
+la	da0000
+monstruo	nc0s000
+no	rn
+de	sp000
+verdad	nc0s000
+.	fp
+
+la	da0000
+monstruo	nc0s000
+en	sp000
+el	da0000
+río	nc0s000
+en	sp000
+el	da0000
+Lago	np00000
+Ness	np00000
+.	fp
+
+es	vsip000
+de	sp000
+verdad	nc0s000
+mmm	nc0s000
+.	fp
+

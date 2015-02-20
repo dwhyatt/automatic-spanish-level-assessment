@@ -1,0 +1,565 @@
+.	fp
+
+la	da0000
+historia	nc0s000
+de	sp000
+Sara	np00000
+y	cc
+Gwen	np00000
+.	fp
+
+las	da0000
+vacaciones	nc0p000
+de	sp000
+Sarah	np00000
+y	cc
+Gwen	np00000
+en	sp000
+España	np00000
+.	fp
+
+Sarah	np00000
+y	cc
+Gwen	np00000
+eh	np00000
+son	vsip000
+dos	dn0000
+amigas	nc0p000
+que	pr000000
+decidieron	vmis000
+en	sp000
+el	da0000
+verano	nc0s000
+del	sp000
+dos	pn000000
+mil	dn0000
+seis	dn0000
+hacer	vmn0000
+un	di0000
+viaje	nc0s000
+a	sp000
+España	np00000
+.	fp
+
+eh	vmis000
+llegaron	vmis000
+a	sp000
+como	cs
+primer	ao0000
+destino	nc0s000
+a	sp000
+la	da0000
+capital	nc0s000
+.	fp
+
+a	sp000
+Madrid	np00000
+.	fp
+
+recogieron	vmis000
+sus	dp0000
+maletas	nc0p000
+en	sp000
+el	da0000
+aeropuerto	nc0s000
+.	fp
+
+y	cc
+fueron	vsis000
+a	sp000
+visitar	vmn0000
+la	da0000
+ciudad	nc0s000
+.	fp
+
+fueron	vsis000
+al	aq0000
+estadio	nc0s000
+de	sp000
+fútbol	nc0s000
+famoso	aq0000
+por	sp000
+el	da0000
+equipo	nc0s000
+de	sp000
+fútbol	nc0s000
+de	sp000
+Madrid	np00000
+El	da0000
+Real	np00000
+Madrid	np00000
+.	fp
+
+y	cc
+después	rg
+fueron	vsis000
+a	sp000
+la	da0000
+Puerta	np00000
+del	sp000
+Sol	np00000
+.	fp
+
+y	cc
+eso	pd000000
+como	cs
+visita	nc0s000
+más	rg
+cultural	aq0000
+.	fp
+
+y	cc
+después	rg
+ya	rg
+se	p0000000
+fueron	vmis000
+de	sp000
+ocio	nc0s000
+sobre	sp000
+todo	pi000000
+a	sp000
+comer	vmn0000
+a	sp000
+disfrutar	vmn0000
+de	sp000
+la	da0000
+comida	nc0s000
+española	aq0000
+las	da0000
+tapas	nc0p000
+y	cc
+el	da0000
+vino	nc0s000
+.	fp
+
+después	rg
+eh	rg
+decidieron	vmis000
+ir	vmn0000
+a	sp000
+Barcelona	np00000
+y	cc
+.	fp
+
+para	sp000
+eso	pd000000
+fueron	vsis000
+a	sp000
+coger	vmn0000
+un	di0000
+tren	nc0s000
+.	fp
+
+eh	nc0s000
+y	cc
+como	cs
+el	da0000
+tren	nc0s000
+de	sp000
+Barcelona	np00000
+de	sp000
+Madrid	np00000
+a	sp000
+Barcelona	np00000
+tarda	vmip000
+como	cs
+casi	rg
+tres	dn0000
+horas	nc0p000
+.	fp
+
+pues	cs
+tuvieron	vmis000
+mucho	di0000
+tiempo	nc0s000
+para	sp000
+hablar	vmn0000
+y	cc
+recordar	vmn0000
+su	dp0000
+niñez	nc0s000
+porque	cs
+en	sp000
+su	dp0000
+niñez	nc0s000
+eran	vsii000
+amigas	nc0p000
+y	cc
+.	fp
+
+eso	pd000000
+no	rn
+ha	vaip000
+cambiado	vmp0000
+.	fp
+
+lo	da0000
+que	pr000000
+sí	rg
+que	cs
+ha	vaip000
+cambiado	vmp0000
+es	vsip000
+el	da0000
+aspecto	nc0s000
+de	sp000
+Sarah	np00000
+.	fp
+
+sobre	sp000
+todo	pi000000
+.	fp
+
+y	cc
+Sarah	np00000
+llevaba	vmii000
+aparato	nc0s000
+de	sp000
+dientes	nc0p000
+.	fp
+
+era	vsii000
+bizca	nc0s000
+.	fp
+.	fp
+
+pero	cc
+son	vsip000
+amigas	aq0000
+aun	cs
+.	fp
+
+o	cc
+sea	vssp000
+desde	sp000
+pequeñas	aq0000
+hasta	sp000
+ahora	rg
+de	sp000
+mayores	aq0000
+.	fp
+
+sí	rg
+Gwen	np00000
+de	sp000
+niña	nc0s000
+era	vsii000
+muy	rg
+responsable	aq0000
+.	fp
+
+siempre	rg
+xx	np00000
+leía	vmii000
+un	di0000
+libro	nc0s000
+.	fp
+
+escribía	vmii000
+un	di0000
+cuento	nc0s000
+.	fp
+
+pintaba	vmii000
+un	di0000
+cuadro	nc0s000
+.	fp
+
+cada	di0000
+fin	nc0s000
+de	sp000
+semana	nc0s000
+era	vsii000
+lo	da0000
+que	pr000000
+hacía	vmii000
+.	fp
+
+y	cc
+durante	sp000
+la	da0000
+semana	nc0s000
+se	p0000000
+despertaba	vmii000
+muy	rg
+temprano	aq0000
+.	fp
+
+terminaba	vmii000
+sus	dp0000
+deberes	nc0p000
+temprano	aq0000
+.	fp
+
+muy	rg
+responsable	aq0000
+.	fp
+
+Sarah	np00000
+sin	sp000
+embargo	nc0s000
+era	vsii000
+muy	rg
+diferente	aq0000
+.	fp
+
+de	sp000
+niña	nc0s000
+los	pp000000
+fines	nc0p000
+de	sp000
+semana	nc0s000
+jugaba	vmii000
+al	np00000
+fútbol	nc0s000
+.	fp
+
+se	p0000000
+iba	vmii000
+a	sp000
+ver	vmn0000
+películas	nc0p000
+.	fp
+
+y	cc
+durante	sp000
+la	da0000
+semana	nc0s000
+iba	vmii000
+al	np00000
+colegio	nc0s000
+en	sp000
+bici	np00000
+.	fp
+
+como	cs
+buena	aq0000
+deportista	nc0s000
+y	cc
+siempre	rg
+llegaba	vmii000
+tarde	rg
+a	sp000
+clase	nc0s000
+.	fp
+
+hacía	vmii000
+sus	dp0000
+deberes	nc0p000
+siempre	rg
+por	sp000
+por	sp000
+la	da0000
+noche	nc0s000
+con	sp000
+sueño	nc0s000
+.	fp
+
+y	cc
+se	p0000000
+acostaba	vmii000
+muy	rg
+tarde	rg
+.	fp
+
+por	sp000
+eso	pd000000
+llegaba	vmii000
+tarde	rg
+al	aq0000
+cole	nc0s000
+.	fp
+
+y	cc
+de	sp000
+repente	nc0s000
+entonces	rg
+estaban	vmii000
+recordando	vmg0000
+todos	di0000
+estas	dd0000
+cosas	nc0p000
+.	fp
+
+se	pp000000
+se	p0000000
+oye	vmip000
+un	di0000
+crash	nc0s000
+eh	np00000
+como	cs
+si	cs
+algo	pi000000
+se	p0000000
+hubiera	vasi000
+roto	vmp0000
+en	sp000
+en	sp000
+el	da0000
+tren	nc0s000
+.	fp
+
+hay	vaip000
+un	di0000
+gran	aq0000
+revuelo	nc0s000
+y	cc
+.	fp
+
+se	p0000000
+preguntan	vmip000
+que	pr000000
+habrá	vaif000
+ocurrido	aq0000
+si	cs
+habrá	vaif000
+algún	di0000
+problema	nc0s000
+.	fp
+
+en	sp000
+ese	dd0000
+momento	nc0s000
+eh	np00000
+Gwen	np00000
+siente	vmip000
+como	cs
+agua	nc0s000
+de	sp000
+lluvia	nc0s000
+sobre	sp000
+su	dp0000
+cabeza	nc0s000
+.	fp
+
+pero	cc
+se	pp000000
+dan	vmip000
+cuenta	nc0s000
+que	cs
+es	vsip000
+que	cs
+se	p0000000
+ha	vaip000
+roto	vmp0000
+el	da0000
+aire	nc0s000
+acondicionado	aq0000
+.	fp
+
+y	cc
+se	p0000000
+le	pp000000
+cae	vmip000
+se	p0000000
+la	pp000000
+está	vmip000
+cayendo	vmg0000
+todo	di0000
+el	da0000
+agua	nc0s000
+encima	rg
+.	fp
+
+y	cc
+pues	cs
+Sarah	np00000
+se	p0000000
+ríe	np00000
+muchísimo	rg
+de	sp000
+esta	dd0000
+situación	nc0s000
+.	fp
+
+pero	cc
+se	pp000000
+ríe	np00000
+pero	cc
+además	rg
+va	vmip000
+a	sp000
+buscar	vmn0000
+al	np00000
+revisor	nc0s000
+para	sp000
+que	cs
+les	pp000000
+ayude	vmm0000
+.	fp
+
+y	cc
+el	da0000
+revisor	nc0s000
+les	pp000000
+cambia	vmip000
+de	sp000
+asiento	nc0s000
+para	sp000
+que	cs
+no	rn
+tengan	vmsp000
+ningún	di0000
+problema	nc0s000
+.	fp
+
+ya	rg
+se	p0000000
+tranquilizan	vmip000
+y	cc
+todo	pi000000
+pues	cs
+genial	aq0000
+.	fp
+
+llegan	vmip000
+sin	sp000
+ningún	di0000
+problema	nc0s000
+más	rg
+a	sp000
+Barcelona	np00000
+.	fp
+
+y	cc
+en	sp000
+Barcelona	np00000
+pues	cs
+pasan	vmip000
+el	da0000
+fin	nc0s000
+de	sp000
+semana	nc0s000
+pues	cs
+también	rg
+comiendo	vmg0000
+.	fp
+
+muy	rg
+pues	cs
+muy	rg
+a	sp000
+gusto	nc0s000
+comiendo	vmg0000
+pizza	nc0s000
+y	cc
+riéndose	vmsi000
+mucho	rg
+recordando	vmg0000
+el	da0000
+viaje	nc0s000
+.	fp
+
+um	nc0n000
+um	nc0n000
+.	fp
+
+um	nc0n000
+ya	rg
+ya	rg
+está	vmip000
+.	fp
+
+sí	rg
+.	fp
+

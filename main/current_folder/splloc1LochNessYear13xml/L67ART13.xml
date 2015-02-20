@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L67ART13"
+      Date="2007-04-15">
+<Participants>
+<participant
+  id="L67"
+  role="Participant"
+language="es"
+sex="male"
+group="Undergraduate"
+
+/>
+<participant
+  id="ART"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">15-APR-2007</comment>
+<comment type="Location">BT</comment>
+<comment type="Situation">Story retelling based on a picture book about a family staying by the Loch Ness</comment>
+<comment type="Transcriber">COG</comment>
+<u who="ART" uID="u0">
+<freecode>eng: Task Loch Ness eh student number sixty seven School Name fifteenth April</freecode>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u1">
+<w>bueno</w>
+<w>um</w>
+<w>esta</w>
+<w>historia</w>
+<w>sobre</w>
+<w>una</w>
+<w>familia</w>
+<w>ehm</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>en</w>
+<w>Escocia</w>
+<w>y</w>
+<w>bueno</w>
+<w>um</w>
+<w>van</w>
+<w>a</w>
+<w>un</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u2">
+<w>la</w>
+<w>abuela</w>
+<w>um</w>
+<w>está</w>
+<w>pintando</w>
+<w>um</w>
+<w>una</w>
+<w>imagen</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u3">
+<g><w>el</w>
+<w>ma<shortening>dre</shortening></w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>madre</w>
+<w>um</w>
+<g><w>se</w>
+<w>um</w>
+<w>lee</w><k type="retracing with correction"/></g>
+<w>está</w>
+<w>leyendo</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u4">
+<g><w>y</w>
+<w>los</w><k type="retracing with correction"/></g>
+<w>y</w>
+<w>dos</w>
+<w>chicos</w>
+<w>um</w>
+<w>están</w>
+<w>haciendo</w>
+<w>y</w>
+<w>claro</w>
+<w>sí</w>
+<t type="trail off"/>
+
+</u>
+<u who="L67" uID="u5">
+<w>um</w>
+<w>la</w>
+<w>abuela</w>
+<w>ha</w>
+<w>pintado</w>
+<g><w>una</w>
+<w>imagen</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>dibujo</w>
+<w>de</w>
+<w>un</w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo</a>
+</u>
+<u who="L67" uID="u6">
+<w>y</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>un</w>
+<w>niño</w>
+<g><w>van</w>
+<w>en</w>
+<w>coche</w><k type="retracing with correction"/></g>
+<g><w>se</w><k type="retracing"/></g>
+<w>se</w>
+<w>van</w>
+<w>en</w>
+<w>coche</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u7">
+<w>um</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>su</w>
+<w>hijo</w>
+<w>están</w>
+<w>en</w>
+<w>una</w>
+<w>ciudad</w>
+<w>en</w>
+<w>un</w>
+<w>pueblo</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u8">
+<w>y</w>
+<w>la</w>
+<w>madre</w>
+<g><w>mira</w><k type="retracing with correction"/></g>
+<w>está</w>
+<g><w>miriendo<replacement><w>mirando</w></replacement></w><error/></g>
+<w>en</w>
+<w>una</w>
+<g><w>escaparate</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">escapatera = escaparate</a>
+</u>
+<u who="L67" uID="u9">
+<w>y</w>
+<w>bueno</w>
+<w>um</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>chicos</w>
+<w>um</w>
+<w>pintan</w>
+<w>xxx</w>
+<w>ruedas</w>
+<w>en</w>
+<w>la</w>
+<w>barca</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u10">
+<w>y</w>
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<w>estas</w>
+<w>ruedas</w>
+<w>están</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L67" uID="u11">
+<g><w>son</w>
+<w>como</w><k type="retracing with correction"/></g>
+<w>están</w>
+<w>como</w>
+<w>un</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo .</a>
+</u>
+<u who="L67" uID="u12">
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>sus</w>
+<w>chicos</w>
+<w>um</w>
+<g><w>vuelven</w><error/></g>
+<w>al</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">vuelten = vuelven .</a>
+</u>
+<u who="L67" uID="u13">
+<g><w>pueden</w>
+<w>mirir<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>pueden</w>
+<w>ir</w>
+<w>um</w>
+<g><w>en</w><k type="retracing with correction"/></g>
+<w>como</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo .</a>
+</u>
+<u who="L67" uID="u14">
+<w>y</w>
+<w>entonces</w>
+<w>hay</w>
+<w>muchas</w>
+<w>personas</w>
+<w>eh</w>
+<w>periodistas</w>
+<w>y</w>
+<w>turistas</w>
+<w>que</w>
+<w>creen</w>
+<w>que</w>
+<w>hay</w>
+<w>un</w>
+<g><w>monstruo</w><error/></g>
+<w>en</w>
+<w>el</w>
+<g><w>lago</w><error/></g>
+<w>pero</w>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo largo = lago</a>
+</u>
+<u who="L67" uID="u15">
+<w>en</w>
+<w>realidad</w>
+<g><w>es</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>es</w>
+<w>un</w>
+<g><w>monstruo</w><error/></g>
+<w>es</w>
+<w>eh</w>
+<w>ruedas</w>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo .</a>
+</u>
+<u who="L67" uID="u16">
+<w>y</w>
+<w>los</w>
+<w>chicos</w>
+<w>pueden</w>
+<w>ver</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo .</a>
+</u>
+<u who="L67" uID="u17">
+<g><w>el</w>
+<w>fin</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>final</w>
+<w>um</w>
+<g><w>la</w><k type="retracing"/></g>
+<w>la</w>
+<w>abuela</w>
+<w>dicen</w>
+<g><w>a</w><k type="retracing with correction"/></g>
+<w>al</w>
+<g><w>periodista</w><error/></g>
+<g><w>que</w>
+<w>la</w>
+<w>verdad</w>
+<w>que</w>
+<w>es</w>
+<w>eh</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<g><w>es</w><k type="retracing"/></g>
+<g><w>es</w><k type="retracing"/></g>
+<w>eh</w>
+<w>es</w>
+<w>de</w>
+<w>ruedas</w><a type="explanation">r</a></g>
+<t type="p"/>
+
+<a type="errcoding">periodisto = periodista monestro = monstruo .</a>
+</u>
+<u who="L67" uID="u18">
+<w>y</w>
+<w>bueno</w>
+<g><w>en</w>
+<w>el</w><k type="retracing"/></g>
+<w>en</w>
+<w>el</w>
+<w>último</w>
+<w>dibujo</w>
+<g><w>hay</w>
+<w>un</w><k type="retracing"/></g>
+<w>hay</w>
+<w>un</w>
+<w>monstruo</w>
+<w>pero</w>
+<w>es</w>
+<w>real</w>
+<w>no</w>
+<w>es</w>
+<w>de</w>
+<w>ruedas</w>
+<t type="p"/>
+
+<a type="errcoding">monestro = monstruo .</a>
+</u>
+</CHAT>

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C98SMPUG"
+      Date="2009-02-27">
+<Participants>
+<participant
+  id="C98"
+  role="Participant"
+language="es"
+sex="female"
+group="UG"
+
+/>
+<participant
+  id="SMP"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">27-FEB-2009</comment>
+<comment type="Location">UN</comment>
+<comment type="Situation">Cat story</comment>
+<comment type="Transcriber">EFDP</comment>
+<comment type="Time Duration">00:04:25</comment>
+<u who="SMP" uID="u0">
+<freecode>eng: ninety eight</freecode>
+<w>bueno</w>
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Nati</w>
+<g><w>y</w>
+<w>el</w>
+<w>ga<shortening>to</shortening></w><k type="retracing"/></g>
+<w>y</w>
+<w>el</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u1">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u2">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u3">
+<w>Natalia</w>
+<w>se</w>
+<w>despertó</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u4">
+<w>contó</w>
+<w>una</w>
+<w>historia</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>sus</w>
+<w>peluches</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u5">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u6">
+<w>después</w>
+<w>pintaba</w>
+<w>una</w>
+<g><w>cuadro</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">cuadra=cuadro</a>
+</u>
+<u who="C98" uID="u7">
+<w>hacía</w>
+<w>modelos</w>
+<w>de</w>
+<w>cartón</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u8">
+<w>jugaba</w>
+<w>con</w>
+<w>otros</w>
+<w>niños</w>
+<w>y</w>
+<w>también</w>
+<w>a</w>
+<w>solas</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u9">
+<w>y</w>
+<w>Pancho</w>
+<w>se</w>
+<w>despertaba</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u10">
+<g><w>salió</w>
+<w>por</w>
+<w>el</w>
+<w>gatero</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>em</w>
+<w>salía</w>
+<w>por</w>
+<w>el</w>
+<w>gatero</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u11">
+<g><w>su<shortening>bía</shortening></w><k type="retracing"/></g>
+<w>subía</w>
+<w>al</w>
+<w>árbol</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u12">
+<w>perseguía</w>
+<w>mariposas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u13">
+<w>después</w>
+<w>de</w>
+<w>todo</w>
+<w>esto</w>
+<w>se</w>
+<w>descansaba</w>
+<w>en</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u14">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u15">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>eh</w>
+<w>Nati</w>
+<w>y</w>
+<w>Pancho</w>
+<w>em</w>
+<w>se</w>
+<w>encontraron</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u16">
+<g><w>volvié</w><k type="retracing with correction"/></g>
+<w>volvían</w>
+<w>a</w>
+<w>casa</w>
+<w>juntos</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u17">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salía</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u18">
+<w>estaba</w>
+<w>persiguiendo</w>
+<w>a</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u19">
+<w>un</w>
+<w>pájaro</w>
+<t type="q"/>
+
+</u>
+<u who="C98" uID="u20">
+<w>sí</w>
+<w>eh</w>
+<w>estaba</w>
+<w>persiguiendo</w>
+<w>un</w>
+<w>pájaro<f type="generic"/></w>
+<w>cuando</w>
+<w>encontró</w>
+<g><w>un</w>
+<w>rato</w><k type="retracing with correction"/></g>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>ratón</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u21">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u22">
+<w>um</w>
+<w>cerca</w>
+<w>de</w>
+<w>la</w>
+<w>basura</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u23">
+<w>eh</w>
+<w>persiguió</w>
+<w>el</w>
+<w>ratón</w>
+<w>pero</w>
+<w>um</w>
+<g><w>de</w><k type="retracing"/></g>
+<g><w>de</w><k type="retracing"/></g>
+<w>de</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>encontró</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>perro</w>
+<w>que</w>
+<w>estaba</w>
+<w>ladrando</w>
+<w>muy</w>
+<w>fuerte</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u24">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u25">
+<w>um</w>
+<w>Gancho</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u26">
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u27">
+<w>Pancho</w>
+<w>estaba</w>
+<w>asustado</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u28">
+<w>salió</w>
+<w>corriendo</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u29">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u30">
+<w>y</w>
+<w>Nati</w>
+<w>estaba</w>
+<w>pensando</w>
+<w>pues</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="C98" uID="u31">
+<linker type="quoted utterance next"/>
+<w>dónde</w>
+<w>está</w>
+<w>Pancho</w>
+<t type="q"/>
+
+</u>
+<u who="SMP" uID="u32">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u33">
+<w>um</w>
+<w>Nati</w>
+<w>buscaba</w>
+<w>a</w>
+<w>Pancho</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>pero</w>
+<w>no</w>
+<w>estaba</w>
+<w>en</w>
+<w>su</w>
+<w>cesta</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>salón</w>
+<w>en</w>
+<w>su</w>
+<w>árbol</w>
+<w>favorito</w>
+<g><w>y</w><k type="retracing with correction"/></g>
+<w>e</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u34">
+<w>incluso</w>
+<w>preguntaba</w>
+<w>a</w>
+<w>una</w>
+<w>rana</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u35">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u36">
+<w>pero</w>
+<w>no</w>
+<w>tenía</w>
+<w>ni</w>
+<w>idea</w>
+<w>de</w>
+<w>don<shortening>de</shortening></w>
+<t type="p"/>
+
+<a type="comments">[batteries ran out on the recorder so story continues]</a>
+</u>
+<u who="SMP" uID="u37">
+<freecode>eng: participant ninety eight we go on with Nati and Pancho</freecode>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u38">
+<w>pero</w>
+<w>de</w>
+<w>repente</w>
+<w>Nati</w>
+<w>tuvo</w>
+<w>eh</w>
+<w>una</w>
+<w>idea</w>
+<w>brillante</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u39">
+<w>decidí</w>
+<w>echar</w>
+<w>una</w>
+<w>línea</w>
+<w>de</w>
+<w>comida</w>
+<w>de</w>
+<w>gato</w>
+<w>desde</w>
+<w>el</w>
+<w>gatero</w>
+<w>hasta</w>
+<w>la</w>
+<w>cesta</w>
+<w>y</w>
+<w>esperar</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u40">
+<w>Pancho</w>
+<w>llegó</w>
+<w>al</w>
+<w>jardín</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u41">
+<w>pensó</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="C98" uID="u42">
+<linker type="quoted utterance next"/>
+<w>donde</w>
+<w>está</w>
+<w>Nati</w>
+<t type="q"/>
+
+</u>
+<u who="C98" uID="u43">
+<linker type="quoted utterance next"/>
+<w>me</w>
+<w>ha</w>
+<w>dejado</w>
+<t type="q"/>
+
+</u>
+<u who="C98" uID="u44">
+<w>Pancho</w>
+<g><w>vol<shortening>vió</shortening></w><k type="retracing"/></g>
+<w>volvió</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>empapado</w>
+<g><w>por</w>
+<w>la</w><k type="retracing"/></g>
+<w>por</w>
+<w>la</w>
+<w>lluvia</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u45">
+<g><w>um</w><k type="retracing"/></g>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u46">
+<w>y</w>
+<w>entró</w>
+<w>por</w>
+<w>el</w>
+<w>gatero</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u47">
+<w>dijo</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="C98" uID="u48">
+<linker type="quoted utterance next"/>
+<w>eh</w>
+<w>por</w>
+<w>qué</w>
+<w>está</w>
+<w>aquí</w>
+<w>mi</w>
+<w>comida</w>
+<t type="q"/>
+
+</u>
+<u who="C98" uID="u49">
+<w>siguió</w>
+<w>la</w>
+<w>línea</w>
+<w>de</w>
+<w>comida</w>
+<w>hasta</w>
+<w>la</w>
+<w>cesta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u50">
+<w>quién</w>
+<w>estaba</w>
+<w>ahí</w>
+<t type="q"/>
+
+</u>
+<u who="C98" uID="u51">
+<w>estaba</w>
+<w>Nati</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u52">
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C98" uID="u53">
+<w>fin</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u54">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

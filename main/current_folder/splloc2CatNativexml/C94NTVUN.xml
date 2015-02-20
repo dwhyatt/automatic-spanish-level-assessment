@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C94NTVUN"
+      Date="2009-02-12">
+<Participants>
+<participant
+  id="C94"
+  role="Participant"
+language="es"
+sex="female"
+SES="UN"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">12-FEB-2009</comment>
+<comment type="Location">US</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:01:57</comment>
+<u who="C94" uID="u0">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u1">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u2">
+<w>Natalia</w>
+<w>leía</w>
+<w>cuentos</w>
+<w>a</w>
+<w>sus</w>
+<w>muñecos</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u3">
+<w>pintaba</w>
+<w>cuadros</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u4">
+<w>hacía</w>
+<w>casitas</w>
+<w>de</w>
+<w>papel</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u5">
+<w>iba</w>
+<w>con</w>
+<w>su</w>
+<w>amigo</w>
+<w>a</w>
+<w>montar</w>
+<w>en</w>
+<w>bici</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u6">
+<w>montaba</w>
+<w>en</w>
+<w>los</w>
+<w>columpios</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u7">
+<w>Pancho</w>
+<w>dormía</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u8">
+<w>entraba</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>por</w>
+<w>el</w>
+<w>agujero</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u9">
+<w>trepaba</w>
+<w>los</w>
+<w>árboles</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u10">
+<w>iba</w>
+<w>a</w>
+<w>cazar</w>
+<w>mariposas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u11">
+<w>tomaba</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u12">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>Pancho</w>
+<w>y</w>
+<w>Natalia</w>
+<w>se</w>
+<w>reencontraban</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u13">
+<w>se</w>
+<w>iban</w>
+<w>a</w>
+<w>casa</w>
+<w>juntos</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u14">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salió</w>
+<w>a</w>
+<w>cazar</w>
+<w>palomas</w>
+<w>cuando</w>
+<w>de</w>
+<w>repente</w>
+<w>vio</w>
+<w>a</w>
+<w>un</w>
+<w>ratón</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u15">
+<w>se</w>
+<w>fue</w>
+<w>a</w>
+<w>por</w>
+<w>el</w>
+<w>ratón</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u16">
+<w>se</w>
+<w>dio</w>
+<w>cuenta</w>
+<w>de</w>
+<w>que</w>
+<w>alguien</w>
+<w>estaba</w>
+<w>ladrando</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u17">
+<w>era</w>
+<w>un</w>
+<w>perro</w>
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u18">
+<w>huyó</w>
+<w>despavorido</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u19">
+<w>Natalia</w>
+<w>se</w>
+<w>preguntaba</w>
+<w>dónde</w>
+<w>estaba</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u20">
+<w>lo</w>
+<w>buscó</w>
+<w>por</w>
+<w>todos</w>
+<w>lados</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u21">
+<w>por</w>
+<w>el</w>
+<w>jardín</w>
+<w>junto</w>
+<w>a</w>
+<w>sus</w>
+<w>juguetes</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u22">
+<w>en</w>
+<w>su</w>
+<w>cama</w>
+<w>detrás</w>
+<w>del</w>
+<w>sofá</w>
+<w>en</w>
+<w>los</w>
+<w>árboles</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u23">
+<w>hasta</w>
+<w>le</w>
+<w>preguntó</w>
+<w>a</w>
+<w>una</w>
+<w>rana</w>
+<w>que</w>
+<w>dónde</w>
+<w>estaba</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u24">
+<w>nadie</w>
+<w>sabía</w>
+<w>dónde</w>
+<w>estaba</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u25">
+<w>así</w>
+<w>Natalia</w>
+<w>se</w>
+<w>quedó</w>
+<w>pensativa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u26">
+<w>pensó</w>
+<w>que</w>
+<w>si</w>
+<w>ponía</w>
+<w>la</w>
+<w>comida</w>
+<w>por</w>
+<w>toda</w>
+<w>la</w>
+<w>casa</w>
+<w>quizás</w>
+<w>Pancho</w>
+<w>regresaría</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u27">
+<w>Pancho</w>
+<w>se</w>
+<w>preguntaba</w>
+<w>también</w>
+<w>dónde</w>
+<w>estaba</w>
+<w>Nati</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u28">
+<w>se</w>
+<w>pensaba</w>
+<w>que</w>
+<w>se</w>
+<w>había</w>
+<w>ido</w>
+<w>de</w>
+<w>casa</w>
+<w>y</w>
+<w>le</w>
+<w>había</w>
+<w>abandonado</w>
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u29">
+<w>empezó</w>
+<w>a</w>
+<w>llover</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u30">
+<w>Pancho</w>
+<w>se</w>
+<w>fue</w>
+<w>a</w>
+<w>casa</w>
+<w>desolado</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u31">
+<w>cuando</w>
+<w>llegó</w>
+<w>a</w>
+<w>casa</w>
+<w>había</w>
+<w>comida</w>
+<w>para</w>
+<w>él</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u32">
+<w>cuando</w>
+<w>se</w>
+<w>dio</w>
+<w>cuenta</w>
+<w>en</w>
+<w>su</w>
+<w>cama</w>
+<w>había</w>
+<w>un</w>
+<w>bulto</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u33">
+<w>era</w>
+<w>Natalia</w>
+<w>que</w>
+<w>se</w>
+<w>había</w>
+<w>quedado</w>
+<w>dormida</w>
+<w>buscándolo</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u34">
+<w>al</w>
+<w>final</w>
+<w>se</w>
+<w>reencontraron</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C94" uID="u35">
+<w>el</w>
+<w>final</w>
+<w>feliz</w>
+<t type="p"/>
+
+</u>
+</CHAT>

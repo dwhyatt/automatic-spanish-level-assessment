@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H11SMP10"
+      Date="2009-05-19">
+<Participants>
+<participant
+  id="H11"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="SMP"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">19-MAY-2009</comment>
+<comment type="Location">MB</comment>
+<comment type="Situation">Hermanas Story</comment>
+<comment type="Transcriber">ART</comment>
+<comment type="Time Duration">00:2:46</comment>
+<u who="SMP" uID="u0">
+<freecode>eng: eleven</freecode>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u1">
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>las</w>
+<w>hermanas</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u2">
+<w>en</w>
+<w>Madrid</w>
+<g><w>ellas</w><error/></g>
+<w>visita</w>
+<w>la</w>
+<w>ciudad</w>
+<t type="p"/>
+
+<a type="errcoding">elyas = ellas</a>
+</u>
+<u who="H11" uID="u3">
+<g><w>ellas</w><error/></g>
+<w>come</w>
+<w>tapas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u4">
+<g><w>bibe<replacement><w>bebe</w></replacement></w><error/></g>
+<w>vino</w>
+<t type="p"/>
+
+<a type="errcoding">elyas = ellas</a>
+</u>
+<u who="SMP" uID="u5">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u6">
+<w>después</w>
+<g><w>dicidi<shortening>ran</shortening><replacement><w>decidieron</w></replacement></w><error/><k type="retracing"/></g>
+<g><w>dicidiran<replacement><w>decidieron</w></replacement></w><error/></g>
+<w>ir</w>
+<w>a</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u7">
+<g><w>ellos</w><error/></g>
+<g><w>cogue<replacement><w>coge</w></replacement></w><error/></g>
+<w>el</w>
+<w>tren</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">elyos = ellos</a>
+</u>
+<u who="H11" uID="u8">
+<w>habla</w>
+<w>sobre</w>
+<w>su</w>
+<w>niñez</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u9">
+<w>de</w>
+<g><w>pequeñas</w><error/></g>
+<g><w>se<replacement><w>es</w></replacement></w><error/></g>
+<w>muy</w>
+<w>diferentes</w>
+<t type="p"/>
+
+<a type="errcoding">puquenas = pequeñas</a>
+</u>
+<u who="H11" uID="u10">
+<w>Gwen</w>
+<w>de</w>
+<w>niña</w>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>lee</w>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u11">
+<w>pinta</w>
+<w>un</w>
+<w>cuadro</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u12">
+<w>escribe</w>
+<w>un</w>
+<w>cuento</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u13">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>despertarse</w>
+<w>temprano</w>
+<w>a</w>
+<w>siete</w>
+<w>y</w>
+<w>cinco</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u14">
+<g><w>termin<shortening>a</shortening></w><k type="retracing"/></g>
+<w>termina</w>
+<w>su</w>
+<w>deberes</w>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u15">
+<w>Sarah</w>
+<w>de</w>
+<w>niña</w>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<w>euh</w>
+<w>Sarah</w>
+<g><w>juga<replacement><w>juega</w></replacement></w><error/></g>
+<w>al</w>
+<w>fútbol</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u16">
+<w>ve</w>
+<w>un</w>
+<w>película</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u17">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>Sarah</w>
+<w>ir</w>
+<w>a</w>
+<w>colegio</w>
+<w>en</w>
+<w>bicicleta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u18">
+<g><w>le<shortening>ga</shortening><replacement><w>llega</w></replacement></w><error/><k type="retracing with correction"/></g>
+<g><w>luega<replacement><w>llega</w></replacement></w><error/></g>
+<w>tarde</w>
+<w>a</w>
+<w xml:lang="d">class</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u19">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u20">
+<w>Sarah</w>
+<w>hacer</w>
+<w>su</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>e</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u21">
+<g><w>acosta<replacement><w>acuesta</w></replacement></w><error/><k type="retracing with correction"/></g>
+<w>acostarse</w>
+<w>muy</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u22">
+<w>de</w>
+<w>repente</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>um</w>
+<g><w>ellos</w><error/></g>
+<w>haber</w>
+<w>un</w>
+<w>gran</w>
+<w>revuelo</w>
+<w>e</w>
+<t type="p"/>
+
+<a type="errcoding">elyos = ellos</a>
+</u>
+<u who="H11" uID="u23">
+<g><w>cria<replacement><w>cree</w></replacement></w><error/></g>
+<w>que</w>
+<w>había</w>
+<w>un</w>
+<g><w>problema</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">problemo = problema</a>
+</u>
+<u who="SMP" uID="u24">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u25">
+<w>euh</w>
+<t type="interruption"/>
+
+</u>
+<u who="H11" uID="u26">
+<freecode>eng: oh I can't think of</freecode>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u27">
+<freecode>eng: is that water</freecode>
+<t type="q"/>
+
+</u>
+<u who="H11" uID="u28">
+<w xml:lang="a">yeah</w>
+<t type="q"/>
+
+</u>
+<u who="SMP" uID="u29">
+<w xml:lang="a">yeah</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u30">
+<w xml:lang="a">okay</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u31">
+<linker type="self completion"/>
+<w>um</w>
+<w>Gwen</w>
+<w>sentía</w>
+<w>agua</w>
+<w>de</w>
+<g><w>lluvia</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">luivia = lluvia</a>
+</u>
+<u who="H11" uID="u32">
+<w>ellos</w>
+<g><w>necita<replacement><w>necesita</w></replacement></w><error/></g>
+<w>ayuda</w>
+<w>del</w>
+<w>revisor</w>
+<t type="p"/>
+
+<a type="errcoding">elyos = ellos</a>
+</u>
+<u who="SMP" uID="u33">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u34">
+<w>ayuda</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<w>asiento</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u35">
+<w>ellos</w>
+<g><w>tranqüilarsa<replacement><w>tranquilizarse</w></replacement></w><error/><k type="retracing with correction"/></g>
+<g><w>tranqüilarse<replacement><w>tranquilizarse</w></replacement></w><error/></g>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u36">
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u37">
+<freecode>eng: yeah they relaxed</freecode>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u38">
+<w>al</w>
+<w>final</w>
+<w>en</w>
+<w>Barcelona</w>
+<w>Gwen</w>
+<w>y</w>
+<w>Sarah</w>
+<w>comer</w>
+<w>una</w>
+<w>pizza</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H11" uID="u39">
+<g><w>rierse<replacement><w>reírse</w></replacement></w><error/></g>
+<w>al</w>
+<w>recordar</w>
+<w>el</w>
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+</CHAT>

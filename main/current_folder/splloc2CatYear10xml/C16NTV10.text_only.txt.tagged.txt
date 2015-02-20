@@ -1,0 +1,326 @@
+.	fp
+.	fp
+
+um	pp000000
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+euh	nc0s000
+Natalia	np00000
+leí	vmis000
+un	di0000
+libro	nc0s000
+y	cc
+.	fp
+
+pintar	vmn0000
+un	di0000
+.	fp
+
+cuadro	nc0s000
+.	fp
+
+um	pp000000
+y	cc
+um	nc0n000
+.	fp
+
+um	nc0n000
+construí	aq0000
+um	nc0n000
+un	di0000
+casa	nc0s000
+.	fp
+
+um	pp000000
+y	cc
+jugué	vmis000
+con	sp000
+un	di0000
+bicicleta	nc0s000
+um	pp000000
+y	cc
+.	fp
+
+mm	nc0n000
+oh	np00000
+.	fp
+
+euh	nc0s000
+jugué	vmis000
+con	sp000
+las	da0000
+juguetes	aq0000
+.	fp
+
+juguetes	nc0p000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+um	pp000000
+y	cc
+Pancho	np00000
+euh	nc0s000
+dormir	vmn0000
+o	cc
+.	fp
+
+dormí	vmis000
+y	cc
+euh	nc0s000
+.	fp
+
+salir	vmn0000
+.	fp
+
+um	nc0n000
+.	fp
+
+salir	vmn0000
+de	sp000
+mmm	nc0s000
+euh	nc00000
+gatero	aq0000
+.	fp
+
+um	nc0n000
+Pancho	np00000
+.	fp
+.	fp
+
+escalar	nc0s000
+de	sp000
+árbol	nc0s000
+.	fp
+.	fp
+
+um	pp000000
+y	cc
+perseguí	vmis000
+un	di0000
+mariposa	aq0000
+.	fp
+
+y	cc
+um	np00000
+dormir	vmn0000
+en	sp000
+el	da0000
+sol	nc0s000
+.	fp
+.	fp
+.	fp
+
+tomar	vmn0000
+sol	nc0s000
+.	fp
+.	fp
+
+um	nc0n000
+al	nc0n000
+final	aq0000
+del	sp000
+día	nc0s000
+um	np00000
+Nati	np00000
+y	cc
+Pancho	np00000
+mmm	np00000
+.	fp
+
+euh	nc0s000
+encontrar	vmn0000
+y	cc
+euh	nc0s000
+um	np00000
+um	np00000
+.	fp
+
+volví	vmis000
+de	sp000
+casa	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+euh	nc0s000
+Pancho	np00000
+salir	vmn0000
+de	sp000
+gatero	nc0s000
+.	fp
+
+um	nc0n000
+gato	nc0s000
+um	np00000
+perseguir	vmn0000
+un	di0000
+um	nc0n000
+pájaro	nc0s000
+.	fp
+.	fp
+.	fp
+
+um	nc0n000
+no	rn
+.	fp
+
+um	nc0n000
+ah	nc0n000
+um	nc0n000
+Pancho	np00000
+descubrir	vmn0000
+un	di0000
+ratón	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+no	rn
+.	fp
+.	fp
+
+Pancho	np00000
+asustar	vmn0000
+un	di0000
+um	nc0n000
+.	fp
+
+perro	nc0s000
+.	fp
+.	fp
+.	fp
+
+um	nc0n000
+.	fp
+.	fp
+
+um	nc0n000
+Pancho	np00000
+salir	vmn0000
+corriendo	vmg0000
+.	fp
+
+y	cc
+Nati	np00000
+euh	np00000
+buscar	vmn0000
+euh	nc0s000
+Pancho	np00000
+.	fp
+.	fp
+
+um	nc0n000
+Nati	np00000
+um	np00000
+buscar	vmn0000
+por	sp000
+um	np00000
+Pancho	np00000
+en	sp000
+el	da0000
+.	fp
+
+la	da0000
+cesta	aq0000
+.	fp
+
+y	cc
+um	np00000
+detrás	rg
+.	fp
+
+detrás	rg
+de	sp000
+sofá	nc0s000
+.	fp
+
+sofá	nc0s000
+um	nc0n000
+euh	nc0s000
+.	fp
+
+preguntar	vmn0000
+.	fp
+.	fp
+
+um	nc0n000
+Nati	np00000
+preguntar	vmn0000
+un	di0000
+rana	aq0000
+.	fp
+
+euh	nc0s000
+no	rn
+.	fp
+
+triste	aq0000
+.	fp
+.	fp
+
+um	nc0n000
+Nati	np00000
+es	vsip000
+triste	aq0000
+euh	nc0s000
+porque	cs
+Pancho	np00000
+no	rn
+es	vsip000
+descubrí	nc0s000
+.	fp
+
+um	nc0n000
+um	nc0n000
+mmm	nc0n000
+Pancho	np00000
+buscar	vmn0000
+Nati	np00000
+y	cc
+.	fp
+
+pensar	vmn0000
+pensar	vmn0000
+.	fp
+.	fp
+
+Nati	np00000
+es	vsip000
+salir	vmn0000
+corriendo	vmg0000
+.	fp
+
+um	nc0n000
+euh	nc0s000
+Pancho	np00000
+volver	vmn0000
+de	sp000
+casa	nc0s000
+y	cc
+.	fp
+
+descubrir	vmn0000
+Nati	np00000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+fin	nc0s000
+.	fp
+

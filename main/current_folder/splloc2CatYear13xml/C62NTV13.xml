@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Font="Win95:Times New Roman:-16:0"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C62NTV13"
+      Date="2009-12-03">
+<Participants>
+<participant
+  id="C62"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year13"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">03-DEC-2009</comment>
+<comment type="Location">PS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:05:11</comment>
+<u who="C62" uID="u0">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u1">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>igua<shortening>les</shortening></w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u2">
+<w>Natalia</w>
+<w>se</w>
+<w>despierto</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u3">
+<w>pintó</w>
+<w>una</w>
+<w>pictura<f type="neologism"/></w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u4">
+<g><w>consturio<replacement><w>construyó</w></replacement></w><error/></g>
+<w>una</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u5">
+<w>también</w>
+<w>salgo</w>
+<w>con</w>
+<w>tus</w>
+<w>amigos</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u6">
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<g><w>des<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>durmió</w>
+<w>en</w>
+<w>su</w>
+<w>cesta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u7">
+<w>salgo</w>
+<w>de</w>
+<w>el</w>
+<w>gatero</w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u8">
+<w>subió</w>
+<w>el</w>
+<w>árbol</w>
+<w>y</w>
+<w>también</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u9">
+<w>persiguió</w>
+<w>la</w>
+<w>mariposa</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>y</w>
+<w>también</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u10">
+<w>tomó</w>
+<w>el</w>
+<w>sol</w>
+<w>en</w>
+<w>el</w>
+<g><w>jar<shortening>dín</shortening></w><k type="retracing"/></g>
+<w>jardín</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u11">
+<w>el</w>
+<w>fin</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<w>Natalia</w>
+<w>y</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>encontró</w>
+<w>en</w>
+<w>el</w>
+<w>mismo</w>
+<w>sitio</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u12">
+<w>fui</w>
+<w>a</w>
+<w>casa</w>
+<w>juntos</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u13">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salgo</w>
+<w>al</w>
+<w>gatitero<f type="neologism"/></w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u14">
+<g><w>pers<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>persigo</w>
+<w>no</w>
+<w>la</w>
+<w>esposa</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u15">
+<w>persigo</w>
+<w>una</w>
+<w>paloma</w>
+<w>y</w>
+<w>también</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u16">
+<w>persigo</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u17">
+<w>un</w>
+<w>ratón</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u18">
+<linker type="self completion"/>
+<w>un<f type="generic"/></w>
+<w>ratón<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u19">
+<w>después</w>
+<w>de</w>
+<w>esto</w>
+<w>Pancho</w>
+<w>salgo</w>
+<w>corrido</w>
+<w>de</w>
+<w>un</w>
+<w>perro</w>
+<w>muy</w>
+<w>grande</w>
+<w>y</w>
+<w>malo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u20">
+<g><w>Natalia</w><error/></g>
+<w>estoy</w>
+<w>en</w>
+<w>el</w>
+<w>mismo</w>
+<w>sitio</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<w>cuarto</w>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="C62" uID="u21">
+<w>Pancho</w>
+<w>no</w>
+<w>está</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u22">
+<g><w>Natalia</w><error/></g>
+<w>fui</w>
+<w>a</w>
+<w>casa</w>
+<w>solas</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="C62" uID="u23">
+<w>buscó</w>
+<w>a</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u24">
+<w>buscó</w>
+<w>en</w>
+<w>la</w>
+<w>silla</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u25">
+<w>buscó</w>
+<pause symbolic-length="simple"></pause>
+<w>debajo</w>
+<w>de</w>
+<w>el</w>
+<w>sofá</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u26">
+<w>buscó</w>
+<w>en</w>
+<w>el</w>
+<w>árbol</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u27">
+<w>preguntar</w>
+<freecode>eng: is to ask so she asked the frog</freecode>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u28">
+<linker type="self completion"/>
+<w>y</w>
+<w>preguntar<f type="generic"/></w>
+<w>la</w>
+<w>rana</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u29">
+<g><w>Natalia</w><error/></g>
+<g><w>soy</w><k type="retracing with correction"/></g>
+<w>están</w>
+<w>muy</w>
+<w>nervioso</w>
+<w>porque</w>
+<w>Pancho</w>
+<w>no</w>
+<w>están</w>
+<g><w>y</w><k type="retracing with correction"/></g>
+<g><w xml:lang="adv">so</w><k type="retracing with correction"/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="C62" uID="u30">
+<g><w>Natalia</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>terió<replacement><w>tiró</w></replacement></w><error/></g>
+<w>las</w>
+<t type="interruption"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="NTV" uID="u31">
+<w>la</w>
+<w>comida</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u32">
+<linker type="self completion"/>
+<w>la<f type="generic"/></w>
+<w>comida<f type="generic"/></w>
+<w>de</w>
+<w>Pancho</w>
+<w>cerca</w>
+<w>de</w>
+<w>su</w>
+<w>cesta</w>
+<w>para</w>
+<w>ayudar</w>
+<w>Pancho</w>
+<w>encontró</w>
+<w>su</w>
+<w>casa</w>
+<w>y</w>
+<w>su</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u33">
+<w>cesta</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u34">
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u35">
+<linker type="self completion"/>
+<w>Pancho</w>
+<w>estar</w>
+<w>en</w>
+<w>el</w>
+<w>mismo</w>
+<w>sitio</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u36">
+<g><w>Natalia</w><error/></g>
+<w>fui</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="C62" uID="u37">
+<w>Pancho</w>
+<w>pienso</w>
+<w>que</w>
+<g><w>Natalia</w><error/></g>
+<w>fui</w>
+<w>a</w>
+<w>las</w>
+<w>vacaciones</w>
+<g><w>de</w><k type="retracing with correction"/></g>
+<w>con</w>
+<w>xx</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="C62" uID="u38">
+<w>Pancho</w>
+<w>fui</w>
+<w>a</w>
+<w>pie</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u39">
+<w>llegó</w>
+<w>con</w>
+<w>la</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u40">
+<w>cuando</w>
+<pause symbolic-length="simple"></pause>
+<w>escurió<f type="neologism"/></w>
+<w>del</w>
+<w>gatero</w>
+<w>Pancho</w>
+<w>encontró</w>
+<g><w>las</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>comida</w>
+<w>de</w>
+<w>él</w>
+<w>cerca</w>
+<w>de</w>
+<w>su</w>
+<w>cesta</w>
+<w>y</w>
+<w>también</w>
+<t type="p"/>
+
+</u>
+<u who="C62" uID="u41">
+<w>encontró</w>
+<g><w>Natalia</w><error/></g>
+<w>en</w>
+<w>su</w>
+<w>cesta</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">Natilia = Natalia</a>
+</u>
+<u who="C62" uID="u42">
+<g><w>es</w>
+<w>un</w><k type="retracing with correction"/></g>
+<w>termina</w>
+<w>feliz</w>
+<t type="p"/>
+
+</u>
+</CHAT>

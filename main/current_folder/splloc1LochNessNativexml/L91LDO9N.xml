@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L91LDO9N"
+      Date="1984-01-01">
+<Participants>
+<participant
+  id="L91"
+  role="Participant"
+language="es"
+sex="female"
+group="Year"
+
+/>
+<participant
+  id="LDO"
+  role="Investigator"
+language="es"
+sex="male"
+
+/>
+</Participants>
+<comment type="Location">Madrid</comment>
+<comment type="Situation">Loch Ness Story Telling Task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:01:11</comment>
+<u who="LDO" uID="u0">
+<freecode>eng: student ninety one Loch Ness story</freecode>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u1">
+<w>la</w>
+<w>historia</w>
+<w>trata</w>
+<w>de</w>
+<w>una</w>
+<w>familia</w>
+<w>que</w>
+<w>se</w>
+<w>va</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>a</w>
+<w>Escocia</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u2">
+<w>en</w>
+<w>la</w>
+<w>foto</w>
+<w>puedes</w>
+<w>ver</w>
+<w>que</w>
+<w>cada</w>
+<w>uno</w>
+<w>hace</w>
+<w>lo</w>
+<w>que</w>
+<w>más</w>
+<w>le</w>
+<w>gusta</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u3">
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>y</w>
+<w>el</w><k type="retracing"/></g>
+<w>y</w>
+<w>el</w>
+<w>hijo</w>
+<w>pintar</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u4">
+<w>los</w>
+<w>otros</w>
+<w>dos</w>
+<w>hijos</w>
+<w>pescar</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u5">
+<w>la</w>
+<w>madre</w>
+<w>leer</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u6">
+<w>luego</w>
+<w>la</w>
+<w>abuela</w>
+<w>le</w>
+<w>enseña</w>
+<w>a</w>
+<w>su</w>
+<w>hijo</w>
+<g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>hay</w>
+<w>un</w>
+<w>juego</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u7">
+<w>le</w>
+<w>dice</w>
+<w>a</w>
+<w>su</w>
+<w>madre</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L91" uID="u8">
+<linker type="quoted utterance next"/>
+<w>mira</w>
+<w>lo</w>
+<w>que</w>
+<w>dibujó</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u9">
+<w>luego</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>hijo</w>
+<w>se</w>
+<w>van</w>
+<w>de</w>
+<w>compras</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u10">
+<w>ellos</w>
+<w>se</w>
+<w>quedan</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>Escocia</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u11">
+<w>y</w>
+<w>deciden</w>
+<w>pintar</w>
+<w>unas</w>
+<w>ruedas</w>
+<w>con</w>
+<w>forma</w>
+<w>de</w>
+<w>un</w>
+<w>monstruo</w>
+<w>para</w>
+<w>luego</w>
+<w>gastarles</w>
+<w>una</w>
+<w>broma</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>su</w>
+<w>hija</w>
+<w>y</w>
+<w>a</w>
+<w>su</w>
+<w>nieto</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u12">
+<w>cuando</w>
+<w>ven</w>
+<w>el</w>
+<w>monstruo</w>
+<w>empiezan</w>
+<w>a</w>
+<w>llegar</w>
+<w>turistas</w>
+<g><w>d<shortening>e</shortening></w><k type="retracing with correction"/></g>
+<w>y</w>
+<w>periodistas</w>
+<w>de</w>
+<w>todos</w>
+<w>lados</w>
+<w>a</w>
+<w>hacerle</w>
+<w>fotos</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u13">
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>los</w>
+<w>niños</w>
+<w>lo</w>
+<w>ven</w>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u14">
+<w>se</w>
+<w>lo</w>
+<w>cuentan</w>
+<w>a</w>
+<w>su</w>
+<w>abuela</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u15">
+<w>la</w>
+<w>abuela</w>
+<w>habla</w>
+<w>con</w>
+<w>la</w>
+<w>prensa</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u16">
+<w>y</w>
+<w>explica</w>
+<w>que</w>
+<w>eran</w>
+<w>sólo</w>
+<w>unas</w>
+<w>ruedas</w>
+<w>y</w>
+<w>que</w>
+<w>no</w>
+<w>era</w>
+<w>ningún</w>
+<w>monstruo</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="L91" uID="u17">
+<w>cuando</w>
+<w>ya</w>
+<w>no</w>
+<w>había</w>
+<w>nadie</w>
+<w>resulta</w>
+<w>que</w>
+<w>el</w>
+<w>monstruo</w>
+<w>sí</w>
+<w>que</w>
+<w>existía</w>
+<t type="p"/>
+
+</u>
+</CHAT>

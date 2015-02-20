@@ -1,0 +1,191 @@
+.	fp
+
+cuando	cs
+quieras	vmsp000
+.	fp
+
+ehm	nc0s000
+de	sp000
+vacaciones	nc0p000
+la	da0000
+familia	nc0s000
+van	vmip000
+a	sp000
+Escocia	np00000
+.	fp
+
+en	sp000
+Loch	np00000
+Ness	np00000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+hay	vaip000
+tres	dn0000
+niños	nc0p000
+la	da0000
+abuela	nc0s000
+y	cc
+mm	nc0n000
+la	da0000
+madre	nc0s000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+mm	nc0n000
+la	da0000
+abuela	nc0s000
+y	cc
+el	da0000
+hermano	nc0s000
+pintan	vmip000
+y	cc
+.	fp
+
+y	cc
+mm	nc0n000
+la	da0000
+madre	nc0s000
+tienes	vmip000
+café	nc0s000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+ehm	vmis000
+abuela	nc0s000
+pintas	nc0p000
+pinta	aq0000
+el	da0000
+monstruo	nc0s000
+y	cc
+hermano	nc0s000
+pinta	aq0000
+eh	np00000
+el	da0000
+lago	nc0s000
+.	fp
+
+madre	nc0s000
+y	cc
+el	da0000
+hermana	nc0s000
+ehm	nc0s000
+van	vmip000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+van	vmip000
+a	sp000
+compra	nc0s000
+y	cc
+madre	nc0s000
+ehm	nc0s000
+no	rn
+ehm	vmis000
+la	da0000
+abuela	nc0s000
+pinta	aq0000
+ruedas	nc0p000
+ehm	nc0s000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+la	pp000000
+el	da0000
+monstruo	nc0s000
+eh	np00000
+ehm	nc0s000
+las	da0000
+ruedas	nc0p000
+son	vsip000
+un	di0000
+monstruo	nc0s000
+y	cc
+.	fp
+
+van	vmip000
+al	dp0000
+lago	nc0s000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+y	cc
+ehm	nc0s000
+está	vmip000
+en	sp000
+el	da0000
+agua	nc0s000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+mucha	di0000
+gente	nc0s000
+hacen	vmip000
+fotos	nc0p000
+de	sp000
+el	da0000
+monstruo	nc0s000
+.	fp
+
+la	da0000
+familia	nc0s000
+veo	vmip000
+no	rn
+ven	vmip000
+mmm	nc0s000
+.	fp
+
+el	da0000
+monstruo	nc0s000
+en	sp000
+la	da0000
+televisión	nc0s000
+.	fp
+
+la	da0000
+abuela	nc0s000
+ehm	nc0s000
+habla	vmip000
+no	rn
+eh	np00000
+periodista	nc0s000
+ehm	nc0s000
+están	vmip000
+ruedas	nc0p000
+.	fp
+
+no	rn
+está	vmip000
+un	di0000
+monstruo	nc0s000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+y	cc
+en	sp000
+el	da0000
+agua	nc0s000
+está	vmip000
+un	di0000
+monstruo	nc0s000
+.	fp
+
+ajá	nc0s000
+.	fp
+

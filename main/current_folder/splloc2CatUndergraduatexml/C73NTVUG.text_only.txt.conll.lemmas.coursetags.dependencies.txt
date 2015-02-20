@@ -1,0 +1,382 @@
+1	todas	_	todo	_	d	_	_	-1	2	_	d	_	_
+2	las	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	mañanas	_	mañana	_	n	_	_	-1	4	_	suj	_	_
+4	eran	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+5	iguales	_	igual	_	a	_	_	-1	4	_	atr	_	_
+6	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	ah	_	ah	_	i	_	_	-1	2	_	interjeccio	_	_
+2	Natalia	_	natalia	_	n	_	_	-1	7	_	suj	_	_
+3	se	_	él	_	p	_	_	-1	4	_	pass	_	_
+4	empezó	_	empezar	_	v	_	_	-1	2	_	suj	_	_
+5	el	_	el	_	d	_	_	-1	6	_	spec	_	_
+6	día	_	día	_	n	_	_	-1	4	_	cc	_	_
+7	leyendo	_	leer	_	v	_	_	-1	0	_	sentence	_	_
+8	un	_	uno	_	d	_	_	-1	9	_	spec	_	_
+9	libro	_	libro	_	n	_	_	-1	7	_	cd	_	_
+10	y	_	y	_	c	_	_	-1	7	_	coord	_	_
+11	pintando	_	pintar	_	v	_	_	-1	13	_	infinitiu	_	_
+12	ah	_	ah	_	r	_	_	-1	13	_	cc	_	_
+13	haciendo	_	hacer	_	v	_	_	-1	7	_	S	_	_
+14	una	_	uno	_	d	_	_	-1	15	_	spec	_	_
+15	casa	_	casa	_	n	_	_	-1	13	_	cd	_	_
+16	y	_	y	_	c	_	_	-1	7	_	coord	_	_
+17	pasando	_	pasar	_	v	_	_	-1	7	_	S	_	_
+18	un	_	uno	_	d	_	_	-1	19	_	spec	_	_
+19	rato	_	rato	_	n	_	_	-1	17	_	cd	_	_
+20	con	_	con	_	s	_	_	-1	17	_	cc	_	_
+21	amigo	_	amigo	_	n	_	_	-1	20	_	sn	_	_
+22	en	_	en	_	s	_	_	-1	17	_	cc	_	_
+23	la	_	el	_	p	_	_	-1	24	_	spec	_	_
+24	en	_	en	_	s	_	_	-1	22	_	sn	_	_
+25	la	_	el	_	d	_	_	-1	26	_	spec	_	_
+26	bicicleta	_	bicicleta	_	n	_	_	-1	24	_	sn	_	_
+27	.	_	.	_	f	_	_	-1	7	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	5	_	et	_	_
+2	Pancho	_	pancho	_	n	_	_	-1	5	_	suj	_	_
+3	lo	_	él	_	p	_	_	-1	5	_	sn	_	_
+4	pasó	_	pasar	_	v	_	_	-1	5	_	v	_	_
+5	durmiendo	_	dormir	_	v	_	_	-1	0	_	sentence	_	_
+6	ehm	_	ehm	_	n	_	_	-1	7	_	spec	_	_
+7	bueno	_	buen	_	a	_	_	-1	5	_	cd	_	_
+8	qué	_	qué	_	p	_	_	-1	9	_	spec	_	_
+9	hizo	_	hacer	_	v	_	_	-1	7	_	S	_	_
+10	um	_	um	_	n	_	_	-1	11	_	spec	_	_
+11	sentado	_	sentado	_	a	_	_	-1	9	_	cd	_	_
+12	en	_	en	_	s	_	_	-1	9	_	cc	_	_
+13	un	_	uno	_	d	_	_	-1	15	_	spec	_	_
+14	muro	_	muro	_	n	_	_	-1	15	_	s.a	_	_
+15	um	_	um	_	a	_	_	-1	12	_	sn	_	_
+16	y	_	y	_	c	_	_	-1	5	_	coord	_	_
+17	buscando	_	buscar	_	v	_	_	-1	22	_	suj	_	_
+18	por	_	por	_	s	_	_	-1	17	_	cag	_	_
+19	un	_	uno	_	d	_	_	-1	20	_	spec	_	_
+20	xx	_	xx	_	n	_	_	-1	18	_	sn	_	_
+21	no	_	no	_	r	_	_	-1	22	_	mod	_	_
+22	sé	_	saber	_	v	_	_	-1	5	_	S	_	_
+23	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	um	_	um	_	p	_	_	-1	12	_	conj	_	_
+2	al	_	al	_	s	_	_	-1	1	_	sp	_	_
+3	final	_	final	_	n	_	_	-1	2	_	sn	_	_
+4	de	_	de	_	s	_	_	-1	3	_	sp	_	_
+5	día	_	día	_	n	_	_	-1	4	_	sn	_	_
+6	a	_	a	_	s	_	_	-1	12	_	ci	_	_
+7	las	_	el	_	d	_	_	-1	9	_	spec	_	_
+8	tres	_	tres	_	d	_	_	-1	7	_	d	_	_
+9	um	_	um	_	n	_	_	-1	6	_	sn	_	_
+10	cómo	_	cómo	_	p	_	_	-1	12	_	cc	_	_
+11	se	_	él	_	p	_	_	-1	12	_	pass	_	_
+12	llama	_	llamar	_	v	_	_	-1	0	_	sentence	_	_
+13	la	_	el	_	d	_	_	-1	15	_	spec	_	_
+14	chica	_	chica	_	a	_	_	-1	15	_	s.a	_	_
+15	Natalia	_	natalia	_	n	_	_	-1	12	_	cpred	_	_
+16	.	_	.	_	f	_	_	-1	12	_	f	_	_
+
+1	.	_	.	_	f	_	_	-1	0	_	sentence	_	_
+
+1	Natalia	_	natalia	_	n	_	_	-1	5	_	suj	_	_
+2	y	_	y	_	c	_	_	-1	1	_	coord	_	_
+3	Pancho	_	pancho	_	n	_	_	-1	1	_	grup.nom	_	_
+4	se	_	él	_	p	_	_	-1	5	_	morfema.pronominal	_	_
+5	encontró	_	encontrar	_	v	_	_	-1	0	_	sentence	_	_
+6	y	_	y	_	c	_	_	-1	5	_	coord	_	_
+7	volvieron	_	volver	_	v	_	_	-1	5	_	S	_	_
+8	a	_	a	_	s	_	_	-1	5	_	cd	_	_
+9	casa	_	casa	_	n	_	_	-1	8	_	sn	_	_
+10	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	hasta	_	hasta	_	s	_	_	-1	0	_	sentence	_	_
+2	que	_	que	_	c	_	_	-1	4	_	conj	_	_
+3	un	_	uno	_	d	_	_	-1	4	_	spec	_	_
+4	día	_	día	_	n	_	_	-1	1	_	S	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	Pancho	_	pancho	_	n	_	_	-1	3	_	suj	_	_
+2	se	_	él	_	p	_	_	-1	3	_	morfema.pronominal	_	_
+3	fue	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+4	de	_	de	_	s	_	_	-1	3	_	sp	_	_
+5	la	_	el	_	d	_	_	-1	6	_	spec	_	_
+6	casa	_	casa	_	n	_	_	-1	4	_	sn	_	_
+7	cómo	_	cómo	_	p	_	_	-1	9	_	cc	_	_
+8	se	_	él	_	p	_	_	-1	9	_	morfema.pronominal	_	_
+9	llama	_	llamar	_	v	_	_	-1	6	_	S	_	_
+10	perseguir	_	perseguir	_	v	_	_	-1	9	_	cpred	_	_
+11	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	sí	_	sí	_	r	_	_	-1	2	_	sadv	_	_
+2	eso	_	ese	_	p	_	_	-1	0	_	sentence	_	_
+3	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+2	perseguía	_	perseguir	_	v	_	_	-1	0	_	sentence	_	_
+3	un	_	uno	_	d	_	_	-1	4	_	spec	_	_
+4	ave	_	ave	_	n	_	_	-1	2	_	cd	_	_
+5	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	hasta	_	hasta	_	s	_	_	-1	8	_	cc	_	_
+2	que	_	que	_	c	_	_	-1	6	_	conj	_	_
+3	un	_	uno	_	d	_	_	-1	4	_	spec	_	_
+4	perro	_	perro	_	n	_	_	-1	6	_	cc	_	_
+5	se	_	él	_	p	_	_	-1	6	_	pass	_	_
+6	um	_	um	_	v	_	_	-1	1	_	S	_	_
+7	se	_	él	_	p	_	_	-1	8	_	pass	_	_
+8	apareció	_	aparecer	_	v	_	_	-1	0	_	sentence	_	_
+9	.	_	.	_	f	_	_	-1	8	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	6	_	et	_	_
+2	el	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	gato	_	gato	_	n	_	_	-1	6	_	suj	_	_
+4	Pancho	_	pancho	_	n	_	_	-1	3	_	s.a	_	_
+5	se	_	él	_	p	_	_	-1	6	_	morfema.pronominal	_	_
+6	salió	_	salir	_	v	_	_	-1	0	_	sentence	_	_
+7	corriendo	_	correr	_	v	_	_	-1	6	_	cc	_	_
+8	.	_	.	_	f	_	_	-1	6	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+2	Nati	_	nati	_	n	_	_	-1	0	_	sentence	_	_
+3	bueno	_	buen	_	a	_	_	-1	2	_	sa	_	_
+4	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	estaba	_	estar	_	v	_	_	-1	2	_	v	_	_
+2	buscando	_	buscar	_	v	_	_	-1	0	_	sentence	_	_
+3	a	_	a	_	s	_	_	-1	2	_	cd	_	_
+4	las	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	tres	_	tres	_	p	_	_	-1	3	_	sn	_	_
+6	y	_	y	_	c	_	_	-1	5	_	coord	_	_
+7	cuarto	_	cuarto	_	a	_	_	-1	5	_	grup.a	_	_
+8	ah	_	ah	_	n	_	_	-1	5	_	grup.nom	_	_
+9	estaba	_	estar	_	v	_	_	-1	10	_	v	_	_
+10	buscando	_	buscar	_	v	_	_	-1	2	_	cd	_	_
+11	Pancho	_	pancho	_	n	_	_	-1	10	_	cd	_	_
+12	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	no	_	no	_	r	_	_	-1	2	_	mod	_	_
+2	sé	_	saber	_	v	_	_	-1	0	_	sentence	_	_
+3	no	_	no	_	r	_	_	-1	4	_	mod	_	_
+4	sabía	_	saber	_	v	_	_	-1	2	_	cd	_	_
+5	dónde	_	dónde	_	p	_	_	-1	6	_	cc	_	_
+6	estaba	_	estar	_	v	_	_	-1	4	_	cd	_	_
+7	su	_	su	_	d	_	_	-1	8	_	spec	_	_
+8	gato	_	gato	_	n	_	_	-1	6	_	atr	_	_
+9	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	ah	_	ah	_	p	_	_	-1	2	_	suj	_	_
+2	buscó	_	buscar	_	v	_	_	-1	0	_	sentence	_	_
+3	en	_	en	_	s	_	_	-1	2	_	cc	_	_
+4	el	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	jardín	_	jardín	_	n	_	_	-1	3	_	sn	_	_
+6	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+7	cerca	_	cerca	_	r	_	_	-1	2	_	S	_	_
+8	del	_	del	_	s	_	_	-1	7	_	sp	_	_
+9	árbol	_	árbol	_	n	_	_	-1	8	_	sn	_	_
+10	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	también	_	también	_	r	_	_	-1	2	_	mod	_	_
+2	buscó	_	buscar	_	v	_	_	-1	0	_	sentence	_	_
+3	en	_	en	_	s	_	_	-1	8	_	cc	_	_
+4	la	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	cama	_	cama	_	n	_	_	-1	3	_	sn	_	_
+6	de	_	de	_	s	_	_	-1	5	_	sp	_	_
+7	Pancho	_	pancho	_	n	_	_	-1	6	_	sn	_	_
+8	ehm	_	ehm	_	v	_	_	-1	2	_	cd	_	_
+9	cerca	_	cerca	_	r	_	_	-1	11	_	r	_	_
+10	de	_	de	_	s	_	_	-1	11	_	s	_	_
+11	lo	_	él	_	d	_	_	-1	12	_	s.a	_	_
+12	sofá	_	sofá	_	n	_	_	-1	8	_	S	_	_
+13	y	_	y	_	c	_	_	-1	12	_	coord	_	_
+14	um	_	um	_	n	_	_	-1	12	_	sn	_	_
+15	en	_	en	_	s	_	_	-1	12	_	sp	_	_
+16	el	_	el	_	d	_	_	-1	17	_	spec	_	_
+17	árbol	_	árbol	_	n	_	_	-1	15	_	sn	_	_
+18	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	5	_	coord	_	_
+2	también	_	también	_	r	_	_	-1	5	_	mod	_	_
+3	parece	_	parecer	_	v	_	_	-1	5	_	v	_	_
+4	que	_	que	_	c	_	_	-1	5	_	c	_	_
+5	preguntaba	_	preguntar	_	v	_	_	-1	0	_	sentence	_	_
+6	a	_	a	_	s	_	_	-1	5	_	ci	_	_
+7	a	_	a	_	s	_	_	-1	6	_	sp	_	_
+8	la	_	el	_	d	_	_	-1	9	_	spec	_	_
+9	rana	_	rana	_	n	_	_	-1	7	_	sn	_	_
+10	si	_	si	_	c	_	_	-1	11	_	conj	_	_
+11	supiera	_	saber	_	v	_	_	-1	5	_	cd	_	_
+12	dónde	_	dónde	_	p	_	_	-1	13	_	cc	_	_
+13	estaba	_	estar	_	v	_	_	-1	11	_	cd	_	_
+14	su	_	su	_	d	_	_	-1	15	_	spec	_	_
+15	gato	_	gato	_	n	_	_	-1	13	_	atr	_	_
+16	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+2	Nati	_	nati	_	n	_	_	-1	0	_	sentence	_	_
+3	bueno	_	buen	_	a	_	_	-1	2	_	sa	_	_
+4	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	parece	_	parecer	_	v	_	_	-1	0	_	sentence	_	_
+2	que	_	que	_	c	_	_	-1	4	_	conj	_	_
+3	estaba	_	estar	_	v	_	_	-1	4	_	v	_	_
+4	pensando	_	pensar	_	v	_	_	-1	1	_	atr	_	_
+5	en	_	en	_	s	_	_	-1	4	_	creg	_	_
+6	su	_	su	_	d	_	_	-1	7	_	spec	_	_
+7	gato	_	gato	_	n	_	_	-1	5	_	sn	_	_
+8	y	_	y	_	c	_	_	-1	4	_	coord	_	_
+9	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	está	_	estar	_	v	_	_	-1	0	_	sentence	_	_
+2	preocupada	_	preocupado	_	a	_	_	-1	1	_	atr	_	_
+3	porque	_	porque	_	c	_	_	-1	5	_	conj	_	_
+4	no	_	no	_	r	_	_	-1	5	_	mod	_	_
+5	supo	_	saber	_	v	_	_	-1	1	_	cc	_	_
+6	dónde	_	dónde	_	p	_	_	-1	7	_	atr	_	_
+7	está	_	estar	_	v	_	_	-1	5	_	cd	_	_
+8	su	_	su	_	d	_	_	-1	10	_	spec	_	_
+9	gato	_	gato	_	n	_	_	-1	8	_	d	_	_
+10	um	_	um	_	a	_	_	-1	7	_	atr	_	_
+11	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	ha	_	haber	_	v	_	_	-1	2	_	v	_	_
+2	dejado	_	dejar	_	v	_	_	-1	0	_	sentence	_	_
+3	un	_	uno	_	d	_	_	-1	4	_	spec	_	_
+4	poco	_	poco	_	p	_	_	-1	2	_	cd	_	_
+5	de	_	de	_	s	_	_	-1	4	_	sp	_	_
+6	comida	_	comida	_	n	_	_	-1	5	_	sn	_	_
+7	para	_	para	_	s	_	_	-1	4	_	sp	_	_
+8	para	_	para	_	s	_	_	-1	7	_	sp	_	_
+9	que	_	que	_	c	_	_	-1	10	_	conj	_	_
+10	vuelva	_	volver	_	v	_	_	-1	8	_	S	_	_
+11	su	_	su	_	d	_	_	-1	12	_	spec	_	_
+12	gato	_	gato	_	n	_	_	-1	10	_	suj	_	_
+13	y	_	y	_	c	_	_	-1	10	_	coord	_	_
+14	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	está	_	estar	_	v	_	_	-1	0	_	sentence	_	_
+2	un	_	uno	_	d	_	_	-1	4	_	spec	_	_
+3	poco	_	poco	_	p	_	_	-1	2	_	p	_	_
+4	preocupado	_	preocupado	_	a	_	_	-1	1	_	atr	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	Pancho	_	pancho	_	v	_	_	-1	0	_	sentence	_	_
+2	también	_	también	_	r	_	_	-1	1	_	mod	_	_
+3	a	_	a	_	s	_	_	-1	1	_	cd	_	_
+4	a	_	a	_	s	_	_	-1	3	_	sp	_	_
+5	las	_	el	_	d	_	_	-1	6	_	spec	_	_
+6	tres	_	tres	_	p	_	_	-1	4	_	sn	_	_
+7	y	_	y	_	c	_	_	-1	1	_	coord	_	_
+8	cinco	_	cinco	_	p	_	_	-1	9	_	atr	_	_
+9	parece	_	parecer	_	v	_	_	-1	1	_	S	_	_
+10	que	_	que	_	c	_	_	-1	12	_	conj	_	_
+11	está	_	estar	_	v	_	_	-1	12	_	v	_	_
+12	buscando	_	buscar	_	v	_	_	-1	9	_	atr	_	_
+13	a	_	a	_	s	_	_	-1	12	_	cd	_	_
+14	Nati	_	nati	_	n	_	_	-1	13	_	sn	_	_
+15	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	no	_	no	_	r	_	_	-1	2	_	mod	_	_
+2	sabe	_	saber	_	v	_	_	-1	0	_	sentence	_	_
+3	dónde	_	dónde	_	p	_	_	-1	4	_	atr	_	_
+4	está	_	estar	_	v	_	_	-1	2	_	cd	_	_
+5	Nati	_	nati	_	n	_	_	-1	4	_	atr	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	um	_	um	_	p	_	_	-1	3	_	suj	_	_
+2	ha	_	haber	_	v	_	_	-1	3	_	v	_	_
+3	vuelto	_	volver	_	v	_	_	-1	0	_	sentence	_	_
+4	a	_	a	_	s	_	_	-1	3	_	ci	_	_
+5	al	_	al	_	s	_	_	-1	4	_	sp	_	_
+6	árbol	_	árbol	_	n	_	_	-1	5	_	sn	_	_
+7	y	_	y	_	c	_	_	-1	3	_	coord	_	_
+8	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	no	_	no	_	r	_	_	-1	2	_	mod	_	_
+2	está	_	estar	_	v	_	_	-1	0	_	sentence	_	_
+3	su	_	su	_	d	_	_	-1	4	_	spec	_	_
+4	dueña	_	dueña	_	n	_	_	-1	2	_	suj	_	_
+5	uh	_	uh	_	s	_	_	-1	2	_	atr	_	_
+6	Nati	_	nati	_	n	_	_	-1	5	_	sn	_	_
+7	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	4	_	coord	_	_
+2	también	_	también	_	r	_	_	-1	4	_	mod	_	_
+3	está	_	estar	_	v	_	_	-1	4	_	v	_	_
+4	pensando	_	pensar	_	v	_	_	-1	0	_	sentence	_	_
+5	en	_	en	_	s	_	_	-1	4	_	creg	_	_
+6	Nati	_	nati	_	n	_	_	-1	5	_	sn	_	_
+7	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	uh	_	uh	_	p	_	_	-1	2	_	suj	_	_
+2	piensa	_	pensar	_	v	_	_	-1	0	_	sentence	_	_
+3	bueno	_	buen	_	a	_	_	-1	2	_	cd	_	_
+4	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	que	_	que	_	c	_	_	-1	5	_	conj	_	_
+2	Nati	_	nati	_	n	_	_	-1	5	_	suj	_	_
+3	se	_	él	_	p	_	_	-1	5	_	morfema.pronominal	_	_
+4	ha	_	haber	_	v	_	_	-1	5	_	v	_	_
+5	marchado	_	marchar	_	v	_	_	-1	0	_	sentence	_	_
+6	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+2	al	_	al	_	s	_	_	-1	0	_	sentence	_	_
+3	fin	_	fin	_	n	_	_	-1	4	_	spec	_	_
+4	bueno	_	buen	_	a	_	_	-1	2	_	sn	_	_
+5	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	Pancho	_	pancho	_	n	_	_	-1	2	_	s.a	_	_
+2	vuelva	_	volver	_	v	_	_	-1	0	_	sentence	_	_
+3	a	_	a	_	s	_	_	-1	2	_	sp	_	_
+4	la	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	casa	_	casa	_	n	_	_	-1	3	_	sn	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	uh	_	uh	_	p	_	_	-1	2	_	sn	_	_
+2	llueve	_	llover	_	v	_	_	-1	0	_	sentence	_	_
+3	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	está	_	estar	_	v	_	_	-1	0	_	sentence	_	_
+2	mojado	_	mojado	_	a	_	_	-1	1	_	atr	_	_
+3	y	_	y	_	c	_	_	-1	1	_	coord	_	_
+4	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	xx	_	xx	_	s	_	_	-1	0	_	sentence	_	_
+2	la	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	comida	_	comida	_	n	_	_	-1	1	_	sn	_	_
+4	y	_	y	_	c	_	_	-1	3	_	coord	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	vuelva	_	volver	_	v	_	_	-1	0	_	sentence	_	_
+2	a	_	a	_	s	_	_	-1	1	_	sp	_	_
+3	su	_	su	_	d	_	_	-1	4	_	spec	_	_
+4	cama	_	cama	_	n	_	_	-1	2	_	sn	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	7	_	et	_	_
+2	allí	_	allí	_	r	_	_	-1	7	_	cc	_	_
+3	está	_	estar	_	v	_	_	-1	4	_	v	_	_
+4	Nati	_	nati	_	n	_	_	-1	7	_	cc	_	_
+5	uh	_	uh	_	p	_	_	-1	7	_	suj	_	_
+6	está	_	estar	_	v	_	_	-1	7	_	v	_	_
+7	esperando	_	esperar	_	v	_	_	-1	0	_	sentence	_	_
+8	para	_	para	_	s	_	_	-1	7	_	ci	_	_
+9	su	_	su	_	d	_	_	-1	10	_	spec	_	_
+10	gato	_	gato	_	n	_	_	-1	8	_	sn	_	_
+11	.	_	.	_	f	_	_	-1	7	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+2	parece	_	parecer	_	v	_	_	-1	0	_	sentence	_	_
+3	que	_	que	_	c	_	_	-1	6	_	conj	_	_
+4	los	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	dos	_	dos	_	p	_	_	-1	6	_	suj	_	_
+6	son	_	ser	_	v	_	_	-1	2	_	atr	_	_
+7	muy	_	mucho	_	r	_	_	-1	9	_	spec	_	_
+8	um	_	um	_	r	_	_	-1	7	_	r	_	_
+9	felices	_	feliz	_	a	_	_	-1	6	_	atr	_	_
+10	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	eso	_	ese	_	p	_	_	-1	2	_	suj	_	_
+2	es	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+3	el	_	el	_	d	_	_	-1	4	_	spec	_	_
+4	fin	_	fin	_	n	_	_	-1	2	_	atr	_	_
+5	.	_	.	_	f	_	_	-1	2	_	f	_	_
+

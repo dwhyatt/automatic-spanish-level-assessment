@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H60NTV13"
+      Date="2009-02-04">
+<Participants>
+<participant
+  id="H60"
+  role="Participant"
+language="es"
+sex="male"
+group="Year13"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">04-FEB-2009</comment>
+<comment type="Location">BP</comment>
+<comment type="Situation">Las Hermanas Story</comment>
+<comment type="Transcriber">EFDP</comment>
+<comment type="Time Duration">00:02:22</comment>
+<u who="NTV" uID="u0">
+<freecode>eng: participant sixty las hermanas</freecode>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u1">
+<w>las</w>
+<w>vacaciones</w>
+<w>de</w>
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>en</w>
+<w>España</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u2">
+<w>bueno</w>
+<w>hace</w>
+<w>tres</w>
+<w>años</w>
+<w>casi</w>
+<w>tres</w>
+<w>años</w>
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>decidió</w>
+<w>a</w>
+<w>visitar</w>
+<w>España</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u3">
+<w>al</w>
+<w>principio</w>
+<w>en</w>
+<w>Madrid</w>
+<w>em</w>
+<w>era</w>
+<w>necesario</w>
+<w>que</w>
+<w>visiten</w>
+<w>la</w>
+<g><w>ciudad</w><error/></g>
+<w>el</w>
+<w>estadio</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">fiudad=ciudad</a>
+</u>
+<u who="H60" uID="u4">
+<w>y</w>
+<w>entonces</w>
+<w>para</w>
+<w>aprobar</w>
+<w>la</w>
+<w>comida</w>
+<w>em</w>
+<g><w>coman</w><k type="retracing with correction"/></g>
+<w>comían</w>
+<w>tapas</w>
+<w>y</w>
+<w>bebían</w>
+<w>vino</w>
+<w>en</w>
+<w>un</w>
+<w>bar</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u5">
+<w>y</w>
+<w>después</w>
+<w>decidieron</w>
+<w>ir</w>
+<w>a</w>
+<w>Barcelona</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u6">
+<w>tenían</w>
+<w>que</w>
+<w>coger</w>
+<w>el</w>
+<w>tren</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u7">
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<g><w>durante</w><k type="retracing"/></g>
+<w>durante</w>
+<w>su</w>
+<w>viaje</w>
+<w>hablaban</w>
+<w>sobre</w>
+<w>su</w>
+<w>niñez</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u8">
+<w>y</w>
+<g><w>pequeñas</w><error/></g>
+<w>eran</w>
+<w>muy</w>
+<w>diferentes</w>
+<t type="p"/>
+
+<a type="errcoding">perqueñas= pequeñas</a>
+</u>
+<u who="H60" uID="u9">
+<w>Gwen</w>
+<w>de</w>
+<w>niña</w>
+<w>ehm</w>
+<w>en</w>
+<w>sus</w>
+<g><w>ratas</w><k type="retracing with correction"/></g>
+<w>ratos</w>
+<w>libres</w>
+<w>um</w>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>leía</w>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u10">
+<w>pintaba</w>
+<w>un</w>
+<w>cuadro</w>
+<w>o</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u11">
+<g><w>escribió</w>
+<w>un</w>
+<w>cuento</w><k type="retracing with correction"/></g>
+<w>escribía</w>
+<w>un</w>
+<w>cuento</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u12">
+<w>y</w>
+<w>se</w>
+<w>despertaba</w>
+<w>temprano</w>
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>para</w>
+<w>terminar</w>
+<w>sus</w>
+<w>deberes</w>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u13">
+<w>y</w>
+<w>Sarah</w>
+<w>de</w>
+<w>niña</w>
+<w>en</w>
+<w>vez</w>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<w>jugaba</w>
+<w>al</w>
+<w>fútbol</w>
+<w>o</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u14">
+<g><w>vía<replacement><w>veía</w></replacement></w><error/></g>
+<w>un</w>
+<w>película</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u15">
+<w>y</w>
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>iba</w>
+<w>a</w>
+<w>colegio</w>
+<w>en</w>
+<w>bicicleta</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u16">
+<w>llegaba</w>
+<w>tarde</w>
+<w>a</w>
+<w>clase</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u17">
+<w>y</w>
+<g><w>hicía<replacement><w>hacía</w></replacement></w><error/></g>
+<w>sus</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u18">
+<w>entonces</w>
+<w>se</w>
+<w>acostaba</w>
+<w>muy</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u19">
+<w>de</w>
+<w>repente</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>hubo</w>
+<w>un</w>
+<w>gran</w>
+<g><w>revuelo</w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">rerelvo=revuelo</a>
+</u>
+<u who="H60" uID="u20">
+<w>creían</w>
+<w>que</w>
+<w>había</w>
+<w>un</w>
+<w>problema</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u21">
+<w>sentía</w>
+<w>agua</w>
+<w>de</w>
+<g><w>lluvia</w><k type="retracing"/></g>
+<w>lluvia</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u22">
+<w>necesitaban</w>
+<g><w>ayuda</w><k type="retracing"/></g>
+<w>ayuda</w>
+<w>del</w>
+<w>revisor</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u23">
+<w>el</w>
+<w>revisor</w>
+<w>ayudó</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<w>asiento</w>
+<t type="p"/>
+
+<a type="comments">[laugh]</a>
+</u>
+<u who="H60" uID="u24">
+<w>y</w>
+<w>se</w>
+<w>tranquilizaban</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u25">
+<w>y</w>
+<w>al</w>
+<w>fin</w>
+<w>en</w>
+<w>Barcelona</w>
+<w>comía</w>
+<w>un</w>
+<w>pizza</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H60" uID="u26">
+<w>se</w>
+<w>reían</w>
+<w>al</w>
+<w>recordar</w>
+<w>el</w>
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+</CHAT>

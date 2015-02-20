@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C79NTVUG"
+      Date="2009-02-26">
+<Participants>
+<participant
+  id="C79"
+  role="Participant"
+language="es"
+sex="female"
+SES="Undergraduate"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-FEB-2009</comment>
+<comment type="Location">UN</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">WT</comment>
+<comment type="Time Duration">00:02:05</comment>
+<u who="C79" uID="u0">
+<w>Todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u1">
+<w>Natalia</w>
+<w>se</w>
+<g><w>desper<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>despierta</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u2">
+<w>le</w>
+<w>gusta</w>
+<w>pintar</w>
+<w>unas</w>
+<w>cuadras</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u3">
+<g><w>tambi<shortening>én</shortening></w><k type="retracing"/></g>
+<w>también</w>
+<w>construye</w>
+<w>unas</w>
+<w>casas</w>
+<w>de</w>
+<w>cartón</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u4">
+<w>y</w>
+<w>juega</w>
+<w>con</w>
+<w>un</w>
+<w>amigo</w>
+<w>en</w>
+<w>bicicleta</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u5">
+<w>también</w>
+<w>le</w>
+<w>gusta</w>
+<w>jugar</w>
+<w>afuera</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u6">
+<w>y</w>
+<w>el</w>
+<w>gato</w>
+<w>Pancho</w>
+<w>se</w>
+<w>despierta</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u7">
+<w>sale</w>
+<w>del</w>
+<w>gatero</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u8">
+<w>le</w>
+<w>gusta</w>
+<w>escalar</w>
+<w>árboles</w>
+<w>perseguir</w>
+<w>mariposas</w>
+<w>y</w>
+<w>tomar</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u9">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>más</w>
+<w>o</w>
+<w>menos</w>
+<w>se</w>
+<w>encuentran</w>
+<w>Natalia</w>
+<w>y</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u10">
+<w>vuelven</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u11">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salió</w>
+<w>del</w>
+<w>gatero</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u12">
+<w>persiguió</w>
+<w>un</w>
+<w>pajarito</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u13">
+<w>después</w>
+<w>vio</w>
+<w>un</w>
+<w>ratón</w>
+<w>um</w>
+<w>cerca</w>
+<w>de</w>
+<w>una</w>
+<w>basura</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u14">
+<w>y</w>
+<w>después</w>
+<w>vio</w>
+<w>un</w>
+<w>perro</w>
+<w>muy</w>
+<w>enojado</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u15">
+<w>salió</w>
+<w>corriendo</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u16">
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>cuarto</w>
+<w>Natalia</w>
+<w>no</w>
+<w>sabía</w>
+<w>donde</w>
+<w>estaba</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u17">
+<w>y</w>
+<w>buscó</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>pero</w>
+<w>no</w>
+<w>lo</w>
+<w>encontró</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u18">
+<w>buscó</w>
+<w>en</w>
+<w>la</w>
+<w>cama</w>
+<w>de</w>
+<w>Pancho</w>
+<w>detrás</w>
+<w>del</w>
+<w>sillón</w>
+<w>en</w>
+<w>los</w>
+<w>árboles</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u19">
+<w>y</w>
+<w>también</w>
+<w>preguntó</w>
+<w>una</w>
+<w>rana</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u20">
+<w>estaba</w>
+<w>muy</w>
+<w>preocupada</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u21">
+<w>puso</w>
+<w>comida</w>
+<w>en</w>
+<w>toda</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u22">
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>Pancho</w>
+<w>empezó</w>
+<w>a</w>
+<w>preocuparse</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u23">
+<w>quería</w>
+<w>saber</w>
+<w>donde</w>
+<w>estaba</w>
+<w>Natalia</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u24">
+<w>empezó</w>
+<w>a</w>
+<w>llover</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u25">
+<w>finalmente</w>
+<w>Pancho</w>
+<w>volvió</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u26">
+<w>entró</w>
+<w>y</w>
+<w>vio</w>
+<w>toda</w>
+<w>la</w>
+<w>comida</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u27">
+<g><w>se</w><k type="retracing"/></g>
+<w>se</w>
+<w>encontró</w>
+<w>con</w>
+<w>Natalia</w>
+<t type="p"/>
+
+</u>
+<u who="C79" uID="u28">
+<w>fin</w>
+<t type="p"/>
+
+</u>
+</CHAT>

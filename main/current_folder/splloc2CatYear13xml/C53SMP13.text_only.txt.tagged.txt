@@ -1,0 +1,380 @@
+vale	vmip000
+Name	np00000
+cuéntame	vmip000
+la	da0000
+historia	nc0s000
+de	sp000
+Nati	np00000
+.	fp
+
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+es	vsip000
+leyendo	vmg0000
+está	vmip000
+leyendo	vmg0000
+un	di0000
+libro	nc0s000
+a	sp000
+sus	dp0000
+juguetes	nc0p000
+en	sp000
+la	da0000
+mañana	nc0s000
+y	cc
+.	fp
+
+pues	rg
+.	fp
+
+era	vsii000
+el	da0000
+niño	nc0s000
+el	da0000
+la	da0000
+niña	nc0s000
+está	vmip000
+pintó	vmis000
+una	di0000
+um	np00000
+lo	pp000000
+siento	vmip000
+.	fp
+
+está	vmip000
+bien	rg
+muy	rg
+bien	rg
+.	fp
+
+y	cc
+construido	vmp0000
+una	di0000
+casa	nc0s000
+de	sp000
+los	da0000
+cartón	nc0s000
+y	cc
+.	fp
+
+pues	rg
+.	fp
+
+salía	vmii000
+de	sp000
+su	dp0000
+casa	nc0s000
+con	sp000
+su	dp0000
+amiga	nc0s000
+o	cc
+amigo	nc0s000
+no	rn
+lo	pp000000
+sé	vmip000
+.	fp
+
+no	rn
+sé	vmip000
+.	fp
+
+con	sp000
+su	dp0000
+bicicleta	nc0s000
+um	np00000
+y	cc
+.	fp
+
+pues	rg
+.	fp
+
+escalar	vmn0000
+la	da0000
+niña	nc0s000
+escalar	nc0s000
+una	di0000
+columpio	nc0s000
+.	fp
+.	fp
+
+sí	rg
+muy	rg
+bien	rg
+sí	rg
+.	fp
+
+y	cc
+Pancho	np00000
+está	vmip000
+durmiendo	vmg0000
+en	sp000
+en	sp000
+su	dp0000
+casa	nc0s000
+y	cc
+.	fp
+
+sale	vmip000
+a	sp000
+su	dp0000
+gatero	nc0s000
+para	sp000
+escalar	vmn0000
+el	da0000
+árbol	nc0s000
+.	fp
+
+pues	rg
+.	fp
+
+encuentra	vmip000
+una	di0000
+mariposa	aq0000
+y	cc
+.	fp
+
+disfrutó	vmis000
+el	da0000
+gato	nc0s000
+disfrutó	vmis000
+el	da0000
+sol	nc0s000
+y	cc
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+el	da0000
+la	da0000
+niña	nc0s000
+y	cc
+su	dp0000
+gato	nc0s000
+volverán	vmif000
+a	sp000
+su	dp0000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+un	di0000
+día	nc0s000
+Pancho	np00000
+salía	vmii000
+de	sp000
+su	dp0000
+gatero	nc0s000
+y	cc
+.	fp
+
+asustar	vmn0000
+asustó	vmis000
+un	di0000
+pájaro	nc0s000
+.	fp
+
+sí	rg
+.	fp
+
+y	cc
+una	di0000
+otra	di0000
+vez	nc0s000
+encontrar	vmn0000
+un	di0000
+ratón	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+perro	nc0s000
+ladró	vmis000
+muy	rg
+enfadada	aq0000
+y	cc
+.	fp
+
+el	da0000
+gato	nc0s000
+sale	vmip000
+corriendo	vmg0000
+.	fp
+
+muy	rg
+prisa	nc0s000
+y	cc
+.	fp
+
+Nati	np00000
+no	rn
+poder	vmn0000
+encontrar	vmn0000
+su	dp0000
+gato	nc0s000
+y	cc
+.	fp
+
+encontrar	vmn0000
+en	sp000
+muchos	di0000
+lugares	nc0p000
+pero	cc
+.	fp
+
+no	rn
+está	vmip000
+allí	rg
+.	fp
+
+en	sp000
+su	dp0000
+casa	nc0s000
+delante	rg
+del	sp000
+sofá	nc0s000
+.	fp
+
+sí	rg
+.	fp
+
+y	cc
+escalar	vmn0000
+un	di0000
+árbol	nc0s000
+pero	cc
+.	fp
+
+no	rn
+está	vmip000
+allí	rg
+también	rg
+.	fp
+
+um	nc0n000
+rana	aq0000
+.	fp
+
+sí	rg
+.	fp
+
+él	pp000000
+ella	pp000000
+pedir	vmn0000
+preguntar	vmn0000
+preguntar	vmn0000
+un	di0000
+una	di0000
+rana	nc0s000
+pero	cc
+.	fp
+
+no	rn
+puedes	vmip000
+encontrar	vmn0000
+pero	cc
+.	fp
+
+pone	vmip000
+muchas	di0000
+alimentación	nc0s000
+en	sp000
+sobre	sp000
+el	da0000
+cartón	nc0s000
+y	cc
+en	sp000
+su	dp0000
+casa	nc0s000
+pero	cc
+.	fp
+
+no	rn
+hay	vaip000
+suerte	nc0s000
+.	fp
+
+no	rn
+encontrar	vmn0000
+y	cc
+.	fp
+
+el	da0000
+gato	nc0s000
+no	rn
+poder	vmn0000
+encontrar	vmn0000
+su	dp0000
+la	da0000
+niña	nc0s000
+también	rg
+y	cc
+.	fp
+
+empezar	vmn0000
+la	da0000
+lluvia	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+el	da0000
+gato	nc0s000
+volverá	vmif000
+a	sp000
+su	dp0000
+casa	nc0s000
+entré	vmis000
+en	sp000
+gatero	nc0s000
+para	sp000
+encontrar	vmn0000
+alimentación	nc0s000
+en	sp000
+el	da0000
+la	da0000
+en	sp000
+el	da0000
+la	da0000
+suelo	nc0s000
+.	fp
+
+en	sp000
+el	da0000
+y	cc
+.	fp
+
+hay	vaip000
+un	di0000
+fin	nc0s000
+muy	rg
+um	aq0000
+contenta	nc0s000
+con	sp000
+el	da0000
+la	da0000
+niña	nc0s000
+y	cc
+la	da0000
+gata	nc0s000
+el	da0000
+gato	nc0s000
+en	sp000
+su	dp0000
+casa	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+

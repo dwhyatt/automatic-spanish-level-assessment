@@ -1,0 +1,188 @@
+.	fp
+
+en	sp000
+Madrid	np00000
+visita	nc0s000
+la	da0000
+ciudad	nc0s000
+.	fp
+
+comer	vmn0000
+tapas	nc0p000
+.	fp
+
+beber	vmn0000
+vino	nc0s000
+.	fp
+
+después	rg
+decidieron	vmis000
+ir	vmn0000
+a	sp000
+la	da0000
+Barcelona	np00000
+.	fp
+
+coger	vmn0000
+el	da0000
+tren	nc0s000
+.	fp
+
+habla	nc0s000
+sobre	sp000
+su	dp0000
+niñez	nc0s000
+.	fp
+
+de	sp000
+pequeñas	aq0000
+ser	vsn0000
+muy	rg
+diferentes	aq0000
+.	fp
+
+Gwen	np00000
+de	sp000
+niña	nc0s000
+niña	nc0s000
+cada	di0000
+fin	nc0s000
+de	sp000
+semana	nc0s000
+leer	vmn0000
+un	di0000
+libro	nc0s000
+.	fp
+
+pintar	vmn0000
+un	di0000
+cuadro	nc0s000
+.	fp
+
+escribir	vmn0000
+un	di0000
+cuento	nc0s000
+.	fp
+
+durante	sp000
+la	da0000
+semana	nc0s000
+despertarse	nc0s000
+temprano	aq0000
+.	fp
+
+termina	vmip000
+sus	dp0000
+deberes	nc0p000
+temprano	aq0000
+.	fp
+
+Sarah	np00000
+de	sp000
+niña	nc0s000
+los	pp000000
+fines	nc0p000
+de	sp000
+semana	nc0s000
+jugar	vmn0000
+al	np00000
+fútbol	nc0s000
+.	fp
+
+ver	vmn0000
+un	di0000
+película	nc0s000
+.	fp
+
+durante	sp000
+la	da0000
+semana	nc0s000
+ir	vmn0000
+al	np00000
+colegio	nc0s000
+en	sp000
+bicicleta	nc0s000
+.	fp
+
+llegar	vmn0000
+tarde	rg
+a	sp000
+clase	nc0s000
+.	fp
+
+hace	vmip000
+sus	dp0000
+deberes	nc0p000
+por	sp000
+la	da0000
+noche	nc0s000
+.	fp
+
+acostarse	vmn0000
+muy	rg
+tarde	rg
+.	fp
+
+de	sp000
+repente	nc0s000
+en	sp000
+el	da0000
+tren	nc0s000
+haber	van0000
+un	di0000
+gran	aq0000
+revuelo	nc0s000
+.	fp
+
+creer	vmn0000
+que	cs
+había	vaii000
+una	di0000
+un	di0000
+problema	nc0s000
+.	fp
+
+sentir	vmn0000
+agua	nc0s000
+de	sp000
+lluvia	nc0s000
+lluvia	nc0s000
+.	fp
+
+necesitar	vmn0000
+ayuda	nc0s000
+del	sp000
+revisor	nc0s000
+.	fp
+
+ayuda	nc0s000
+a	sp000
+cambiarse	vmn0000
+de	sp000
+asiento	nc0s000
+.	fp
+
+tranquilizarse	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+en	sp000
+Barcelona	np00000
+comer	vmn0000
+una	di0000
+pizza	nc0s000
+.	fp
+
+reírse	vmsp000
+al	np00000
+recordar	vmn0000
+el	da0000
+viaje	nc0s000
+.	fp
+
+gracias	nc0p000
+muy	rg
+bien	rg
+.	fp
+

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C18SJR10"
+      Date="2009-06-16">
+<Participants>
+<participant
+  id="C18"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year10"
+
+/>
+<participant
+  id="SJR"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-JUN-2009</comment>
+<comment type="Location">MS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:03:57</comment>
+<u who="C18" uID="u0">
+<w>todas</w>
+<w>las</w>
+<g><w>mañanas</w><error/></g>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+<a type="errcoding">manañas = mañanas</a>
+</u>
+<u who="C18" uID="u1">
+<w>Natalie</w>
+<w>despertesle<f type="neologism"/></w>
+<w>en</w>
+<w>cama</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u2">
+<w>pinta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u3">
+<g><w>constri<replacement><w>construye</w></replacement></w><error/></g>
+<w>un</w>
+<w>cartón</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u4">
+<w>sale</w>
+<w>un</w>
+<w>bicicleta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u5">
+<w>salí</w>
+<g><w>escual<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>escuela</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u6">
+<w>Pancho</w>
+<w>despertarse</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u7">
+<w>salí</w>
+<w>un</w>
+<w>gatero</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u8">
+<g><w>escuala<replacement><w>escala</w></replacement></w><error/></g>
+<w>un</w>
+<w>árbol</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u9">
+<g><w>persenti<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>perseguir</w>
+<w>un</w>
+<w>mariposa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u10">
+<w>tome</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u11">
+<w>al</w>
+<w>final</w>
+<g><w>di<f type="neologism"/></w>
+<w>dea<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>de</w>
+<w>día</w>
+<w>Nati</w>
+<w>y</w>
+<w>Pancho</w>
+<w>encontra</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u12">
+<g><w>vol<shortening>xx</shortening></w><k type="retracing"/></g>
+<w>volver</w>
+<w>en</w>
+<w>casa</w>
+<w>juntos</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u13">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salí</w>
+<w>un</w>
+<w>gatero</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u14">
+<g><w>persegüe<replacement><w>persigue</w></replacement></w><error/></g>
+<g><w>un</w>
+<w>pa<shortening>xx</shortening></w><k type="retracing"/></g>
+<g><w>un</w>
+<w>paloma</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>paloma</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u15">
+<g><w>persuegue<replacement><w>persigue</w></replacement></w><error/></g>
+<w>un</w>
+<w>ratón</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u16">
+<w>un</w>
+<g><w>perr<shortening>o</shortening></w><k type="retracing"/></g>
+<w>perro</w>
+<g><w>lade<replacement><w>ladra</w></replacement></w><error/></g>
+<pause symbolic-length="simple"></pause>
+<w xml:lang="pre">at</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u17">
+<w>Pancho</w>
+<w>sale</w>
+<w>corriendo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u18">
+<w>Nati</w>
+<w>no</w>
+<g><w>describe</w><k type="retracing with correction"/></g>
+<w>describir</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u19">
+<w xml:lang="adv">so</w>
+<w>buscar</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u20">
+<w>Pancho</w>
+<w>no</w>
+<w>en</w>
+<w>la</w>
+<w>cama</w>
+<w>o</w>
+<w>en</w>
+<w>la</w>
+<pause symbolic-length="simple"></pause>
+<w>sofá</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u21">
+<g><w>Na<shortening>ti</shortening></w><k type="retracing"/></g>
+<w>Nati</w>
+<g><w>escuala<replacement><w>escala</w></replacement></w><error/></g>
+<w>un</w>
+<w>árbol</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u22">
+<w>describir</w>
+<w>un</w>
+<w>rana</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C18" uID="u23">
+<freecode>eng: I can't think of anything for that one</freecode>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u24">
+<w>qué</w>
+<w>hace</w>
+<freecode>eng: what's she doing</freecode>
+<t type="q"/>
+
+</u>
+<u who="C18" uID="u25">
+<freecode>eng: she's trying to find trying to get Nati no Pancho</freecode>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u26">
+<freecode>eng: what's she doing with the food</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u27">
+<w>puedes</w>
+<w>decir</w>
+<w>tirar</w>
+<t type="trail off"/>
+
+</u>
+<u who="C18" uID="u28">
+<linker type="self completion"/>
+<w>Nati</w>
+<g><w>tare<replacement><w>tira</w></replacement></w><error/></g>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C18" uID="u29">
+<freecode>eng: what's food</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u30">
+<w>comida</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u31">
+<linker type="self completion"/>
+<w>comida<f type="generic"/></w>
+<w>en</w>
+<w>la</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u32">
+<w>suelo</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u33">
+<linker type="self completion"/>
+<w>suelo<f type="generic"/></w>
+<w>para</w>
+<w>descubir<f type="neologism"/></w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u34">
+<w>Pancho</w>
+<w>no</w>
+<w>descubir<f type="neologism"/></w>
+<w>Nati</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u35">
+<w xml:lang="pre">so</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>volver</w>
+<w>en</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u36">
+<w>Pancho</w>
+<w>descubir<f type="neologism"/></w>
+<w>un</w>
+<g><w>co<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>comer</w>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u37">
+<w>comida</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u38">
+<linker type="self completion"/>
+<w>comida<f type="generic"/></w>
+<w>en</w>
+<w>la</w>
+<w>cama</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u39">
+<w>Pancho</w>
+<w>descubir<f type="neologism"/></w>
+<w>Nati</w>
+<w>en</w>
+<w>la</w>
+<w>cama</w>
+<t type="p"/>
+
+</u>
+<u who="C18" uID="u40">
+<w>fin</w>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u41">
+<w>gracias</w>
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u42">
+<w>y</w>
+<w>están</w>
+<w>contentos</w>
+<t type="p"/>
+
+</u>
+</CHAT>

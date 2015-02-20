@@ -1,0 +1,123 @@
+.	fp
+.	fp
+.	fp
+
+tres	dn0000
+niños	nc0p000
+y	cc
+una	di0000
+abuela	nc0s000
+y	cc
+ah	nc0s000
+un	di0000
+madre	nc0s000
+es	vsip000
+en	sp000
+Escocia	np00000
+.	fp
+
+de	sp000
+ehm	nc0s000
+de	sp000
+vacaciones	nc0p000
+.	fp
+
+una	di0000
+abuela	nc0s000
+pintar	vmn0000
+un	di0000
+dibujo	nc0s000
+y	cc
+un	di0000
+madre	nc0s000
+libro	nc0s000
+y	cc
+.	fp
+
+dos	dn0000
+niños	nc0p000
+.	fp
+
+una	di0000
+abuela	nc0s000
+pintar	vmn0000
+un	di0000
+.	fp
+
+madre	nc0s000
+y	cc
+niño	nc0s000
+un	di0000
+irse	nc0s000
+en	sp000
+el	da0000
+coche	nc0s000
+.	fp
+
+abuela	nc0s000
+y	cc
+dos	dn0000
+niños	nc0p000
+adiós	nc0n000
+.	fp
+
+madre	nc0s000
+comprar	vmn0000
+.	fp
+
+abuela	nc0s000
+pintar	vmn0000
+en	sp000
+el	da0000
+rueda	nc0s000
+cuatro	dn0000
+rueda	nc0s000
+ruedas	nc0p000
+en	sp000
+el	da0000
+agua	nc0s000
+.	fp
+
+abuela	nc0s000
+y	cc
+dos	dn0000
+niños	nc0p000
+también	rg
+en	sp000
+agua	nc0s000
+.	fp
+
+muchos	di0000
+hacer	vmn0000
+fotos	nc0p000
+y	cc
+en	sp000
+el	da0000
+tele	nc0s000
+es	vsip000
+un	di0000
+.	fp
+
+muchas	di0000
+personas	nc0p000
+es	vsip000
+enfrente	rg
+de	sp000
+abuela	nc0s000
+.	fp
+
+es	vsip000
+falso	aq0000
+de	sp000
+verdad	nc0s000
+es	vsip000
+en	sp000
+agua	nc0s000
+.	fp
+
+mmm	nc0s000
+muy	rg
+bien	rg
+gracias	nc0p000
+.	fp
+

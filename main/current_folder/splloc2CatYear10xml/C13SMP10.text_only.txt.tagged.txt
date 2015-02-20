@@ -1,0 +1,205 @@
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+pinta	aq0000
+el	da0000
+cuadro	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+lee	vmip000
+un	di0000
+libro	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+perseguir	vmn0000
+el	da0000
+mariposa	aq0000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+Natalia	np00000
+y	cc
+Pancho	np00000
+volver	vmn0000
+de	sp000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+salí	vmis000
+del	sp000
+gatero	nc0s000
+Pancho	np00000
+perseguir	vmn0000
+un	di0000
+pájaro	nc0s000
+.	fp
+
+un	di0000
+.	fp
+
+Pancho	np00000
+un	di0000
+ratón	nc0s000
+.	fp
+
+asusta	nc0s000
+un	di0000
+perro	nc0s000
+.	fp
+
+un	di0000
+perro	nc0s000
+sí	rg
+muy	rg
+bien	rg
+perfecto	aq0000
+.	fp
+
+Pancho	np00000
+sale	vmip000
+corriendo	vmg0000
+y	cc
+.	fp
+
+Nati	np00000
+busca	vmip000
+Pancho	np00000
+.	fp
+
+a	sp000
+trece	dn0000
+y	cc
+cuatro	dn0000
+hora	nc0s000
+Nati	np00000
+busca	vmip000
+Pancho	np00000
+.	fp
+
+detrás	rg
+.	fp
+
+el	da0000
+sofá	nc0s000
+.	fp
+
+sofá	nc0s000
+sí	pp000000
+dónde	pt000000
+escala	nc0s000
+un	di0000
+árbol	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+preguntar	vmn0000
+.	fp
+
+a	sp000
+un	di0000
+rana	aq0000
+.	fp
+.	fp
+
+Nati	np00000
+.	fp
+
+poner	vmn0000
+.	fp
+
+Nati	np00000
+comida	nc0s000
+.	fp
+
+de	sp000
+gato	nc0s000
+y	cc
+.	fp
+
+busca	vmip000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+busca	vmip000
+Natalia	np00000
+y	cc
+pensar	vmn0000
+.	fp
+
+y	cc
+Pancho	np00000
+de	sp000
+Natalia	np00000
+.	fp
+
+Pancho	np00000
+.	fp
+
+caminar	vmn0000
+.	fp
+
+camina	vmip000
+en	sp000
+la	da0000
+lluvia	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+busca	vmip000
+el	da0000
+casa	nc0s000
+.	fp
+
+Pancho	np00000
+busca	vmip000
+el	da0000
+comida	nc0s000
+de	sp000
+gato	nc0s000
+y	cc
+.	fp
+
+busca	vmip000
+el	da0000
+cesta	nc0s000
+la	da0000
+cesta	nc0s000
+muy	rg
+bien	rg
+.	fp
+
+Pancho	np00000
+busca	vmip000
+Natalia	np00000
+.	fp
+
+fin	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+

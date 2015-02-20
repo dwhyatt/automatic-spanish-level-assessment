@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C66NTV13"
+      Date="2009-06-23">
+<Participants>
+<participant
+  id="C66"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year13"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">23-JUN-2009</comment>
+<comment type="Location">IC</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:04:59</comment>
+<u who="NTV" uID="u0">
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u1">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u2">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<g><w>er<shortening>an</shortening></w><k type="retracing with correction"/></g>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u3">
+<w>Natalia</w>
+<w>leí</w>
+<w>un</w>
+<w>libro</w>
+<w>con</w>
+<w>sus</w>
+<w>juguetes</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u4">
+<w>pintó</w>
+<w>un</w>
+<w>pintora</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u5">
+<g><w>constru<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>constró<replacement><w>construyó</w></replacement></w><error/></g>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>casa</w>
+<w>de</w>
+<w>cartón</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u6">
+<w>jugó</w>
+<w>con</w>
+<w>su</w>
+<w>amigo</w>
+<w>en</w>
+<w>el</w>
+<w>bici</w>
+<w>y</w>
+<w>en</w>
+<w>el</w>
+<w>parque</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u7">
+<w>Pancho</w>
+<w>se</w>
+<w>despierto</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u8">
+<w>después</w>
+<g><w>san<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>saló<replacement><w>salió</w></replacement></w><error/><k type="retracing with correction"/></g>
+<w>salí</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u9">
+<w>escaló</w>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u10">
+<w>jugó</w>
+<w>con</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<pause symbolic-length="simple"></pause>
+<w>mariposa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u11">
+<g><w>persegó<replacement><w>persiguió</w></replacement></w><error/></g>
+<g><w>maripos<shortening>a</shortening></w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>mariposa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u12">
+<w>relajó</w>
+<w>en</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u13">
+<w>al</w>
+<w>final</w>
+<w>de</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>Natalia</w>
+<w>encontró</w>
+<w>con</w>
+<w>Pancho</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u14">
+<g><w>lle<shortening>gan</shortening></w><k type="retracing"/></g>
+<w>llegan</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u15">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>salí</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u16">
+<g><w>persegó<replacement><w>persiguió</w></replacement></w><error/></g>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u17">
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u18">
+<linker type="self completion"/>
+<w>pájaro<f type="generic"/></w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<w>un</w>
+<w>ratón</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u19">
+<w>estaba</w>
+<w>un</w>
+<w>perro</w>
+<w>grande</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u20">
+<w>ladró</w>
+<w>a</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u21">
+<g><w>asturó<replacement><w>asustó</w></replacement></w><error/></g>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u22">
+<w>Pancho</w>
+<w>salí</w>
+<w>corriendo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u23">
+<w>Nati</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>quince</w>
+<w>no</w>
+<w>puede</w>
+<w>ver</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u24">
+<w>buscó</w>
+<w>para</w>
+<w>su</w>
+<w>gato</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u25">
+<w>buscó</w>
+<w>en</w>
+<w>todo</w>
+<w>la</w>
+<w>casa</w>
+<w>y</w>
+<w>en</w>
+<w>todos</w>
+<w>las</w>
+<w>habitaciones</w>
+<w>y</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u26">
+<w>Nati</w>
+<w>piense</w>
+<w>que</w>
+<w>su</w>
+<w>gato</w>
+<pause symbolic-length="simple"></pause>
+<g><w>tuv<shortening>e</shortening></w><k type="retracing"/></g>
+<w>tuve</w>
+<w>hambre</w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u27">
+<w>tuve</w>
+<w>su</w>
+<w>comida</w>
+<w>en</w>
+<w>su</w>
+<w>cesta</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u28">
+<w>Pancho</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<g><w>no</w><k type="retracing"/></g>
+<w>no</w>
+<w>puede</w>
+<w>ver</w>
+<w>Nati</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u29">
+<w>Pancho</w>
+<g><w>pienso</w><k type="retracing with correction"/></g>
+<w>piense</w>
+<w>que</w>
+<g><w>Na<shortening>ti</shortening></w><k type="retracing"/></g>
+<w>Nati</w>
+<w>no</w>
+<w>estaba</w>
+<w>en</w>
+<w>su</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u30">
+<w>estaba</w>
+<w>lloviendo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u31">
+<w>Pancho</w>
+<w>llegó</w>
+<w>a</w>
+<w>casa</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u32">
+<w>su</w>
+<w>comida</w>
+<w>está</w>
+<w>en</w>
+<w>su</w>
+<w>gatero</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u33">
+<w>Pancho</w>
+<w>fue</w>
+<g><w>al</w>
+<w>s<shortening>u</shortening></w><k type="retracing"/></g>
+<w>a</w>
+<w>su</w>
+<w>gatero</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u34">
+<w>Nati</w>
+<w>estaba</w>
+<w>allí</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C66" uID="u35">
+<w>Nati</w>
+<w>y</w>
+<w>Pancho</w>
+<w>fue</w>
+<w>feliz</w>
+<t type="p"/>
+
+</u>
+</CHAT>

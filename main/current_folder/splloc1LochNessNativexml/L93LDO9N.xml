@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L93LDO9N"
+      Date="1984-01-01">
+<Participants>
+<participant
+  id="L93"
+  role="Participant"
+language="es"
+sex="female"
+group="Year"
+
+/>
+<participant
+  id="LDO"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Location">Madrid</comment>
+<comment type="Situation">Lochness Story Telling Task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:02:37</comment>
+<u who="LDO" uID="u0">
+<freecode>eng: student ninety three Loch Ness story</freecode>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u1">
+<w>esta</w>
+<w>historia</w>
+<w>comienza</w>
+<w>con</w>
+<w>una</w>
+<w>familia</w>
+<w>que</w>
+<w>se</w>
+<w>va</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>a</w>
+<w>un</w>
+<w>sitio</w>
+<w>muy</w>
+<w>especial</w>
+<w>el</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>en</w>
+<w>Escocia</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u2">
+<w>se</w>
+<w>va</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>sus</w>
+<w>tres</w>
+<w>hijos</w>
+<w>pequeños</w>
+<w>con</w>
+<w>la</w>
+<w>abuela</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u3">
+<w>están</w>
+<w>todos</w>
+<w>al</w>
+<w>borde</w>
+<w>del</w>
+<w>lago</w>
+<w>Ness</w>
+<w>dibujando</w>
+<w>intentando</w>
+<w>pescar</w>
+<g><w>y</w><k type="retracing"/></g>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u4">
+<g><w>la</w>
+<w>madre</w>
+<w>dice</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>perdón</w>
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>enseñó</w>
+<w>el</w>
+<w>dibujo</w>
+<g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>estaba</w>
+<w>haciendo</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u5">
+<w>resulta</w>
+<w>que</w>
+<w>estaba</w>
+<w>haciendo</w>
+<w>un</w>
+<w>dibujo</w>
+<w>del</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="LDO" uID="u6">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u7">
+<w>ella</w>
+<w>se</w>
+<w>lo</w>
+<w>estaba</w>
+<w>imaginando</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u8">
+<w>el</w>
+<w>niño</w>
+<g><w>inte<shortening>ntaba</shortening></w><k type="retracing"/></g>
+<w>intentaba</w>
+<w>copiarse</w>
+<w>del</w>
+<w>dibujo</w>
+<w>de</w>
+<w>la</w>
+<w>abuela</w>
+<w>porque</w>
+<w>era</w>
+<w>muy</w>
+<w>bonito</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u9">
+<w>la</w>
+<w>madre</w>
+<w>decide</w>
+<w>ir</w>
+<w>a</w>
+<w>la</w>
+<w>ciudad</w>
+<g><w>para</w><k type="retracing"/></g>
+<w>para</w>
+<w>ir</w>
+<w>de</w>
+<w>compras</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u10">
+<w>se</w>
+<w>lleva</w>
+<w>al</w>
+<w>niño</w>
+<w>pequeño</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u11">
+<w>en</w>
+<w>la</w>
+<w>ciudad</w>
+<w>la</w>
+<w>madre</w>
+<w>está</w>
+<w>mirando</w>
+<w>escaparates</w>
+<w>y</w>
+<w>todo</w>
+<g><w>y</w>
+<w>el</w>
+<w>ni<shortening>ño</shortening></w><k type="retracing"/></g>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>a</w>
+<w>su</w>
+<w>lado</w>
+<w>mientras</w>
+<w>tanto</w>
+<w>en</w>
+<w>la</w>
+<w>casa</w>
+<w>que</w>
+<w>habían</w>
+<w>alquilado</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>estaba</w>
+<w>dibu<shortening>jando</shortening></w><k type="retracing"/></g>
+<w>estaba</w>
+<w>dibujando</w>
+<w>en</w>
+<w>unas</w>
+<w>ruedas</w>
+<w>una</w>
+<w>especie</w>
+<w>de</w>
+<w>monstruo</w>
+<w>con</w>
+<w>pintura</w>
+<w>blanca</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u12">
+<w>los</w>
+<w>niños</w>
+<w>estaban</w>
+<w>llevando</w>
+<w>piedras</w>
+<g><w>para</w><k type="retracing"/></g>
+<w>para</w>
+<w>atarlas</w>
+<w>a</w>
+<w>las</w>
+<w>ruedas</w>
+<w>y</w>
+<w>que</w>
+<w>no</w>
+<w>se</w>
+<w>fueran</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u13">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>niños</w>
+<w>se</w>
+<w>montaron</w>
+<g><w>en</w>
+<w>una</w><k type="retracing"/></g>
+<w>en</w>
+<w>una</w>
+<w>barca</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u14">
+<w>pusieron</w>
+<w>el</w>
+<w>monstruo</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>flote</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u15">
+<w>se</w>
+<w>quedó</w>
+<w>muy</w>
+<w>bien</w>
+<w>cuando</w>
+<w>llegaron</w>
+<w>la</w>
+<w>mamá</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>pequeño</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u16">
+<w>sus</w>
+<w>hermanos</w>
+<w>le</w>
+<w>dijeron</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L93" uID="u17">
+<linker type="quoted utterance next"/>
+<w>mira</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>lago</w>
+<w>Ness</w>
+<t type="e"/>
+
+</u>
+<u who="L93" uID="u18">
+<w>y</w>
+<w>la</w>
+<w>madre</w>
+<w>se</w>
+<w>sorprendió</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u19">
+<w>no</w>
+<w>sabía</w>
+<w>que</w>
+<w>lo</w>
+<w>había</w>
+<w>hecho</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>niños</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u20">
+<w>fue</w>
+<w>mucha</w>
+<w>gente</w>
+<w>esa</w>
+<w>mañana</w>
+<w>a</w>
+<w>ver</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>porque</w>
+<w>siempre</w>
+<w>se</w>
+<w>había</w>
+<w>creído</w>
+<g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>había</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>verdad</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u21">
+<w>había</w>
+<w>mucha</w>
+<w>gente</w>
+<w>con</w>
+<w>cámaras</w>
+<w>haciendo</w>
+<w>fotos</w>
+<w>prismáticos</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u22">
+<w>incluso</w>
+<w>había</w>
+<w>un</w>
+<w>perro</w>
+<w>eh</w>
+<t type="p"/>
+
+<a type="comments">[laugh] .</a>
+</u>
+<u who="L93" uID="u23">
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>los</w>
+<w>niños</w>
+<w>estaban</w>
+<w>viendo</w>
+<w>la</w>
+<w>tele</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u24">
+<w>vieron</w>
+<w>que</w>
+<w>su</w>
+<w>invento</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>salía</w>
+<w>por</w>
+<w>la</w>
+<w>tele</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u25">
+<w>se</w>
+<w>quedaron</w>
+<w>muy</w>
+<w>sorprendidos</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u26">
+<w>al</w>
+<w>día</w>
+<w>siguiente</w>
+<w>la</w>
+<w>pobre</w>
+<w>abuela</w>
+<w>ya</w>
+<w>se</w>
+<w>estaba</w>
+<w>pasando</w>
+<w>un</w>
+<w>poco</w>
+<w>con</w>
+<w>la</w>
+<w>broma</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u27">
+<w>lo</w>
+<w>tuvo</w>
+<w>que</w>
+<w>pedir</w>
+<w>perdón</w>
+<w>a</w>
+<w>los</w>
+<w>de</w>
+<w>la</w>
+<w>prensa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u28">
+<w>les</w>
+<w>dijo</w>
+<g><w>que</w>
+<w>eras</w><k type="retracing with correction"/></g>
+<w>que</w>
+<w>eran</w>
+<w>solamente</w>
+<w>pues</w>
+<w>cuatro</w>
+<w>ruedas</w>
+<w>pintadas</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u29">
+<w>las</w>
+<w>tuvo</w>
+<w>que</w>
+<w>sacar</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="comments">[laugh] .</a>
+</u>
+<u who="L93" uID="u30">
+<w>las</w>
+<w>enseñó</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u31">
+<w>la</w>
+<w>familia</w>
+<w>ya</w>
+<w>se</w>
+<w>habían</w>
+<w>terminado</w>
+<w>sus</w>
+<w>vacaciones</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u32">
+<w>se</w>
+<w>fueron</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u33">
+<w>no</w>
+<w>se</w>
+<w>sabía</w>
+<w>si</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>era</w>
+<w>verdad</w>
+<w>o</w>
+<w>mentira</w>
+<t type="p"/>
+
+</u>
+<u who="L93" uID="u34">
+<w>lo</w>
+<w>que</w>
+<w>pasa</w>
+<w>es</w>
+<w>que</w>
+<g><w>al</w>
+<w>termin<shortening>ar</shortening></w><k type="retracing with correction"/></g>
+<w>cuando</w>
+<w>se</w>
+<w>iban</w>
+<g><w>se</w>
+<w>veía</w>
+<w>una</w>
+<w>cabeza</w><k type="retracing with correction"/></g>
+<w>se</w>
+<w>divisaba</w>
+<w>una</w>
+<w>cabeza</w>
+<t type="p"/>
+
+</u>
+<u who="LDO" uID="u35">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

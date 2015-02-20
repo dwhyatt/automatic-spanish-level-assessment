@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H19SJR10"
+      Date="2009-06-16">
+<Participants>
+<participant
+  id="H19"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="SJR"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-JUN-2009</comment>
+<comment type="Location">MS</comment>
+<comment type="Situation">Hermanas Story</comment>
+<comment type="Transcriber">ART</comment>
+<comment type="Time Duration">00:02:29</comment>
+<u who="SJR" uID="u0">
+<freecode>eng: student nineteen las hermanas</freecode>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u1">
+<w>la</w>
+<g><w xml:lang="d">vacation</w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="H19" uID="u2">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u3">
+<linker type="self completion"/>
+<g><w>va<shortening>caciones</shortening></w><k type="retracing"/></g>
+<g><w>vacac<shortening>iones</shortening></w><k type="retracing"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u4">
+<w>vacaciones</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u5">
+<w>vacaciones<f type="generic"/></w>
+<w>de</w>
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>en</w>
+<w>España</w>
+<w>verano</w>
+<w>del</w>
+<w>dos</w>
+<w>mil</w>
+<w>seis</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u6">
+<w>en</w>
+<w>Madrid</w>
+<w>visita</w>
+<w>el</w>
+<w>ciudad</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u7">
+<w>coma</w>
+<w>tapas</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u8">
+<g><w>biba<replacement><w>beba</w></replacement></w><error/></g>
+<w>vino</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u9">
+<g><w>después</w><error/></g>
+<g><w>dicidirion<replacement><w>decidieron</w></replacement></w><error/></g>
+<w>ir</w>
+<w>a</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+<a type="errcoding">despus = después</a>
+</u>
+<u who="H19" uID="u10">
+<g><w>cogerien<replacement><w>cogieron</w></replacement></w><error/></g>
+<g><w>tren</w><k type="retracing"/></g>
+<w>tren</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u11">
+<g><w>jablar<replacement><w>hablar</w></replacement></w><error/></g>
+<w>sobre</w>
+<w>su</w>
+<w>niñez</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u12">
+<w>de</w>
+<g><w>pequeñas</w><error/></g>
+<w>ser</w>
+<w>muy</w>
+<g><w>diferente</w><k type="retracing with correction"/></g>
+<w>diferentes</w>
+<t type="p"/>
+
+<a type="errcoding">peqüenas = pequeñas</a>
+</u>
+<u who="H19" uID="u13">
+<w>Gwen</w>
+<w>de</w>
+<g><w>niña</w><error/></g>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>lee</w>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+<a type="errcoding">nina = niña</a>
+</u>
+<u who="H19" uID="u14">
+<w>pinta</w>
+<w>un</w>
+<w>cuadro</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u15">
+<w>escriba</w>
+<w>un</w>
+<g><w>cuento</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">ciento = cuento</a>
+</u>
+<u who="H19" uID="u16">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<g><w>despertas<replacement><w>despertarse</w></replacement></w><error/></g>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u17">
+<g><w>term<shortening>inar</shortening></w><k type="retracing with correction"/></g>
+<g><w>terme<replacement><w>termina</w></replacement></w><error/></g>
+<w>sus</w>
+<g><w>deberes</w><error/></g>
+<w>temprano</w>
+<t type="p"/>
+
+<a type="errcoding">debres = deberes</a>
+</u>
+<u who="H19" uID="u18">
+<w>Sarah</w>
+<w>de</w>
+<g><w>niña</w><error/></g>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<g><w>yuga<replacement><w>juega</w></replacement></w><error/></g>
+<w>al</w>
+<w>fútbol</w>
+<t type="p"/>
+
+<a type="errcoding">nina = niña</a>
+</u>
+<u who="H19" uID="u19">
+<w>ver</w>
+<w>un</w>
+<g><w>película</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">pecula = película</a>
+</u>
+<u who="H19" uID="u20">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>ir</w>
+<w>al</w>
+<g><w>colegio</w><error/></g>
+<w>en</w>
+<w>el</w>
+<g><w>biclic</w><error/><k type="retracing with correction"/></g>
+<g><w>bic<shortening>icleta</shortening></w><k type="retracing with correction"/></g>
+<w>bicicleta</w>
+<t type="p"/>
+
+<a type="errcoding">colego = colegio, biclic = bicicleta</a>
+</u>
+<u who="H19" uID="u21">
+<g><w>legar<replacement><w>llegar</w></replacement></w><error/></g>
+<w>tarde</w>
+<w>a</w>
+<w>clase</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u22">
+<g><w>hasa<replacement><w>hace</w></replacement></w><error/></g>
+<w>sus</w>
+<g><w>deberes</w><error/></g>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<t type="p"/>
+
+<a type="errcoding">depres = deberes</a>
+</u>
+<u who="H19" uID="u23">
+<g><w>acostatase<replacement><w>acostarse</w></replacement></w><error/></g>
+<w>muy</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u24">
+<w>de</w>
+<w>repente</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<g><w>jaba<replacement><w>había</w></replacement></w><error/></g>
+<w>un</w>
+<w>gran</w>
+<g><w>revuelo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">revelo = revuelo</a>
+</u>
+<u who="H19" uID="u25">
+<g><w>cir<replacement><w>cree</w></replacement></w><error/></g>
+<w>que</w>
+<g><w>jabía<replacement><w>había</w></replacement></w><error/></g>
+<w>un</w>
+<w>problema</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u26">
+<w>sentir</w>
+<g><w>agua</w><error/></g>
+<w>de</w>
+<g><w>lluvia</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">igua = agua, leña = lluvia</a>
+</u>
+<u who="H19" uID="u27">
+<w>necesitar</w>
+<w>el</w>
+<g><w>ayuda</w><error/></g>
+<w>del</w>
+<g><w>revisor</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">ayado = ayuda, revaiso = revisor</a>
+</u>
+<u who="H19" uID="u28">
+<g><w>ayado<replacement><w>ayudó</w></replacement></w><error/></g>
+<w>un</w>
+<g><w>camburarsi<replacement><w>cambiarse</w></replacement></w><error/></g>
+<w>asiento</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u29">
+<g><w>tranqüilarze<replacement><w>tranquilizarse</w></replacement></w><error/></g>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u30">
+<w>coma</w>
+<w>un</w>
+<w>pizza</w>
+<t type="p"/>
+
+</u>
+<u who="H19" uID="u31">
+<g><w>rise<replacement><w>reírse</w></replacement></w><error/></g>
+<w>el</w>
+<w>recordar</w>
+<w>el</w>
+<g><w>viaje</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">viyal = viaje</a>
+</u>
+<u who="SJR" uID="u32">
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u33">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

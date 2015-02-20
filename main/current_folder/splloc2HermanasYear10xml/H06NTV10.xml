@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H06NTV10"
+      Date="2009-03-11">
+<Participants>
+<participant
+  id="H06"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year10"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">11-MAR-2009</comment>
+<comment type="Location">BS</comment>
+<comment type="Situation">Las Hermanas Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:03:05</comment>
+<u who="H06" uID="u0">
+<w>las</w>
+<w>vacaciones</w>
+<w>de</w>
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>en</w>
+<w>España</w>
+<w>verano</w>
+<w>del</w>
+<w>dos</w>
+<w>mil</w>
+<w>seis</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u1">
+<w>en</w>
+<w>Madrid</w>
+<w>los</w>
+<w>hermanos</w>
+<w>visitan</w>
+<w>los</w>
+<w>monumentos</w>
+<w>en</w>
+<w>la</w>
+<w>ciudad</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u2">
+<w>come</w>
+<w>tapas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u3">
+<w>bebe</w>
+<w>vino</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u4">
+<g><w>des<shortening>pués</shortening></w><k type="retracing"/></g>
+<w>después</w>
+<w>cogen</w>
+<w>un</w>
+<w>tren</w>
+<w>a</w>
+<w>ir</w>
+<w>de</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u5">
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>los</w>
+<w>chicas</w>
+<w>habla</w>
+<w>cuando</w>
+<w>sobre</w>
+<w>niñez</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u6">
+<w>cuando</w>
+<pause symbolic-length="simple"></pause>
+<w>están</w>
+<w>pequeño</w>
+<w>fue</w>
+<w>muy</w>
+<w>diferente</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u7">
+<w>cuando</w>
+<w>Gwen</w>
+<w>fue</w>
+<w>niña</w>
+<pause symbolic-length="simple"></pause>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>lee</w>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u8">
+<w>pinta</w>
+<w>un</w>
+<w>cuadro</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u9">
+<w>escribe</w>
+<g><w>un</w>
+<w>cuento</w><k type="retracing"/></g>
+<w>un</w>
+<w>cuento</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u10">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>despertarse</w>
+<w>temprano</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u11">
+<w>terminar</w>
+<w>sus</w>
+<w>deberes</w>
+<w>muy</w>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u12">
+<w>cuando</w>
+<w>Sarah</w>
+<w>fue</w>
+<w>niña</w>
+<w>en</w>
+<w>los</w>
+<w>fin</w>
+<w>de</w>
+<w>semanas</w>
+<w>jugar</w>
+<w>al</w>
+<w>fútbol</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u13">
+<w>ver</w>
+<w>un</w>
+<w>película</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u14">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>ir</w>
+<w>a</w>
+<w>colegio</w>
+<w>en</w>
+<w>bicicleta</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u15">
+<g><w>llegó</w><k type="retracing with correction"/></g>
+<w>llega</w>
+<w>tarde</w>
+<w>a</w>
+<w>clase</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u16">
+<w>también</w>
+<w>hace</w>
+<w>sus</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u17">
+<w>acostarse</w>
+<w>muy</w>
+<w>tarde</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u18">
+<w>cuando</w>
+<w>los</w>
+<w>chicas</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<g><w>oi<replacement><w>oye</w></replacement></w><error/></g>
+<w>un</w>
+<w>gran</w>
+<w>revuelo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u19">
+<w>piensa</w>
+<w>que</w>
+<w>había</w>
+<w>una</w>
+<w>problema</w>
+<w>cuando</w>
+<w>la</w>
+<w>agua</w>
+<w>de</w>
+<w>lluvia</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u20">
+<w>caer</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u21">
+<linker type="self completion"/>
+<w>caer<f type="generic"/></w>
+<w>en</w>
+<w>la</w>
+<w>cabeza</w>
+<w>de</w>
+<w>Gwen</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u22">
+<w>Sarah</w>
+<w>dice</w>
+<w>a</w>
+<w>la</w>
+<w>revisor</w>
+<g><w>que</w>
+<w>necesitan</w>
+<w>ayuda</w><a type="explanation">r</a></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u23">
+<w>la</w>
+<w>ayuda</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<g><w>as<shortening>iento</shortening></w><k type="retracing"/></g>
+<w>asiento</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u24">
+<w>los</w>
+<w>chicas</w>
+<w>están</w>
+<w>feliz</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u25">
+<w>cuando</w>
+<pause symbolic-length="simple"></pause>
+<g><w>llegó</w><k type="retracing with correction"/></g>
+<w>llega</w>
+<w>en</w>
+<w>Barcelona</w>
+<w>comer</w>
+<w>una</w>
+<w>pizza</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H06" uID="u26">
+<w>recordar</w>
+<w>el</w>
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+</CHAT>

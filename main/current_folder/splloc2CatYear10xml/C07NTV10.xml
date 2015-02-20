@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C07NTV10"
+      Date="2009-03-13">
+<Participants>
+<participant
+  id="C07"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">13-MAR-2009</comment>
+<comment type="Location">BS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:04:20</comment>
+<u who="C07" uID="u0">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u1">
+<w>Natalia</w>
+<w>pinta</w>
+<w>un</w>
+<w>pictor<f type="neologism"/></w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u2">
+<w>vuelta</w>
+<w>de</w>
+<w>bicicleta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u3">
+<w>Pancho</w>
+<w>escala</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u4">
+<w>un</w>
+<w>árbol</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u5">
+<linker type="self completion"/>
+<w>un<f type="generic"/></w>
+<w>árbol<f type="generic"/></w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u6">
+<g><w>persegüí<replacement><w>perseguí</w></replacement></w><error/></g>
+<w>una</w>
+<w>mariposa</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u7">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<pause symbolic-length="simple"></pause>
+<w>Natalia</w>
+<w>y</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<g><w>encontran<replacement><w>encuentran</w></replacement></w><error/></g>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u8">
+<g><w>vuelve</w><k type="retracing with correction"/></g>
+<w>vuelven</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u9">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>se</w>
+<g><w>persegüí<replacement><w>perseguí</w></replacement></w><error/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>para</w><k type="retracing with correction"/></g>
+<w>de</w>
+<w>un</w>
+<w>perro</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u10">
+<w>tiene</w>
+<w>que</w>
+<w>salir</w>
+<w>corriendo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u11">
+<w>Nati</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>cuarto</w>
+<g><w>busca</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>busca</w>
+<w>de</w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u12">
+<g><w>no</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>tiene</w>
+<w>que</w>
+<w>buscar</w>
+<g><w>para</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>para</w>
+<w>Pancho</w>
+<w>con</w>
+<w>la</w>
+<w>ayuda</w>
+<w>de</w>
+<w>la</w>
+<g><w>rana</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">raña = rana</a>
+</u>
+<u who="C07" uID="u13">
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u14">
+<freecode>eng: she is sad</freecode>
+<w>triste</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u15">
+<linker type="self completion"/>
+<w>triste<f type="generic"/></w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u16">
+<freecode>eng: what's decided</freecode>
+<t type="q"/>
+
+</u>
+<u who="C07" uID="u17">
+<g><w>cre<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u18">
+<w>decidir</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u19">
+<linker type="self completion"/>
+<w>decidir<f type="generic"/></w>
+<w>que</w>
+<pause symbolic-length="simple"></pause>
+<w>tirar</w>
+<w>comida</w>
+<w>para</w>
+<g><w>Pancho</w><k type="retracing"/></g>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u20">
+<w>Pancho</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<pause symbolic-length="simple"></pause>
+<w>descubre</w>
+<w>que</w>
+<w>Natalie</w>
+<w>no</w>
+<w>está</w>
+<g><w>en</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>el</w>
+<w xml:lang="d">place</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u21">
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<g><w>fui</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>fui</w>
+<w>buscar</w>
+<w>Natalie</w>
+<w>en</w>
+<w>la</w>
+<w>lluvia</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u22">
+<w>descubrir</w>
+<w>la</w>
+<w>comida</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C07" uID="u23">
+<g><w>finalmente</w><error/></g>
+<pause symbolic-length="simple"><k type="retracing with correction"/></pause>
+<w>ehm</w>
+<g><w>finalmente</w><error/></g>
+<w>vuelve</w>
+<w>a</w>
+<w>casa</w>
+<w>con</w>
+<w>Natalie</w>
+<t type="p"/>
+
+<a type="errcoding">fainalmente = finalmente</a>
+</u>
+</CHAT>

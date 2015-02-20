@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H37NTV13N"
+      Date="2009-03-31">
+<Participants>
+<participant
+  id="H37"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year13N"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">31-MAR-2009</comment>
+<comment type="Location">AS</comment>
+<comment type="Situation">Las Hermanas Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:02:09</comment>
+<u who="NTV" uID="u0">
+<w>vale</w>
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u1">
+<w>pues</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u2">
+<w>son</w>
+<w>dos</w>
+<w>hermanas</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u3">
+<w>se</w>
+<w>llaman</w>
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u4">
+<w>el</w>
+<w>verano</w>
+<w>de</w>
+<w>dos</w>
+<w>mil</w>
+<w>seis</w>
+<w>decidieron</w>
+<w>hacer</w>
+<w>un</w>
+<w>viaje</w>
+<w>a</w>
+<w>España</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u5">
+<w>la</w>
+<w>primera</w>
+<w>ciudad</w>
+<w>que</w>
+<w>visitaron</w>
+<w>fue</w>
+<w>Madrid</w>
+<w>donde</w>
+<w>visitaron</w>
+<w>todos</w>
+<w>sus</w>
+<w>museos</w>
+<w>sus</w>
+<w>estadios</w>
+<w>de</w>
+<w>fútbol</w>
+<w>los</w>
+<w>lugares</w>
+<w>más</w>
+<w>importantes</w>
+<w>que</w>
+<w>tenía</w>
+<w>esa</w>
+<w>ciudad</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u6">
+<w>aprovecharon</w>
+<g><w>para</w>
+<w>comer</w>
+<w>las</w>
+<w>tapas</w><k type="retracing with correction"/></g>
+<w>para</w>
+<w>probar</w>
+<w>las</w>
+<w>tapas</w>
+<w>más</w>
+<w>características</w>
+<w>y</w>
+<w>beber</w>
+<w>vino</w>
+<w>que</w>
+<w>es</w>
+<w>el</w>
+<w>producto</w>
+<w>más</w>
+<w>característico</w>
+<w>de</w>
+<w>España</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u7">
+<g><w>tras</w><k type="retracing with correction"/></g>
+<w>al</w>
+<w>cabo</w>
+<w>de</w>
+<w>unos</w>
+<w>días</w>
+<w>después</w>
+<w>de</w>
+<w>haber</w>
+<w>visitado</w>
+<w>Madrid</w>
+<w>decidieron</w>
+<w>coger</w>
+<w>un</w>
+<w>tren</w>
+<w>para</w>
+<w>ir</w>
+<w>a</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u8">
+<w>mientras</w>
+<w>estaban</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>hablaron</w>
+<w>sobre</w>
+<w>su</w>
+<w>niñez</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u9">
+<w>de</w>
+<w>pequeñas</w>
+<w>ambas</w>
+<w>eran</w>
+<w>muy</w>
+<w>diferentes</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u10">
+<w>Gwen</w>
+<w>de</w>
+<w>niña</w>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>primero</w>
+<w>leía</w>
+<w>un</w>
+<w>libro</w>
+<w>o</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u11">
+<w>pintaba</w>
+<w>un</w>
+<w>cuadro</w>
+<w>o</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u12">
+<w>se</w>
+<w>ponía</w>
+<w>a</w>
+<w>escribir</w>
+<w>un</w>
+<w>cuento</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u13">
+<w>mientras</w>
+<w>que</w>
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>siempre</w>
+<w>se</w>
+<w>levantaba</w>
+<w>muy</w>
+<w>temprano</w>
+<w>para</w>
+<w>ir</w>
+<w>al</w>
+<w>colegio</w>
+<w>cuando</w>
+<w>volvía</w>
+<w>a</w>
+<w>casa</w>
+<w>terminaba</w>
+<w>sus</w>
+<w>deberes</w>
+<w>muy</w>
+<w>temprano</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u14">
+<w>en</w>
+<w>cambio</w>
+<w>Sarah</w>
+<w>de</w>
+<w>niña</w>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<w>siempre</w>
+<w>le</w>
+<w>encantaba</w>
+<w>jugar</w>
+<w>al</w>
+<w>fútbol</w>
+<w>o</w>
+<w>ver</w>
+<w>una</w>
+<w>película</w>
+<w>con</w>
+<w>sus</w>
+<w>amigos</w>
+<w>en</w>
+<w>el</w>
+<w>cine</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u15">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>era</w>
+<w>totalmente</w>
+<w>al</w>
+<w>contrario</w>
+<g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>Gwen</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u16">
+<w>llegaba</w>
+<w>al</w>
+<w>colegio</w>
+<w>en</w>
+<w>bicicleta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u17">
+<w>por</w>
+<w>eso</w>
+<w>siempre</w>
+<w>llegaba</w>
+<w>tarde</w>
+<w>a</w>
+<w>clase</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u18">
+<w>cuando</w>
+<w>llegaba</w>
+<w>a</w>
+<w>su</w>
+<w>casa</w>
+<w>siempre</w>
+<w>perdía</w>
+<w>el</w>
+<w>tiempo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u19">
+<w>hacía</w>
+<w>sus</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>lo</w>
+<w>que</w>
+<w>hacía</w>
+<w>que</w>
+<w>se</w>
+<w>acostase</w>
+<w>muy</w>
+<w>tarde</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u20">
+<w>mientras</w>
+<w>se</w>
+<w>estaban</w>
+<w>contando</w>
+<w>las</w>
+<w>historias</w>
+<w>de</w>
+<w>su</w>
+<w>niñez</w>
+<w>cómo</w>
+<w>eran</w>
+<w>las</w>
+<w>dos</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>hubo</w>
+<w>un</w>
+<w>gran</w>
+<w>revuelo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u21">
+<w>creían</w>
+<w>que</w>
+<w>había</w>
+<w>un</w>
+<w>gran</w>
+<w>problema</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u22">
+<w>en</w>
+<w>ese</w>
+<w>instante</w>
+<w>Gwen</w>
+<w>empezó</w>
+<w>a</w>
+<w>sentir</w>
+<w>cómo</w>
+<w>le</w>
+<w>caían</w>
+<w>las</w>
+<w>gotas</w>
+<w>del</w>
+<w>agua</w>
+<w>de</w>
+<w>lluvia</w>
+<w>en</w>
+<w>la</w>
+<w>cabeza</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u23">
+<w>por</w>
+<w>eso</w>
+<w>Sarah</w>
+<w>fue</w>
+<w>a</w>
+<w>pedir</w>
+<w>ayuda</w>
+<w>del</w>
+<w>revisor</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u24">
+<w>éste</w>
+<g><w>les</w>
+<w>cambió</w><k type="retracing with correction"/></g>
+<w>les</w>
+<w>ayudó</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<w>asiento</w>
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u25">
+<w>ya</w>
+<w>pudieron</w>
+<w>disfrutar</w>
+<w>del</w>
+<w>viaje</w>
+<w>en</w>
+<w>tren</w>
+<w>con</w>
+<w>toda</w>
+<w>normalidad</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u26">
+<w>al</w>
+<w>final</w>
+<w>cuando</w>
+<w>llegaron</w>
+<w>a</w>
+<w>Barcelona</w>
+<w>lo</w>
+<w>primero</w>
+<w>que</w>
+<w>hicieron</w>
+<w>fue</w>
+<g><w>comer</w>
+<w>una</w><k type="retracing"/></g>
+<w>comer</w>
+<w>una</w>
+<w>pizza</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H37" uID="u27">
+<w>se</w>
+<w>reían</w>
+<g><w>de</w><k type="retracing with correction"/></g>
+<w>al</w>
+<w>recordar</w>
+<w>lo</w>
+<w>que</w>
+<w>les</w>
+<w>había</w>
+<w>sucedido</w>
+<w>mientras</w>
+<w>iban</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<t type="p"/>
+
+</u>
+</CHAT>

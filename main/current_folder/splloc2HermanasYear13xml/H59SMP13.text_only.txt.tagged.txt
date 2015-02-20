@@ -1,0 +1,281 @@
+vale	vmip000
+cuéntame	pt000000
+la	da0000
+historia	nc0s000
+de	sp000
+las	da0000
+hermanas	nc0p000
+.	fp
+
+en	sp000
+el	da0000
+verano	nc0s000
+Sarah	np00000
+y	cc
+Gwen	np00000
+fueron	vsis000
+a	sp000
+Madrid	np00000
+y	cc
+.	fp
+
+visitaron	vmis000
+la	da0000
+ciudad	nc0s000
+ver	vmn0000
+muchas	di0000
+muchos	pi000000
+sitios	nc0p000
+y	cc
+.	fp
+
+comieron	vmis000
+tapas	nc0p000
+por	sp000
+ejemplo	nc0s000
+tortilla	aq0000
+y	cc
+.	fp
+
+bebieron	vmis000
+mucho	rg
+vino	vmis000
+en	sp000
+los	da0000
+bares	nc0p000
+y	cc
+.	fp
+
+después	rg
+cogieron	vmis000
+el	da0000
+tren	nc0s000
+a	sp000
+Barcelona	np00000
+.	fp
+
+era	vsii000
+un	di0000
+viaje	nc0s000
+muy	rg
+largo	aq0000
+y	cc
+.	fp
+
+hablaron	vmis000
+sobre	sp000
+su	dp0000
+niñez	nc0s000
+pasar	vmn0000
+el	da0000
+tiempo	nc0s000
+.	fp
+
+cuando	cs
+de	sp000
+pequeñas	aq0000
+serían	vsic000
+muy	rg
+diferentes	aq0000
+.	fp
+
+por	sp000
+ejemplo	nc0s000
+Gwen	np00000
+le	pp000000
+gusta	vmip000
+leer	vmn0000
+los	da0000
+libros	nc0p000
+y	cc
+escribiendo	vmg0000
+cuentos	nc0p000
+y	cc
+.	fp
+
+le	pp000000
+gusta	vmip000
+pintar	vmn0000
+cuadros	nc0p000
+en	sp000
+su	dp0000
+pasatiempos	nc0p000
+.	fp
+
+durante	sp000
+la	da0000
+semana	nc0s000
+se	p0000000
+despierta	vmip000
+temprano	rg
+y	cc
+.	fp
+
+termina	vmip000
+su	dp0000
+deberes	nc0p000
+temprano	rg
+porque	cs
+ella	pp000000
+es	vsip000
+muy	rg
+organizada	aq0000
+pero	cc
+.	fp
+
+Sarah	np00000
+es	vsip000
+muy	rg
+era	vsii000
+muy	rg
+diferente	aq0000
+.	fp
+
+le	pp000000
+gusta	vmip000
+jugar	vmn0000
+fútbol	nc0s000
+y	cc
+vea	vmm0000
+muchas	di0000
+películas	nc0p000
+con	sp000
+amigas	nc0p000
+con	sp000
+amigos	nc0p000
+y	cc
+.	fp
+
+durante	sp000
+la	da0000
+semana	nc0s000
+fue	vsis000
+al	np00000
+colegio	nc0s000
+en	sp000
+bicicleta	nc0s000
+y	cc
+.	fp
+
+normalmente	rg
+llegó	vmis000
+tarde	rg
+a	sp000
+clase	nc0s000
+.	fp
+
+hago	vmip000
+no	rn
+.	fp
+
+no	rn
+sé	vmip000
+.	fp
+
+le	pp000000
+gusta	vmip000
+hacer	vmn0000
+sus	dp0000
+deberes	nc0p000
+por	sp000
+la	da0000
+noche	nc0s000
+no	rn
+por	sp000
+la	da0000
+tarde	nc0s000
+y	cc
+.	fp
+
+se	p0000000
+acueste	vmsp000
+muy	rg
+tarde	rg
+porque	cs
+no	rn
+no	rn
+sé	vmip000
+.	fp
+
+un	di0000
+día	nc0s000
+en	sp000
+el	da0000
+tren	nc0s000
+a	sp000
+Barcelona	np00000
+hay	vaip000
+un	di0000
+gran	aq0000
+revuelo	nc0s000
+y	cc
+no	rn
+sé	vmip000
+dónde	pt000000
+.	fp
+
+y	cc
+creen	vmip000
+creyendo	vmg0000
+que	cs
+había	vaii000
+una	di0000
+problema	nc0s000
+la	pp000000
+sintieron	vmis000
+agua	nc0s000
+de	sp000
+lluvia	nc0s000
+.	fp
+
+necesitan	vmip000
+qué	pt000000
+es	vsip000
+buscar	vmn0000
+.	fp
+
+ayuda	nc0s000
+del	sp000
+revisor	nc0s000
+y	cc
+.	fp
+
+el	da0000
+revisor	nc0s000
+ayuden	vmip000
+por	sp000
+cambiarse	vmn0000
+los	da0000
+asientos	nc0p000
+y	cc
+.	fp
+
+Gwen	np00000
+y	cc
+Sarah	np00000
+son	vsip000
+tranquilizar	vmn0000
+después	rg
+y	cc
+.	fp
+
+en	sp000
+Barcelona	np00000
+fueron	vsis000
+a	sp000
+un	di0000
+restaurante	nc0s000
+y	cc
+comiendo	vmg0000
+muchas	di0000
+pizzas	nc0p000
+y	cc
+.	fp
+
+se	p0000000
+al	np00000
+recordar	vmn0000
+el	da0000
+viaje	nc0s000
+.	fp
+

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L95LDO9N"
+      Date="1984-01-01">
+<Participants>
+<participant
+  id="L95"
+  role="Participant"
+language="es"
+sex="female"
+group="Year"
+
+/>
+<participant
+  id="LDO"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Location">Madrid</comment>
+<comment type="Situation">Lochness Story Telling Task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:02:16</comment>
+<u who="LDO" uID="u0">
+<freecode>eng: student ninety five Loch Ness story</freecode>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u1">
+<w>erase</w>
+<w>una</w>
+<w>vez</w>
+<w>una</w>
+<w>familia</w>
+<w>que</w>
+<w>fue</w>
+<w>al</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>con</w>
+<w>la</w>
+<w>abuela</w>
+<w>tres</w>
+<w>niños</w>
+<w>y</w>
+<w>su</w>
+<w>madre</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u2">
+<w>la</w>
+<w>madre</w>
+<w>estaba</w>
+<w>sentada</w>
+<w>en</w>
+<w>una</w>
+<w>hamaca</w>
+<w>leyendo</w>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u3">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>el</w>
+<w>otro</w>
+<w>niño</w>
+<g><w>peque<shortening>ño</shortening></w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>mediano</w>
+<w>estaban</w>
+<w>haciendo</w>
+<w>un</w>
+<w>cuadro</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u4">
+<w>la</w>
+<w>niña</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>pequeño</w>
+<w>estaban</w>
+<w>eh</w>
+<w>pescando</w>
+<w>en</w>
+<w>el</w>
+<g><w>lago</w><k type="retracing"/></g>
+<g><w>la<shortening>go</shortening></w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>el</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u5">
+<w>la</w>
+<w>abuela</w>
+<w>hace</w>
+<w>un</w>
+<w>dibujo</w>
+<w>donde</w>
+<w>aparece</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u6">
+<w>todos</w>
+<w>se</w>
+<w>quedan</w>
+<w>muy</w>
+<w>sorprendidos</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u7">
+<w>dicen</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L95" uID="u8">
+<linker type="quoted utterance next"/>
+<w>ah</w>
+<w>qué</w>
+<w>chulo</w>
+<w>no</w>
+<w>sé</w>
+<w>qué</w>
+<w>no</w>
+<w>sé</w>
+<w>cuantos</w>
+<t type="e"/>
+
+<a type="comments">[laugh] .</a>
+</u>
+<u who="L95" uID="u9">
+<w>después</w>
+<w>eh</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>pequeño</w>
+<w>se</w>
+<w>van</w>
+<w>de</w>
+<w>compras</w>
+<w>en</w>
+<w>el</w>
+<w>coche</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u10">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>otros</w>
+<w>dos</w>
+<w>niños</w>
+<w>se</w>
+<w>quedan</w>
+<w>en</w>
+<w>la</w>
+<w>casa</w>
+<w>saludándoles</w>
+<w>a</w>
+<w>los</w>
+<w>dos</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u11">
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>se</w>
+<w>van</w>
+<w>de</w>
+<w>compras</w>
+<w>a</w>
+<w>la</w>
+<w>ciudad</w>
+<w>o</w>
+<w>al</w>
+<w>pueblo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u12">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>niños</w>
+<w>se</w>
+<w>quedan</w>
+<w>haciendo</w>
+<w>un</w>
+<w>monstruo</w>
+<w>con</w>
+<w>ruedas</w>
+<w>y</w>
+<w>piedras</w>
+<w>y</w>
+<w>con</w>
+<w>cuerdas</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u13">
+<w>están</w>
+<w>pintando</w>
+<w>líneas</w>
+<w>con</w>
+<w>color</w>
+<w>blanco</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u14">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>niños</w>
+<w>van</w>
+<w>al</w>
+<w>lago</w>
+<w>en</w>
+<w>la</w>
+<w>barca</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u15">
+<w>las</w>
+<w>ponen</w>
+<w>eh</w>
+<w>con</w>
+<w>una</w>
+<w>forma</w>
+<w>de</w>
+<w>que</w>
+<w>los</w>
+<w>pueda</w>
+<w>ver</w>
+<w>su</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>otro</w>
+<w>hermano</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u16">
+<w>cuando</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>otro</w>
+<w>hermano</w>
+<w>eh</w>
+<w>llegan</w>
+<w>al</w>
+<w>lago</w>
+<w>ven</w>
+<w>al</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u17">
+<w>los</w>
+<w>otros</w>
+<w>dos</w>
+<w>niños</w>
+<w>se</w>
+<w>hacen</w>
+<w>como</w>
+<w>los</w>
+<w>locos</w>
+<g><w>de</w>
+<w>que</w><k type="retracing"/></g>
+<w>de</w>
+<w>que</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L95" uID="u18">
+<linker type="quoted utterance next"/>
+<w>ay</w>
+<w>si</w>
+<w>ahí</w>
+<w>hay</w>
+<w>un</w>
+<w>monstruo</w>
+<t type="e"/>
+
+</u>
+<u who="L95" uID="u19">
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>está</w>
+<w>en</w>
+<w>el</w>
+<w>embarcadero</w>
+<w>sujetando</w>
+<w>el</w>
+<w>monstruo</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u20">
+<g><w>l<shortening>o</shortening></w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>muchos</w>
+<w>turistas</w>
+<w>y</w>
+<w>periodistas</w>
+<w>y</w>
+<w>niños</w>
+<w>y</w>
+<w>mucha</w>
+<w>gente</w>
+<w>se</w>
+<w>quedan</w>
+<w>muy</w>
+<w>sorprendido</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u21">
+<w>empiezan</w>
+<w>a</w>
+<w>hacer</w>
+<w>fotos</w>
+<w>y</w>
+<w>después</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u22">
+<g><w>los</w>
+<w>dos</w>
+<w>n<shortening>iños</shortening></w><k type="retracing with correction"/></g>
+<w>los</w>
+<w>tres</w>
+<w>niños</w>
+<w>cuando</w>
+<w>miran</w>
+<w>la</w>
+<w>tele</w>
+<w>ven</w>
+<w>las</w>
+<w>noticias</w>
+<w>se</w>
+<w>quedan</w>
+<w>muy</w>
+<w>sorprendidos</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u23">
+<w>después</w>
+<w>cuando</w>
+<w>llega</w>
+<w>la</w>
+<w>gente</w>
+<w>las</w>
+<w>cámaras</w>
+<w>y</w>
+<w>todos</w>
+<w>los</w>
+<w>periodistas</w>
+<w>le</w>
+<w>preguntan</w>
+<w>a</w>
+<w>la</w>
+<w>abuela</w>
+<w>que</w>
+<w>si</w>
+<w>es</w>
+<w>cierto</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u24">
+<w>la</w>
+<w>abuela</w>
+<w>les</w>
+<w>dice</w>
+<w>que</w>
+<w>es</w>
+<w>una</w>
+<w>broma</w>
+<w>y</w>
+<w>que</w>
+<w>no</w>
+<w>es</w>
+<w>verdad</w>
+<w>que</w>
+<w>son</w>
+<w>ruedas</w>
+<w>pintadas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u25">
+<w>el</w>
+<w>niño</w>
+<w>mientras</w>
+<w>se</w>
+<w>está</w>
+<w>riendo</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u26">
+<w>después</w>
+<w>cuando</w>
+<w>la</w>
+<w>familia</w>
+<w>se</w>
+<w>va</w>
+<w>y</w>
+<w>todo</w>
+<w>ha</w>
+<w>quedado</w>
+<w>en</w>
+<w>una</w>
+<w>broma</w>
+<g><w>es</w><k type="retracing with correction"/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L95" uID="u27">
+<w>aparece</w>
+<w>después</w>
+<w>el</w>
+<w>verdadero</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="LDO" uID="u28">
+<w>perfecto</w>
+<t type="p"/>
+
+</u>
+</CHAT>

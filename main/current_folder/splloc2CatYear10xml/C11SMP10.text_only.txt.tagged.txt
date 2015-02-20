@@ -1,0 +1,469 @@
+.	fp
+
+cuéntame	vmip000
+la	da0000
+historia	nc0s000
+de	sp000
+Natalia	np00000
+y	cc
+su	dp0000
+gato	nc0s000
+Pancho	np00000
+.	fp
+
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+igualas	aq0000
+.	fp
+
+Natalia	np00000
+euh	np00000
+leía	vmii000
+euh	nc0s000
+.	fp
+
+un	di0000
+cuento	nc0s000
+.	fp
+
+un	di0000
+oh	np00000
+.	fp
+
+a	sp000
+sus	dp0000
+.	fp
+
+a	sp000
+su	dp0000
+juguetes	aq0000
+.	fp
+
+juguetes	nc0p000
+.	fp
+.	fp
+
+bien	rg
+.	fp
+
+um	pp000000
+y	cc
+pinta	aq0000
+y	cc
+.	fp
+
+construye	vmip000
+mmm	nc0s000
+eh	np00000
+cartón	nc0s000
+o	cc
+casa	nc0s000
+cartón	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+um	nc0n000
+Natalia	np00000
+mmm	np00000
+salir	vmn0000
+mmm	nc0s000
+um	np00000
+.	fp
+
+con	sp000
+su	dp0000
+.	fp
+
+um	nc0n000
+amigos	aq0000
+.	fp
+
+um	nc0n000
+Natalia	np00000
+euh	nc0s000
+juega	vmip000
+el	da0000
+en	sp000
+el	da0000
+.	fp
+
+parque	nc0s000
+.	fp
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+y	cc
+Pancho	np00000
+euh	nc0s000
+dormir	vmn0000
+.	fp
+
+um	nc0n000
+euh	nc0s000
+salir	vmn0000
+de	sp000
+um	nc0n000
+.	fp
+
+gatero	nc0s000
+.	fp
+
+gatero	nc0s000
+.	fp
+
+um	nc0n000
+Pancho	np00000
+escala	nc0s000
+.	fp
+
+un	di0000
+árbol	nc0s000
+.	fp
+
+un	di0000
+.	fp
+
+um	nc0n000
+Pancho	np00000
+um	np00000
+perseguía	vmii000
+um	nc0n000
+el	da0000
+mariposa	aq0000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+um	nc0n000
+relajarse	vmn0000
+.	fp
+.	fp
+
+um	nc0n000
+Pancho	np00000
+en	sp000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+um	pp000000
+a	sp000
+quince	dn0000
+um	nc0n000
+Pancho	np00000
+y	cc
+Natalia	np00000
+um	np00000
+juega	vmip000
+juntos	aq0000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+um	nc0n000
+um	nc0n000
+Pancho	np00000
+y	cc
+Natalia	np00000
+um	np00000
+volver	vmn0000
+en	sp000
+el	da0000
+casa	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+salir	vmn0000
+euh	nc0s000
+euh	nc0s000
+el	da0000
+gatero	nc0s000
+.	fp
+
+el	da0000
+gatero	aq0000
+um	pp000000
+y	cc
+.	fp
+
+perseguir	vmn0000
+un	di0000
+.	fp
+
+pájaro	nc0s000
+.	fp
+.	fp
+
+um	nc0n000
+euh	nc0s000
+Pancho	np00000
+um	np00000
+.	fp
+.	fp
+
+buscar	vmn0000
+.	fp
+
+por	sp000
+basura	nc0s000
+.	fp
+
+um	pp000000
+y	cc
+euh	nc0s000
+ver	vmn0000
+un	di0000
+um	nc0n000
+el	da0000
+ratón	nc0s000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+um	nc0n000
+Pancho	np00000
+um	np00000
+.	fp
+.	fp
+
+caminar	vmn0000
+.	fp
+
+Pancho	np00000
+camina	vmip000
+y	cc
+um	vmm0000
+él	pp000000
+.	fp
+.	fp
+
+él	pp000000
+descubre	vmip000
+um	nc0n000
+en	sp000
+oh	np00000
+el	da0000
+um	nc0n000
+un	di0000
+perro	nc0s000
+.	fp
+
+un	di0000
+perro	nc0s000
+.	fp
+
+um	nc0n000
+.	fp
+
+um	nc0n000
+Pancho	np00000
+sale	vmip000
+corriendo	vmg0000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+
+y	cc
+Nati	np00000
+um	nc0n000
+um	nc0n000
+a	sp000
+quince	dn0000
+y	cc
+y	cc
+cuarto	ao0000
+.	fp
+
+um	nc0n000
+.	fp
+
+um	nc0n000
+euh	nc0s000
+.	fp
+
+Nati	np00000
+busca	vmip000
+Pancho	np00000
+um	np00000
+um	np00000
+.	fp
+
+buscar	vmn0000
+.	fp
+.	fp
+
+um	nc0n000
+Nati	np00000
+busca	vmip000
+Pancho	np00000
+euh	nc0s000
+en	sp000
+el	da0000
+casa	nc0s000
+um	np00000
+y	cc
+.	fp
+
+euh	nc0s000
+escala	nc0s000
+árbol	nc0s000
+.	fp
+.	fp
+
+um	pp000000
+y	cc
+descubrir	vmn0000
+un	di0000
+rana	aq0000
+.	fp
+
+muy	rg
+bien	rg
+.	fp
+.	fp
+
+Nati	np00000
+pensar	vmn0000
+.	fp
+.	fp
+
+um	nc0n000
+Nati	np00000
+pensar	vmn0000
+euh	nc0s000
+.	fp
+
+en	sp000
+Pancho	np00000
+.	fp
+
+en	sp000
+Pancho	np00000
+euh	nc0s000
+.	fp
+.	fp
+
+euh	nc0s000
+comida	nc0s000
+.	fp
+
+poner	vmn0000
+.	fp
+.	fp
+
+um	nc0n000
+Nati	np00000
+poner	vmn0000
+euh	nc0s000
+comida	nc0s000
+por	sp000
+euh	nc0s000
+Pancho	np00000
+pero	cc
+.	fp
+
+euh	nc0s000
+él	pp000000
+euh	nc0s000
+venir	vmn0000
+.	fp
+.	fp
+.	fp
+
+no	rn
+venir	vmn0000
+.	fp
+
+Pancho	np00000
+a	sp000
+quince	pn000000
+euh	nc0s000
+y	cc
+.	fp
+
+treinta	pn000000
+.	fp
+
+euh	nc0s000
+oh	np00000
+.	fp
+
+pensar	vmn0000
+.	fp
+
+um	nc0n000
+en	sp000
+Nati	np00000
+.	fp
+
+Pancho	np00000
+euh	nc0s000
+volver	vmn0000
+en	sp000
+el	da0000
+casa	nc0s000
+.	fp
+
+y	cc
+ver	vmn0000
+la	pp000000
+comida	nc0s000
+.	fp
+
+um	pp000000
+y	cc
+Pancho	np00000
+y	cc
+Nati	np00000
+.	fp
+
+um	nc0n000
+estar	vmn0000
+.	fp
+.	fp
+
+está	vmip000
+juntos	aq0000
+.	fp
+
+otra	di0000
+vez	nc0s000
+.	fp
+.	fp
+
+otra	di0000
+vez	nc0s000
+.	fp
+
+sí	rg
+.	fp
+.	fp
+

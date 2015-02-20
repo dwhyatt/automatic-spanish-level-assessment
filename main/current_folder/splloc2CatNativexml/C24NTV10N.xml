@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C24NTV10N"
+      Date="2009-04-02">
+<Participants>
+<participant
+  id="C24"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10N"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">02-APR-2009</comment>
+<comment type="Location">AS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:02:00</comment>
+<u who="C24" uID="u0">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u1">
+<w>Natalia</w>
+<w>leía</w>
+<w>cuentos</w>
+<w>a</w>
+<w>sus</w>
+<w>peluches</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u2">
+<w>pintaba</w>
+<w>cuadros</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u3">
+<w>construía</w>
+<w>una</w>
+<w>casa</w>
+<w>para</w>
+<w>sus</w>
+<w>muñecas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u4">
+<w>jugaba</w>
+<w>con</w>
+<w>su</w>
+<w>amigo</w>
+<w>Oscar</w>
+<w>a</w>
+<w>montar</w>
+<w>en</w>
+<w>bicicleta</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u5">
+<w>luego</w>
+<w>se</w>
+<w>columpiaba</w>
+<w>en</w>
+<w>su</w>
+<w>columpio</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u6">
+<w>Pancho</w>
+<w>dormía</w>
+<w>en</w>
+<w>su</w>
+<w>sofá</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u7">
+<w>salía</w>
+<w>a</w>
+<w>las</w>
+<w>calles</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u8">
+<w>trepaba</w>
+<w>por</w>
+<w>un</w>
+<w>árbol</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u9">
+<w>cazaba</w>
+<w>mariposas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u10">
+<w>se</w>
+<w>ponía</w>
+<w>a</w>
+<w>tomar</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u11">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>cuando</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u12">
+<w>Natalia</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u13">
+<linker type="self completion"/>
+<w>Natalia<f type="generic"/></w>
+<w>volvía</w>
+<w>del</w>
+<w>colegio</w>
+<w>acariciaba</w>
+<w>Pancho</w>
+<w>que</w>
+<w>la</w>
+<w>estaba</w>
+<w>esperando</w>
+<w>en</w>
+<w>la</w>
+<w>calle</w>
+<w>para</w>
+<w>volver</w>
+<w>juntos</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u14">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<pause symbolic-length="simple"></pause>
+<w>Pancho</w>
+<w>salió</w>
+<w>a</w>
+<w>buscar</w>
+<w>un</w>
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u15">
+<w>luego</w>
+<w>se</w>
+<w>perdió</w>
+<w>buscando</w>
+<w>una</w>
+<w>rata</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u16">
+<w>siguió</w>
+<w>andando</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u17">
+<w>un</w>
+<w>perro</w>
+<w>le</w>
+<w>asustó</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u18">
+<w>salió</w>
+<w>corriendo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u19">
+<w>Natalia</w>
+<w>se</w>
+<w>quedó</w>
+<w>preocupada</w>
+<w>pensando</w>
+<w>dónde</w>
+<w>está</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u20">
+<w>salió</w>
+<w>a</w>
+<w>buscarlo</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u21">
+<g><w>xx</w><k type="retracing with correction"/></g>
+<w>o</w>
+<w>sea</w>
+<w>lo</w>
+<w>buscó</w>
+<w>por</w>
+<w>el</w>
+<w>jardín</w>
+<g><w>por</w>
+<w>su</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>su</w>
+<w>cama</w>
+<w>debajo</w>
+<w>del</w>
+<w>sofá</w>
+<w>en</w>
+<w>un</w>
+<w>árbol</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u22">
+<w>preocupada</w>
+<w>puso</w>
+<w>comida</w>
+<w>junto</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>para</w>
+<w>que</w>
+<w>siguiera</w>
+<w>el</w>
+<w>rastro</w>
+<w>y</w>
+<w>llegara</w>
+<w>hasta</w>
+<w>allí</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u23">
+<w>se</w>
+<w>sentó</w>
+<w>a</w>
+<w>esperar</w>
+<w>al</w>
+<w>lado</w>
+<w>de</w>
+<w>su</w>
+<w>cama</w>
+<w>para</w>
+<w>ver</w>
+<w>si</w>
+<w>regresaba</w>
+<w>pero</w>
+<w>nada</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u24">
+<w>Pancho</w>
+<w>le</w>
+<w>pasó</w>
+<w>lo</w>
+<w>mismo</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u25">
+<w>estaba</w>
+<w>esperando</w>
+<w>a</w>
+<w>Nati</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u26">
+<w>pensaba</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="C24" uID="u27">
+<linker type="quoted utterance next"/>
+<w>dónde</w>
+<w>está</w>
+<w>Nati</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u28">
+<w>y</w>
+<w>pensó</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="C24" uID="u29">
+<linker type="quoted utterance next"/>
+<w>ay</w>
+<w>pues</w>
+<w>eso</w>
+<w>es</w>
+<w>que</w>
+<w>se</w>
+<w>ha</w>
+<w>ido</w>
+<w>de</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u30">
+<w>Pancho</w>
+<w>fue</w>
+<w>a</w>
+<w>buscarla</w>
+<w>bajo</w>
+<w>la</w>
+<w>lluvia</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u31">
+<w>cansado</w>
+<w>llegó</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u32">
+<w>miró</w>
+<w>por</w>
+<w>todos</w>
+<w>los</w>
+<w>sitios</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u33">
+<w>vio</w>
+<w>que</w>
+<w>la</w>
+<w>casa</w>
+<w>estaba</w>
+<w>llena</w>
+<w>de</w>
+<w>comida</w>
+<w>para</w>
+<w>gato</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u34">
+<w>se</w>
+<w>asomó</w>
+<w>a</w>
+<w>ver</w>
+<w>quién</w>
+<w>estaba</w>
+<w>en</w>
+<w>su</w>
+<w>sofá</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u35">
+<w>vio</w>
+<w>que</w>
+<w>era</w>
+<w>Nati</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u36">
+<w>juntos</w>
+<w>se</w>
+<w>alegraron</w>
+<w>de</w>
+<w>verse</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C24" uID="u37">
+<w>fin</w>
+<w>de</w>
+<w>la</w>
+<w>historia</w>
+<t type="p"/>
+
+</u>
+</CHAT>

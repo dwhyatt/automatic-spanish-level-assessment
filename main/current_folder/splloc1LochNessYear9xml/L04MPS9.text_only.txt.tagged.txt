@@ -1,0 +1,97 @@
+.	fp
+
+la	da0000
+familia	nc0s000
+ir	vmn0000
+ehm	nc0s000
+de	sp000
+vacaciones	nc0p000
+ehm	nc0s000
+.	fp
+
+llega	vmip000
+del	sp000
+lago	nc0s000
+Ness	np00000
+.	fp
+
+ehm	nc0s000
+la	da0000
+abuela	nc0s000
+pinta	aq0000
+y	cc
+.	fp
+
+dos	dn0000
+niños	nc0p000
+ehm	vsis000
+la	da0000
+madre	nc0s000
+ehm	nc0s000
+ir	vmn0000
+de	sp000
+tiendas	nc0p000
+y	cc
+.	fp
+
+los	da0000
+niños	nc0p000
+pinta	aq0000
+rueda	vmip000
+monstruo	nc0s000
+ehm	nc0s000
+.	fp
+
+la	da0000
+madre	nc0s000
+volver	vmn0000
+y	cc
+.	fp
+
+la	da0000
+abuela	nc0s000
+y	cc
+dos	dn0000
+niños	nc0p000
+ehm	vmis000
+rueda	nc0s000
+pintar	vmn0000
+lago	nc0s000
+Ness	np00000
+.	fp
+
+ehm	nc0s000
+mucha	di0000
+gente	nc0s000
+ehm	nc0s000
+hacer	vmn0000
+fotos	nc0p000
+mucho	rg
+y	cc
+.	fp
+
+ehm	nc0s000
+la	da0000
+dos	dn0000
+niños	nc0p000
+ehm	nc0n000
+veo	vmip000
+la	da0000
+televisión	nc0s000
+.	fp
+
+la	da0000
+abuela	nc0s000
+ehm	nc0s000
+es	vsip000
+lo	pp000000
+siento	vmip000
+y	cc
+.	fp
+
+es	vsip000
+lago	nc0s000
+Ness	np00000
+de	sp000
+verdad	nc0s000
+

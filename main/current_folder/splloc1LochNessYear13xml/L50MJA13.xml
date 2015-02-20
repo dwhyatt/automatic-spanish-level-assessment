@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L50MJA13"
+      Date="2007-02-14">
+<Participants>
+<participant
+  id="L50"
+  role="Participant"
+language="es"
+sex="female"
+group="Yr13"
+
+/>
+<participant
+  id="MJA"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">14-FEB-2007</comment>
+<comment type="Location">PS</comment>
+<comment type="Situation">Story retelling based on a picture book about a family staying by the Loch Ness</comment>
+<comment type="Warning">Random placing of the letter r in words</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">0:3:33</comment>
+<u who="MJA" uID="u0">
+<freecode>eng: This is loch ness student number fifty and today is the fourteenth of February</freecode>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u1">
+<w>sí</w>
+<w>ehm</w>
+<w>una</w>
+<w>familia</w>
+<w>consiste</w>
+<w>de</w>
+<w>un</w>
+<w>madre</w>
+<w>tres</w>
+<w>niños</w>
+<w>y</w>
+<w>una</w>
+<w>abuela</w>
+<w>van</w>
+<w>a</w>
+<w>ehm</w>
+<w>viajar</w>
+<w>a</w>
+<w>Escocia</w>
+<w>para</w>
+<w>las</w>
+<w>vacaciones</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u2">
+<w>cuando</w>
+<w>llegan</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>madre</w>
+<w>ehm</w>
+<w>estar</w>
+<w>leyendo</w>
+<w>un</w>
+<w>libro</w>
+<w>ehm</w>
+<w>un</w>
+<w>niño</w>
+<w>y</w>
+<w>la</w>
+<g><w>abuela</w><error/></g>
+<w>están</w>
+<w>pintando</w>
+<w>las</w>
+<w>picturas<f type="neologism"/></w>
+<w>y</w>
+<w>los</w>
+<w>otros</w>
+<w>niños</w>
+<w>ehm</w>
+<g><w>s<shortening>on</shortening></w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>son</w>
+<w>pescando</w>
+<t type="p"/>
+
+<a type="errcoding">abuelar = abuela .</a>
+</u>
+<u who="L50" uID="u3">
+<w>el</w>
+<w>niño</w>
+<w>y</w>
+<w>la</w>
+<g><w>abuela</w><error/></g>
+<w>ehm</w>
+<w>muestran</w>
+<w>las</w>
+<w>picturas<f type="neologism"/></w>
+<w>ehm</w>
+<w>a</w>
+<w>los</w>
+<w>otras</w>
+<w>personas</w>
+<t type="p"/>
+
+<a type="errcoding">abuelar = abuela .</a>
+</u>
+<u who="L50" uID="u4">
+<w>la</w>
+<g><w>abuela</w><error/></g>
+<w>ehm</w>
+<w>adventando<f type="neologism"/></w>
+<w>el</w>
+<w>monstruo</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">abuelar = abuela .</a>
+</u>
+<u who="L50" uID="u5">
+<w>después</w>
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<g><w>niño</w><error/></g>
+<w>llegan</w>
+<w>la</w>
+<w>casa</w>
+<w>ehm</w>
+<g><w>para</w>
+<w>com<shortening>prar</shortening></w><k type="retracing with correction"/></g>
+<w>para</w>
+<w>comprar</w>
+<w>en</w>
+<w>las</w>
+<w>tiendas</w>
+<t type="p"/>
+
+<a type="errcoding">niñor = niño .</a>
+</u>
+<u who="L50" uID="u6">
+<w>la</w>
+<w>madre</w>
+<w>ehm</w>
+<w>estar</w>
+<w>ehm</w>
+<w>viendo</w>
+<w>ehm</w>
+<w>a</w>
+<w>la</w>
+<w>ventana</w>
+<w>de</w>
+<w>las</w>
+<w>tiendas</w>
+<w>a</w>
+<w>las</w>
+<g><w>faldas</w><error/></g>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">fardas = faldas .</a>
+</u>
+<u who="L50" uID="u7">
+<w>mientras</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>otros</w>
+<w>niños</w>
+<w>ehm</w>
+<w>están</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>para</w>
+<w>hacer</w>
+<w>un</w>
+<w>monstruo</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u8">
+<g><w>consiste</w><error/></g>
+<w>muchas</w>
+<g><w>cosas</w><error/></g>
+<w>eh</w>
+<t type="p"/>
+
+<a type="errcoding">consister = consiste corsas = cosas .</a>
+</u>
+<u who="L50" uID="u9">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>otros</w>
+<w>niños</w>
+<w>ehm</w>
+<w>van</w>
+<w>en</w>
+<w>la</w>
+<w>barca</w>
+<w>para</w>
+<w>ehm</w>
+<w>poner</w>
+<w>el</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>mar</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u10">
+<w>cuando</w>
+<w>la</w>
+<w>madre</w>
+<w>el</w>
+<g><w>niño</w><error/></g>
+<g><w>voven<replacement><w>vuelven</w></replacement></w><error/></g>
+<w>miran</w>
+<w>el</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>mar</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">niñor = niño .</a>
+</u>
+<u who="L50" uID="u11">
+<w>están</w>
+<w>muy</w>
+<w>sorprendienta<f type="neologism"/></w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u12">
+<w>por</w>
+<w>la</w>
+<w>tarde</w>
+<w>muchas</w>
+<w>turistas</w>
+<w>y</w>
+<w>visitantes</w>
+<w>vienen</w>
+<w>ver</w>
+<w>el</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u13">
+<g><w>muchos</w><k type="retracing with correction"/></g>
+<w>muchas</w>
+<w>de</w>
+<w>las</w>
+<w>personas</w>
+<g><w>saca</w><error/></g>
+<w>muchos</w>
+<g><w>fotos</w><error/></g>
+<w>ehm</w>
+<w>porque</w>
+<w>pienso</w>
+<w>que</w>
+<w>el</w>
+<g><w>mons<shortening>truo</shortening></w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>monstruo</w>
+<w>es</w>
+<w>real</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">sarcar = saca fortos = fotos</a>
+</u>
+<u who="L50" uID="u14">
+<w>los</w>
+<w>niños</w>
+<w>mira</w>
+<w>el</w>
+<w>monstruo</w>
+<w>en</w>
+<w>la</w>
+<w>tele</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u15">
+<w>la</w>
+<g><w>abuela</w><error/></g>
+<w>ehm</w>
+<w>hablar</w>
+<w>con</w>
+<g><w>una</w><error/></g>
+<g><w>persona</w><error/></g>
+<g><w>de</w>
+<w>la</w><k type="retracing"/></g>
+<w>de</w>
+<w>la</w>
+<w>televisión</w>
+<w>sobre</w>
+<w>ehm</w>
+<w>que</w>
+<w>el</w>
+<w>monstruo</w>
+<w>no</w>
+<w>es</w>
+<g><w>de</w><error/></g>
+<w>verdad</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">abuelar = abuela unar = una personar = persona der = de .</a>
+</u>
+<u who="L50" uID="u16">
+<w>sí</w>
+<w>eh</w>
+<w>después</w>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>miran</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<g><w>verdad</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">verdar = verdad</a>
+</u>
+<u who="MJA" uID="u17">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u18">
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u19">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L50" uID="u20">
+<w>ya</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u21">
+<w>eh</w>
+<w>ya</w>
+<t type="q"/>
+
+</u>
+<u who="MJA" uID="u22">
+<g><w>muchas</w><k type="retracing"/></g>
+<w>muchas</w>
+<g><w>gracias</w><k type="retracing"/></g>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

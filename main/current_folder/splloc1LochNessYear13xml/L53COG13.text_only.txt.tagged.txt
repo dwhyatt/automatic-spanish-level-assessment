@@ -1,0 +1,234 @@
+.	fp
+.	fp
+
+ehm	nc0s000
+hay	vaip000
+una	di0000
+familia	nc0s000
+que	pr000000
+va	vmip000
+de	sp000
+vacaciones	nc0p000
+y	cc
+.	fp
+
+van	vmip000
+a	sp000
+Escocia	np00000
+y	cc
+.	fp
+
+va	vmip000
+para	sp000
+pintar	vmn0000
+y	cc
+.	fp
+
+ehm	nc0s000
+sí	rg
+pintan	vmip000
+el	da0000
+paisaje	nc0s000
+de	sp000
+Escocia	np00000
+sí	rg
+y	cc
+.	fp
+
+ehm	nc0s000
+pintan	vmip000
+una	di0000
+monstruo	nc0s000
+de	sp000
+laguna	nc0s000
+.	fp
+
+ehm	nc0s000
+solo	aq0000
+para	sp000
+divertido	aq0000
+eh	np00000
+y	cc
+.	fp
+
+luego	rg
+la	da0000
+madre	nc0s000
+y	cc
+ehm	nc0s000
+el	da0000
+hijo	nc0s000
+van	vmip000
+ehm	nc0s000
+al	np00000
+las	da0000
+tiendas	nc0p000
+.	fp
+
+ehm	nc0s000
+ven	vmip000
+en	sp000
+las	da0000
+escaparates	nc0p000
+ehm	nc0s000
+y	cc
+.	fp
+
+mientras	cs
+la	da0000
+abuela	nc0s000
+ehm	nc0s000
+pinta	aq0000
+ehm	nc0s000
+unas	di0000
+ruedas	nc0p000
+cuatro	dn0000
+ruedas	nc0p000
+y	cc
+.	fp
+
+los	da0000
+dos	dn0000
+niños	nc0p000
+ayudan	vmip000
+.	fp
+
+mmm	nc0s000
+luego	rg
+van	vmip000
+en	sp000
+un	di0000
+barco	nc0s000
+y	cc
+.	fp
+
+ponen	vmip000
+las	da0000
+ruedas	nc0p000
+en	sp000
+el	da0000
+lago	nc0s000
+para	sp000
+ver	vmn0000
+como	cs
+el	da0000
+monstruo	nc0s000
+del	sp000
+laguna	nc0s000
+y	cc
+.	fp
+
+de	sp000
+repente	nc0s000
+la	da0000
+madre	nc0s000
+ve	vmip000
+las	da0000
+ruedas	nc0p000
+en	sp000
+el	da0000
+lago	nc0s000
+y	cc
+.	fp
+
+piensa	vmip000
+ehm	nc0s000
+uno	di0000
+hay	vaip000
+un	di0000
+monstruo	nc0s000
+de	sp000
+lago	nc0s000
+laguna	nc0s000
+.	fp
+
+ehm	nc0s000
+muchas	di0000
+personas	nc0p000
+ehm	nc0s000
+vienen	vmip000
+para	sp000
+ver	vmn0000
+el	da0000
+monstruo	nc0s000
+de	vmis000
+y	cc
+.	fp
+
+toman	vmip000
+muchas	di0000
+frutas	nc0p000
+fotos	nc0p000
+ehm	nc0s000
+y	cc
+.	fp
+
+por	sp000
+la	da0000
+noche	nc0s000
+eh	np00000
+los	da0000
+niños	nc0p000
+ven	vmip000
+la	da0000
+televisión	nc0s000
+y	cc
+.	fp
+
+la	da0000
+monstruo	nc0s000
+es	vsip000
+en	sp000
+las	da0000
+noticias	nc0p000
+.	fp
+
+finalmente	rg
+la	da0000
+abuela	nc0s000
+explicar	vmn0000
+a	sp000
+todos	pi000000
+que	cs
+el	da0000
+monstruo	nc0s000
+de	sp000
+es	vsip000
+solo	aq0000
+eh	np00000
+no	rn
+es	vsip000
+real	aq0000
+.	fp
+
+ehm	nc0s000
+pero	cc
+cuando	cs
+todo	pi000000
+ehm	nc0s000
+ehm	nc0s000
+han	vaip000
+venido	vmp0000
+.	fp
+
+ehm	nc0s000
+hay	vaip000
+un	di0000
+monstruo	nc0s000
+en	sp000
+el	da0000
+lago	nc0s000
+y	cc
+.	fp
+
+es	vsip000
+el	da0000
+monstruo	nc0s000
+real	aq0000
+.	fp
+
+perfecto	aq0000
+muchas	di0000
+gracias	nc0p000
+.	fp
+

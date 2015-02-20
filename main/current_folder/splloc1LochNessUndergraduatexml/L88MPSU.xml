@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L88MPSU"
+      Date="2007-02-19">
+<Participants>
+<participant
+  id="L88"
+  role="Participant"
+language="es"
+sex="female"
+group="U"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">19-FEB-2007</comment>
+<comment type="Location">UoN</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">RFE</comment>
+<comment type="Time Duration">00:03:59</comment>
+<u who="MPS" uID="u0">
+<pause symbolic-length="simple"></pause>
+<freecode>eng: Loch Ness xxx nineteen of February Place</freecode>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u1">
+<w>bueno</w>
+<w>te</w>
+<w>voy</w>
+<w>a</w>
+<w>contar</w>
+<w>una</w>
+<w>historia</w>
+<w>del</w>
+<g><w>monstruo</w><error/></g>
+<w>de</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<w>el</w>
+<g><w>hecho</w><error/></g>
+<w>de</w>
+<w>que</w>
+<w>si</w>
+<w>es</w>
+<w>verdad</w>
+<w>o</w>
+<w>no</w>
+<t type="p"/>
+
+<a type="errcoding">monstro = monstruo ocho = hecho .</a>
+</u>
+<u who="L88" uID="u2">
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>primer</w>
+<w>lugar</w>
+<w>um</w>
+<w>una</w>
+<w>familia</w>
+<w>ah</w>
+<w>vino</w>
+<w>a</w>
+<w>Escocia</w>
+<g><w>al</w><k type="retracing"/></g>
+<w>al</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>um</w>
+<g><w>para</w><k type="retracing"/></g>
+<w>para</w>
+<w>unas</w>
+<w>vacaciones</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u3">
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<g><w>van</w><k type="retracing"/></g>
+<w>van</w>
+<w>al</w>
+<w>lado</w>
+<w>del</w>
+<w>lago</w>
+<w>y</w>
+<w>um</w>
+<w>para</w>
+<w>relajarse</w>
+<w>y</w>
+<w>divertirse</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u4">
+<w>y</w>
+<w>aquí</w>
+<g><w>en</w>
+<w>la</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>el</w>
+<w>dibujo</w>
+<w>se</w>
+<w>puede</w>
+<w>ver</w>
+<w>a</w>
+<w>la</w>
+<w>mamá</w>
+<w>leyendo</w>
+<w>un</w>
+<w>libro</w>
+<w>y</w>
+<w>unos</w>
+<w>niños</w>
+<w>haciendo</w>
+<w>la</w>
+<w>pesca</w>
+<w>y</w>
+<w>también</w>
+<w>la</w>
+<w>abuela</w>
+<w>que</w>
+<w>pinta</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>dibujo</w>
+<w>y</w>
+<w>también</w>
+<w>el</w>
+<w>niño</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u5">
+<w>um</w>
+<w>bueno</w>
+<w>um</w>
+<w>la</w>
+<w>abuela</w>
+<w>después</w>
+<w>de</w>
+<w>terminar</w>
+<w>um</w>
+<w>el</w>
+<w>dibujo</w>
+<w>um</w>
+<w>muéstralo</w>
+<w>a</w>
+<w>los</w>
+<w>niños</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u6">
+<w>los</w>
+<w>niños</w>
+<w>dicen</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L88" uID="u7">
+<linker type="quoted utterance next"/>
+<w>ay</w>
+<g><w>qué</w><k type="retracing"/></g>
+<w>qué</w>
+<w>bonita</w>
+<t type="e"/>
+
+</u>
+<u who="L88" uID="u8">
+<w>y</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L88" uID="u9">
+<linker type="quoted utterance next"/>
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u10">
+<w>um</w>
+<w>y</w>
+<w>poco</w>
+<w>tiempo</w>
+<w>después</w>
+<w>um</w>
+<g><w>los</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>mamá</w>
+<w>con</w>
+<w>el</w>
+<w>niño</w>
+<w>menor</w>
+<w>um</w>
+<w>van</w>
+<w>de</w>
+<w>um</w>
+<w>compras</w>
+<w>al</w>
+<w>pueblo</w>
+<t type="interruption"/>
+
+</u>
+<u who="L88" uID="u11">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u12">
+<g><w>y</w><k type="retracing"/></g>
+<w>um</w>
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>otros</w>
+<w>niños</w>
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<w>les</w>
+<g><w>despian<replacement><w>despiden</w></replacement></w><error/></g>
+<w>um</w>
+<w>y</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u13">
+<w>la</w>
+<w>mujer</w>
+<w>ah</w>
+<g><w>en</w>
+<w>el</w><k type="retracing with correction"/></g>
+<w>con</w>
+<w>el</w>
+<w>niño</w>
+<w>en</w>
+<w>el</w>
+<w>pueblo</w>
+<w>um</w>
+<w>miran</w>
+<w>a</w>
+<w>los</w>
+<g><w>escaparates</w><error/></g>
+<w>um</w>
+<w>mientras</w>
+<w>um</w>
+<w>en</w>
+<w>el</w>
+<w>campo</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>abuela</w>
+<w>um</w>
+<g><w>construe<replacement><w>construye</w></replacement></w><error/></g>
+<g><w>un</w>
+<w>la</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>um</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>con</w>
+<w>unas</w>
+<w>ruedas</w>
+<w>um</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">escabaparates = escaparates .</a>
+</u>
+<u who="L88" uID="u14">
+<w>los</w>
+<w>niños</w>
+<w>la</w>
+<g><w>ayudan</w><k type="retracing"/></g>
+<g><w>ayudan</w><k type="retracing"/></g>
+<w>no</w>
+<w>ayudan</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u15">
+<w xml:lang="a">sorry</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u16">
+<w>um</w>
+<w>y</w>
+<w>después</w>
+<w>um</w>
+<w>con</w>
+<w>los</w>
+<w>dos</w>
+<w>niños</w>
+<w>la</w>
+<w>abuela</w>
+<w>um</w>
+<w>va</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>un</w>
+<w>barco</w>
+<w>um</w>
+<w>al</w>
+<w>lago</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u17">
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<w>ah</w>
+<w>ponen</w>
+<w>ese</w>
+<w>monstruo</w>
+<w>que</w>
+<w>han</w>
+<w>construido</w>
+<w>de</w>
+<w>las</w>
+<w>ruedas</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u18">
+<w>y</w>
+<w>la</w>
+<w>mamá</w>
+<w>y</w>
+<w>el</w>
+<w>otro</w>
+<w>niño</w>
+<w>um</w>
+<w>mira</w>
+<g><w>al</w><k type="retracing"/></g>
+<w>al</w>
+<w>agua</w>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u19">
+<w>um</w>
+<w>ven</w>
+<g><w>es<shortening>e</shortening></w><k type="retracing with correction"/></g>
+<w>ese</w>
+<w>monstruo</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u20">
+<w>no</w>
+<w>es</w>
+<w>un</w>
+<w>monstruo</w>
+<w>real</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u21">
+<w>y</w>
+<w>dicen</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L88" uID="u22">
+<linker type="quoted utterance next"/>
+<w>ay</w>
+<w>qué</w>
+<w>horror</w>
+<t type="e"/>
+
+</u>
+<u who="L88" uID="u23">
+<linker type="quoted utterance next"/>
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="e"/>
+
+</u>
+<u who="L88" uID="u24">
+<w>y</w>
+<w>después</w>
+<w>van</w>
+<w>todas</w>
+<w>las</w>
+<w>turistas</w>
+<g><w>y</w><k type="retracing"/></g>
+<g><w>y</w>
+<w>dicen</w><k type="retracing with correction"/></g>
+<g><w>y</w>
+<w>so<shortening>n</shortening></w><k type="retracing with correction"/></g>
+<w>y</w>
+<w>um</w>
+<w>es</w>
+<w>una</w>
+<g><w>sor<shortening>presa</shortening></w><k type="retracing"/></g>
+<w>sorpresa</w>
+<w>muy</w>
+<w>grande</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u25">
+<w>vienen</w>
+<w>con</w>
+<w>cámaras</w>
+<w>como</w>
+<w>en</w>
+<w>el</w>
+<w>dibujo</w>
+<w>y</w>
+<w>sí</w>
+<w>el</w>
+<w>porque</w>
+<g><w>es</w><k type="retracing"/></g>
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u26">
+<g><w>di<shortening>cen</shortening></w><k type="retracing with correction"/></g>
+<w>piensan</w>
+<w>que</w>
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u27">
+<w>y</w>
+<w>después</w>
+<w>um</w>
+<w>eh</w>
+<w>en</w>
+<w>la</w>
+<w>televisión</w>
+<w>hay</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>monstruo</w>
+<w>también</w>
+<w>pero</w>
+<w>no</w>
+<w>el</w>
+<w>monstruo</w>
+<w>real</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u28">
+<w>es</w>
+<w>todo</w>
+<g><w>un</w><k type="retracing"/></g>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>cosa</w>
+<w>muy</w>
+<w>grande</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u29">
+<w>y</w>
+<w>después</w>
+<w>la</w>
+<w>abuela</w>
+<w>se</w>
+<w>da</w>
+<w>cuenta</w>
+<g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>todo</w>
+<w>eso</w>
+<w>es</w>
+<w>una</w>
+<w>mentira</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u30">
+<w>dice</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>la</w>
+<w>gente</w>
+<g><w>que</w>
+<w>no</w>
+<w>es</w>
+<w>real</w><a type="explanation">r</a></g>
+<w>y</w>
+<g><g><w>que</w><k type="retracing"/></g>
+<w>que</w>
+<w>solo</w>
+<g><w>es</w>
+<w>ru<shortening>eda</shortening></w><k type="retracing with correction"/></g>
+<w>son</w>
+<w>ruedas</w>
+<w>y</w>
+<w>um</w>
+<w>construyó</w>
+<g><w>su</w><k type="retracing with correction"/></g>
+<w>ese</w>
+<w>monstruo</w>
+<w>su</w>
+<w>mismo</w><a type="explanation">r</a></g>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u31">
+<w>pero</w>
+<w>después</w>
+<w>al</w>
+<w>fin</w>
+<w>um</w>
+<w>la</w>
+<w>familia</w>
+<w>um</w>
+<w>va</w>
+<w>a</w>
+<w>matarse</w>
+<g><w>del</w><k type="retracing"/></g>
+<w>del</w>
+<w>lugar</w>
+<w>eh</w>
+<w>para</w>
+<w>ir</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>otra</w>
+<w>vez</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u32">
+<w>ven</w>
+<g><w>ese</w><k type="retracing"/></g>
+<w>ese</w>
+<w>monstruo</w>
+<w>pero</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u33">
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u34">
+<w>no</w>
+<w>es</w>
+<w>de</w>
+<w>ruedas</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<t type="p"/>
+
+</u>
+<u who="L88" uID="u35">
+<w>y</w>
+<w>dicen</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L88" uID="u36">
+<linker type="quoted utterance next"/>
+<w>ay</w>
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="e"/>
+
+</u>
+</CHAT>

@@ -1,0 +1,185 @@
+.	fp
+.	fp
+
+hay	vaip000
+una	di0000
+familia	nc0s000
+eh	pp000000
+de	sp000
+vacaciones	nc0p000
+y	cc
+.	fp
+
+están	vmip000
+en	sp000
+Escocia	np00000
+y	cc
+.	fp
+
+eh	rn
+llegan	vmip000
+y	cc
+.	fp
+
+eh	vmis000
+quieren	vmip000
+un	di0000
+monstruo	nc0s000
+y	cc
+.	fp
+
+eh	vmis000
+van	vmip000
+a	sp000
+eh	np00000
+pintar	vmn0000
+eh	np00000
+y	cc
+.	fp
+
+pintan	vmip000
+eh	sp000
+un	di0000
+dibujo	nc0s000
+eh	pp000000
+de	sp000
+del	sp000
+monstruo	nc0s000
+y	cc
+.	fp
+
+pues	cs
+eh	np00000
+el	da0000
+madre	nc0s000
+y	cc
+eh	vmis000
+un	di0000
+niño	nc0s000
+eh	dp0000
+van	vmip000
+eh	np00000
+a	sp000
+las	da0000
+tiendas	nc0p000
+y	cc
+.	fp
+
+eh	vmis000
+eh	np00000
+las	da0000
+faldas	aq0000
+.	fp
+
+eh	vmis000
+dos	dn0000
+niños	nc0p000
+y	cc
+eh	np00000
+y	cc
+eh	np00000
+su	dp0000
+amigo	nc0s000
+eh	np00000
+pintan	vmip000
+eh	np00000
+los	pp000000
+las	da0000
+ruedas	nc0p000
+eh	np00000
+en	sp000
+el	da0000
+color	nc0s000
+eh	vmis000
+del	sp000
+monstruo	nc0s000
+y	cc
+y	cc
+.	fp
+
+cuando	pr000000
+eh	vmip000
+el	da0000
+madre	nc0s000
+y	cc
+el	da0000
+niño	nc0s000
+eh	np00000
+cuando	pr000000
+eh	np00000
+vuelven	vmip000
+eh	np00000
+el	da0000
+monstruo	nc0s000
+y	cc
+.	fp
+
+eh	nc0s000
+y	cc
+no	rn
+saben	vmip000
+qué	pt000000
+es	vsip000
+.	fp
+
+eh	pp000000
+por	sp000
+la	da0000
+tarde	nc0s000
+eh	np00000
+mucha	di0000
+gente	nc0s000
+eh	sp000
+van	vmip000
+a	sp000
+el	da0000
+monstruo	nc0s000
+eh	np00000
+.	fp
+
+eh	vmis000
+pues	cs
+hay	vaip000
+una	di0000
+periodista	nc0s000
+eh	np00000
+y	cc
+.	fp
+
+habla	vmip000
+con	sp000
+el	da0000
+amigo	nc0s000
+y	cc
+.	fp
+
+eh	pp000000
+hay	vaip000
+eh	nc0s000
+ehm	aq0000
+mucha	di0000
+gente	nc0s000
+eh	np00000
+.	fp
+
+hacen	vmip000
+fotos	nc0p000
+pero	cc
+mmm	w
+no	rn
+de	sp000
+verdad	nc0s000
+.	fp
+
+pero	cc
+pues	cs
+eh	np00000
+el	da0000
+monstruo	nc0s000
+de	sp000
+verdad	nc0s000
+.	fp
+
+gracias	nc0p000
+.	fp
+

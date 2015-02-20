@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C31NTV13N"
+      Date="2009-04-01">
+<Participants>
+<participant
+  id="C31"
+  role="Participant"
+language="es"
+sex="female"
+group="Year13N"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">01-APR-2009</comment>
+<comment type="Location">AS</comment>
+<comment type="Situation">Cat story</comment>
+<comment type="Transcriber">EFDP</comment>
+<comment type="Time Duration">00:3:05</comment>
+<u who="NTV" uID="u0">
+<freecode>eng: participant thirty one cat</freecode>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u1">
+<w>cuéntame</w>
+<w>por</w>
+<w>favor</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u2">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u3">
+<w>Natalia</w>
+<w>eh</w>
+<w>era</w>
+<w>una</w>
+<w>niña</w>
+<w>rubia</w>
+<w>que</w>
+<w>leía</w>
+<w>cuentos</w>
+<w>acostada</w>
+<w>en</w>
+<w>la</w>
+<w>cama</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u4">
+<w>ah</w>
+<w>ponía</w>
+<g><w>en</w>
+<w>fila</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>círculo</w>
+<w>a</w>
+<w>sus</w>
+<w>peluches</w>
+<w>para</w>
+<w>contárselos</w>
+<w>a</w>
+<w>ellos</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u5">
+<w>pintaba</w>
+<w>porque</w>
+<w>le</w>
+<w>gustaba</w>
+<w>mucho</w>
+<w>pintar</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u6">
+<w>eh</w>
+<w>construía</w>
+<w>casitas</w>
+<w>de</w>
+<w>muñecas</w>
+<w>con</w>
+<w>cartón</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u7">
+<w>jugaba</w>
+<w>a</w>
+<w>la</w>
+<w>bici</w>
+<w>con</w>
+<w>su</w>
+<w>hermano</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u8">
+<w>también</w>
+<w>jugaba</w>
+<w>a</w>
+<w>los</w>
+<w>columpios</w>
+<w>y</w>
+<g><w>tal</w><k type="best guess"/></g>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u9">
+<w>se</w>
+<w>lo</w>
+<w>pasaba</w>
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+<a type="comments">[laugh]</a>
+</u>
+<u who="C31" uID="u10">
+<w>y</w>
+<w>Pancho</w>
+<w>que</w>
+<w>era</w>
+<w>su</w>
+<w>gatito</w>
+<w>pues</w>
+<w>dormía</w>
+<w>en</w>
+<w>una</w>
+<w>cesta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u11">
+<w>podía</w>
+<w>salir</w>
+<g><w>por</w><k type="retracing with correction"/></g>
+<w>de</w>
+<w>la</w>
+<w>casa</w>
+<g><w>por</w>
+<w>un</w><k type="retracing"/></g>
+<w>por</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>especie</w>
+<w>de</w>
+<w>puertecita</w>
+<w>hecha</w>
+<w>para</w>
+<w>él</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u12">
+<w>y</w>
+<w>entonces</w>
+<w>él</w>
+<w>se</w>
+<w>divertía</w>
+<g><w>con</w>
+<w>la</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>la</w>
+<w>naturaleza</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u13">
+<w>se</w>
+<w>subía</w>
+<w>a</w>
+<w>los</w>
+<w>árboles</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u14">
+<w>perseguía</w>
+<w>las</w>
+<w>mariposas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u15">
+<w>luego</w>
+<w>tomaba</w>
+<w>un</w>
+<w>poco</w>
+<w>el</w>
+<w>sol</w>
+<w>subido</w>
+<g><w>a</w>
+<w>una</w><k type="retracing"/></g>
+<w>a</w>
+<w>una</w>
+<w>valla</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u16">
+<w>y</w>
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>la</w>
+<w>tres</w>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<w>pues</w>
+<w>Natalia</w>
+<w>y</w>
+<w>Pancho</w>
+<w>se</w>
+<w>encontraban</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u17">
+<w>volvían</w>
+<w>juntos</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u18">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>volvió</w>
+<w>a</w>
+<w>salir</w>
+<w>por</w>
+<w>el</w>
+<w>sitio</w>
+<w>de</w>
+<w>siempre</w>
+<w>de</w>
+<w>la</w>
+<w>casa</w>
+<w>por</w>
+<w>su</w>
+<w>puertecita</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u19">
+<w>estuvo</w>
+<w>persiguiendo</w>
+<w>a</w>
+<w>un</w>
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u20">
+<w>pero</w>
+<w>no</w>
+<w>pudo</w>
+<w>cogerlo</w>
+<w>porque</w>
+<w>volaba</w>
+<w>el</w>
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u21">
+<w>y</w>
+<w>después</w>
+<w>estuvo</w>
+<w>persiguiendo</w>
+<w>a</w>
+<w>un</w>
+<w>ratón</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u22">
+<w>llegó</w>
+<w>un</w>
+<w>momento</w>
+<w>que</w>
+<w>no</w>
+<w>sabía</w>
+<w>donde</w>
+<w>estaba</w>
+<w>el</w>
+<w>ratón</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u23">
+<w>y</w>
+<w>entonces</w>
+<w>iba</w>
+<w>buscándolo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u24">
+<w>le</w>
+<w>apareció</w>
+<w>un</w>
+<w>perro</w>
+<w>gigante</w>
+<w>y</w>
+<w>con</w>
+<w>mala</w>
+<w>leche</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u25">
+<w>entonces</w>
+<w>eh</w>
+<w>Pancho</w>
+<w>salió</w>
+<w>corriendo</w>
+<w>por</w>
+<w>miedo</w>
+<w>a</w>
+<w>que</w>
+<w>el</w>
+<w>perro</w>
+<w>le</w>
+<w>hiciese</w>
+<w>algo</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u26">
+<w>y</w>
+<w>Natalia</w>
+<w>que</w>
+<w>siempre</w>
+<w>quedaban</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<g><w>cu<shortening>arto</shortening></w><k type="retracing with correction"/></g>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>pues</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>cuarto</w>
+<w>se</w>
+<w>preguntaba</w>
+<w>dónde</w>
+<w>estaba</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u27">
+<w>entonces</w>
+<w>decide</w>
+<w>ir</w>
+<w>a</w>
+<w>buscarlo</w>
+<g><w>por</w>
+<w>la</w><k type="retracing with correction"/></g>
+<w>por</w>
+<w>el</w>
+<w>jardín</w>
+<w>donde</w>
+<w>solía</w>
+<w>jugar</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u28">
+<w>en</w>
+<w>la</w>
+<w>cesta</w>
+<w>donde</w>
+<w>dormía</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u29">
+<w>por</w>
+<w>toda</w>
+<w>la</w>
+<w>casa</w>
+<w>por</w>
+<w>detrás</w>
+<w>del</w>
+<w>sofá</w>
+<w>en</w>
+<w>el</w>
+<w>árbol</w>
+<w>donde</w>
+<w>jugaba</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u30">
+<w>incluso</w>
+<w>le</w>
+<w>preguntaba</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>otros</w>
+<w>animales</w>
+<g><w>a</w>
+<w>ver</w>
+<w>si</w><k type="retracing"/></g>
+<w>a</w>
+<w>ver</w>
+<w>si</w>
+<w>sabía</w>
+<w>donde</w>
+<w>estaba</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u31">
+<w>y</w>
+<w>nada</w>
+<w>ya</w>
+<g><w>vu<shortening>elve</shortening></w><k type="retracing"/></g>
+<w>vuelve</w>
+<w>a</w>
+<w>su</w>
+<w>casa</w>
+<w>pensando</w>
+<w>que</w>
+<w>era</w>
+<w>la</w>
+<w>hora</w>
+<g><w>de</w><k type="retracing"/></g>
+<w>de</w>
+<w>comer</w>
+<w>de</w>
+<w>Pancho</w>
+<w>y</w>
+<w>que</w>
+<w>no</w>
+<w>sabía</w>
+<w>donde</w>
+<w>estaba</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u32">
+<w>y</w>
+<w>entonces</w>
+<w>pues</w>
+<w>le</w>
+<w>empieza</w>
+<w>a</w>
+<w>hacer</w>
+<w>como</w>
+<w>un</w>
+<w>caminito</w>
+<w>de</w>
+<w>comida</w>
+<w>y</w>
+<g><w>ha<shortening>ce</shortening></w><k type="retracing"/></g>
+<w>hace</w>
+<w>un</w>
+<w>dibujo</w>
+<w>donde</w>
+<w>dibuja</w>
+<w>a</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u33">
+<w>está</w>
+<w>triste</w>
+<g><w>porque</w><k type="retracing"/></g>
+<w>porque</w>
+<w>no</w>
+<w>lo</w>
+<w>encuentra</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u34">
+<w>y</w>
+<w>Pancho</w>
+<w>por</w>
+<w>su</w>
+<w>parte</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>llega</w>
+<w>al</w>
+<w>sitio</w>
+<w>donde</w>
+<w>se</w>
+<w>solía</w>
+<w>encontrar</w>
+<w>con</w>
+<w>Natalia</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u35">
+<w>ve</w>
+<w>que</w>
+<g><w>no</w>
+<w>hay</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>hay</w>
+<w>nadie</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u36">
+<w>entonces</w>
+<w>piensa</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="C31" uID="u37">
+<linker type="quoted utterance next"/>
+<w>uff</w>
+<w>Natalia</w>
+<g><w>me</w>
+<w>estará</w><k type="retracing"/></g>
+<w>me</w>
+<w>estará</w>
+<w>buscando</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u38">
+<w>y</w>
+<w>en</w>
+<w>ese</w>
+<w>momento</w>
+<w>empieza</w>
+<w>a</w>
+<w>llover</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u39">
+<w>llega</w>
+<w>mojado</w>
+<w>y</w>
+<w>cansadísimo</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u40">
+<w>entra</w>
+<w>por</w>
+<w>su</w>
+<w>sitio</w>
+<w>habitual</w>
+<w>de</w>
+<w>la</w>
+<w>puerta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u41">
+<w>va</w>
+<w>siguiendo</w>
+<w>el</w>
+<w>rastro</w>
+<w>de</w>
+<w>comida</w>
+<w>que</w>
+<w>le</w>
+<w>había</w>
+<w>dejado</w>
+<w>Natalia</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u42">
+<w>llega</w>
+<w>a</w>
+<w>la</w>
+<w>cesta</w>
+<w>donde</w>
+<w>dormía</w>
+<w>que</w>
+<w>estaba</w>
+<w>durmiendo</w>
+<w>Natalia</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C31" uID="u43">
+<w>entonces</w>
+<w>se</w>
+<w>reencuentran</w>
+<t type="p"/>
+
+<a type="comments">[laugh]</a>
+</u>
+</CHAT>

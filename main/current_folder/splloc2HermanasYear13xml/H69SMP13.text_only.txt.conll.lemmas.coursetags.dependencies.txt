@@ -1,0 +1,428 @@
+1	cuéntame	_	cuénamer	_	v	_	_	-1	0	_	sentence	_	_
+2	la	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	historia	_	historia	_	n	_	_	-1	1	_	suj	_	_
+4	de	_	de	_	s	_	_	-1	3	_	sp	_	_
+5	las	_	el	_	d	_	_	-1	6	_	spec	_	_
+6	hermanas	_	hermana	_	n	_	_	-1	4	_	sn	_	_
+7	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	Gwen	_	gwen	_	n	_	_	-1	4	_	s.a	_	_
+2	y	_	y	_	c	_	_	-1	1	_	coord	_	_
+3	Sarah	_	sarah	_	n	_	_	-1	1	_	grup.nom	_	_
+4	visitaba	_	visitar	_	v	_	_	-1	0	_	sentence	_	_
+5	a	_	a	_	s	_	_	-1	4	_	cd	_	_
+6	la	_	el	_	d	_	_	-1	7	_	spec	_	_
+7	ciudad	_	ciudad	_	n	_	_	-1	5	_	sn	_	_
+8	de	_	de	_	s	_	_	-1	7	_	sp	_	_
+9	Madrid	_	madrid	_	n	_	_	-1	8	_	sn	_	_
+10	quién	_	quién	_	p	_	_	-1	11	_	mod	_	_
+11	es	_	ser	_	v	_	_	-1	7	_	S	_	_
+12	quien	_	quien	_	p	_	_	-1	11	_	atr	_	_
+13	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	Sarah	_	sarah	_	n	_	_	-1	2	_	atr	_	_
+2	es	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+3	una	_	uno	_	d	_	_	-1	5	_	spec	_	_
+4	aficionado	_	aficionado	_	a	_	_	-1	5	_	s.a	_	_
+5	aficionada	_	aficionado	_	n	_	_	-1	2	_	atr	_	_
+6	de	_	de	_	s	_	_	-1	5	_	sp	_	_
+7	Real	_	real	_	n	_	_	-1	6	_	sn	_	_
+8	Madrid	_	madrid	_	n	_	_	-1	5	_	sn	_	_
+9	y	_	y	_	c	_	_	-1	8	_	coord	_	_
+10	así	_	así	_	r	_	_	-1	8	_	grup.adv	_	_
+11	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	en	_	en	_	s	_	_	-1	5	_	creg	_	_
+2	la	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	pintura	_	pintura	_	n	_	_	-1	1	_	sn	_	_
+4	ha	_	haber	_	v	_	_	-1	5	_	v	_	_
+5	estado	_	estar	_	v	_	_	-1	0	_	sentence	_	_
+6	en	_	en	_	s	_	_	-1	5	_	atr	_	_
+7	enfrente	_	enfrente	_	n	_	_	-1	6	_	sn	_	_
+8	de	_	de	_	s	_	_	-1	7	_	sp	_	_
+9	la	_	el	_	d	_	_	-1	10	_	spec	_	_
+10	estadio	_	estadio	_	n	_	_	-1	8	_	sn	_	_
+11	y	_	y	_	c	_	_	-1	5	_	coord	_	_
+12	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	xx	_	xx	_	s	_	_	-1	0	_	sentence	_	_
+2	una	_	uno	_	d	_	_	-1	3	_	spec	_	_
+3	bufanda	_	bufanda	_	n	_	_	-1	1	_	sn	_	_
+4	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	así	_	así	_	r	_	_	-1	3	_	sadv	_	_
+2	pero	_	pero	_	c	_	_	-1	3	_	coord	_	_
+3	en	_	en	_	s	_	_	-1	0	_	sentence	_	_
+4	contraste	_	contraste	_	n	_	_	-1	3	_	sn	_	_
+5	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	Gwen	_	gwen	_	n	_	_	-1	2	_	s.a	_	_
+2	está	_	estar	_	v	_	_	-1	0	_	sentence	_	_
+3	enfrente	_	enfrente	_	a	_	_	-1	2	_	atr	_	_
+4	de	_	de	_	s	_	_	-1	3	_	sp	_	_
+5	un	_	uno	_	d	_	_	-1	6	_	spec	_	_
+6	edificio	_	edificio	_	n	_	_	-1	4	_	sn	_	_
+7	muy	_	mucho	_	r	_	_	-1	8	_	spec	_	_
+8	bonito	_	bonito	_	a	_	_	-1	6	_	s.a	_	_
+9	con	_	con	_	s	_	_	-1	8	_	sp	_	_
+10	la	_	el	_	d	_	_	-1	11	_	spec	_	_
+11	césped	_	césped	_	n	_	_	-1	9	_	sn	_	_
+12	decorado	_	decorado	_	a	_	_	-1	13	_	spec	_	_
+13	cerca	_	cerca	_	r	_	_	-1	11	_	sadv	_	_
+14	de	_	de	_	s	_	_	-1	13	_	sp	_	_
+15	la	_	el	_	d	_	_	-1	16	_	spec	_	_
+16	edificio	_	edificio	_	n	_	_	-1	14	_	sn	_	_
+17	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	durante	_	durante	_	s	_	_	-1	4	_	cc	_	_
+2	su	_	su	_	d	_	_	-1	3	_	spec	_	_
+3	pasado	_	pasado	_	a	_	_	-1	1	_	sn	_	_
+4	pasamos	_	pasar	_	n	_	_	-1	0	_	sentence	_	_
+5	no	_	no	_	r	_	_	-1	4	_	neg	_	_
+6	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	pasaron	_	pasar	_	v	_	_	-1	2	_	v	_	_
+2	pasaban	_	pasar	_	v	_	_	-1	0	_	sentence	_	_
+3	tiempo	_	tiempo	_	n	_	_	-1	2	_	suj	_	_
+4	en	_	en	_	s	_	_	-1	2	_	cc	_	_
+5	Madrid	_	madrid	_	n	_	_	-1	4	_	sn	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	comían	_	comir	_	v	_	_	-1	2	_	S	_	_
+2	Sarah	_	sarah	_	n	_	_	-1	3	_	spec	_	_
+3	comía	_	comía	_	v	_	_	-1	0	_	sentence	_	_
+4	tapas	_	tapa	_	n	_	_	-1	3	_	cd	_	_
+5	y	_	y	_	c	_	_	-1	3	_	coord	_	_
+6	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	Gwen	_	gwen	_	n	_	_	-1	2	_	s.a	_	_
+2	bebía	_	beber	_	v	_	_	-1	0	_	sentence	_	_
+3	vino	_	vino	_	n	_	_	-1	2	_	cd	_	_
+4	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	muy	_	mucho	_	r	_	_	-1	2	_	spec	_	_
+2	bien	_	bien	_	r	_	_	-1	3	_	cc	_	_
+3	perfecto	_	perfecto	_	a	_	_	-1	0	_	sentence	_	_
+4	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	después	_	después	_	r	_	_	-1	2	_	cc	_	_
+2	decidieron	_	decidir	_	v	_	_	-1	0	_	sentence	_	_
+3	ir	_	ir	_	v	_	_	-1	2	_	cd	_	_
+4	a	_	a	_	s	_	_	-1	3	_	cc	_	_
+5	Barcelona	_	barcelona	_	n	_	_	-1	4	_	sn	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	decidieron	_	decidir	_	v	_	_	-1	0	_	sentence	_	_
+2	viajar	_	viajar	_	v	_	_	-1	1	_	cd	_	_
+3	por	_	por	_	s	_	_	-1	2	_	cag	_	_
+4	tren	_	tren	_	n	_	_	-1	3	_	sn	_	_
+5	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+6	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	cogen	_	coger	_	v	_	_	-1	2	_	v	_	_
+2	cogieron	_	coger	_	v	_	_	-1	0	_	sentence	_	_
+3	el	_	el	_	d	_	_	-1	4	_	spec	_	_
+4	tren	_	tren	_	n	_	_	-1	2	_	cd	_	_
+5	desde	_	desde	_	s	_	_	-1	2	_	cc	_	_
+6	de	_	de	_	s	_	_	-1	5	_	sp	_	_
+7	una	_	uno	_	d	_	_	-1	8	_	spec	_	_
+8	estación	_	estación	_	n	_	_	-1	6	_	sn	_	_
+9	bajo	_	bajo	_	s	_	_	-1	5	_	sp	_	_
+10	la	_	el	_	d	_	_	-1	11	_	spec	_	_
+11	tierra	_	tierra	_	n	_	_	-1	9	_	sn	_	_
+12	como	_	como	_	c	_	_	-1	2	_	cc	_	_
+13	un	_	uno	_	d	_	_	-1	14	_	spec	_	_
+14	metro	_	metro	_	n	_	_	-1	12	_	sn	_	_
+15	me	_	yo	_	p	_	_	-1	16	_	ci	_	_
+16	parece	_	parecer	_	v	_	_	-1	14	_	S	_	_
+17	que	_	que	_	c	_	_	-1	18	_	c	_	_
+18	es	_	ser	_	v	_	_	-1	16	_	atr	_	_
+19	un	_	uno	_	d	_	_	-1	20	_	spec	_	_
+20	metro	_	metro	_	n	_	_	-1	16	_	atr	_	_
+21	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	8	_	coord	_	_
+2	durante	_	durante	_	s	_	_	-1	8	_	cc	_	_
+3	su	_	su	_	d	_	_	-1	4	_	spec	_	_
+4	viaje	_	viaje	_	n	_	_	-1	2	_	sn	_	_
+5	en	_	en	_	s	_	_	-1	4	_	sp	_	_
+6	el	_	el	_	d	_	_	-1	7	_	spec	_	_
+7	tren	_	tren	_	n	_	_	-1	5	_	sn	_	_
+8	hablábamos	_	hablar	_	v	_	_	-1	0	_	sentence	_	_
+9	sobre	_	sobre	_	s	_	_	-1	8	_	sp	_	_
+10	su	_	su	_	d	_	_	-1	11	_	spec	_	_
+11	niñez	_	niñez	_	n	_	_	-1	9	_	sn	_	_
+12	.	_	.	_	f	_	_	-1	8	_	f	_	_
+
+1	de	_	de	_	s	_	_	-1	3	_	s	_	_
+2	pequeñas	_	pequeño	_	a	_	_	-1	1	_	sn	_	_
+3	eran	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+4	muy	_	mucho	_	r	_	_	-1	6	_	spec	_	_
+5	muy	_	mucho	_	r	_	_	-1	4	_	r	_	_
+6	diferentes	_	diferente	_	a	_	_	-1	3	_	atr	_	_
+7	y	_	y	_	c	_	_	-1	6	_	coord	_	_
+8	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	fue	_	ser	_	v	_	_	-1	3	_	a	_	_
+2	tenían	_	tener	_	v	_	_	-1	3	_	v	_	_
+3	eran	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+4	fueran	_	ser	_	v	_	_	-1	3	_	atr	_	_
+5	joven	_	joven	_	v	_	_	-1	4	_	atr	_	_
+6	en	_	en	_	s	_	_	-1	5	_	cc	_	_
+7	mil	_	mil	_	d	_	_	-1	8	_	spec	_	_
+8	noventa	_	noventa	_	n	_	_	-1	6	_	sn	_	_
+9	y	_	y	_	c	_	_	-1	3	_	coord	_	_
+10	seis	_	6	_	p	_	_	-1	3	_	S	_	_
+11	y	_	y	_	c	_	_	-1	10	_	coord	_	_
+12	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	la	_	el	_	d	_	_	-1	2	_	spec	_	_
+2	diferencias	_	diferencia	_	n	_	_	-1	3	_	suj	_	_
+3	es	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+4	que	_	que	_	c	_	_	-1	6	_	conj	_	_
+5	Gwen	_	gwen	_	n	_	_	-1	6	_	atr	_	_
+6	es	_	ser	_	v	_	_	-1	3	_	atr	_	_
+7	una	_	uno	_	p	_	_	-1	8	_	spec	_	_
+8	fue	_	ser	_	v	_	_	-1	6	_	atr	_	_
+9	una	_	uno	_	d	_	_	-1	10	_	spec	_	_
+10	niña	_	niña	_	n	_	_	-1	8	_	atr	_	_
+11	es	_	ser	_	v	_	_	-1	12	_	v	_	_
+12	era	_	ser	_	v	_	_	-1	3	_	S	_	_
+13	una	_	uno	_	d	_	_	-1	14	_	spec	_	_
+14	niña	_	niña	_	n	_	_	-1	12	_	atr	_	_
+15	muy	_	mucho	_	r	_	_	-1	20	_	cc	_	_
+16	que	_	que	_	p	_	_	-1	17	_	suj	_	_
+17	comparte	_	compartir	_	v	_	_	-1	15	_	S	_	_
+18	bien	_	bien	_	r	_	_	-1	17	_	cc	_	_
+19	se	_	él	_	p	_	_	-1	20	_	pass	_	_
+20	porta	_	portar	_	v	_	_	-1	12	_	atr	_	_
+21	bien	_	bien	_	r	_	_	-1	20	_	cc	_	_
+22	ehm	_	ehm	_	n	_	_	-1	20	_	coord	_	_
+23	.	_	.	_	f	_	_	-1	3	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	6	_	et	_	_
+2	cada	_	cada	_	d	_	_	-1	3	_	spec	_	_
+3	fin	_	fin	_	n	_	_	-1	6	_	cc	_	_
+4	de	_	de	_	s	_	_	-1	3	_	sp	_	_
+5	semana	_	semana	_	n	_	_	-1	4	_	sn	_	_
+6	leía	_	leer	_	v	_	_	-1	0	_	sentence	_	_
+7	un	_	uno	_	d	_	_	-1	8	_	spec	_	_
+8	libro	_	libro	_	n	_	_	-1	6	_	cd	_	_
+9	.	_	.	_	f	_	_	-1	6	_	f	_	_
+
+1	pintaba	_	pintar	_	v	_	_	-1	0	_	sentence	_	_
+2	un	_	uno	_	d	_	_	-1	3	_	spec	_	_
+3	cuadro	_	cuadro	_	n	_	_	-1	1	_	suj	_	_
+4	y	_	y	_	c	_	_	-1	1	_	coord	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	escribía	_	escribir	_	v	_	_	-1	0	_	sentence	_	_
+2	un	_	uno	_	d	_	_	-1	3	_	spec	_	_
+3	cuento	_	cuento	_	n	_	_	-1	1	_	cd	_	_
+4	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	durante	_	durante	_	s	_	_	-1	6	_	cag	_	_
+2	la	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	semana	_	semana	_	n	_	_	-1	1	_	sn	_	_
+4	para	_	para	_	s	_	_	-1	1	_	sp	_	_
+5	colegio	_	colegio	_	n	_	_	-1	4	_	sn	_	_
+6	supongo	_	supongo	_	a	_	_	-1	0	_	sentence	_	_
+7	para	_	para	_	s	_	_	-1	6	_	sp	_	_
+8	colegio	_	colegio	_	n	_	_	-1	7	_	sn	_	_
+9	.	_	.	_	f	_	_	-1	6	_	f	_	_
+
+1	sí	_	sí	_	r	_	_	-1	0	_	sentence	_	_
+2	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	se	_	él	_	p	_	_	-1	2	_	pass	_	_
+2	despertaba	_	despertar	_	v	_	_	-1	0	_	sentence	_	_
+3	temprano	_	temprano	_	r	_	_	-1	2	_	cc	_	_
+4	y	_	y	_	c	_	_	-1	3	_	coord	_	_
+5	también	_	también	_	r	_	_	-1	3	_	grup.adv	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	terminaba	_	terminar	_	v	_	_	-1	0	_	sentence	_	_
+2	sus	_	su	_	d	_	_	-1	4	_	spec	_	_
+3	deberes	_	deber	_	n	_	_	-1	4	_	v	_	_
+4	temprano	_	temprano	_	a	_	_	-1	1	_	suj	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	por	_	por	_	s	_	_	-1	7	_	cag	_	_
+2	otro	_	otro	_	d	_	_	-1	3	_	spec	_	_
+3	lado	_	lado	_	n	_	_	-1	1	_	sn	_	_
+4	Sarah	_	sarah	_	n	_	_	-1	3	_	s.a	_	_
+5	de	_	de	_	s	_	_	-1	4	_	sp	_	_
+6	niña	_	niña	_	n	_	_	-1	5	_	sn	_	_
+7	jugaba	_	jugar	_	v	_	_	-1	0	_	sentence	_	_
+8	al	_	al	_	s	_	_	-1	7	_	cd	_	_
+9	fútbol	_	fútbol	_	n	_	_	-1	8	_	sn	_	_
+10	y	_	y	_	c	_	_	-1	7	_	coord	_	_
+11	.	_	.	_	f	_	_	-1	7	_	f	_	_
+
+1	veía	_	ver	_	v	_	_	-1	0	_	sentence	_	_
+2	una	_	uno	_	d	_	_	-1	3	_	spec	_	_
+3	película	_	película	_	n	_	_	-1	1	_	suj	_	_
+4	los	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	fines	_	fin	_	n	_	_	-1	1	_	suj	_	_
+6	de	_	de	_	s	_	_	-1	5	_	sp	_	_
+7	semana	_	semana	_	n	_	_	-1	6	_	sn	_	_
+8	y	_	y	_	c	_	_	-1	1	_	coord	_	_
+9	me	_	yo	_	p	_	_	-1	10	_	atr	_	_
+10	parece	_	parecer	_	v	_	_	-1	1	_	S	_	_
+11	que	_	que	_	c	_	_	-1	10	_	atr	_	_
+12	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	es	_	ser	_	v	_	_	-1	0	_	sentence	_	_
+2	una	_	uno	_	d	_	_	-1	3	_	spec	_	_
+3	niña	_	niña	_	n	_	_	-1	1	_	atr	_	_
+4	que	_	que	_	p	_	_	-1	6	_	conj	_	_
+5	se	_	él	_	p	_	_	-1	6	_	pass	_	_
+6	interesa	_	interesar	_	v	_	_	-1	3	_	S	_	_
+7	los	_	el	_	d	_	_	-1	9	_	spec	_	_
+8	las	_	el	_	d	_	_	-1	7	_	d	_	_
+9	cosas	_	cosa	_	n	_	_	-1	6	_	suj	_	_
+10	en	_	en	_	s	_	_	-1	13	_	cc	_	_
+11	que	_	que	_	p	_	_	-1	10	_	sn	_	_
+12	se	_	él	_	p	_	_	-1	13	_	pass	_	_
+13	interesa	_	interesar	_	v	_	_	-1	9	_	S	_	_
+14	los	_	el	_	d	_	_	-1	15	_	spec	_	_
+15	niños	_	niño	_	n	_	_	-1	13	_	suj	_	_
+16	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	durante	_	durante	_	s	_	_	-1	4	_	cc	_	_
+2	la	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	semana	_	semana	_	n	_	_	-1	1	_	sn	_	_
+4	ir	_	ir	_	v	_	_	-1	0	_	sentence	_	_
+5	al	_	al	_	s	_	_	-1	4	_	cc	_	_
+6	colegio	_	colegio	_	n	_	_	-1	5	_	sn	_	_
+7	durante	_	durante	_	s	_	_	-1	4	_	cc	_	_
+8	la	_	el	_	d	_	_	-1	9	_	spec	_	_
+9	semana	_	semana	_	n	_	_	-1	7	_	sn	_	_
+10	iba	_	ir	_	v	_	_	-1	11	_	v	_	_
+11	al	_	al	_	s	_	_	-1	4	_	cc	_	_
+12	colegio	_	colegio	_	n	_	_	-1	11	_	sn	_	_
+13	en	_	en	_	s	_	_	-1	12	_	sp	_	_
+14	bicicleta	_	bicicleta	_	n	_	_	-1	13	_	sn	_	_
+15	y	_	y	_	c	_	_	-1	4	_	coord	_	_
+16	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	llegaba	_	llegar	_	v	_	_	-1	0	_	sentence	_	_
+2	tarde	_	tarde	_	r	_	_	-1	1	_	cc	_	_
+3	a	_	a	_	s	_	_	-1	1	_	creg	_	_
+4	clase	_	clase	_	n	_	_	-1	3	_	sn	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	también	_	también	_	r	_	_	-1	7	_	mod	_	_
+2	el	_	el	_	d	_	_	-1	3	_	spec	_	_
+3	otro	_	otro	_	p	_	_	-1	7	_	cd	_	_
+4	a	_	a	_	s	_	_	-1	7	_	ci	_	_
+5	Gwen	_	gwen	_	n	_	_	-1	4	_	sn	_	_
+6	Sarah	_	sarah	_	n	_	_	-1	7	_	s.a	_	_
+7	hacía	_	hacer	_	v	_	_	-1	0	_	sentence	_	_
+8	sus	_	su	_	d	_	_	-1	9	_	spec	_	_
+9	deberes	_	deber	_	n	_	_	-1	7	_	cd	_	_
+10	por	_	por	_	s	_	_	-1	7	_	cag	_	_
+11	la	_	el	_	d	_	_	-1	12	_	spec	_	_
+12	noche	_	noche	_	n	_	_	-1	10	_	sn	_	_
+13	y	_	y	_	c	_	_	-1	7	_	coord	_	_
+14	.	_	.	_	f	_	_	-1	7	_	f	_	_
+
+1	se	_	él	_	p	_	_	-1	2	_	pass	_	_
+2	acostaba	_	acostar	_	v	_	_	-1	0	_	sentence	_	_
+3	muy	_	mucho	_	r	_	_	-1	4	_	spec	_	_
+4	tarde	_	tarde	_	r	_	_	-1	2	_	cc	_	_
+5	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	de	_	de	_	s	_	_	-1	6	_	sp	_	_
+2	repente	_	repente	_	n	_	_	-1	1	_	sn	_	_
+3	en	_	en	_	s	_	_	-1	6	_	cc	_	_
+4	el	_	el	_	d	_	_	-1	5	_	spec	_	_
+5	tren	_	tren	_	n	_	_	-1	3	_	sn	_	_
+6	había	_	haber	_	v	_	_	-1	0	_	sentence	_	_
+7	un	_	uno	_	d	_	_	-1	8	_	spec	_	_
+8	ruido	_	ruido	_	n	_	_	-1	6	_	cd	_	_
+9	y	_	y	_	c	_	_	-1	8	_	coord	_	_
+10	un	_	uno	_	d	_	_	-1	11	_	spec	_	_
+11	accidente	_	accidente	_	n	_	_	-1	8	_	sn	_	_
+12	quizás	_	quizás	_	r	_	_	-1	11	_	sadv	_	_
+13	.	_	.	_	f	_	_	-1	6	_	f	_	_
+
+1	había	_	haber	_	v	_	_	-1	0	_	sentence	_	_
+2	un	_	uno	_	d	_	_	-1	4	_	spec	_	_
+3	gran	_	gran	_	a	_	_	-1	4	_	s.a	_	_
+4	revuelo	_	revuelo	_	n	_	_	-1	1	_	cd	_	_
+5	.	_	.	_	f	_	_	-1	1	_	f	_	_
+
+1	y	_	y	_	c	_	_	-1	4	_	et	_	_
+2	Gwen	_	gwen	_	n	_	_	-1	4	_	atr	_	_
+3	cree	_	creer	_	v	_	_	-1	4	_	v	_	_
+4	creía	_	creer	_	v	_	_	-1	0	_	sentence	_	_
+5	que	_	que	_	c	_	_	-1	6	_	c	_	_
+6	había	_	haber	_	v	_	_	-1	4	_	cd	_	_
+7	un	_	uno	_	d	_	_	-1	8	_	spec	_	_
+8	problema	_	problema	_	n	_	_	-1	6	_	cd	_	_
+9	entonces	_	entonces	_	r	_	_	-1	8	_	sadv	_	_
+10	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	se	_	él	_	p	_	_	-1	2	_	pass	_	_
+2	sentía	_	sentir	_	v	_	_	-1	0	_	sentence	_	_
+3	agua	_	agua	_	n	_	_	-1	2	_	cpred	_	_
+4	de	_	de	_	s	_	_	-1	3	_	sp	_	_
+5	lluvia	_	lluvia	_	n	_	_	-1	4	_	sn	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	Sarah	_	sarah	_	n	_	_	-1	2	_	suj	_	_
+2	decidía	_	decidir	_	v	_	_	-1	0	_	sentence	_	_
+3	necesitar	_	necesitar	_	v	_	_	-1	2	_	cd	_	_
+4	ayuda	_	ayuda	_	n	_	_	-1	3	_	cd	_	_
+5	del	_	del	_	s	_	_	-1	4	_	sp	_	_
+6	revisor	_	revisor	_	n	_	_	-1	5	_	sn	_	_
+7	y	_	y	_	c	_	_	-1	2	_	coord	_	_
+8	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	el	_	el	_	d	_	_	-1	2	_	spec	_	_
+2	revisor	_	revisor	_	n	_	_	-1	5	_	suj	_	_
+3	ayudaba	_	ayudar	_	v	_	_	-1	5	_	v	_	_
+4	a	_	a	_	s	_	_	-1	5	_	s	_	_
+5	cambiarse	_	cambiar	_	v	_	_	-1	0	_	sentence	_	_
+6	de	_	de	_	s	_	_	-1	5	_	creg	_	_
+7	asiento	_	asiento	_	n	_	_	-1	6	_	sn	_	_
+8	entonces	_	entonces	_	r	_	_	-1	10	_	cc	_	_
+9	no	_	no	_	r	_	_	-1	10	_	mod	_	_
+10	pasa	_	pasar	_	v	_	_	-1	5	_	S	_	_
+11	nada	_	nada	_	p	_	_	-1	10	_	suj	_	_
+12	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	se	_	él	_	p	_	_	-1	2	_	pass	_	_
+2	tranquilizaban	_	tranquilizar	_	v	_	_	-1	0	_	sentence	_	_
+3	no	_	no	_	r	_	_	-1	4	_	mod	_	_
+4	pasa	_	pasar	_	v	_	_	-1	2	_	cd	_	_
+5	nada	_	nada	_	p	_	_	-1	4	_	suj	_	_
+6	.	_	.	_	f	_	_	-1	2	_	f	_	_
+
+1	al	_	al	_	s	_	_	-1	5	_	cc	_	_
+2	final	_	final	_	n	_	_	-1	1	_	sn	_	_
+3	en	_	en	_	s	_	_	-1	2	_	sp	_	_
+4	Barcelona	_	barcelona	_	n	_	_	-1	3	_	sn	_	_
+5	comía	_	comer	_	v	_	_	-1	0	_	sentence	_	_
+6	un	_	uno	_	d	_	_	-1	7	_	spec	_	_
+7	pizza	_	pizza	_	n	_	_	-1	5	_	cd	_	_
+8	una	_	uno	_	d	_	_	-1	9	_	spec	_	_
+9	pizza	_	pizza	_	n	_	_	-1	5	_	cd	_	_
+10	y	_	y	_	c	_	_	-1	5	_	coord	_	_
+11	.	_	.	_	f	_	_	-1	5	_	f	_	_
+
+1	se	_	él	_	p	_	_	-1	2	_	pass	_	_
+2	reí	_	reí	_	v	_	_	-1	4	_	cc	_	_
+3	se	_	él	_	p	_	_	-1	4	_	morfema.pronominal	_	_
+4	reía	_	reír	_	v	_	_	-1	0	_	sentence	_	_
+5	al	_	al	_	s	_	_	-1	4	_	cc	_	_
+6	recordar	_	recordar	_	v	_	_	-1	5	_	S	_	_
+7	el	_	el	_	d	_	_	-1	8	_	spec	_	_
+8	viaje	_	viaje	_	n	_	_	-1	6	_	cd	_	_
+9	.	_	.	_	f	_	_	-1	4	_	f	_	_
+
+1	muy	_	mucho	_	r	_	_	-1	2	_	spec	_	_
+2	bien	_	bien	_	r	_	_	-1	0	_	sentence	_	_
+3	.	_	.	_	f	_	_	-1	2	_	f	_	_
+

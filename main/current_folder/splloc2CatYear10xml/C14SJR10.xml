@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C14SJR10"
+      Date="2009-07-06">
+<Participants>
+<participant
+  id="C14"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="SJR"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">06-JUL-2009</comment>
+<comment type="Location">MS</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:07:29</comment>
+<u who="C14" uID="u0">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natilia<f type="neologism"/></w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u1">
+<w>todas</w>
+<w>los</w>
+<w>manas<f type="neologism"/></w>
+<w>eran</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u2">
+<freecode>eng: how do you pronounce that</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u3">
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u4">
+<linker type="self completion"/>
+<w>iguales<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u5">
+<w>Natilia<f type="neologism"/></w>
+<g><w>lia<replacement><w>lee</w></replacement></w><error/></g>
+<w>un</w>
+<w>libros</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u6">
+<w>pinta</w>
+<w>un</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u7">
+<freecode>eng: I don't know what picture is</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u8">
+<w>cuadro</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u9">
+<linker type="self completion"/>
+<w>cuadro<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u10">
+<g><w>constructe<replacement><w>construye</w></replacement></w><error/></g>
+<w>un</w>
+<w>cartón</w>
+<pause symbolic-length="simple"></pause>
+<w xml:lang="d">house</w>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u11">
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u12">
+<linker type="self completion"/>
+<w>casa<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u13">
+<freecode>eng: oh I can't think what to ride a bike is</freecode>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u14">
+<w>andar</w>
+<w>en</w>
+<w>bici</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u15">
+<linker type="self completion"/>
+<w>andar<f type="generic"/></w>
+<w>en<f type="generic"/></w>
+<w>bici<f type="generic"/></w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u16">
+<w>jugar</w>
+<g><w>en</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w xml:lang="adv">yeah</w>
+<w>jugar</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u17">
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u18">
+<freecode>eng: i forgot what is to sleep</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u19">
+<w>dormir</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u20">
+<linker type="self completion"/>
+<g><w>dormir<f type="generic"/></w>
+<w>en</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>dormir</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u21">
+<w>salir</w>
+<g><w>la</w>
+<w>ga<shortening>tero</shortening></w><k type="retracing with correction"/></g>
+<g><w>lo</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>gatero</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u22">
+<w>escalar</w>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u23">
+<freecode>eng: what's trees</freecode>
+<t type="q"/>
+
+</u>
+<u who="C14" uID="u24">
+<freecode>eng: I don't know</freecode>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u25">
+<linker type="self completion"/>
+<w>oh</w>
+<w>árbol</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u26">
+<g><w>periguiar<replacement><w>perseguir</w></replacement></w><error/></g>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>mariposa</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u27">
+<w>tomar</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u28">
+<linker type="self completion"/>
+<w>tomar<f type="generic"/></w>
+<w>el<f type="generic"/></w>
+<w>sol<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u29">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<g><w>quince</w><k type="retracing"/></g>
+<w xml:lang="adv">yeah</w>
+<w>quince</w>
+<w>heure<f type="words to be excluded"/></w>
+<pause symbolic-length="simple"></pause>
+<w>Natilia<f type="neologism"/></w>
+<w>y</w>
+<w>Pancho</w>
+<w>encontrar</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u30">
+<w>volver</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u31">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>no</w>
+<w>salir</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<g><w>la</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>gatero</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u32">
+<w>no</w>
+<w>perseguir</w>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u33">
+<freecode>eng: what's bird</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u34">
+<w>una</w>
+<w>paloma</w>
+<freecode>eng: is pigeon</freecode>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u35">
+<linker type="self completion"/>
+<w>una<f type="generic"/></w>
+<w>paloma<f type="generic"/></w>
+<freecode>eng: that's right</freecode>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u36">
+<w>perseguir</w>
+<w>un</w>
+<w>ratón</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u37">
+<g><w>sali</w>
+<w>cre<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>salir</w>
+<w>corriendo</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u38">
+<freecode>eng: what's from</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u39">
+<w>desde</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u40">
+<linker type="self completion"/>
+<w>desde<f type="generic"/></w>
+<w>el</w>
+<g><w>pelo</w><k type="retracing with correction"/></g>
+<w>perro</w>
+<w>porque</w>
+<w>es</w>
+<w>el</w>
+<w>pelo</w>
+<g><w>ladar<replacement><w>ladrar</w></replacement></w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u41">
+<g><w>es</w><k type="retracing"/></g>
+<w>es</w>
+<w>asustar</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u42">
+<w>Nati</w>
+<w>a</w>
+<w>quince</w>
+<w>y</w>
+<w>quince</w>
+<w>heure<f type="words to be excluded"/></w>
+<w>busca</w>
+<w>Pancho</w>
+<w>pero</w>
+<w>no</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u43">
+<freecode>eng: what's to find</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u44">
+<w>encontrar</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u45">
+<linker type="self completion"/>
+<w>encontrar<f type="generic"/></w>
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u46">
+<w>busca</w>
+<g><w>en</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>xx</w>
+<w>en</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u47">
+<freecode>eng: what's in bed</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u48">
+<w>oh</w>
+<w>la</w>
+<w>cama</w>
+<freecode>eng: is bed or</freecode>
+<w>cesta</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u49">
+<linker type="self completion"/>
+<w>cesta<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<g><w>y</w><k type="retracing with correction"/></g>
+<g><w>mais<f type="words to be excluded"/></w>
+<w>no</w><k type="retracing"/></g>
+<w>mais<f type="words to be excluded"/></w>
+<w>no</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u50">
+<freecode>eng: what's to</freecode>
+<t type="trail off"/>
+
+</u>
+<u who="C14" uID="u51">
+<linker type="self completion"/>
+<w>oh</w>
+<g><w>describre<replacement><w>descubre</w></replacement></w><error/></g>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u52">
+<w>descubrir</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u53">
+<linker type="self completion"/>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u54">
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<w>um</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u55">
+<freecode>eng: I don't know</freecode>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u56">
+<freecode>eng: what are you trying to say</freecode>
+<t type="q"/>
+
+</u>
+<u who="C14" uID="u57">
+<freecode>eng: I don't really know</freecode>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u58">
+<freecode>eng: so she's thinking isn't she</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u59">
+<w>pensar</w>
+<freecode>eng: is to think</freecode>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u60">
+<linker type="self completion"/>
+<w>pensar<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<freecode>eng: to feed</freecode>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u61">
+<w xml:lang="v">throw</w>
+<w>tirar</w>
+<freecode>eng: you can use the word throw</freecode>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u62">
+<linker type="self completion"/>
+<w>tirar<f type="generic"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u63">
+<freecode>eng: Pancho's food</freecode>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u64">
+<linker type="self completion"/>
+<pause symbolic-length="simple"></pause>
+<w>cena</w>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u65">
+<w>cena</w>
+<freecode>eng: that's supper or</freecode>
+<w>la</w>
+<w>comida</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u66">
+<linker type="self completion"/>
+<w>la<f type="generic"/></w>
+<w>comida<f type="generic"/></w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u67">
+<w>Pancho</w>
+<w>no</w>
+<pause symbolic-length="simple"></pause>
+<w>volver</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u68">
+<w>Pancho</w>
+<w>a</w>
+<w>quince</w>
+<w>y</w>
+<w>media</w>
+<pause symbolic-length="simple"></pause>
+<w>volver</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u69">
+<w>Nathalie</w>
+<t type="interruption"/>
+
+</u>
+<u who="C14" uID="u70">
+<freecode>eng: oh sorry what was her name again</freecode>
+<t type="q"/>
+
+</u>
+<u who="SJR" uID="u71">
+<w>Natalia</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u72">
+<linker type="self completion"/>
+<w>Natalia<f type="generic"/></w>
+<w>no</w>
+<w>volver</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u73">
+<w>Pancho</w>
+<w>pensar</w>
+<w>Natilia<f type="neologism"/></w>
+<pause symbolic-length="simple"></pause>
+<w>salir</w>
+<w>corriendo</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u74">
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>volver</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u75">
+<w>volver</w>
+<t type="p"/>
+
+</u>
+<u who="C14" uID="u76">
+<w>Pancho</w>
+<pause symbolic-length="simple"></pause>
+<w>subir</w>
+<pause symbolic-length="simple"></pause>
+<g><w>su</w>
+<w>cartón</w><k type="retracing with correction"/></g>
+<w>su</w>
+<g><w>cesta</w><error/></g>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">questa = cesta</a>
+</u>
+<u who="C14" uID="u77">
+<w>descubrir</w>
+<w>Natalia</w>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u78">
+<w>dónde</w>
+<t type="q"/>
+
+</u>
+<u who="C14" uID="u79">
+<linker type="self completion"/>
+<w>dónde</w>
+<t type="interruption"/>
+
+</u>
+<u who="SJR" uID="u80">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u81">
+<w xml:lang="adv">where</w>
+<t type="q"/>
+
+</u>
+<u who="C14" uID="u82">
+<linker type="self completion"/>
+<w>en</w>
+<w>su</w>
+<g><w>questa<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>cesta</w>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u83">
+<w>muy</w>
+<w>bien</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

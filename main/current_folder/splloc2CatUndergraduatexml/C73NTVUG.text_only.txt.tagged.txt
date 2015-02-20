@@ -1,0 +1,381 @@
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+ah	nc0n000
+Natalia	np00000
+se	p0000000
+empezó	vmis000
+el	da0000
+día	nc0s000
+leyendo	vmg0000
+un	di0000
+libro	nc0s000
+y	cc
+pintando	vmg0000
+ah	pp000000
+haciendo	vmg0000
+una	di0000
+casa	nc0s000
+y	cc
+pasando	vmg0000
+un	di0000
+rato	nc0s000
+con	sp000
+amigo	nc0s000
+en	sp000
+la	da0000
+en	sp000
+la	da0000
+bicicleta	nc0s000
+.	fp
+
+y	cc
+Pancho	np00000
+lo	pp000000
+pasó	vmis000
+durmiendo	vmg0000
+ehm	nc0s000
+bueno	aq0000
+qué	pt000000
+hizo	vmis000
+um	nc0n000
+sentado	aq0000
+en	sp000
+un	di0000
+muro	nc0s000
+um	pp000000
+y	cc
+buscando	vmg0000
+por	sp000
+un	di0000
+xx	nc0n000
+no	rn
+sé	vmip000
+.	fp
+
+um	nc0n000
+al	nc0n000
+final	aq0000
+de	sp000
+día	nc0s000
+a	sp000
+las	da0000
+tres	dn0000
+um	nc0n000
+cómo	pt000000
+se	p0000000
+llama	vmip000
+la	da0000
+chica	nc0s000
+Natalia	np00000
+.	fp
+.	fp
+
+Natalia	np00000
+y	cc
+Pancho	np00000
+se	p0000000
+encontró	vmis000
+y	cc
+volvieron	vmis000
+a	sp000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+.	fp
+
+Pancho	np00000
+se	p0000000
+fue	vmis000
+de	sp000
+la	da0000
+casa	nc0s000
+cómo	pt000000
+se	p0000000
+llama	vmip000
+perseguir	vmn0000
+.	fp
+
+sí	rg
+eso	pd000000
+.	fp
+
+y	cc
+perseguía	vmii000
+un	di0000
+ave	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+perro	nc0s000
+se	p0000000
+um	pp000000
+se	p0000000
+apareció	vmis000
+.	fp
+
+y	cc
+el	da0000
+gato	nc0s000
+Pancho	np00000
+se	p0000000
+salió	vmis000
+corriendo	vmg0000
+.	fp
+
+y	cc
+Nati	np00000
+bueno	aq0000
+.	fp
+
+estaba	vmii000
+buscando	vmg0000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+cuarto	ao0000
+ah	np00000
+estaba	vmii000
+buscando	vmg0000
+Pancho	np00000
+.	fp
+
+no	rn
+sé	vmip000
+no	rn
+sabía	vmii000
+dónde	pt000000
+estaba	vmii000
+su	dp0000
+gato	nc0s000
+.	fp
+
+ah	nc0n000
+buscó	vmis000
+en	sp000
+el	da0000
+jardín	nc0s000
+y	cc
+cerca	rg
+del	sp000
+árbol	nc0s000
+.	fp
+
+también	rg
+buscó	vmis000
+en	sp000
+la	da0000
+cama	nc0s000
+de	sp000
+Pancho	np00000
+ehm	np00000
+cerca	rg
+de	sp000
+lo	da0000
+sofá	nc0s000
+y	cc
+um	nc0n000
+en	sp000
+el	da0000
+árbol	nc0s000
+.	fp
+
+y	cc
+también	rg
+parece	vmip000
+que	cs
+preguntaba	vmii000
+a	sp000
+a	sp000
+la	da0000
+rana	aq0000
+si	cs
+supiera	vmsi000
+dónde	pt000000
+estaba	vmii000
+su	dp0000
+gato	nc0s000
+.	fp
+
+y	cc
+Nati	np00000
+bueno	aq0000
+.	fp
+
+parece	vmip000
+que	cs
+estaba	vmii000
+pensando	vmg0000
+en	sp000
+su	dp0000
+gato	nc0s000
+y	cc
+.	fp
+
+está	vmip000
+preocupada	aq0000
+porque	cs
+no	rn
+supo	vmis000
+dónde	pt000000
+está	vmip000
+su	dp0000
+gato	nc0s000
+um	np00000
+.	fp
+
+ha	vaip000
+dejado	vmp0000
+un	di0000
+poco	pi000000
+de	sp000
+comida	nc0s000
+para	sp000
+para	sp000
+que	cs
+vuelva	vmsp000
+su	dp0000
+gato	nc0s000
+y	cc
+.	fp
+
+está	vmip000
+un	di0000
+poco	rg
+preocupado	aq0000
+.	fp
+
+Pancho	np00000
+también	rg
+a	sp000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+cinco	dn0000
+parece	vmip000
+que	cs
+está	vmip000
+buscando	vmg0000
+a	sp000
+Nati	np00000
+.	fp
+
+no	rn
+sabe	vmip000
+dónde	pt000000
+está	vmip000
+Nati	np00000
+.	fp
+
+um	nc0n000
+ha	vaip000
+vuelto	vmp0000
+a	sp000
+al	np00000
+árbol	nc0s000
+y	cc
+.	fp
+
+no	rn
+está	vmip000
+su	dp0000
+dueña	nc0s000
+uh	nc0s000
+Nati	np00000
+.	fp
+
+y	cc
+también	rg
+está	vmip000
+pensando	vmg0000
+en	sp000
+Nati	np00000
+.	fp
+
+uh	nc0s000
+piensa	vmip000
+bueno	aq0000
+.	fp
+
+que	pr000000
+Nati	np00000
+se	p0000000
+ha	vaip000
+marchado	vmp0000
+.	fp
+
+y	cc
+al	np00000
+fin	nc0s000
+bueno	aq0000
+.	fp
+
+Pancho	np00000
+vuelva	vmsp000
+a	sp000
+la	da0000
+casa	nc0s000
+.	fp
+
+uh	nc0s000
+llueve	vmip000
+.	fp
+
+está	vmip000
+mojado	aq0000
+y	cc
+.	fp
+
+xx	nc0n000
+la	da0000
+comida	nc0s000
+y	cc
+.	fp
+
+vuelva	vmsp000
+a	sp000
+su	dp0000
+cama	nc0s000
+.	fp
+
+y	cc
+allí	rg
+está	vmip000
+Nati	np00000
+uh	nc0s000
+está	vmip000
+esperando	vmg0000
+para	sp000
+su	dp0000
+gato	nc0s000
+.	fp
+
+y	cc
+parece	vmip000
+que	cs
+los	da0000
+dos	pn000000
+son	vsip000
+muy	rg
+um	aq0000
+felices	aq0000
+.	fp
+
+eso	pd000000
+es	vsip000
+el	da0000
+fin	nc0s000
+.	fp
+

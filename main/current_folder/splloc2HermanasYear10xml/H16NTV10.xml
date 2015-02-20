@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H16NTV10"
+      Date="2009-06-09">
+<Participants>
+<participant
+  id="H16"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year10"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="male"
+
+/>
+</Participants>
+<comment type="Date">09-JUN-2009</comment>
+<comment type="Location">MS</comment>
+<comment type="Situation">Hermanas Story</comment>
+<comment type="Transcriber">ART</comment>
+<comment type="Time Duration">00:04:15</comment>
+<u who="NTV" uID="u0">
+<freecode>eng: participant sixteen hermanas</freecode>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u1">
+<w xml:lang="a">okay</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u2">
+<w>um</w>
+<w>las</w>
+<w>vacaciones</w>
+<w>de</w>
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>en</w>
+<w>España</w>
+<g><w>verano</w><error/><k type="retracing"/></g>
+<w>verano</w>
+<w>del</w>
+<g><freecode>eng: two thousand and</freecode><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+<a type="errcoding">verono = verano</a>
+</u>
+<u who="NTV" uID="u3">
+<w>dos</w>
+<w>mil</w>
+<w>seis</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u4">
+<linker type="self completion"/>
+<w>euh</w>
+<w>dos</w>
+<w>mil</w>
+<w>y</w>
+<w>seis</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u5">
+<w>um</w>
+<w>en</w>
+<w>Madrid</w>
+<w>euh</w>
+<w>visité</w>
+<g><w>le</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>ciudad</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u6">
+<w>euh</w>
+<w>comí</w>
+<w>tapas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u7">
+<w>bebí</w>
+<w>vino</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u8">
+<w>um</w>
+<w>después</w>
+<w>decidieron</w>
+<w>ir</w>
+<w>a</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u9">
+<w>euh</w>
+<g><w>coyí<replacement><w>cogí</w></replacement></w><error/></g>
+<w>el</w>
+<w>tren</w>
+<w>euh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u10">
+<w>hablé</w>
+<w>sobre</w>
+<w>su</w>
+<g><w>niñez</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">ninez = niñez</a>
+</u>
+<u who="H16" uID="u11">
+<w>euh</w>
+<w>de</w>
+<w>pequeñas</w>
+<w>um</w>
+<w>sé</w>
+<w>muy</w>
+<w>diferentes</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u12">
+<w>euh</w>
+<g><w>Gwen</w>
+<w>de</w>
+<w>niña</w><error/><k type="retracing"/></g>
+<t type="interruption"/>
+
+<a type="errcoding">nina = niña</a>
+</u>
+<u who="H16" uID="u13">
+<freecode>eng: oh um do I say xx</freecode>
+<t type="q"/>
+
+</u>
+<u who="NTV" uID="u14">
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u15">
+<w xml:lang="adv">yeah</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u16">
+<linker type="self completion"/>
+<w>euh</w>
+<w>Gwen</w>
+<w>de</w>
+<g><w>niña</w><error/></g>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>euh</w>
+<g><w>lí<replacement><w>leí</w></replacement></w><error/></g>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+<a type="errcoding">nina = niña</a>
+</u>
+<u who="H16" uID="u17">
+<w>euh</w>
+<g><w>pintó</w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u18">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u19">
+<linker type="self completion"/>
+<w>pinté</w>
+<w>un</w>
+<g><w>cua<shortening>dro</shortening></w><k type="retracing"/></g>
+<w>cuadro</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u20">
+<w>escribí</w>
+<w>un</w>
+<w>cuento</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u21">
+<w>durante</w>
+<w>le</w>
+<w>semana</w>
+<g><w>despert<shortening>arse</shortening></w><k type="retracing"/></g>
+<w>euh</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u22">
+<w xml:lang="adv">yeah</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u23">
+<linker type="self completion"/>
+<w>um</w>
+<w>despertarse</w>
+<w>temprano</w>
+<w>um</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u24">
+<w>terminé</w>
+<w>sus</w>
+<w>deberes</w>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u25">
+<w>Sarah</w>
+<w>de</w>
+<g><w>niña</w><error/></g>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<w>euh</w>
+<w>jugó</w>
+<w>al</w>
+<w>fútbol</w>
+<w>euh</w>
+<t type="p"/>
+
+<a type="errcoding">nina = niña</a>
+</u>
+<u who="H16" uID="u26">
+<w>vi</w>
+<w>una</w>
+<w>película</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u27">
+<w>duran<shortening>te</shortening></w>
+<w>le</w>
+<w>semana</w>
+<w>um</w>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u28">
+<freecode>eng: I don't</freecode>
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u29">
+<linker type="self completion"/>
+<w>oh</w>
+<w>um</w>
+<w>fue</w>
+<w>al</w>
+<w>colegio</w>
+<w>en</w>
+<w>bicicleta</w>
+<w>y</w>
+<g><w>llegó</w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u30">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u31">
+<freecode>eng: it might be</freecode>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u32">
+<linker type="self completion"/>
+<w>llegué</w>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u33">
+<freecode>eng: I'm not sure</freecode>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u34">
+<linker type="self completion"/>
+<w>tarde</w>
+<w>a</w>
+<w>clase</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u35">
+<w>um</w>
+<w>hace</w>
+<w>sus</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u36">
+<g><w>acost<shortening>ado</shortening></w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>acostado</w>
+<w>muy</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u37">
+<w>de</w>
+<w>repente</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<w>euh</w>
+<g><w>jabo</w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u38">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u39">
+<linker type="self completion"/>
+<g><w>jabí<replacement><w>hubo</w></replacement></w><error/></g>
+<w>un</w>
+<w>gran</w>
+<g><w>revuelo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">revielo = revuelo</a>
+</u>
+<u who="H16" uID="u40">
+<g><w>cri<replacement><w>creí</w></replacement></w><error/></g>
+<w>que</w>
+<w>había</w>
+<w>un</w>
+<w>problema</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u41">
+<w>um</w>
+<w>sentí</w>
+<w>agua</w>
+<w>de</w>
+<g><w>lluvia</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">luvia = lluvia</a>
+</u>
+<u who="H16" uID="u42">
+<w>um</w>
+<w>necesita</w>
+<w>ayuda</w>
+<w>del</w>
+<g><w>revi<shortening>sor</shortening></w><k type="retracing"/></g>
+<w>revisor</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u43">
+<w>ayudar</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<w>asiento</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u44">
+<freecode>eng: do I like whisper that or something</freecode>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u45">
+<freecode>eng: no it's fine you can say that</freecode>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u46">
+<freecode>eng: okay good</freecode>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u47">
+<linker type="self completion"/>
+<w>um</w>
+<g><w>tranquilarse<replacement><w>tranquilizarse</w></replacement></w><error/></g>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u48">
+<w>um</w>
+<w>al</w>
+<w>final</w>
+<w>en</w>
+<w>Barcelona</w>
+<w>euh</w>
+<g><w>comé<replacement><w>comí</w></replacement></w><error/></g>
+<w>una</w>
+<w>pizza</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u49">
+<g><w>rierse</w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u50">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u51">
+<linker type="self completion"/>
+<g><w>reers<shortening>e</shortening></w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="H16" uID="u52">
+<freecode>eng: no it might be</freecode>
+<t type="p"/>
+
+</u>
+<u who="H16" uID="u53">
+<linker type="self completion"/>
+<w>rierse<replacement><w>reírse</w></replacement></w>
+<w>al</w>
+<w>recordar</w>
+<w>el</w>
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+</CHAT>

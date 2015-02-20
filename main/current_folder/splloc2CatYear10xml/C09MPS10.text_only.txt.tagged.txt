@@ -1,0 +1,285 @@
+Natalia	np00000
+era	vsii000
+haciendo	vmg0000
+dibujo	nc0s000
+y	cc
+.	fp
+
+fue	vsis000
+a	sp000
+la	da0000
+parque	nc0s000
+y	cc
+.	fp
+
+fue	vsis000
+en	sp000
+bicicleta	nc0s000
+con	sp000
+un	di0000
+amigo	nc0s000
+y	cc
+.	fp
+
+subió	vmis000
+un	di0000
+cualquier	di0000
+cosa	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+durmió	vmis000
+en	sp000
+un	di0000
+cesta	nc0s000
+y	cc
+.	fp
+
+durmió	vmis000
+el	da0000
+el	da0000
+sol	nc0s000
+y	cc
+.	fp
+.	fp
+
+fue	vsis000
+salir	vmn0000
+el	da0000
+puerta	nc0s000
+del	sp000
+gato	nc0s000
+y	cc
+.	fp
+
+escaló	vmis000
+el	da0000
+y	cc
+.	fp
+
+juegue	vmsp000
+en	sp000
+el	da0000
+jardín	nc0s000
+y	cc
+.	fp
+
+vio	vmis000
+un	di0000
+mariposa	aq0000
+y	cc
+.	fp
+
+durmió	vmis000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+a	sp000
+las	da0000
+cincuenta	dn0000
+tres	dn0000
+Natalia	np00000
+acariciar	vmn0000
+.	fp
+
+el	da0000
+gato	nc0s000
+y	cc
+.	fp
+
+fue	vsis000
+al	np00000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+fue	vsis000
+ehm	nc0s000
+salí	vmis000
+salía	vmii000
+no	rn
+salió	vmis000
+el	da0000
+y	cc
+.	fp
+
+un	di0000
+pájaro	nc0s000
+.	fp
+
+juega	vmip000
+con	sp000
+el	da0000
+pájaro	nc0s000
+y	cc
+.	fp
+
+ahora	rg
+el	da0000
+ratón	nc0s000
+en	sp000
+el	da0000
+basura	nc0s000
+y	cc
+.	fp
+
+encontrar	vmn0000
+un	di0000
+perro	nc0s000
+y	cc
+.	fp
+
+corre	vmip000
+corrió	vmis000
+y	cc
+.	fp
+
+Nati	np00000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+donde	pr000000
+el	da0000
+Pancho	np00000
+y	cc
+.	fp
+
+vio	vmis000
+para	sp000
+Pancho	np00000
+.	fp
+
+vio	vmis000
+en	sp000
+el	da0000
+cesta	nc0s000
+y	cc
+el	da0000
+sofá	nc0s000
+sofá	nc0s000
+sí	pp000000
+.	fp
+
+y	cc
+en	sp000
+el	da0000
+y	cc
+oh	np00000
+sí	pp000000
+.	fp
+
+busca	vmip000
+buscó	vmis000
+en	sp000
+el	da0000
+y	cc
+.	fp
+
+pide	vmip000
+un	di0000
+una	di0000
+rana	nc0s000
+.	fp
+
+Nati	np00000
+no	rn
+sé	vmip000
+dónde	pt000000
+Pancho	np00000
+era	vsii000
+y	cc
+.	fp
+
+eché	vmis000
+echó	vmis000
+alimentación	nc0s000
+para	sp000
+el	da0000
+gato	nc0s000
+pero	cc
+.	fp
+
+no	rn
+sé	vmip000
+dónde	pt000000
+es	vsip000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+media	nc0s000
+es	vsip000
+buscando	vmg0000
+para	sp000
+Nati	np00000
+y	cc
+pensar	vmn0000
+oh	np00000
+.	fp
+
+Pancho	np00000
+pensar	vmn0000
+.	fp
+
+sí	rg
+con	sp000
+xx	pp000000
+.	fp
+
+Pancho	np00000
+hace	vmip000
+llueva	np00000
+llueve	vmip000
+y	cc
+así	rg
+.	fp
+
+fue	vsis000
+a	sp000
+la	da0000
+casa	nc0s000
+oh	np00000
+y	cc
+.	fp
+
+era	vsii000
+el	da0000
+gatero	np00000
+y	cc
+tu	dp0000
+y	cc
+a	sp000
+el	da0000
+cesta	nc0s000
+y	cc
+.	fp
+
+y	cc
+Natalia	np00000
+xx	np00000
+oh	np00000
+.	fp
+
+y	cc
+encontró	vmis000
+Natalia	np00000
+.	fp
+
+fin	nc0s000
+.	fp
+

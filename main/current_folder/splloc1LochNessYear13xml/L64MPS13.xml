@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L64MPS13"
+      Date="2007-04-17">
+<Participants>
+<participant
+  id="L64"
+  role="Participant"
+language="es"
+sex="female"
+group="Year13"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">17-APR-2007</comment>
+<comment type="Location">BP</comment>
+<comment type="Situation">Story retelling task based on a picture book about a family staying by the Loch Ness .</comment>
+<comment type="Transcriber">MDS</comment>
+<comment type="Time Duration">00:03:45</comment>
+<u who="MPS" uID="u0">
+<freecode>eng: School Name and this is Loch Ness subject sixty five and today is the seventeeth of April</freecode>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u1">
+<w>una</w>
+<w>familia</w>
+<w>eh</w>
+<w>de</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>tres</w>
+<w>niños</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<g><w>iran<replacement><w>eran</w></replacement></w><error/></g>
+<w>de</w>
+<w>vacaciones</w>
+<w>en</w>
+<w>Escocia</w>
+<w>eh</w>
+<w>en</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>una</w>
+<w>casa</w>
+<w>eh</w>
+<w>cerca</w>
+<g><w>de</w>
+<w>la</w><k type="retracing"/></g>
+<w>ehm</w>
+<g><w>de</w>
+<w>la</w><k type="retracing with correction"/></g>
+<w>del</w>
+<g><w>ría</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>río</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u2">
+<w>eh</w>
+<w>durante</w>
+<w>las</w>
+<w>vacaciones</w>
+<w>eh</w>
+<w>pintan</w>
+<w>eh</w>
+<g><w>los</w>
+<w>cua<shortening>dros</shortening></w><k type="retracing"/></g>
+<w>los</w>
+<w>cuadros</w>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u3">
+<w xml:lang="pro">they</w>
+<w>eh</w>
+<g><w>quiere</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>quiera</w>
+<w>ir</w>
+<w>de</w>
+<w>compras</w>
+<w>eh</w>
+<w>entonces</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u4">
+<w>fue</w>
+<w>ehm</w>
+<g><w>de</w>
+<w>com<shortening>pras</shortening></w><k type="retracing with correction"/></g>
+<g><w>a</w><k type="retracing with correction"/></g>
+<w>de</w>
+<w>las</w>
+<w>tiendas</w>
+<w>con</w>
+<w>su</w>
+<w>hijo</w>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u5">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>niños</w>
+<w>eh</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+<a type="comments">[laugh] .</a>
+</u>
+<u who="L64" uID="u6">
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>pin<shortening>tó</shortening></w><k type="retracing"/></g>
+<w>eh</w>
+<w>pintó</w>
+<w>los</w>
+<g><w>ruidos</w><k type="retracing with correction"/></g>
+<w>a</w>
+<w>las</w>
+<g><w>ruedas</w><error/></g>
+<w>como</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>monstruo</w>
+<w>ehm</w>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">ruidas = ruedas .</a>
+</u>
+<u who="L64" uID="u7">
+<w>los</w>
+<w>niños</w>
+<w>ayudan</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u8">
+<g><w>por</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>pueden</w>
+<w>el</w>
+<w>monstruo</w>
+<w>eh</w>
+<w>las</w>
+<g><w>ruedas</w><error/></g>
+<w>eh</w>
+<w>en</w>
+<w>el</w>
+<w>río</w>
+<w>eh</w>
+<w xml:lang="con">and</w>
+<w>mira</w>
+<w>el</w>
+<w>monstruo</w>
+<w>eh</w>
+<t type="p"/>
+
+<a type="errcoding">ruidas = ruedas .</a>
+</u>
+<u who="L64" uID="u9">
+<w>cuando</w>
+<w>el</w>
+<w>madre</w>
+<w>ehm</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>eh</w>
+<w>llega</w>
+<g><w>al</w>
+<w>casa</w><k type="retracing with correction"/></g>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>ehm</w>
+<w>los</w>
+<w>niños</w>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<g><w>dija</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>dijan<f type="neologism"/></w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L64" uID="u10">
+<linker type="quoted utterance next"/>
+<g><w>mira</w><k type="retracing"/></g>
+<w>mira</w>
+<g><w>madre</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>mamá</w>
+<w>eh</w>
+<w>hay</w>
+<w>un</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>río</w>
+<w>eh</w>
+<t type="e"/>
+
+</u>
+<u who="L64" uID="u11">
+<w>eh</w>
+<g><w>mucho</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>muchos</w>
+<w>periodistas</w>
+<w>eh</w>
+<w>y</w>
+<w>turistas</w>
+<w>visitan</w>
+<w>eh</w>
+<w>para</w>
+<w>ver</w>
+<w>el</w>
+<w>monstruo</w>
+<w>y</w>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u12">
+<w>tocan</w>
+<g><w>muchos</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>muchas</w>
+<g><w>fotas</w><k type="retracing with correction"/></g>
+<w>fotos</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u13">
+<w>eh</w>
+<w>el</w>
+<w>monstruo</w>
+<w>era</w>
+<w>eh</w>
+<w>xx</w>
+<w>la</w>
+<w>televisión</w>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u14">
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>tiene</w>
+<g><w>a</w>
+<w>los</w><k type="retracing with correction"/></g>
+<w>a</w>
+<w>las</w>
+<w>periodistas</w>
+<w>ah</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L64" uID="u15">
+<linker type="quoted utterance next"/>
+<w>no</w>
+<w>es</w>
+<w>un</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L64" uID="u16">
+<linker type="quoted utterance next"/>
+<w>eh</w>
+<w>es</w>
+<w>solamente</w>
+<w>las</w>
+<g><w>ruedas</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">ruidas = ruedas .</a>
+</u>
+<u who="L64" uID="u17">
+<w>eh</w>
+<w>y</w>
+<w>pintan</w>
+<w>todo</w>
+<w>ehm</w>
+<w>en</w>
+<w>las</w>
+<g><w>rue<shortening>das</shortening></w><k type="retracing"/></g>
+<g><w>ruedas</w><error/></g>
+<w>eh</w>
+<w>pero</w>
+<w>después</w>
+<w>eh</w>
+<t type="quotation next line"/>
+
+<a type="errcoding">ruidas = ruedas ruidas = ruedas .</a>
+</u>
+<u who="L64" uID="u18">
+<linker type="quoted utterance next"/>
+<g><w>mira</w><k type="retracing"/></g>
+<w>mira</w>
+<w>es</w>
+<w>un</w>
+<g><w>mo<shortening>nstruo</shortening></w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>río</w>
+<t type="e"/>
+
+</u>
+<u who="L64" uID="u19">
+<w>verdad</w>
+<t type="q"/>
+
+</u>
+</CHAT>

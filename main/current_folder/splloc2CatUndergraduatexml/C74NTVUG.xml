@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C74NTVUG"
+      Date="2009-02-13">
+<Participants>
+<participant
+  id="C74"
+  role="Participant"
+language="es"
+sex="female"
+SES="Undergraduate"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">13-FEB-2009</comment>
+<comment type="Location">SU</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">WT</comment>
+<comment type="Time Duration">00:02:25</comment>
+<u who="C74" uID="u0">
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u1">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u2">
+<w>Natalia</w>
+<w>una</w>
+<w>chica</w>
+<w>guapa</w>
+<w>le</w>
+<w>gusta</w>
+<w>leer</w>
+<w>en</w>
+<w>su</w>
+<w>cama</w>
+<w>pintar</w>
+<w>hacer</w>
+<w>cosas</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u3">
+<w>jugar</w>
+<w>con</w>
+<w>sus</w>
+<w>amigos</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u4">
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<w>le</w>
+<w>gusta</w>
+<w>dormir</w>
+<w>escalar</w>
+<w>árboles</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u5">
+<w>y</w>
+<w>perseguir</w>
+<w>mariposas</w>
+<w>y</w>
+<g><w>sentirse</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>sentarse</w>
+<w>en</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u6">
+<w>el</w>
+<w>fin</w>
+<w>del</w>
+<w>día</w>
+<w>Natalia</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<w>le</w>
+<w>gusta</w>
+<w>jugar</w>
+<w>juntos</w>
+<w>y</w>
+<w>vivir</w>
+<w>en</w>
+<w>su</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u7">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>estaba</w>
+<w>persiguiendo</w>
+<w>ratones</w>
+<w>como</w>
+<w>cada</w>
+<w>día</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u8">
+<w>pero</w>
+<w>un</w>
+<w>perro</w>
+<w>le</w>
+<g><w>persigó<replacement><w>persiguió</w></replacement></w><error/></g>
+<w>y</w>
+<w>tenía</w>
+<w>que</w>
+<w>correr</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u9">
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>cuarto</w>
+<w>Natalia</w>
+<w>regresó</w>
+<w>de</w>
+<w>su</w>
+<w>trabajo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u10">
+<w>no</w>
+<w>pudo</w>
+<w>encontrar</w>
+<w>a</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u11">
+<w>estaba</w>
+<w>preocupada</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u12">
+<w>buscó</w>
+<w>abajo</w>
+<w>de</w>
+<w>todas</w>
+<w>las</w>
+<w>cosas</w>
+<w>en</w>
+<w>su</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u13">
+<w>y</w>
+<w>habló</w>
+<w>con</w>
+<w>un</w>
+<w>grano</w>
+<w>pero</w>
+<w>Natalia</w>
+<w>no</w>
+<w>pude</w>
+<w>encontrar</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u14">
+<w>y</w>
+<w>estaba</w>
+<w>muy</w>
+<w>um</w>
+<w>infeliz</w>
+<w>y</w>
+<w>Pancho</w>
+<w>también</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u15">
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>estaba</w>
+<w>preocupada</w>
+<w>que</w>
+<w>no</w>
+<w>estaba</w>
+<w>con</w>
+<g><w>Natali</w><k type="retracing with correction"/></g>
+<w>Natalia</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u16">
+<w>Pancho</w>
+<w>muy</w>
+<w>tarde</w>
+<w>regresó</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u17">
+<w>y</w>
+<w>porque</w>
+<w>encontró</w>
+<w>su</w>
+<w>comida</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C74" uID="u18">
+<w>al</w>
+<w>fin</w>
+<w>estaba</w>
+<w>feliz</w>
+<w>con</w>
+<w>Natalia</w>
+<w>en</w>
+<w>su</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+</CHAT>

@@ -1,0 +1,109 @@
+.	fp
+
+eh	vmis000
+una	di0000
+la	da0000
+familia	nc0s000
+de	sp000
+vacaciones	nc0p000
+la	da0000
+Loch	np00000
+Ness	np00000
+ehm	nc0s000
+.	fp
+
+madre	nc0s000
+ehm	aq0000
+hermana	nc0s000
+hermano	nc0s000
+dos	pn000000
+ehm	nc0s000
+pintar	vmn0000
+Loch	np00000
+Ness	np00000
+y	cc
+piscina	nc0s000
+.	fp
+
+la	da0000
+abuela	nc0s000
+.	fp
+
+ehm	nc0s000
+pintar	aq0000
+Loch	np00000
+Ness	np00000
+y	cc
+.	fp
+
+hermano	nc0s000
+pintar	vmn0000
+Loch	np00000
+Ness	np00000
+.	fp
+
+madre	nc0s000
+y	cc
+hermano	nc0s000
+madre	nc0s000
+y	cc
+hermano	nc0s000
+rueda	vmip000
+.	fp
+
+abuela	nc0s000
+hermana	nc0s000
+hermano	nc0s000
+rueda	vmip000
+Loch	np00000
+Ness	np00000
+.	fp
+
+rueda	nc0s000
+Loch	np00000
+Ness	np00000
+Loch	np00000
+Ness	np00000
+.	fp
+
+madre	nc0s000
+ehm	nc0s000
+volver	vmn0000
+y	cc
+hermano	nc0s000
+hacia	sp000
+Loch	np00000
+Ness	np00000
+.	fp
+
+hace	vmip000
+fotos	nc0p000
+y	cc
+televisión	nc0s000
+hermano	nc0s000
+hermana	nc0s000
+.	fp
+
+periodista	nc0s000
+de	sp000
+verdad	nc0s000
+mentira	nc0s000
+.	fp
+
+no	rn
+Loch	np00000
+Ness	np00000
+la	da0000
+rueda	nc0s000
+.	fp
+
+ehm	nc0s000
+de	sp000
+verdad	nc0s000
+Loch	np00000
+Ness	np00000
+.	fp
+
+gracias	nc0p000
+.	fp
+

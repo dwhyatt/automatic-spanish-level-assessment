@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L04MPS9"
+      Date="2007-03-26">
+<Participants>
+<participant
+  id="L04"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-MAR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:02:05</comment>
+<u who="MPS" uID="u0">
+<freecode>eng: student number four School Name twentysixth of March Loch Ness</freecode>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u1">
+<w>la</w>
+<w>familia</w>
+<w>ir</w>
+<w>ehm</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u2">
+<w>llega</w>
+<w>del</w>
+<w>lago</w>
+<w>Ness</w>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u3">
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>pinta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u4">
+<w>dos</w>
+<g><w>niños</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w xml:lang="adv">yeah</w>
+<t type="trail off"/>
+
+<a type="errcoding">miños = niños .</a>
+</u>
+<u who="L04" uID="u5">
+<w>la</w>
+<w>madre</w>
+<w>ehm</w>
+<w>ir</w>
+<w>de</w>
+<w>tiendas</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u6">
+<w>los</w>
+<g><w>niños</w><error/></g>
+<w>pinta</w>
+<w>rueda</w>
+<g><w>monstruo</w><k type="retracing"/></g>
+<w>monstruo</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">miños = niños .</a>
+</u>
+<u who="L04" uID="u7">
+<w>la</w>
+<w>madre</w>
+<w>volver</w>
+<g><w>y</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u8">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>niños</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>rueda</w>
+<w>pintar</w>
+<w>lago</w>
+<w>Ness</w>
+<t type="p"/>
+
+<a type="errcoding">miños = niños .</a>
+</u>
+<u who="L04" uID="u9">
+<w>ehm</w>
+<g><w>mu<shortening>cha</shortening></w><k type="retracing"/></g>
+<w>mucha</w>
+<w>gente</w>
+<w>ehm</w>
+<w>hacer</w>
+<w>fotos</w>
+<w>mucho</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u10">
+<w>ehm</w>
+<w>la</w>
+<w>dos</w>
+<w>niños</w>
+<w>ehm</w>
+<w>veo</w>
+<w>la</w>
+<w>televisión</w>
+<t type="p"/>
+
+</u>
+<u who="L04" uID="u11">
+<w>la</w>
+<w>abuela</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>es</w>
+<w>lo</w>
+<w>siento</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="comments">[laugh] .</a>
+</u>
+<u who="L04" uID="u12">
+<w>es</w>
+<w>lago</w>
+<w>Ness</w>
+<w>de</w>
+<w>verdad</w>
+<t type="q"/>
+
+</u>
+</CHAT>

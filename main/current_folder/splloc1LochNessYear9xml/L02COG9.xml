@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L02COG9"
+      Date="2007-03-26">
+<Participants>
+<participant
+  id="L02"
+  role="Participant"
+language="es"
+sex="male"
+group="Year9"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-MAR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Warning">background noise</comment>
+<comment type="Situation">Story retelling based on a picture book about a family staying by the Loch Ness.</comment>
+<comment type="Transcriber">RAP</comment>
+<comment type="Time Duration">00:04:06</comment>
+<u who="COG" uID="u0">
+<freecode>eng: okay today is twenty six of March student number thirteen</freecode>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u1">
+<freecode>eng: and the task is Loch Ness</freecode>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u2">
+<w xml:lang="a">okay</w>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u3">
+<w>tres</w>
+<g><w>niños</w><error/></g>
+<w>y</w>
+<w>una</w>
+<w>abuela</w>
+<w>y</w>
+<w>ah</w>
+<w>un</w>
+<w>madre</w>
+<w>es</w>
+<w>en</w>
+<g><w>Escocia</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">ninos = niños Escochia = Escocia</a>
+</u>
+<u who="L02" uID="u4">
+<g><w>de</w>
+<w>vacaci<shortening>ones</shortening></w><k type="retracing"/></g>
+<w>ehm</w>
+<w>de</w>
+<g><w>vacaciones</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">vajaciones = vacaciones</a>
+</u>
+<u who="L02" uID="u5">
+<w>una</w>
+<w>abuela</w>
+<w>pintar</w>
+<w>un</w>
+<w>dibujo</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<w>un</w>
+<w>madre</w>
+<g><w>libro</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">libra = libro</a>
+</u>
+<u who="L02" uID="u6">
+<w>dos</w>
+<w>niños</w>
+<w>pesquera<f type="neologism"/></w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u7">
+<w>una</w>
+<w>abuela</w>
+<w>pintar</w>
+<w>un</w>
+<w xml:lang="d">monster</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u8">
+<w>madre</w>
+<w>y</w>
+<w>niño</w>
+<w>un</w>
+<pause symbolic-length="simple"></pause>
+<w>irse</w>
+<w>en</w>
+<w>el</w>
+<w>coche</w>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u9">
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>niños</w>
+<w>adiós</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u10">
+<w>madre</w>
+<w>comprar</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u11">
+<w>abuela</w>
+<w>pintar</w>
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>el</w>
+<g><w>ru<shortening>eda</shortening></w><k type="retracing"/></g>
+<w>rueda</w>
+<g><w>cuato<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>cuatro</w>
+<g><w>rueda</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>ruedas</w>
+<w>en</w>
+<w>el</w>
+<w>agua</w>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u12">
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<g><w>niños</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>también</w>
+<w>en</w>
+<pause symbolic-length="simple"></pause>
+<w>agua</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">ninos = niños .</a>
+</u>
+<u who="L02" uID="u13">
+<w>que<f type="words to be excluded"/></w>
+<w>se<f type="words to be excluded"/></w>
+<w>pris<f type="words to be excluded"/></w>
+<w>muchos</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>hacer</w>
+<w>fotos</w>
+<w>y</w>
+<w>que<f type="words to be excluded"/></w>
+<w>se<f type="words to be excluded"/></w>
+<w>pris<f type="words to be excluded"/></w>
+<w>en</w>
+<w>el</w>
+<w>tele</w>
+<w>es</w>
+<w>un</w>
+<w xml:lang="d">monster</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L02" uID="u14">
+<w>muchas</w>
+<g><w>personas</w><error/></g>
+<w>es</w>
+<w>enfrente</w>
+<w>de</w>
+<w>abuela</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">persones = personas</a>
+</u>
+<u who="L02" uID="u15">
+<w xml:lang="d">monster</w>
+<w>es</w>
+<pause symbolic-length="simple"></pause>
+<w>falso</w>
+<pause symbolic-length="simple"></pause>
+<w>de</w>
+<w>verdad</w>
+<w xml:lang="d">monster</w>
+<w>es</w>
+<w>en</w>
+<g><w>agua</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">aguga = agua</a>
+</u>
+<u who="COG" uID="u16">
+<w>mmm</w>
+<w>muy</w>
+<w>bien</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

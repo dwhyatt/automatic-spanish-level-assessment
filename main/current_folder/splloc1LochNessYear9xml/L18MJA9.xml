@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L18MJA9"
+      Date="2007-04-16">
+<Participants>
+<participant
+  id="L18"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="MJA"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-APR-2007</comment>
+<comment type="Location">H</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:03:53</comment>
+<u who="MJA" uID="u0">
+<freecode>eng: student number eighteen Loch Ness task</freecode>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u1">
+<w>cuando</w>
+<w>quieras</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u2">
+<pause symbolic-length="simple"></pause>
+<w>familia</w>
+<w>visité</w>
+<g><w>Lago</w><error/></g>
+<w>Ness</w>
+<w>de</w>
+<w>vacaciones</w>
+<t type="p"/>
+
+<a type="errcoding">largo = Lago</a>
+</u>
+<u who="MJA" uID="u3">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u4">
+<pause symbolic-length="simple"></pause>
+<g><w>las</w>
+<w>abuela</w><k type="retracing with correction"/></g>
+<w>no</w>
+<w>la</w>
+<w>abuela</w>
+<w>pinta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u5">
+<w>la</w>
+<w>madre</w>
+<w>leer</w>
+<w>de</w>
+<w>libro</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u6">
+<pause symbolic-length="simple"></pause>
+<w>la</w>
+<w>madre</w>
+<pause symbolic-length="simple"></pause>
+<w>de</w>
+<w>tiendas</w>
+<w>con</w>
+<w>el</w>
+<w>chico</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u7">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>chicos</w>
+<pause symbolic-length="simple"></pause>
+<w xml:lang="v">uses</w>
+<w>ruedas</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u8">
+<w>pinta</w>
+<w>ruedas</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u9">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u10">
+<pause symbolic-length="simple"></pause>
+<w>um</w>
+<pause symbolic-length="simple"></pause>
+<w>cuatro</w>
+<w>ruedas</w>
+<pause symbolic-length="simple"></pause>
+<w>de</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u11">
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>lo</w>
+<w>chico</w>
+<g><w>volvió</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">vorvó = volvió .</a>
+</u>
+<u who="L18" uID="u12">
+<w>muchas</w>
+<w>turistas</w>
+<w>visité</w>
+<w>la</w>
+<w>monstruo</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u13">
+<w>la</w>
+<g><w>periodista</w><error/></g>
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>escucha</w>
+<w>de</w>
+<w>monstruo</w>
+<t type="p"/>
+
+<a type="errcoding">piriodista = periodistas .</a>
+</u>
+<u who="L18" uID="u14">
+<w>eh</w>
+<w>la</w>
+<w>monstruo</w>
+<w>no</w>
+<w>de</w>
+<w>verdad</w>
+<t type="p"/>
+
+</u>
+<u who="L18" uID="u15">
+<pause symbolic-length="simple"></pause>
+<w>la</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>río</w>
+<w>en</w>
+<w>el</w>
+<g><w>Lago</w><error/></g>
+<w>Ness</w>
+<t type="p"/>
+
+<a type="errcoding">largo = lago .</a>
+</u>
+<u who="L18" uID="u16">
+<w>es</w>
+<w>de</w>
+<w>verdad</w>
+<t type="q"/>
+
+</u>
+<u who="MJA" uID="u17">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+</CHAT>

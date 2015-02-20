@@ -1,0 +1,250 @@
+todos	di0000
+los	da0000
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+se	pp000000
+despertar	vmn0000
+y	cc
+.	fp
+
+pintaba	vmii000
+y	cc
+.	fp
+
+construía	vmii000
+casas	nc0p000
+de	sp000
+cartón	nc0s000
+y	cc
+.	fp
+
+jugar	vmn0000
+jugaba	vmii000
+con	sp000
+sus	dp0000
+amigos	nc0p000
+.	fp
+
+Pancho	np00000
+se	p0000000
+despertaba	vmii000
+despertaba	vmii000
+y	cc
+.	fp
+
+salí	vmis000
+salía	vmii000
+en	sp000
+la	da0000
+jardín	nc0s000
+y	cc
+.	fp
+
+jugaba	vmii000
+en	sp000
+la	da0000
+no	rn
+.	fp
+
+y	cc
+perseguir	vmn0000
+perseguía	vmii000
+los	da0000
+mariposas	aq0000
+.	fp
+
+al	vmip000
+final	nc0s000
+de	sp000
+día	nc0s000
+a	sp000
+las	da0000
+tres	dn0000
+en	sp000
+la	da0000
+tarde	nc0s000
+Nati	np00000
+y	cc
+Pancho	np00000
+encontraba	vmii000
+encontraban	vmii000
+y	cc
+.	fp
+
+volvían	vmii000
+a	sp000
+sus	dp0000
+casas	nc0p000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+se	p0000000
+despertó	vmis000
+para	sp000
+normalmente	rg
+pero	cc
+.	fp
+
+perseguí	vmis000
+una	di0000
+pájaro	nc0s000
+.	fp
+
+ratón	nc0s000
+y	cc
+.	fp
+
+descubrió	vmis000
+un	di0000
+perro	nc0s000
+.	fp
+
+el	da0000
+perro	nc0s000
+asustó	vmis000
+Pancho	np00000
+y	cc
+.	fp
+
+salió	vmis000
+corriendo	vmg0000
+.	fp
+
+Nati	np00000
+fue	vsis000
+fui	vmis000
+encontrar	vmn0000
+Pancho	np00000
+pero	cc
+.	fp
+
+no	rn
+llegar	vmn0000
+.	fp
+
+buscó	vmis000
+para	sp000
+Pancho	np00000
+en	sp000
+su	dp0000
+jardín	nc0s000
+pero	cc
+y	cc
+en	sp000
+su	dp0000
+casa	nc0s000
+en	sp000
+su	dp0000
+cesta	nc0s000
+y	cc
+en	sp000
+el	da0000
+el	da0000
+árbol	nc0s000
+.	fp
+
+y	cc
+.	fp
+.	fp
+
+preguntar	vmn0000
+.	fp
+
+preguntó	vmis000
+su	dp0000
+amigo	nc0s000
+la	da0000
+rana	nc0s000
+.	fp
+
+Nati	np00000
+fue	vsis000
+asustar	vmn0000
+para	sp000
+Pancho	np00000
+y	cc
+.	fp
+
+tiró	vmis000
+a	sp000
+su	dp0000
+comida	nc0s000
+en	sp000
+para	sp000
+su	dp0000
+y	cc
+.	fp
+
+Pancho	np00000
+preguntó	vmis000
+preguntó	vmis000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+medio	dn0000
+pero	cc
+pero	cc
+Nati	np00000
+estar	vmn0000
+.	fp
+
+pero	cc
+no	rn
+a	sp000
+normal	aq0000
+.	fp
+
+Pancho	np00000
+volvía	vmii000
+a	sp000
+su	dp0000
+casa	nc0s000
+porque	cs
+estaba	vmii000
+lloviendo	vmg0000
+.	fp
+
+y	cc
+.	fp
+
+descubría	vmic000
+su	dp0000
+comida	nc0s000
+en	sp000
+en	sp000
+el	da0000
+en	sp000
+el	da0000
+entra	vmip000
+.	fp
+
+Pancho	np00000
+subía	vmii000
+subió	vmis000
+su	dp0000
+a	sp000
+su	dp0000
+cesta	nc0s000
+y	cc
+.	fp
+
+descubrió	vmis000
+Nati	np00000
+a	sp000
+Nati	np00000
+en	sp000
+su	dp0000
+cesta	nc0s000
+.	fp
+

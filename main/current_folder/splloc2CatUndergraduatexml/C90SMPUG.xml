@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C90SMPUG"
+      Date="2009-02-27">
+<Participants>
+<participant
+  id="C90"
+  role="Participant"
+language="es"
+sex="female"
+group="UG"
+
+/>
+<participant
+  id="SMP"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">27-FEB-2009</comment>
+<comment type="Location">UN</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">EFDP</comment>
+<comment type="Time Duration">00:03:41</comment>
+<u who="SMP" uID="u0">
+<freecode>eng: ninety</freecode>
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Nati</w>
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u1">
+<w>todas</w>
+<g><w>las</w><k type="retracing"/></g>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u2">
+<g><w>Nati</w><error/></g>
+<w>se</w>
+<w>despertaba</w>
+<w>por</w>
+<w>la</w>
+<w>mañana</w>
+<w>y</w>
+<w>leía</w>
+<w>una</w>
+<w>historia</w>
+<w>a</w>
+<w>sus</w>
+<w>ositos</w>
+<t type="p"/>
+
+<a type="errcoding">Nati=Nate</a>
+</u>
+<u who="C90" uID="u3">
+<w>después</w>
+<w>pintaba</w>
+<g><w>un</w><k type="retracing"/></g>
+<w>un</w>
+<w>poquito</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u4">
+<g><w>contruya<replacement><w>construía</w></replacement></w><error/><k type="retracing with correction"/></g>
+<w>construía</w>
+<w>algo</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u5">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u6">
+<w>y</w>
+<w>montaba</w>
+<w>su</w>
+<w>bicicleta</w>
+<w>con</w>
+<w>su</w>
+<w>amigo</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u7">
+<w>y</w>
+<w>jugaba</w>
+<w>en</w>
+<w>el</w>
+<w>parque</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u8">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u9">
+<w>y</w>
+<w>su</w>
+<w>gato</w>
+<w>Pancho</w>
+<w>em</w>
+<w>se</w>
+<w>despertaba</w>
+<w>por</w>
+<w>la</w>
+<w>mañana</w>
+<w>em</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u10">
+<w>fue</w>
+<w>afuera</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u11">
+<g><w>su</w><k type="retracing with correction"/></g>
+<w>se</w>
+<w>subía</w>
+<w>al</w>
+<w>árbol</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u12">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u13">
+<w>um</w>
+<w>jugaba</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>mirando</w>
+<w>a</w>
+<w>las</w>
+<w>mariposas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u14">
+<w>relajaba</w>
+<w>un</w>
+<w>poquito</w>
+<w>en</w>
+<w>la</w>
+<w>pared</w>
+<w>en</w>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u15">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u16">
+<w>y</w>
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<w>em</w>
+<g><w>en</w><k type="retracing with correction"/></g>
+<g><w>encontreis<replacement><w>se</w><w>encontraron</w></replacement></w><error/></g>
+<w>Nati</w>
+<w>y</w>
+<w>Pancho</w>
+<w>em</w>
+<w>cerca</w>
+<w>del</w>
+<w>árbol</w>
+<w>y</w>
+<w>la</w>
+<w>pared</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u17">
+<w>y</w>
+<g><w>volvei<replacement><w>volvían</w></replacement></w><error/><k type="retracing with correction"/></g>
+<g><w>volvían</w>
+<w>juntos</w><overlap type="overlap follows"/></g>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u18">
+<g><w>um</w>
+<w>um</w><overlap type="overlap precedes"/></g>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u19">
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u20">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>que</w>
+<w>Pancho</w>
+<w>salió</w>
+<w>por</w>
+<w>la</w>
+<w>mañana</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u21">
+<w>intentó</w>
+<w>a</w>
+<w>jugar</w>
+<w>con</w>
+<w>un</w>
+<g><w>pájaro</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">parejo=pájaro</a>
+</u>
+<u who="SMP" uID="u22">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u23">
+<w>y</w>
+<w>después</w>
+<w>con</w>
+<w>un</w>
+<w>ratón</w>
+<w>pero</w>
+<w>vino</w>
+<w>un</w>
+<w>perro</w>
+<w>muy</w>
+<w>grande</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u24">
+<w>Pancho</w>
+<w>tuvo</w>
+<w>que</w>
+<g><w>hu<shortening>ir</shortening></w><k type="retracing"/></g>
+<w>huirse</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u25">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u26">
+<w>entonces</w>
+<w>cuando</w>
+<g><w>Nate</w><k type="retracing with correction"/></g>
+<w>Nati</w>
+<w>fui</w>
+<w>a</w>
+<w>encontrarle</w>
+<w>a</w>
+<w>las</w>
+<w>cuatro</w>
+<w>Pancho</w>
+<w>no</w>
+<w>estuvo</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u27">
+<w>y</w>
+<w>estaba</w>
+<w>esperándole</w>
+<w>quince</w>
+<w>minutos</w>
+<w>pero</w>
+<w>no</w>
+<w>vino</w>
+<w>Pancho</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u28">
+<g><w>Nati</w><error/></g>
+<w>le</w>
+<w>estaba</w>
+<w>buscando</w>
+<w>en</w>
+<w>todos</w>
+<w>partes</w>
+<t type="p"/>
+
+<a type="errcoding">Nate=Nati</a>
+</u>
+<u who="C90" uID="u29">
+<w>le</w>
+<w>buscó</w>
+<w>en</w>
+<w>su</w>
+<w>caja</w>
+<w>eh</w>
+<w>atrás</w>
+<w>de</w>
+<w>la</w>
+<w>sofá</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u30">
+<w>em</w>
+<g><w>subó<replacement><w>subió</w></replacement></w><error/></g>
+<w>al</w>
+<w>árbol</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u31">
+<w>preguntó</w>
+<w>a</w>
+<w>los</w>
+<w>animales</w>
+<w>pero</w>
+<w>todavía</w>
+<w>no</w>
+<w>pude</w>
+<w>encontrarle</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u32">
+<w>em</w>
+<w>tenía</w>
+<w>un</w>
+<w>idea</w>
+<w>para</w>
+<w>poner</w>
+<w>su</w>
+<w>comida</w>
+<w>en</w>
+<w>el</w>
+<w>suelo</w>
+<w>en</w>
+<g><w>esperanza</w><error/></g>
+<w>que</w>
+<w>volvía</w>
+<w>pero</w>
+<w>se</w>
+<w>sentó</w>
+<w>un</w>
+<w>poco</w>
+<w>más</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">esperabo = esperanza</a>
+</u>
+<u who="C90" uID="u33">
+<w>no</w>
+<w>venía</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u34">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u35">
+<w>pero</w>
+<w>a</w>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>Pancho</w>
+<w>fue</w>
+<w>al</w>
+<w>árbol</w>
+<w>donde</w>
+<w>encontraban</w>
+<w>pero</w>
+<g><w>Pan<shortening>cho</shortening></w><k type="retracing with correction"/></g>
+<w>Nati</w>
+<w>no</w>
+<w>estuvo</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u36">
+<w>por</w>
+<w>eso</w>
+<w>se</w>
+<w>preocupé</w>
+<w>un</w>
+<w>poco</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u37">
+<w>y</w>
+<w>volvió</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>cuando</w>
+<w>estuvo</w>
+<w>lloviendo</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u38">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u39">
+<w>y</w>
+<w>cuando</w>
+<w>entró</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>todo</w>
+<w>su</w>
+<w>comida</w>
+<w>fue</w>
+<w>en</w>
+<w>el</w>
+<w>suelo</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u40">
+<w>y</w>
+<w>le</w>
+<g><w>encontroles<replacement><w>encontró</w></replacement></w><error/></g>
+<w>esperando</w>
+<w>en</w>
+<w>su</w>
+<w>caja</w>
+<w>Nati</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u41">
+<w>um</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C90" uID="u42">
+<w>y</w>
+<w>por</w>
+<w>fin</w>
+<g><w>estuvi<shortening>eron</shortening></w><k type="retracing"/></g>
+<w>estuvieron</w>
+<w>reunidos</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u43">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

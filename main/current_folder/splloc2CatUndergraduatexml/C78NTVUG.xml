@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C78NTVUG"
+      Date="2009-02-26">
+<Participants>
+<participant
+  id="C78"
+  role="Participant"
+language="es"
+sex="male"
+SES="Undergraduate"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-FEB-2009</comment>
+<comment type="Location">SU</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">WT</comment>
+<comment type="Time Duration">00:2:46</comment>
+<u who="C78" uID="u0">
+<w>Todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u1">
+<w>Natalia</w>
+<w>uh</w>
+<w>um</w>
+<w>Natalia</w>
+<w>lee</w>
+<g><w>una</w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u2">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u3">
+<linker type="self completion"/>
+<w>un</w>
+<w>libro</w>
+<w>pues</w>
+<w>hace</w>
+<w>un</w>
+<w>poco</w>
+<w>de</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u4">
+<w>perdón</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u5">
+<linker type="self completion"/>
+<w>pinta</w>
+<w>un</w>
+<w>poco</w>
+<w>construido</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u6">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u7">
+<linker type="self completion"/>
+<w>um</w>
+<w>construido</w>
+<w>algo</w>
+<w>pues</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u8">
+<g><w>jugando</w>
+<w>y</w><k type="retracing with correction"/></g>
+<w>después</w>
+<w>jugando</w>
+<w>con</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u9">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u10">
+<linker type="self completion"/>
+<g><w>un</w>
+<w>amigo</w><k type="retracing"/></g>
+<w>un</w>
+<w>amigo</w>
+<w>suya</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u11">
+<w>y</w>
+<w>Pancho</w>
+<w>después</w>
+<w>de</w>
+<w>haber</w>
+<g><w>levantando</w><k type="retracing with correction"/></g>
+<w>levantarse</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u12">
+<w>um</w>
+<w>decidió</w>
+<w>en</w>
+<w>tomar</w>
+<w>el</w>
+<w>sol</w>
+<w>y</w>
+<w>jugar</w>
+<w>un</w>
+<w>poco</w>
+<w>fuera</w>
+<w>de</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u13">
+<w>al</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>um</w>
+<w>los</w>
+<w>dos</w>
+<g><w>orieron<f type="neologism"/></w><k type="best guess"/></g>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u14">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<g><w>escapó</w><k type="retracing"/></g>
+<w>escapó</w>
+<w>para</w>
+<w>buscar</w>
+<w>un</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u15">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u16">
+<linker type="self completion"/>
+<w xml:lang="d">mouse</w>
+<w>un</w>
+<w>ratón</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u17">
+<w>y</w>
+<g><w>encon<shortening>tró</shortening></w><k type="retracing"/></g>
+<w>encontró</w>
+<w>a</w>
+<w>un</w>
+<w>perro</w>
+<w>uh</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u18">
+<w>se</w>
+<g><w>ponó<replacement><w>puso</w></replacement></w><error/></g>
+<w>un</w>
+<w>poco</w>
+<w>nervioso</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u19">
+<w>y</w>
+<w>a</w>
+<w>las</w>
+<g><w>tres</w><k type="retracing"/></g>
+<w>tres</w>
+<w>y</w>
+<w>cuarto</w>
+<g><w>de</w>
+<w>la</w><k type="retracing"/></g>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u20">
+<w>Nati</w>
+<w>no</w>
+<w>pudo</w>
+<w>encontrar</w>
+<w>a</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u21">
+<w>Pancho</w>
+<w>no</w>
+<w>estaba</w>
+<w>ni</w>
+<w>en</w>
+<w>la</w>
+<w>ni</w>
+<w>hay</w>
+<w>fuera</w>
+<w>de</w>
+<w>la</w>
+<w>casa</w>
+<w>en</w>
+<w>el</w>
+<w>jardín</w>
+<w>ni</w>
+<w>en</w>
+<w>la</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u22">
+<w>no</w>
+<w>sé</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u23">
+<linker type="self completion"/>
+<w>allí</w>
+<w>dentro</w>
+<w>de</w>
+<w>la</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u24">
+<w>um</w>
+<w>Nati</w>
+<w>intentó</w>
+<w>encontrarle</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u25">
+<w>pero</w>
+<g><w>sin</w><k type="retracing"/></g>
+<w>um</w>
+<w>sin</w>
+<w>encontrarle</w>
+<w>sí</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u26">
+<w>Nati</w>
+<w>estaba</w>
+<w>um</w>
+<w>sí</w>
+<w>nerviosa</w>
+<w>um</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u27">
+<w>pero</w>
+<w>una</w>
+<w>tarde</w>
+<w>Pancho</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u28">
+<w>uh</w>
+<w>perdona</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u29">
+<linker type="self completion"/>
+<w>después</w>
+<w>de</w>
+<g><w>las</w>
+<w>tres</w><k type="retracing"/></g>
+<w>las</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<w>de</w>
+<w>la</w>
+<w>tarde</w>
+<w>Nati</w>
+<w>murió</w>
+<w>um</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u30">
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u31">
+<linker type="self completion"/>
+<w>sí</w>
+<w>orió<f type="neologism"/></w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>a</w>
+<w>través</w>
+<w>de</w>
+<w>um</w>
+<t type="interruption"/>
+
+</u>
+<u who="C78" uID="u32">
+<w>no</w>
+<w>sé</w>
+<w>la</w>
+<w>palabra</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u33">
+<w>qué</w>
+<w>palabra</w>
+<t type="q"/>
+
+</u>
+<u who="C78" uID="u34">
+<w>para</w>
+<w xml:lang="d">flap</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u35">
+<w>gatero</w>
+<t type="p"/>
+
+</u>
+<u who="C78" uID="u36">
+<linker type="self completion"/>
+<w>por</w>
+<w>el</w>
+<w>gatero</w>
+<w>y</w>
+<w>estaban</w>
+<w>juntos</w>
+<w>al</w>
+<w>final</w>
+<t type="p"/>
+
+</u>
+</CHAT>

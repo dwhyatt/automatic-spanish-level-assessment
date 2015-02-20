@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H20SMP10"
+      Date="2009-06-16">
+<Participants>
+<participant
+  id="H20"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="SMP"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-JUN-2009</comment>
+<comment type="Location">MS</comment>
+<comment type="Situation">Las Hermanas Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:03:58</comment>
+<u who="SMP" uID="u0">
+<w>bueno</w>
+<w>cuéntame</w>
+<w>la</w>
+<w>historia</w>
+<w>de</w>
+<w>Gwen</w>
+<w>y</w>
+<w>Sarah</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u1">
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<w>visitar</w>
+<w>la</w>
+<w>ciudad</w>
+<w>en</w>
+<w>Madrid</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u2">
+<w>Sarah</w>
+<g><w>com<shortening>er</shortening></w><k type="retracing"/></g>
+<w>comer</w>
+<w>la</w>
+<w>tapas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u3">
+<w>Gwen</w>
+<w>beber</w>
+<w>el</w>
+<w>vino</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u4">
+<w>después</w>
+<w>decidieron</w>
+<w>ir</w>
+<w>a</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u5">
+<w>Sarah</w>
+<w>y</w>
+<w>Gwen</w>
+<pause symbolic-length="simple"></pause>
+<g><w>co<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>coguer<replacement><w>coger</w></replacement></w><error/></g>
+<w>el</w>
+<w>tren</w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u6">
+<w>hablar</w>
+<w>sobre</w>
+<w>su</w>
+<w>niñez</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u7">
+<w>de</w>
+<w>pequeñas</w>
+<w>ser</w>
+<w>muy</w>
+<w>diferentes</w>
+<w>en</w>
+<w xml:lang="d">nineteen</w>
+<w xml:lang="d">ninety</w>
+<w xml:lang="d">six</w>
+<t type="interruption"/>
+
+</u>
+<u who="SMP" uID="u8">
+<w>mil</w>
+<w>novecientos</w>
+<w>noventa</w>
+<w>y</w>
+<w>seis</w>
+<freecode>eng: that's fine</freecode>
+<t type="p"/>
+
+<a type="comments">[laugh]</a>
+</u>
+<u who="H20" uID="u9">
+<linker type="self completion"/>
+<w>Gwen</w>
+<w>de</w>
+<g><w>niña</w><error/></g>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<w>lee</w>
+<w>un</w>
+<w>libro</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">niñe=niña</a>
+</u>
+<u who="H20" uID="u10">
+<w>pinta</w>
+<w>un</w>
+<w>cuadro</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u11">
+<w>escribe</w>
+<w>un</w>
+<w>cuento</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u12">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>Gwen</w>
+<w>despertarse</w>
+<w>temprano</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u13">
+<w>terminar</w>
+<w>sus</w>
+<w>deberes</w>
+<w>temprano</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u14">
+<w>Sarah</w>
+<w>de</w>
+<w>niña</w>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<w>jugar</w>
+<w>al</w>
+<w>fútbol</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u15">
+<w>ver</w>
+<w>un</w>
+<w>película</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u16">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<w>ir</w>
+<w>al</w>
+<w>colegio</w>
+<w>en</w>
+<w>bicicleta</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u17">
+<w>llegar</w>
+<w>tarde</w>
+<w>al</w>
+<w xml:lang="d">class</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u18">
+<w>aussi<f type="words to be excluded"/></w>
+<t type="interruption"/>
+
+</u>
+<u who="H20" uID="u19">
+<freecode>eng: is that Spanish or French</freecode>
+<t type="q"/>
+
+</u>
+<u who="SMP" uID="u20">
+<freecode>eng: that's French I think you're trying to say</freecode>
+<w>también</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u21">
+<linker type="self completion"/>
+<w>también<f type="generic"/></w>
+<w>hacer</w>
+<w>sus</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u22">
+<g><w>acost<shortening>arese</shortening></w><k type="retracing"/></g>
+<w>acostarse</w>
+<w>muy</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u23">
+<w>de</w>
+<w>repente</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>haber</w>
+<w>un</w>
+<w>gran</w>
+<w>revuelo</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u24">
+<w>cree</w>
+<w>que</w>
+<w>había</w>
+<w>un</w>
+<w>problema</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u25">
+<w>Gwen</w>
+<w>sentir</w>
+<w>agua</w>
+<w>de</w>
+<w>lluvia</w>
+<t type="interruption"/>
+
+</u>
+<u who="SMP" uID="u26">
+<w>dónde</w>
+<freecode>eng: do you know</freecode>
+<t type="q"/>
+
+</u>
+<u who="SMP" uID="u27">
+<w>en</w>
+<w>la</w>
+<w>cabeza</w>
+<w>sí</w>
+<t type="q"/>
+
+</u>
+<u who="H20" uID="u28">
+<w xml:lang="adv">yeah</w>
+<w>cabeza<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u29">
+<linker type="self completion"/>
+<w>Sarah</w>
+<w>necesita</w>
+<w>ayuda</w>
+<w>del</w>
+<w>revisor</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u30">
+<w>ayuda</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<w>asiento</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u31">
+<g><w>tran<shortening>quilarse</shortening></w><k type="retracing with correction"/></g>
+<g><w>tranqüilazarse<replacement><w>tranquilizarse</w></replacement></w><error/></g>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u32">
+<w>tranquilizar</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u33">
+<w>al</w>
+<w>final</w>
+<w>en</w>
+<w>Barcelona</w>
+<w>comer</w>
+<w>una</w>
+<w>pizza</w>
+<t type="p"/>
+
+</u>
+<u who="H20" uID="u34">
+<g><w>rierse<replacement><w>reírse</w></replacement></w><error/></g>
+<w>al</w>
+<w>recordar</w>
+<w>el</w>
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+<u who="SMP" uID="u35">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

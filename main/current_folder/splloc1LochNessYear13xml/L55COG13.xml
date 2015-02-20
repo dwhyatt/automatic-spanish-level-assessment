@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L55COG13"
+      Date="2007-02-15">
+<Participants>
+<participant
+  id="L55"
+  role="Participant"
+language="es"
+sex="female"
+group="Year13"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">15-FEB-2007</comment>
+<comment type="Location">BT</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:05:20</comment>
+<u who="COG" uID="u0">
+<freecode>eng: Loch Ness student fiftyfive</freecode>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u1">
+<w>este</w>
+<w>familia</w>
+<w>ehm</w>
+<w>están</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>en</w>
+<w>Escocia</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u2">
+<w>hay</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>su</w>
+<w>hija</w>
+<w>y</w>
+<w>su</w>
+<w>ehm</w>
+<w>y</w>
+<w>ehm</w>
+<g><w>un</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>tres</w>
+<w>niños</w>
+<t type="p"/>
+
+<a type="comments">Subject laughing .</a>
+</u>
+<u who="L55" uID="u3">
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>están</w>
+<w>quedando</w>
+<w>ehm</w>
+<w>en</w>
+<g><w>Loch</w>
+<w>Ness</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u4">
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>pintan</w>
+<w>eh</w>
+<w>dibujos</w>
+<w>ehm</w>
+<w>al</w>
+<w>lado</w>
+<w>del</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u5">
+<w>el</w>
+<w>madre</w>
+<w>ehm</w>
+<g><w>lei<replacement><w>lee</w></replacement></w><error/></g>
+<w>un</w>
+<w>novela</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u6">
+<w>los</w>
+<w>dos</w>
+<w>otros</w>
+<w>niños</w>
+<w>ehm</w>
+<g><w>pescado</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>pesca</w>
+<w>ehm</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u7">
+<w>ehm</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>monstra<replacement><w>muestra</w></replacement></w><error/></g>
+<w>a</w>
+<w>su</w>
+<w>ehm</w>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>niño</w>
+<w>su</w>
+<w>dibujo</w>
+<w>del</w>
+<w>eh</w>
+<w>un</w>
+<g><w>monstruo</w><error/></g>
+<w>ehm</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">monstra = monstruo .</a>
+</u>
+<u who="L55" uID="u8">
+<w>dice</w>
+<g><w>que</w>
+<w>oh</w>
+<w>es</w>
+<w>el</w>
+<w>monstruo</w>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w><a type="explanation">r</a></g>
+<w>ehm</w>
+<t type="e"/>
+
+</u>
+<u who="L55" uID="u9">
+<w>después</w>
+<w>de</w>
+<w>comer</w>
+<w>eh</w>
+<w>la</w>
+<w>madre</w>
+<w>ehm</w>
+<w>y</w>
+<w>ehm</w>
+<g><w>su</w>
+<w>hijo</w><k type="retracing"/></g>
+<w>su</w>
+<w>hijo</w>
+<w>ehm</w>
+<g><w>sal</w><k type="retracing with correction"/></g>
+<g><w>salimos</w><k type="retracing with correction"/></g>
+<g><w>sal</w><k type="retracing with correction"/></g>
+<w>salen</w>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<g><w xml:lang="pre">on</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>coche</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u10">
+<w>ehm</w>
+<w>dicen</w>
+<w>adiós</w>
+<w>a</w>
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<g><w>do<shortening>s</shortening></w><k type="retracing"/></g>
+<g><w>do<shortening>s</shortening></w><k type="retracing with correction"/></g>
+<w>dos</w>
+<w>otros</w>
+<w>niños</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u11">
+<g><w>en</w>
+<w>un</w><k type="retracing with correction"/></g>
+<w>en</w>
+<w>ehm</w>
+<w>la</w>
+<w>ciudad</w>
+<w>ehm</w>
+<g><w>la</w><k type="retracing"/></g>
+<w>la</w>
+<w>mujer</w>
+<w>ehm</w>
+<w>mira</w>
+<w>a</w>
+<w>las</w>
+<g><w>escarparatas<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<g><w>espera<f type="neologism"/></w><k type="retracing with correction"/></g>
+<w>escaparates</w>
+<w>con</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>su</w>
+<w>hijo</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u12">
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>eh</w>
+<w>otros</w>
+<w>niños</w>
+<w>ehm</w>
+<g><w>son</w>
+<w>a</w>
+<w>casa</w><k type="retracing with correction"/></g>
+<w>están</w>
+<w>a</w>
+<w>casa</w>
+<w>y</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u13">
+<w>pintan</w>
+<w>ehm</w>
+<g><w>los</w><k type="retracing with correction"/></g>
+<w>las</w>
+<g><w>rue<shortening>das</shortening></w><k type="retracing"/></g>
+<w>ruedas</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u14">
+<w>eh</w>
+<g><w>pare<shortening>ce</shortening></w><k type="retracing"/></g>
+<w>parece</w>
+<w>que</w>
+<w>están</w>
+<w>ehm</w>
+<g><w>el</w>
+<g><w>monstruo</w><error/></g><k type="retracing with correction"/></g>
+<w>la</w>
+<g><w>monstruo</w><error/></g>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">monstra = monstruo monstra = monstruo</a>
+</u>
+<u who="L55" uID="u15">
+<w>después</w>
+<w>ehm</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>dos</w>
+<w>niños</w>
+<w>ehm</w>
+<w>van</w>
+<w>en</w>
+<w>barco</w>
+<w>en</w>
+<g><w>la</w>
+<w>la<shortening>go</shortening></w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>el</w>
+<w>lago</w>
+<w>con</w>
+<w>los</w>
+<w>ruedas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u16">
+<w>parece</w>
+<w>que</w>
+<w>ehm</w>
+<g><w>los</w><k type="retracing with correction"/></g>
+<w>las</w>
+<w>ruedas</w>
+<w>son</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">monstrua = monstruo</a>
+</u>
+<u who="L55" uID="u17">
+<w>cuando</w>
+<w>eh</w>
+<g><w>la</w><k type="retracing"/></g>
+<w>eh</w>
+<w>la</w>
+<w>sí</w>
+<g><w>un</w>
+<w>mujer</w><k type="retracing with correction"/></g>
+<w>sí</w>
+<w>ehm</w>
+<w>madre</w>
+<w>eh</w>
+<w>vuelve</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>ehm</w>
+<g><w>dice</w>
+<w>en</w><k type="retracing with correction"/></g>
+<w>piensa</w>
+<g><w>que</w>
+<w>es</w>
+<w>un</w>
+<g><w>monstruo</w><error/></g>
+<w>verdad</w><a type="explanation">r</a></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">montra = monstruo .</a>
+</u>
+<u who="L55" uID="u18">
+<g><w>es</w>
+<w>muy</w>
+<w>sorpren<shortening>der</shortening></w><k type="retracing"/></g>
+<w>es</w>
+<w>muy</w>
+<w>sorprender</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u19">
+<w>después</w>
+<w>hay</w>
+<w>muchos</w>
+<w>fotografías</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u20">
+<g><w>journalistas<f type="neologism"/></w><k type="retracing"/></g>
+<w>journalistas<f type="neologism"/></w>
+<w>ehm</w>
+<w>que</w>
+<w>ven</w>
+<w>a</w>
+<w>la</w>
+<g><w>monst<shortening>ruo</shortening></w><k type="retracing"/></g>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">monstrua = monstruo .</a>
+</u>
+<u who="L55" uID="u21">
+<w>y</w>
+<w>son</w>
+<w>muy</w>
+<w>sorprendidos</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u22">
+<w>y</w>
+<g><w>de</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>a</w>
+<w>la</w>
+<w>noche</w>
+<w>los</w>
+<w>tres</w>
+<w>niños</w>
+<w>ven</w>
+<w>a</w>
+<w>la</w>
+<w>televisión</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u23">
+<w>dicen</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L55" uID="u24">
+<linker type="quoted utterance next"/>
+<w>ah</w>
+<w>es</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>la</w>
+<g><w>monstruo</w><error/></g>
+<w>del</w>
+<w>Lago</w>
+<w>Ness</w>
+<t type="e"/>
+
+<a type="errcoding">monstrua = monstruo .</a>
+</u>
+<u who="L55" uID="u25">
+<w>ehm</w>
+<w>pero</w>
+<w>no</w>
+<w>es</w>
+<w>verdad</w>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u26">
+<w>ehm</w>
+<w>eh</w>
+<w>la</w>
+<w>ehm</w>
+<w>journa<f type="neologism"/></w>
+<w>ehm</w>
+<w>gernalista<f type="neologism"/></w>
+<w>ehm</w>
+<w>ehm</w>
+<w>habla</w>
+<w>con</w>
+<w>la</w>
+<w>ehm</w>
+<w>abuela</w>
+<w>pero</w>
+<w>dice</w>
+<g><w>que</w>
+<w>no</w>
+<w>es</w>
+<w>verdad</w>
+<g><w>es</w>
+<w>un</w><k type="retracing with correction"/></g>
+<w>es</w>
+<w>los</w>
+<w>ruedas</w><a type="explanation">r</a></g>
+<t type="p"/>
+
+</u>
+<u who="L55" uID="u27">
+<w>ehm</w>
+<w>pero</w>
+<w>al</w>
+<w>fin</w>
+<w>cuando</w>
+<w>vuelven</w>
+<g><w>a</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>ehm</w>
+<w>hay</w>
+<w>un</w>
+<w>ehm</w>
+<g><w>monstruo</w><error/></g>
+<w>en</w>
+<w>ehm</w>
+<w>real</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>pero</w>
+<t type="p"/>
+
+<a type="errcoding">monstra = monstruo .</a>
+</u>
+<u who="L55" uID="u28">
+<g><w>no</w><k type="retracing"/></g>
+<w>no</w>
+<w>saben</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u29">
+<w>muchas</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

@@ -1,0 +1,252 @@
+todos	di0000
+las	da0000
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+lee	vmip000
+.	fp
+
+despertar	vmn0000
+y	cc
+después	rg
+.	fp
+.	fp
+
+jugar	vmn0000
+.	fp
+
+juega	vmip000
+juega	vmip000
+con	sp000
+ella	pp000000
+amigas	aq0000
+en	sp000
+el	da0000
+parque	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+le	pp000000
+gusta	vmip000
+dormir	vmn0000
+.	fp
+
+y	cc
+escalar	vmn0000
+en	sp000
+el	da0000
+gatero	nc0s000
+.	fp
+.	fp
+.	fp
+
+al	nc0n000
+fin	nc0s000
+al	aq0000
+día	nc0s000
+del	sp000
+día	nc0s000
+Pancho	np00000
+y	cc
+Natalia	np00000
+a	sp000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+sale	vmip000
+y	cc
+ver	vmn0000
+.	fp
+
+vio	vmis000
+un	di0000
+ratón	nc0s000
+pero	cc
+.	fp
+
+hay	vaip000
+un	di0000
+perro	nc0s000
+muy	rg
+horrible	aq0000
+y	cc
+.	fp
+
+asustó	vmis000
+asustó	nc0p000
+.	fp
+
+Pancho	np00000
+y	cc
+.	fp
+
+Nati	np00000
+no	rn
+encontrar	vmn0000
+.	fp
+
+no	rn
+Pancho	np00000
+y	cc
+.	fp
+
+fue	vsis000
+buscar	vmn0000
+Pancho	np00000
+en	sp000
+el	da0000
+jardín	nc0s000
+pero	cc
+.	fp
+
+no	rn
+encontrar	vmn0000
+Pancho	np00000
+en	sp000
+el	da0000
+la	da0000
+cesta	nc0s000
+.	fp
+
+y	cc
+no	rn
+en	sp000
+no	rn
+delante	rg
+el	da0000
+sofá	nc0s000
+detrás	rg
+del	sp000
+.	fp
+
+sofá	nc0s000
+o	cc
+en	sp000
+el	da0000
+árbol	nc0s000
+.	fp
+
+árbol	nc0s000
+.	fp
+
+árbol	nc0s000
+.	fp
+.	fp
+
+Nati	np00000
+era	vsii000
+muy	rg
+muy	rg
+preocupada	aq0000
+.	fp
+
+y	cc
+.	fp
+
+no	rn
+encontrar	vmn0000
+Nati	np00000
+.	fp
+
+Pancho	np00000
+era	vsii000
+esperar	vmn0000
+.	fp
+
+para	sp000
+Nati	np00000
+.	fp
+.	fp
+.	fp
+
+pero	cc
+Nati	np00000
+piensa	vmip000
+.	fp
+
+pensó	vmis000
+.	fp
+
+Nati	np00000
+no	rn
+tuve	vmis000
+tuvo	vmis000
+.	fp
+
+ido	vmp0000
+.	fp
+.	fp
+
+Pancho	np00000
+era	vsii000
+muy	rg
+tenía	vmii000
+.	fp
+
+frío	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+había	vaii000
+.	fp
+
+lluvia	nc0s000
+.	fp
+
+oh	i
+.	fp
+
+y	cc
+a	sp000
+casa	nc0s000
+y	cc
+.	fp
+
+fui	vmis000
+fue	vsis000
+en	sp000
+el	da0000
+gatero	nc0s000
+.	fp
+
+encontrar	vmn0000
+comida	nc0s000
+y	cc
+el	da0000
+la	da0000
+cesta	nc0s000
+con	sp000
+Nati	np00000
+y	cc
+.	fp
+
+estaban	vmii000
+.	fp
+
+muy	rg
+amable	aq0000
+no	rn
+.	fp
+
+contento	aq0000
+.	fp
+
+y	cc
+y	cc
+fin	nc0s000
+.	fp
+.	fp
+

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L51MJA13"
+      Date="2007-02-15">
+<Participants>
+<participant
+  id="L51"
+  role="Participant"
+language="es"
+sex="female"
+group="Year13"
+
+/>
+<participant
+  id="MJA"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">15-FEB-2007</comment>
+<comment type="Location">BP</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:04:08</comment>
+<u who="MJA" uID="u0">
+<freecode>eng: loch ness student fiftyone and today is february the fifteenth</freecode>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u1">
+<w>cuando</w>
+<w>quieras</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u2">
+<w>ehm</w>
+<w>hay</w>
+<w>una</w>
+<w>familia</w>
+<w>de</w>
+<w>vacaciones</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u3">
+<w>es</w>
+<w>ehm</w>
+<w>en</w>
+<w>Escocia</w>
+<w>ehm</w>
+<w>al</w>
+<w>lado</w>
+<w>de</w>
+<w>un</w>
+<w>lago</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u4">
+<w>hay</w>
+<w>una</w>
+<w>abuela</w>
+<w>una</w>
+<w>madre</w>
+<w>y</w>
+<w>tres</w>
+<w>niños</w>
+<w>ehm</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u5">
+<w>en</w>
+<w>su</w>
+<w>tiempo</w>
+<w>libre</w>
+<w>ehm</w>
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>pinta</w>
+<w>el</w>
+<w>lago</w>
+<w>ehm</w>
+<w>con</w>
+<w>un</w>
+<w>monstruo</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u6">
+<w>y</w>
+<w>los</w>
+<w>niños</w>
+<w>ehm</w>
+<w>eh</w>
+<g><w>hace</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>va</w>
+<w>de</w>
+<w>pesca</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u7">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u8">
+<w>ehm</w>
+<w>en</w>
+<w>la</w>
+<w>pintura</w>
+<w>de</w>
+<w>la</w>
+<w>abuela</w>
+<w>hay</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u9">
+<w>después</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>pequeño</w>
+<w>van</w>
+<w>a</w>
+<w>la</w>
+<w>ciudad</w>
+<w>ehm</w>
+<w>para</w>
+<w>ir</w>
+<w>de</w>
+<w>compras</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u10">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>otros</w>
+<w>niños</w>
+<w>dicen</w>
+<w>adiós</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u11">
+<w>a</w>
+<w>la</w>
+<w>ciudad</w>
+<w>la</w>
+<w>madre</w>
+<w>eh</w>
+<w>mira</w>
+<w>a</w>
+<w>las</w>
+<w>escaparates</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u12">
+<w>mientras</w>
+<g><w>la</w>
+<w>abuela</w>
+<w>y</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>pinta</w>
+<w>eh</w>
+<w>las</w>
+<w>ruedas</w>
+<w>ehm</w>
+<w>para</w>
+<w>parecer</w>
+<w>como</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>Lago</w>
+<w>Ness</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="comments">subject coughs .</a>
+</u>
+<u who="L51" uID="u13">
+<w>los</w>
+<w>niños</w>
+<w>le</w>
+<w>ayudan</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u14">
+<w>después</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>los</w>
+<w>niños</w>
+<w>están</w>
+<w>en</w>
+<w>un</w>
+<w>barco</w>
+<w>y</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="comments">subject coughs .</a>
+</u>
+<u who="L51" uID="u15">
+<w>ponen</w>
+<w>las</w>
+<w>ruedas</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u16">
+<w>cuando</w>
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>niño</w>
+<w>pequeño</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<g><w>vinien<replacement><w>vienen</w></replacement></w><error/><k type="retracing with correction"/></g>
+<w>vienen</w>
+<w>ehm</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>ehm</w>
+<w>miran</w>
+<w>al</w>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u17">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u18">
+<w>y</w>
+<w>después</w>
+<w>ehm</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>monstruo</w>
+<w>es</w>
+<w>famoso</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u19">
+<w>las</w>
+<w>turistas</w>
+<w>vienen</w>
+<w>y</w>
+<w>las</w>
+<w>periodistas</w>
+<w>y</w>
+<g><w>las</w><k type="retracing with correction"/></g>
+<w>los</w>
+<w>niños</w>
+<w>para</w>
+<w>ver</w>
+<w>el</w>
+<w>monstruo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u20">
+<w>está</w>
+<w>en</w>
+<w>la</w>
+<w>televisión</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u21">
+<w>todos</w>
+<w>los</w>
+<w>niños</w>
+<w>eh</w>
+<w>lo</w>
+<w>mira</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u22">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u23">
+<w>y</w>
+<w>pues</w>
+<w>ehm</w>
+<w>la</w>
+<w>abuela</w>
+<w>dice</w>
+<w>a</w>
+<w>una</w>
+<w>periodista</w>
+<g><w>que</w>
+<w>el</w>
+<w>monstruo</w>
+<w>es</w>
+<w>eh</w>
+<w>en</w>
+<w>realidad</w>
+<g><w>u<shortening>nas</shortening></w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>unas</w>
+<w>ruedas</w>
+<w>pintadas</w><a type="explanation">r</a></g>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u24">
+<w>pero</w>
+<w>al</w>
+<w>final</w>
+<w>hay</w>
+<w>un</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>lago</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L51" uID="u25">
+<w>los</w>
+<w>niños</w>
+<w>ehm</w>
+<w>preguntan</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L51" uID="u26">
+<linker type="quoted utterance next"/>
+<w>es</w>
+<w>un</w>
+<w>monstruo</w>
+<w>de</w>
+<w>verdad</w>
+<t type="q"/>
+
+</u>
+<u who="MJA" uID="u27">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u28">
+<w>muchas</w>
+<g><w>gracias</w><k type="retracing"/></g>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

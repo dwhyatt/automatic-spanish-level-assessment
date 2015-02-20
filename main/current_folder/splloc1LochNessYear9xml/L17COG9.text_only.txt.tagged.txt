@@ -1,0 +1,140 @@
+.	fp
+
+familia	nc0s000
+está	vmip000
+vacaciones	nc0p000
+.	fp
+
+en	sp000
+la	da0000
+foto	nc0s000
+una	di0000
+abuela	nc0s000
+madres	nc0p000
+es	vsip000
+tres	pn000000
+niña	nc0s000
+niñas	nc0p000
+.	fp
+
+madre	nc0s000
+es	vsip000
+leer	vmn0000
+hace	vmip000
+leer	vmn0000
+.	fp
+
+abuelos	nc0p000
+y	cc
+una	di0000
+niña	nc0s000
+es	vsip000
+pintar	vmn0000
+.	fp
+
+ni	cc
+abuelos	nc0p000
+pintar	vmn0000
+el	da0000
+monstruo	nc0s000
+de	sp000
+Loch	np00000
+Ness	np00000
+.	fp
+
+madres	nc0p000
+y	cc
+una	di0000
+niña	nc0s000
+pequeño	aq0000
+en	sp000
+el	da0000
+coche	nc0s000
+.	fp
+
+un	di0000
+abuelos	nc0p000
+y	cc
+dos	dn0000
+niños	nc0p000
+di	vmis000
+adiós	nc0n000
+.	fp
+
+madre	nc0s000
+y	cc
+niños	nc0p000
+un	di0000
+abuelos	nc0p000
+y	cc
+dos	dn0000
+niños	nc0p000
+um	nc0n000
+pintar	vmn0000
+rueda	nc0s000
+ehm	nc0s000
+un	di0000
+.	fp
+
+un	di0000
+abuelos	nc0p000
+y	cc
+dos	dn0000
+niños	nc0p000
+en	sp000
+el	da0000
+parque	nc0s000
+ehm	nc0s000
+es	vsip000
+.	fp
+
+dos	dn0000
+niños	nc0p000
+um	nc0n000
+es	vsip000
+.	fp
+
+madre	nc0s000
+y	cc
+una	di0000
+niños	nc0p000
+volver	vmn0000
+.	fp
+
+es	vsip000
+muchos	di0000
+turistas	nc0p000
+.	fp
+
+hacer	vmn0000
+fotos	nc0p000
+a	sp000
+la	da0000
+.	fp
+
+tres	dn0000
+niñas	nc0p000
+eh	np00000
+es	vsip000
+en	sp000
+la	da0000
+tele	nc0s000
+.	fp
+
+es	vsip000
+periodista	nc0s000
+y	cc
+una	di0000
+abuela	nc0s000
+no	rn
+eh	np00000
+rueda	vmip000
+.	fp
+
+es	vsip000
+Loch	np00000
+Ness	np00000
+de	sp000
+verdad	nc0s000
+.	fp
+

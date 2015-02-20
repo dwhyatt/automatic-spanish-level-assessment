@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L15MJA9"
+      Date="2007-04-16">
+<Participants>
+<participant
+  id="L15"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="MJA"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-APR-2007</comment>
+<comment type="Location">H</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:03:15</comment>
+<u who="MJA" uID="u0">
+<freecode>eng: student number fifteen Loch Ness</freecode>
+<t type="p"/>
+
+</u>
+<u who="L15" uID="u1">
+<w>ehm</w>
+<w>un</w>
+<w xml:lang="d">family</w>
+<w>eh</w>
+<w>de</w>
+<g><w>vacaciones</w><error/></g>
+<w>ehm</w>
+<w>en</w>
+<g><w>Loch</w><k type="retracing"/></g>
+<w>Loch</w>
+<w>Ness</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">vacasioners = vacaciones .</a>
+</u>
+<u who="L15" uID="u2">
+<w>pinta</w>
+<w>en</w>
+<w>Loch</w>
+<w>Ness</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="comments">Subject Laughing .</a>
+</u>
+<u who="L15" uID="u3">
+<pause symbolic-length="simple"></pause>
+<g><w>pin<shortening>ta</shortening></w><k type="retracing"/></g>
+<w>eh</w>
+<w>pinta</w>
+<g><w>en</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>monstruo</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L15" uID="u4">
+<g><w>tien<shortening>das</shortening></w><k type="retracing"/></g>
+<w>tiendas</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L15" uID="u5">
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>pinta</w>
+<w>en</w>
+<g><w>ru<shortening>edas</shortening></w><k type="retracing"/></g>
+<g><w>rue<shortening>das</shortening></w><k type="retracing"/></g>
+<w>rueda</w>
+<w>en</w>
+<w>ehm</w>
+<g><w>mon<shortening>struo</shortening></w><k type="retracing"/></g>
+<w>monstruo</w>
+<t type="p"/>
+
+</u>
+<u who="L15" uID="u6">
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>mucha</w>
+<g><w>gente</w><error/></g>
+<g><w>hace</w><error/></g>
+<w>fotos</w>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">yente = gente hase = hace .</a>
+</u>
+<u who="L15" uID="u7">
+<w>en</w>
+<g><w>te<shortening>levisión</shortening></w><k type="retracing"/></g>
+<w>televisión</w>
+<w>eh</w>
+<w>periodista</w>
+<pause symbolic-length="simple"></pause>
+<w>hace</w>
+<w>fotos</w>
+<pause symbolic-length="simple"></pause>
+<w>en</w>
+<w>monstruo</w>
+<t type="p"/>
+
+<a type="comments">Subject Laughing .</a>
+</u>
+<u who="L15" uID="u8">
+<w>ya</w>
+<t type="p"/>
+
+</u>
+<u who="MJA" uID="u9">
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

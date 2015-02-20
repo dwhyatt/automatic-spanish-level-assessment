@@ -1,0 +1,239 @@
+la	da0000
+historia	nc0s000
+de	sp000
+Natalia	np00000
+y	cc
+su	dp0000
+gato	nc0s000
+Pancho	np00000
+.	fp
+
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+lee	vmip000
+un	di0000
+libro	nc0s000
+.	fp
+
+por	sp000
+las	da0000
+juguetes	aq0000
+.	fp
+
+ella	pp000000
+pinta	aq0000
+y	cc
+.	fp
+
+sale	vmip000
+a	sp000
+la	da0000
+bicicleta	nc0s000
+y	cc
+.	fp
+
+Pancho	np00000
+él	pp000000
+escala	nc0s000
+un	di0000
+árbol	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+perseguir	vmn0000
+un	di0000
+mariposa	aq0000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+a	sp000
+las	da0000
+tres	dn0000
+Natalia	np00000
+y	cc
+Pancho	np00000
+encontramos	vmip000
+y	cc
+.	fp
+
+volver	vmn0000
+la	da0000
+casa	nc0s000
+juntos	aq0000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+salir	vmn0000
+a	sp000
+un	di0000
+gatero	nc0s000
+y	cc
+.	fp
+
+no	rn
+.	fp
+
+ehm	nc0s000
+.	fp
+
+perseguir	vmn0000
+un	di0000
+ratón	nc0s000
+.	fp
+
+un	di0000
+perro	nc0s000
+.	fp
+
+asusta	nc0s000
+Pancho	np00000
+y	cc
+.	fp
+
+Pancho	np00000
+salir	vmn0000
+corriendo	vmg0000
+y	cc
+.	fp
+
+Nati	np00000
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+cuarto	ao0000
+.	fp
+
+encontrar	vmn0000
+con	sp000
+Pancho	np00000
+.	fp
+
+ella	pp000000
+busca	vmip000
+por	sp000
+Pancho	np00000
+.	fp
+
+ella	pp000000
+escala	nc0s000
+un	di0000
+árbol	nc0s000
+.	fp
+
+y	cc
+.	fp
+
+preguntar	vmn0000
+.	fp
+
+preguntar	vmn0000
+a	sp000
+un	di0000
+rana	aq0000
+.	fp
+
+Nati	np00000
+.	fp
+.	fp
+
+oh	rn
+tira	nc0s000
+comida	nc0s000
+.	fp
+.	fp
+
+Pancho	np00000
+y	cc
+esperar	vmn0000
+.	fp
+
+esperar	vmn0000
+por	sp000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+a	sp000
+las	da0000
+tres	pn000000
+ehm	nc0s000
+tres	dn0000
+y	cc
+media	aq0000
+.	fp
+
+encontrar	vmn0000
+con	sp000
+Nati	np00000
+.	fp
+
+pero	cc
+no	rn
+.	fp
+
+no	rn
+.	fp
+
+Pancho	np00000
+volver	vmn0000
+.	fp
+
+el	da0000
+casa	nc0s000
+.	fp
+
+él	pp000000
+descubrir	vmn0000
+el	da0000
+comida	nc0s000
+y	cc
+seguir	vmn0000
+.	fp
+
+el	da0000
+comida	nc0s000
+.	fp
+
+volver	vmn0000
+ehm	nc0s000
+su	dp0000
+cesta	nc0s000
+.	fp
+
+tu	dp0000
+.	fp
+
+ehm	nc0s000
+.	fp
+
+y	cc
+fin	nc0s000
+.	fp
+
+en	sp000
+Panchos	np00000
+cesta	aq0000
+él	pp000000
+descubrir	vmn0000
+Nati	np00000
+en	sp000
+el	da0000
+cesta	nc0s000
+.	fp
+

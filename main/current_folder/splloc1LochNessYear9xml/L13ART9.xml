@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L13ART9"
+      Date="2007-04-16">
+<Participants>
+<participant
+  id="L13"
+  role="Participant"
+language="es"
+sex="male"
+group="Year9"
+
+/>
+<participant
+  id="ART"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">16-APR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Warning">severe background noise</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:03:47</comment>
+<u who="ART" uID="u0">
+<freecode>eng: its eh Loch Ness sequence student number thirteen six(teenth) sixteenth of April and it's School Name</freecode>
+<t type="p"/>
+
+</u>
+<u who="L13" uID="u1">
+<w>oh</w>
+<w>la</w>
+<w>familia</w>
+<w>es</w>
+<w>eh</w>
+<w>la</w>
+<w>mal</w>
+<w>no</w>
+<w>la</w>
+<g><w>lag<shortening>o</shortening></w><k type="retracing"/></g>
+<w>lag<shortening>o</shortening></w>
+<w>mmm</w>
+<w>la</w>
+<w>playa</w>
+<t type="p"/>
+
+<a type="comments">Subject Laughing .</a>
+</u>
+<u who="L13" uID="u2">
+<w>eh</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>el</w>
+<w>casa</w>
+<w>eh</w>
+<w>es</w>
+<g><w>l<shortening>e</shortening></w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>abuelo</w>
+<w>pinta</w>
+<w>eh</w>
+<w>su</w>
+<w>madre</w>
+<g><w>leer</w><error/></g>
+<w>eh</w>
+<t type="p"/>
+
+<a type="errcoding">lier = leer .</a>
+</u>
+<u who="L13" uID="u3">
+<w>es</w>
+<w>hermanos</w>
+<pause symbolic-length="simple"></pause>
+<w>ah</w>
+<w>xxx</w>
+<t type="p"/>
+
+</u>
+<u who="L13" uID="u4">
+<w>la</w>
+<w>es</w>
+<w>abuelo</w>
+<w>el</w>
+<w>dibujo</w>
+<w>un</w>
+<g><w xml:lang="d">monster</w><k type="retracing"/></g>
+<g><w xml:lang="d">mons<shortening>ter</shortening></w><k type="retracing with correction"/></g>
+<g><w>monstruo</w><error/></g>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">monstre = monstruo .</a>
+</u>
+<u who="L13" uID="u5">
+<g><w>el</w>
+<w>hermana</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>hermano</w>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<w>comprar</w>
+<g><w>en</w>
+<w>el</w><k type="retracing"/></g>
+<w>en</w>
+<w>el</w>
+<w>coche</w>
+<w>ah</w>
+<t type="p"/>
+
+</u>
+<u who="L13" uID="u6">
+<g><w>es</w>
+<w>abuelo</w><k type="retracing"/></g>
+<w>eh</w>
+<w>es</w>
+<w>abuelo</w>
+<w>en</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="L13" uID="u7">
+<w>eh</w>
+<w>la</w>
+<w>madre</w>
+<w>es</w>
+<w>comprar</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L13" uID="u8">
+<w>el</w>
+<w>hermanos</w>
+<w>y</w>
+<w>abuela</w>
+<w>eh</w>
+<w>el</w>
+<w>mo<shortening>nstruo</shortening></w>
+<w>eh</w>
+<w>dibujo</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">monstre = monstruo .</a>
+</u>
+<u who="L13" uID="u9">
+<w>oh</w>
+<g><w>el</w>
+<w>monstruo</w><k type="retracing"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<w>eh</w>
+<w>xx</w>
+<w>el</w>
+<g><w>monstruo</w><error/></g>
+<w>en</w>
+<w>es</w>
+<t type="trail off"/>
+
+<a type="errcoding">monstre = monstruo .</a>
+</u>
+<u who="L13" uID="u10">
+<w>ah</w>
+<w>abuelo</w>
+<w>y</w>
+<w>los</w>
+<w>hermanos</w>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>mmm</w>
+<w>madre</w>
+<w>y</w>
+<w>ah</w>
+<w>hermano</w>
+<g><w>es</w>
+<w>muy</w><k type="retracing"/></g>
+<w>es</w>
+<w>muy</w>
+<w>eh</w>
+<t type="trail off"/>
+
+</u>
+<u who="L13" uID="u11">
+<w>el</w>
+<w xml:lang="d">turists</w>
+<w>y</w>
+<w>la</w>
+<w>cámara</w>
+<w>y</w>
+<w>la</w>
+<w>televisión</w>
+<pause symbolic-length="simple"></pause>
+<t type="trail off"/>
+
+</u>
+<u who="L13" uID="u12">
+<w>el</w>
+<w>abuelo</w>
+<g><w>es</w><k type="retracing"/></g>
+<g><w>es</w><k type="retracing"/></g>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>es</w>
+<w>no</w>
+<g><w>monstruo</w><error/></g>
+<w>eh</w>
+<w>pero</w>
+<t type="p"/>
+
+<a type="errcoding">monstre = monstruo .</a>
+</u>
+<u who="L13" uID="u13">
+<w>eh</w>
+<w>las</w>
+<w>familia</w>
+<w>en</w>
+<w>casa</w>
+<w>es</w>
+<g><w>monstruo</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">monstre = monstruo .</a>
+</u>
+</CHAT>

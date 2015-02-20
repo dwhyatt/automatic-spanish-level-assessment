@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="C64NTV13"
+      Date="2009-02-23">
+<Participants>
+<participant
+  id="C64"
+  role="Participant"
+language="es"
+sex="male"
+SES="Year13"
+
+/>
+<participant
+  id="NTV"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">23-FEB-2009</comment>
+<comment type="Location">BP</comment>
+<comment type="Situation">Cat Story</comment>
+<comment type="Transcriber">TIG</comment>
+<comment type="Time Duration">00:05:27</comment>
+<u who="C64" uID="u0">
+<w>todas</w>
+<w>las</w>
+<w>mañanas</w>
+<w>eran</w>
+<w>iguales</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u1">
+<g><w>Na<shortening>talia</shortening></w><k type="retracing"/></g>
+<w>Natalia</w>
+<pause symbolic-length="simple"></pause>
+<w>solía</w>
+<g><w>lier<replacement><w>leer</w></replacement></w><error/></g>
+<w>un</w>
+<w>libro</w>
+<g><w>con</w>
+<w>su</w><k type="retracing with correction"/></g>
+<w>con</w>
+<w>sus</w>
+<w>juguetes</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u2">
+<w>pintó</w>
+<w>los</w>
+<g><w>pinturas</w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">picturas = pinturas</a>
+</u>
+<u who="C64" uID="u3">
+<w>en</w>
+<w>general</w>
+<w>pasó</w>
+<w>bien</w>
+<w>tiempo</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u4">
+<w>Pancho</w>
+<w>su</w>
+<w>gato</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+<a type="comments">[pause]</a>
+</u>
+<u who="NTV" uID="u5">
+<freecode>eng: what would he do</freecode>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u6">
+<w>salir</w>
+<freecode>eng: is to go out</freecode>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u7">
+<linker type="self completion"/>
+<g><w>salir<f type="generic"/></w><k type="retracing with correction"/></g>
+<w>salió</w>
+<pause symbolic-length="simple"></pause>
+<w>su</w>
+<w>gatero</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u8">
+<w>escaló</w>
+<w>los</w>
+<w>árboles</w>
+<w>y</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u9">
+<g><w>pers<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>persiguió</w>
+<g><w>los</w>
+<w>mariposas</w><k type="retracing with correction"/></g>
+<w>las</w>
+<w>mariposas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u10">
+<w>tomó</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>sol</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u11">
+<w>el</w>
+<w>final</w>
+<w>del</w>
+<w>día</w>
+<w>a</w>
+<w>las</w>
+<w>trece</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="C64" uID="u12">
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u13">
+<linker type="self completion"/>
+<g><w>encon<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>encontaron<replacement><w>encontraron</w></replacement></w><error/><k type="retracing with correction"/></g>
+<w>encontraron</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u14">
+<g><w>vol<shortening>ver</shortening></w><k type="retracing"/></g>
+<w>volver</w>
+<w>a</w>
+<w>casa</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u15">
+<w>hasta</w>
+<w>que</w>
+<w>un</w>
+<w>día</w>
+<w>Pancho</w>
+<w>ha</w>
+<w>encontrado</w>
+<w>un</w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u16">
+<w>pájaro</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u17">
+<linker type="self completion"/>
+<w>pájaro<f type="generic"/></w>
+<g><w>y</w><k type="retracing"/></g>
+<w>y</w>
+<w>un</w>
+<w>perro</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u18">
+<w>así</w>
+<w>que</w>
+<w>Pancho</w>
+<g><w>co<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>cor<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>corrió</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u19">
+<w>a</w>
+<w>los</w>
+<w>tres</w>
+<w>y</w>
+<w>quince</w>
+<w>Nati</w>
+<w>no</w>
+<w>podría</w>
+<w>encontrar</w>
+<w>a</w>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u20">
+<w>así</w>
+<w>que</w>
+<pause symbolic-length="simple"></pause>
+<g><w>bus<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>busqué</w><k type="retracing"/></g>
+<w>busqué</w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u21">
+<w>está</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u22">
+<linker type="self completion"/>
+<w>Pancho</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u23">
+<w>sin</w>
+<w>embargo</w>
+<w>no</w>
+<w>podría</w>
+<g><w>encontrar</w><k type="retracing"/></g>
+<w>encontrar</w>
+<w>Pancho</w>
+<w>en</w>
+<w>todos</w>
+<w>los</w>
+<w>lugares</w>
+<w>que</w>
+<w>busqué</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u24">
+<w>Nati</w>
+<pause symbolic-length="simple"></pause>
+<w>tira</w>
+<w>la</w>
+<g><w>comi<shortening>da</shortening></w><k type="retracing"/></g>
+<w>comida</w>
+<w>de</w>
+<w>gatos</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u25">
+<w>Pancho</w>
+<g><w>no</w><k type="retracing"/></g>
+<w>no</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u26">
+<w>venir</w>
+<freecode>eng: is to come</freecode>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u27">
+<linker type="self completion"/>
+<g><w>ven<shortening>xx</shortening></w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>ven<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<t type="interruption"/>
+
+</u>
+<u who="C64" uID="u28">
+<freecode>eng: it's irregular</freecode>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u29">
+<w>vino</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u30">
+<linker type="self completion"/>
+<w>vino<f type="generic"/></w>
+<pause symbolic-length="simple"></pause>
+<w>y</w>
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u31">
+<w>Pancho</w>
+<w>a</w>
+<w>los</w>
+<w>tres</w>
+<w>y</w>
+<w>media</w>
+<g><w>vol<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<w>volvió</w>
+<w>a</w>
+<pause symbolic-length="simple"></pause>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u32">
+<w>la</w>
+<w>esquina</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u33">
+<linker type="self completion"/>
+<w>la<f type="generic"/></w>
+<w>esquina<f type="generic"/></w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u34">
+<w>Nati</w>
+<g><w>no</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>no</w>
+<w>era</w>
+<w>aqu<shortening>í</shortening></w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u35">
+<w>allí</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u36">
+<linker type="self completion"/>
+<w>allí<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u37">
+<w>así</w>
+<w>que</w>
+<w>Pancho</w>
+<g><w>an<shortening>xx</shortening></w><k type="retracing with correction"/></g>
+<g><w>andó<replacement><w>anduvo</w></replacement></w><error/></g>
+<w>a</w>
+<w>casa</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u38">
+<g><w>encontró</w><k type="retracing"/></g>
+<w>encontró</w>
+<g><w>la</w><k type="retracing"/></g>
+<w>la</w>
+<w>comida</w>
+<w>y</w>
+<w>entonces</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u39">
+<w>encontró</w>
+<w>a</w>
+<t type="interruption"/>
+
+</u>
+<u who="NTV" uID="u40">
+<w>Nati</w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u41">
+<linker type="self completion"/>
+<w>Nati<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="C64" uID="u42">
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="NTV" uID="u43">
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

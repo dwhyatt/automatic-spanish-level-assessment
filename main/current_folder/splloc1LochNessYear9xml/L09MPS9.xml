@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L09MPS9"
+      Date="2007-03-26">
+<Participants>
+<participant
+  id="L09"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="MPS"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">26-MAR-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:06:55</comment>
+<u who="MPS" uID="u0">
+<freecode>eng: student number nine lochness School Name and today is the twenty sixth of March</freecode>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u1">
+<w>la</w>
+<w>familia</w>
+<w>es</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u2">
+<w>son</w>
+<w>tres</w>
+<w>niños</w>
+<w>y</w>
+<w>una</w>
+<w>abuela</w>
+<w>y</w>
+<w>ehm</w>
+<w>un</w>
+<w>madre</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u3">
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>en</w>
+<g><w>el</w>
+<w>casa</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>casa</w>
+<w>ehm</w>
+<w>al</w>
+<w>lado</w>
+<g><w>del</w>
+<w>lago</w><error/><k type="retracing with correction"/></g>
+<w>el</w>
+<g><w>lago</w><error/></g>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<t type="p"/>
+
+<a type="errcoding">del ajo = del lago lajo = lago .</a>
+</u>
+<u who="L09" uID="u4">
+<w>la</w>
+<w>abuela</w>
+<w>ehm</w>
+<w>pintar</w>
+<w>ehm</w>
+<w>una</w>
+<w>dibujo</w>
+<w>ehm</w>
+<w>y</w>
+<w>ehm</w>
+<pause symbolic-length="simple"><k type="retracing with correction"/></pause>
+<w>eh</w>
+<w>al</w>
+<w>lado</w>
+<w>del</w>
+<g><w>lago</w><error/></g>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">lajo = lago .</a>
+</u>
+<u who="L09" uID="u5">
+<w>dos</w>
+<w>niños</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<t type="interruption"/>
+
+</u>
+<u who="MPS" uID="u6">
+<g><w>pe<shortening>scan</shortening></w><k type="retracing"/></g>
+<w>pescan</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u7">
+<linker type="self completion"/>
+<w xml:lang="adv">yeah</w>
+<g><w>pes<shortening>can</shortening><f type="generic"/></w><k type="retracing"/></g>
+<w>pes<shortening>can</shortening><f type="generic"/></w>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u8">
+<g><w>oh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<g><w>la</w>
+<w>m<shortening>adre</shortening></w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>madre</w>
+<w>ehm</w>
+<w>es</w>
+<w>eh</w>
+<g><w>liir<replacement><w>leer</w></replacement></w><error/></g>
+<w>eh</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u9">
+<w>eh</w>
+<w>el</w>
+<w>niño</w>
+<w>ehm</w>
+<w>pintar</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u10">
+<w>eh</w>
+<w>la</w>
+<w>abuela</w>
+<w>eh</w>
+<w>pintar</w>
+<w>un</w>
+<w>eh</w>
+<w>monstruo</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u11">
+<w>el</w>
+<w>niño</w>
+<w>ehm</w>
+<w>pintar</w>
+<w>un</w>
+<w>monstruo</w>
+<w>también</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u12">
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>ehm</w>
+<w>el</w>
+<w>niño</w>
+<w>eh</w>
+<w>ir</w>
+<w>a</w>
+<w>las</w>
+<pause symbolic-length="simple"></pause>
+<w>tiendas</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u13">
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>dos</w>
+<w>niños</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>en</w>
+<w>la</w>
+<w>casa</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<g><w>oh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u14">
+<g><w>la</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>madre</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>es</w>
+<w>a</w>
+<w>las</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>tiendas</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u15">
+<w>um</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>la</w>
+<w>abuela</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<g><w>pin<shortening>tar</shortening></w><k type="retracing"/></g>
+<w>pintar</w>
+<w>los</w>
+<w>eh</w>
+<w>ruedas</w>
+<w>ehm</w>
+<w>con</w>
+<w>los</w>
+<w>niños</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u16">
+<w>en</w>
+<w>el</w>
+<g><w>lago</w><error/></g>
+<pause symbolic-length="simple"></pause>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>monstruo</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>mmm</w>
+<w>y</w>
+<t type="p"/>
+
+<a type="errcoding">lajo = lago .</a>
+</u>
+<u who="L09" uID="u17">
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<g><w>v<shortening>er</shortening></w><k type="retracing"/></g>
+<w>ve</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>ver</w>
+<w>el</w>
+<w>monstruo</w>
+<w xml:lang="con">and</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u18">
+<w>ehm</w>
+<w>en</w>
+<g><w>el</w>
+<w>lago</w><error/></g>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>mucha</w>
+<w>gente</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<g><w>lejar<replacement><w>llegar</w></replacement></w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">el ajo = el lago .</a>
+</u>
+<u who="L09" uID="u19">
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>muchos</w>
+<w>eh</w>
+<w>fotos</w>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u20">
+<w>eh</w>
+<w>muchos</w>
+<w>ehm</w>
+<w>periodistas</w>
+<w>ehm</w>
+<w>hacer</w>
+<w>fotos</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<t type="p"/>
+
+<a type="comments">Subject coughing .</a>
+</u>
+<u who="L09" uID="u21">
+<w>ver</w>
+<w>ehm</w>
+<g><w>el</w>
+<w>tele</w><k type="retracing with correction"/></g>
+<w>ehm</w>
+<w>el</w>
+<w>monstruo</w>
+<w>ehm</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>tele</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u22">
+<w>la</w>
+<w>abuela</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<w>mmm</w>
+<w>dice</w>
+<t type="quotation next line"/>
+
+</u>
+<u who="L09" uID="u23">
+<linker type="quoted utterance next"/>
+<w>eh</w>
+<w>lo</w>
+<w>siento</w>
+<w>ehm</w>
+<w>el</w>
+<w>monstruo</w>
+<w>es</w>
+<w>no</w>
+<w>verdad</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u24">
+<linker type="quoted utterance next"/>
+<w>es</w>
+<w>falso</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u25">
+<w>los</w>
+<w>niños</w>
+<w>y</w>
+<w>la</w>
+<w>abuela</w>
+<w>y</w>
+<w>la</w>
+<w>madre</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<g><w>eh</w><k type="retracing with correction"/></g>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>van</w>
+<w>a</w>
+<w>la</w>
+<w>casa</w>
+<w>y</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>oh</w>
+<w>pero</w>
+<t type="p"/>
+
+</u>
+<u who="L09" uID="u26">
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>un</w>
+<w>monstruo</w>
+<g><w>en</w><k type="retracing"/></g>
+<w>en</w>
+<w>la</w>
+<g><w>lago</w><error/></g>
+<g><w>ehm</w><k type="retracing"/></g>
+<w>ehm</w>
+<w>es</w>
+<w>la</w>
+<w>monstruo</w>
+<w>verdad</w>
+<t type="q"/>
+
+<a type="errcoding">lajo = lago .</a>
+</u>
+<u who="MPS" uID="u27">
+<w>muchas</w>
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

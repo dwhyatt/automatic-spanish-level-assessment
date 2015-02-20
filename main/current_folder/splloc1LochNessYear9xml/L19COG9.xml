@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L19COG9"
+      Date="2007-06-19">
+<Participants>
+<participant
+  id="L19"
+  role="Participant"
+language="es"
+sex="female"
+group="Year9"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">19-JUN-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:04:15</comment>
+<u who="COG" uID="u0">
+<freecode>eng: this is the lochness task todays nineteenth of June this is student number nineteen and we are in H</freecode>
+<t type="p"/>
+
+</u>
+<u who="L19" uID="u1">
+<w>eh</w>
+<w>una</w>
+<w>la</w>
+<w>familia</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>la</w>
+<w>Loch</w>
+<w>Ness</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L19" uID="u2">
+<w>madre</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>hermana</w>
+<w>hermano</w>
+<w>dos</w>
+<w>ehm</w>
+<w>pintar</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<w>y</w>
+<w>piscina</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u3">
+<w>la</w>
+<w>abuela</w>
+<t type="p"/>
+
+</u>
+<u who="L19" uID="u4">
+<w>la<f type="generic"/></w>
+<w>abuela<f type="generic"/></w>
+<w>ehm</w>
+<w>pintar</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<w>y</w>
+<t type="p"/>
+
+</u>
+<u who="L19" uID="u5">
+<w>hermano</w>
+<w>pintar</w>
+<w>Loch</w>
+<w>Ness</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L19" uID="u6">
+<w>madre</w>
+<w>y</w>
+<w>hermano</w>
+<pause symbolic-length="simple"></pause>
+<g><w>ehm</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>madre</w>
+<w>y</w>
+<w>hermano</w>
+<w>espactares<f type="neologism"/></w>
+<g><w>rueda</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">ruda = rueda .</a>
+</u>
+<u who="L19" uID="u7">
+<w>abuela</w>
+<w>hermana</w>
+<w>hermano</w>
+<g><w>rueda</w><error/></g>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<t type="p"/>
+
+<a type="errcoding">ruda = rueda .</a>
+</u>
+<u who="L19" uID="u8">
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<g><w>rueda</w><error/></g>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<w xml:lang="con">and</w>
+<w>Loch</w>
+<w>Ness</w>
+<t type="p"/>
+
+<a type="errcoding">ruda = rueda .</a>
+</u>
+<u who="L19" uID="u9">
+<w>madre</w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<g><w>volver</w><error/></g>
+<w>y</w>
+<w>hermano</w>
+<pause symbolic-length="simple"></pause>
+<w>hacia</w>
+<w>Loch</w>
+<w>Ness</w>
+<t type="p"/>
+
+<a type="errcoding">voler = volver .</a>
+</u>
+<u who="L19" uID="u10">
+<w xml:lang="d">monster</w>
+<w>hace</w>
+<w>fotos</w>
+<w>y</w>
+<w>televisión</w>
+<w>hermano</w>
+<w>hermana</w>
+<t type="p"/>
+
+</u>
+<u who="L19" uID="u11">
+<pause symbolic-length="simple"></pause>
+<g><w>periodista</w><error/></g>
+<w>de</w>
+<w>verdad</w>
+<w>mentira</w>
+<t type="p"/>
+
+<a type="errcoding">peridosdita = periodista .</a>
+</u>
+<u who="L19" uID="u12">
+<w>no</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<w>la</w>
+<g><w>rueda</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">ruda = rueda .</a>
+</u>
+<u who="L19" uID="u13">
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>de</w>
+<w>verdad</w>
+<w>Loch</w>
+<w>Ness</w>
+<w xml:lang="d">monster</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u14">
+<w>gracias</w>
+<t type="p"/>
+
+</u>
+</CHAT>

@@ -1,0 +1,207 @@
+.	fp
+
+ehm	nc0s000
+la	da0000
+familia	nc0s000
+eh	np00000
+es	vsip000
+de	sp000
+vacaciones	nc0p000
+eh	np00000
+en	sp000
+la	da0000
+casa	nc0s000
+al	np00000
+lado	nc0s000
+de	sp000
+ehm	nc0s000
+del	sp000
+agua	nc0s000
+.	fp
+
+eh	vmis000
+la	da0000
+madre	nc0s000
+ehm	nc0s000
+el	da0000
+libro	nc0s000
+ehm	nc0s000
+.	fp
+
+eh	vmis000
+ehm	nc0s000
+las	da0000
+personas	nc0p000
+pequeño	aq0000
+eh	np00000
+es	vsip000
+dibujo	nc0s000
+ehm	nc0s000
+.	fp
+
+eh	vmis000
+la	da0000
+madre	nc0s000
+es	vsip000
+ehm	nc0s000
+bebo	vmip000
+la	da0000
+café	nc0s000
+.	fp
+
+eh	vmis000
+el	da0000
+la	da0000
+chica	nc0s000
+eh	np00000
+dibujo	vmis000
+ehm	nc0s000
+.	fp
+
+es	vsip000
+monstruo	nc0s000
+.	fp
+
+ehm	nc0s000
+la	da0000
+madre	nc0s000
+y	cc
+la	da0000
+personas	nc0p000
+pequeños	aq0000
+ehm	vmis000
+ir	vmn0000
+de	sp000
+compras	nc0p000
+eh	np00000
+en	sp000
+la	da0000
+coche	nc0s000
+.	fp
+
+la	da0000
+madre	nc0s000
+eh	np00000
+comprar	vmn0000
+las	da0000
+faldas	nc0p000
+eh	np00000
+en	sp000
+el	da0000
+centro	nc0s000
+y	cc
+.	fp
+
+las	da0000
+personas	nc0p000
+pequeños	aq0000
+eh	np00000
+el	da0000
+dibujo	nc0s000
+en	sp000
+eh	np00000
+cuatro	dn0000
+ruedas	nc0p000
+eh	nc0n000
+en	sp000
+el	da0000
+agua	nc0s000
+.	fp
+
+las	da0000
+personas	nc0p000
+ehm	nc0s000
+eh	np00000
+las	da0000
+personas	nc0p000
+eh	sp000
+ver	vmn0000
+ehm	nc0s000
+la	da0000
+monstruo	nc0s000
+eh	np00000
+en	sp000
+el	da0000
+agua	nc0s000
+y	cc
+.	fp
+
+la	da0000
+madre	nc0s000
+eh	np00000
+ver	vmn0000
+la	pp000000
+monstruo	nc0s000
+con	sp000
+las	da0000
+personas	nc0p000
+ehm	nc0s000
+pequeños	aq0000
+ehm	nc0s000
+y	cc
+.	fp
+
+periodistas	nc0p000
+eh	sp000
+hacer	vmn0000
+fotos	nc0p000
+eh	np00000
+el	da0000
+monstruo	nc0s000
+y	cc
+.	fp
+
+las	da0000
+personas	nc0p000
+eh	sp000
+pequeñas	aq0000
+y	cc
+ehm	nc0s000
+de	sp000
+la	da0000
+televisión	nc0s000
+ehm	nc0s000
+.	fp
+
+las	da0000
+periodistas	nc0p000
+ehm	nc0s000
+eh	np00000
+ver	vmn0000
+la	pp000000
+monstruo	nc0s000
+ehm	nc0s000
+eh	np00000
+ehm	np00000
+.	fp
+
+la	da0000
+personas	nc0p000
+es	vsip000
+xx	np00000
+ehm	np00000
+xx	np00000
+en	sp000
+el	da0000
+agua	nc0s000
+ehm	nc0s000
+.	fp
+
+la	da0000
+monstruo	nc0s000
+eh	np00000
+el	da0000
+lado	nc0s000
+de	sp000
+en	sp000
+casa	nc0s000
+ehm	nc0s000
+.	fp
+
+ya	rg
+está	vmip000
+.	fp
+
+ya	rg
+está	vmip000
+

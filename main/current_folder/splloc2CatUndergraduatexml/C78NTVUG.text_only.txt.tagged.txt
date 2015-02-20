@@ -1,0 +1,252 @@
+Todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+Natalia	np00000
+uh	nc0s000
+um	nc0n000
+Natalia	np00000
+lee	vmip000
+una	pi000000
+no	rn
+sé	vmip000
+.	fp
+
+un	di0000
+libro	nc0s000
+pues	cs
+hace	vmip000
+un	di0000
+poco	pi000000
+de	sp000
+perdón	nc0s000
+.	fp
+
+pinta	vmip000
+un	di0000
+poco	rg
+construido	aq0000
+no	rn
+sé	vmip000
+.	fp
+
+um	nc0n000
+construido	aq0000
+algo	pi000000
+pues	cs
+.	fp
+
+jugando	vmg0000
+y	cc
+después	rg
+jugando	vmg0000
+con	sp000
+no	rn
+sé	vmip000
+.	fp
+
+un	di0000
+un	dn0000
+amigo	nc0s000
+suya	dp0000
+.	fp
+
+y	cc
+Pancho	np00000
+después	rg
+de	sp000
+haber	van0000
+levantando	vmg0000
+levantarse	aq0000
+.	fp
+
+um	nc0n000
+decidió	vmis000
+en	sp000
+tomar	vmn0000
+el	da0000
+sol	nc0s000
+y	cc
+jugar	vmn0000
+un	di0000
+poco	pi000000
+fuera	rg
+de	sp000
+la	da0000
+casa	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+um	np00000
+los	da0000
+dos	pn000000
+a	sp000
+la	da0000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+escapó	vmis000
+para	sp000
+buscar	vmn0000
+un	di0000
+no	rn
+sé	vmip000
+.	fp
+
+un	di0000
+ratón	nc0s000
+.	fp
+
+y	cc
+encontró	vmis000
+a	sp000
+un	di0000
+perro	nc0s000
+uh	nc0s000
+.	fp
+
+se	p0000000
+puso	vmis000
+un	di0000
+poco	rg
+nervioso	aq0000
+.	fp
+
+y	cc
+a	sp000
+las	da0000
+tres	dn0000
+y	cc
+cuarto	ao0000
+de	sp000
+de	sp000
+la	da0000
+tarde	nc0s000
+.	fp
+
+Nati	np00000
+no	rn
+pudo	vmis000
+encontrar	vmn0000
+a	sp000
+Pancho	np00000
+.	fp
+
+Pancho	np00000
+no	rn
+estaba	vmii000
+ni	rg
+en	sp000
+la	da0000
+ni	cc
+hay	vaip000
+fuera	rg
+de	sp000
+la	da0000
+casa	nc0s000
+en	sp000
+el	da0000
+jardín	nc0s000
+ni	cc
+en	sp000
+la	da0000
+no	rn
+sé	vmip000
+.	fp
+
+allí	rg
+dentro	rg
+de	sp000
+la	da0000
+casa	nc0s000
+.	fp
+
+um	nc0n000
+Nati	np00000
+intentó	vmis000
+encontrarle	vmn0000
+.	fp
+
+pero	cc
+um	rn
+sin	sp000
+encontrarle	vmn0000
+sí	rg
+um	nc0n000
+.	fp
+
+Nati	np00000
+estaba	vmii000
+um	nc0n000
+sí	rg
+nerviosa	aq0000
+um	pp000000
+.	fp
+
+pero	cc
+una	di0000
+tarde	nc0s000
+Pancho	np00000
+uh	nc0s000
+perdona	vmm0000
+.	fp
+
+después	rg
+de	sp000
+las	da0000
+las	da0000
+tres	dn0000
+y	cc
+media	dn0000
+de	sp000
+la	da0000
+tarde	nc0s000
+Nati	np00000
+murió	vmis000
+um	nc0n000
+no	rn
+.	fp
+
+sí	rg
+a	sp000
+la	da0000
+casa	nc0s000
+a	sp000
+través	nc0s000
+de	sp000
+um	pp000000
+no	rn
+sé	vmip000
+la	da0000
+palabra	nc0s000
+.	fp
+
+qué	pt000000
+palabra	nc0s000
+para	sp000
+.	fp
+
+gatero	nc0s000
+.	fp
+
+por	sp000
+el	da0000
+gatero	nc0s000
+y	cc
+estaban	vmii000
+juntos	aq0000
+al	vmip000
+final	nc0s000
+.	fp
+

@@ -1,0 +1,402 @@
+.	fp
+
+todas	di0000
+las	da0000
+mañanas	nc0p000
+eran	vsii000
+iguales	aq0000
+.	fp
+
+euh	nc0s000
+Natalia	np00000
+euh	nc0s000
+leía	vmii000
+a	sp000
+sus	dp0000
+muñecos	nc0p000
+euh	nc0s000
+.	fp
+
+pintaba	vmii000
+euh	nc0s000
+en	sp000
+en	sp000
+su	dp0000
+habitación	nc0s000
+euh	nc0s000
+.	fp
+
+construía	vmii000
+um	rn
+casas	nc0p000
+de	sp000
+cartón	nc0s000
+.	fp
+
+jugaba	vmii000
+con	sp000
+sus	dp0000
+amigos	nc0p000
+en	sp000
+euh	nc0s000
+bicicleta	nc0s000
+y	cc
+.	fp
+
+jugaba	vmii000
+en	sp000
+el	da0000
+parque	nc0s000
+.	fp
+
+y	cc
+Pancho	np00000
+el	da0000
+gato	nc0s000
+euh	nc0s000
+dormía	vmii000
+y	cc
+euh	nc0s000
+.	fp
+
+euh	nc0s000
+salía	vmii000
+por	sp000
+por	sp000
+la	da0000
+puerta	nc0s000
+euh	nc0s000
+por	sp000
+el	da0000
+gatero	nc0s000
+euh	nc0s000
+.	fp
+
+escalaba	vmii000
+euh	nc0s000
+árbol	nc0s000
+.	fp
+
+um	nc0n000
+euh	nc0s000
+perseguía	vmii000
+um	rn
+mariposas	aq0000
+y	cc
+.	fp
+
+dormía	vmii000
+en	sp000
+el	da0000
+sol	nc0s000
+.	fp
+
+al	vmip000
+final	nc0s000
+del	sp000
+día	nc0s000
+um	nc0n000
+euh	nc00000
+se	p0000000
+encontar	vmn0000
+encontrarían	vmic000
+y	cc
+.	fp
+
+um	nc0n000
+euh	nc0s000
+volvían	vmii000
+a	sp000
+casa	nc0s000
+.	fp
+
+hasta	sp000
+que	cs
+un	di0000
+día	nc0s000
+Pancho	np00000
+euh	nc0s000
+se	p0000000
+fue	vmis000
+de	sp000
+la	da0000
+casa	nc0s000
+y	cc
+.	fp
+
+vi	vmis000
+a	sp000
+un	di0000
+euh	nc0s000
+pájaro	nc0s000
+.	fp
+
+perseguía	vmii000
+el	da0000
+pájaro	nc0s000
+y	cc
+.	fp
+
+luego	rg
+euh	nc00000
+delante	rg
+de	sp000
+la	da0000
+basura	nc0s000
+euh	nc0s000
+vi	vmis000
+a	sp000
+un	di0000
+euh	nc0s000
+ratón	aq0000
+.	fp
+
+mientras	cs
+euh	nc0s000
+mientras	cs
+que	pr000000
+se	p0000000
+andaba	vmii000
+por	sp000
+la	da0000
+calle	nc0s000
+vi	vmis000
+a	sp000
+un	di0000
+perro	nc0s000
+que	pr000000
+se	p0000000
+que	cs
+le	pp000000
+perseguía	vmii000
+.	fp
+
+Nati	np00000
+a	sp000
+euh	nc0s000
+a	sp000
+las	da0000
+euh	nc0s000
+quince	dn0000
+y	cc
+cuarto	ao0000
+euh	nc0s000
+esperaba	vmii000
+a	sp000
+Pancho	np00000
+donde	pr000000
+siempre	rg
+se	p0000000
+encuentran	vmip000
+pero	cc
+no	rn
+estaba	vmii000
+allí	rg
+.	fp
+
+euh	nc0s000
+buscaba	vmii000
+a	sp000
+su	dp0000
+perro	nc0s000
+.	fp
+
+no	rn
+estaba	vmii000
+durmiendo	vmg0000
+en	sp000
+su	dp0000
+en	sp000
+su	dp0000
+cesta	nc0s000
+.	fp
+
+no	rn
+estaba	vmii000
+delante	rg
+euh	nc0s000
+de	sp000
+del	sp000
+sofá	nc0s000
+.	fp
+
+no	rn
+estaba	vmii000
+en	sp000
+el	da0000
+árbol	nc0s000
+.	fp
+
+pedía	vmii000
+a	sp000
+las	da0000
+animalas	nc0p000
+a	sp000
+los	da0000
+animales	nc0p000
+a	sp000
+los	da0000
+ranas	nc0p000
+pero	cc
+.	fp
+
+nadie	pi000000
+sabía	vmii000
+dónde	pt000000
+estaba	vmii000
+.	fp
+
+Nati	np00000
+estaba	vmii000
+triste	aq0000
+sin	sp000
+su	dp0000
+gato	nc0s000
+.	fp
+
+euh	nc0s000
+pensaba	vmii000
+que	cs
+euh	nc0s000
+sería	vsic000
+euh	nc0s000
+tendría	vmic000
+hambre	nc0s000
+.	fp
+
+euh	nc0s000
+euh	nc0s000
+euh	nc0s000
+euh	np00000
+Nati	np00000
+puso	vmis000
+euh	nc0s000
+euh	np00000
+comida	nc0s000
+para	sp000
+euh	nc0s000
+su	dp0000
+gato	nc0s000
+en	sp000
+el	da0000
+suelo	nc0s000
+al	np00000
+lado	nc0s000
+de	sp000
+la	da0000
+cesta	nc0s000
+y	cc
+.	fp
+
+esperaba	vmii000
+a	sp000
+su	dp0000
+gato	nc0s000
+.	fp
+
+euh	nc0s000
+quince	dn0000
+minutos	nc0p000
+más	rg
+tarde	rg
+de	sp000
+um	pp000000
+su	dp0000
+hora	nc0s000
+de	sp000
+encontrar	vmn0000
+euh	nc00000
+Pancho	np00000
+esperaba	vmii000
+a	sp000
+su	dp0000
+euh	nc0s000
+a	sp000
+Nati	np00000
+.	fp
+
+pero	cc
+no	rn
+estaba	vmii000
+allí	rg
+.	fp
+
+ya	rg
+se	p0000000
+ha	vaip000
+ya	rg
+se	p0000000
+ya	rg
+se	p0000000
+fue	vmis000
+.	fp
+
+Pensaba	vmii000
+su	dp0000
+ah	nc0n000
+euh	nc0s000
+Nati	np00000
+sin	sp000
+ello	pp000000
+.	fp
+
+Pancho	np00000
+euh	nc0s000
+euh	np00000
+empezó	vmis000
+a	sp000
+llover	vmn0000
+.	fp
+
+um	nc0n000
+Pancho	np00000
+um	pp000000
+volvió	vmis000
+a	sp000
+casa	nc0s000
+mojado	aq0000
+hasta	sp000
+los	da0000
+huesos	nc0p000
+.	fp
+
+euh	nc0s000
+cuando	cs
+llegó	vmis000
+a	sp000
+casa	nc0s000
+um	nc0n000
+vio	vmis000
+euh	nc0s000
+a	sp000
+la	da0000
+comida	nc0s000
+en	sp000
+el	da0000
+suelo	nc0s000
+y	cc
+.	fp
+
+um	nc0n000
+euh	nc0s000
+sigo	vmip000
+la	da0000
+comida	nc0s000
+hasta	sp000
+la	da0000
+cesta	nc0s000
+donde	pr000000
+esperaba	vmii000
+Nati	np00000
+.	fp
+
+euh	nc0s000
+luego	rg
+estaban	vmii000
+juntos	aq0000
+de	sp000
+nuevo	aq0000
+y	cc
+felices	aq0000
+.	fp
+

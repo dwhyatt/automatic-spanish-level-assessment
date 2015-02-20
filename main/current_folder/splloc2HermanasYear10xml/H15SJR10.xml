@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc2"
+      Id="H15SJR10"
+      Date="2009-06-09">
+<Participants>
+<participant
+  id="H15"
+  role="Participant"
+language="es"
+sex="female"
+SES="Year10"
+
+/>
+<participant
+  id="SJR"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">09-JUN-2009</comment>
+<comment type="Location">MS</comment>
+<comment type="Situation">Hermanas Story</comment>
+<comment type="Transcriber">ART</comment>
+<comment type="Time Duration">00:01:47</comment>
+<u who="SJR" uID="u0">
+<freecode>eng: student number fifteen Las hermanas en España</freecode>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u1">
+<w>en</w>
+<w>Madrid</w>
+<w>visita</w>
+<w>la</w>
+<w>ciudad</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u2">
+<w>comer</w>
+<w>tapas</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u3">
+<w>beber</w>
+<w>vino</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u4">
+<w>después</w>
+<g><w>deciderion<replacement><w>decidieron</w></replacement></w><error/></g>
+<w>ir</w>
+<w>a</w>
+<w>la</w>
+<w>Barcelona</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u5">
+<g><w>coguer<replacement><w>coger</w></replacement></w><error/></g>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>tren</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u6">
+<w>habla</w>
+<w>sobre</w>
+<w>su</w>
+<w>niñez</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u7">
+<w>de</w>
+<g><w>pequeñas</w><error/></g>
+<w>ser</w>
+<w>muy</w>
+<w>diferentes</w>
+<t type="p"/>
+
+<a type="errcoding">peqüeñas = pequeñas</a>
+</u>
+<u who="H15" uID="u8">
+<w>Gwen</w>
+<w>de</w>
+<g><w>niña</w><error/><k type="retracing with correction"/></g>
+<w>niña</w>
+<w>cada</w>
+<w>fin</w>
+<w>de</w>
+<w>semana</w>
+<g><w>lir<replacement><w>leer</w></replacement></w><error/></g>
+<w>un</w>
+<w>libro</w>
+<t type="p"/>
+
+<a type="errcoding">nina = niña</a>
+</u>
+<u who="H15" uID="u9">
+<w>pintar</w>
+<w>un</w>
+<w>cuadro</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u10">
+<w>escribir</w>
+<w>un</w>
+<w>cuento</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u11">
+<w>durante</w>
+<w>la</w>
+<w>semana</w>
+<g><w>despartarse<replacement><w>despertarse</w></replacement></w><error/></g>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u12">
+<w>termina</w>
+<w>sus</w>
+<w>deberes</w>
+<w>temprano</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u13">
+<w>Sarah</w>
+<w>de</w>
+<w>niña</w>
+<w>los</w>
+<w>fines</w>
+<w>de</w>
+<w>semana</w>
+<g><w>yugar<replacement><w>jugar</w></replacement></w><error/></g>
+<w>al</w>
+<w>fútbol</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u14">
+<w>ver</w>
+<w>un</w>
+<w>película</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u15">
+<w>durante</w>
+<w>la</w>
+<g><w>seman<shortening>a</shortening></w><k type="retracing with correction"/></g>
+<g><w>semana</w><error/></g>
+<w>ir</w>
+<w>al</w>
+<g><w>colegio</w><error/></g>
+<w>en</w>
+<g><w>bi<shortening>cicleta</shortening></w><k type="retracing"/></g>
+<w>bicicleta</w>
+<t type="p"/>
+
+<a type="errcoding">semaña=semana, coleyio = colegio</a>
+</u>
+<u who="H15" uID="u16">
+<g><w>legar<replacement><w>llegar</w></replacement></w><error/></g>
+<w>tarde</w>
+<w>a</w>
+<w>clase</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u17">
+<w>hace</w>
+<w>sus</w>
+<w>deberes</w>
+<w>por</w>
+<w>la</w>
+<w>noche</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u18">
+<g><w>aco<shortening>starse</shortening></w><k type="retracing"/></g>
+<w>acostarse</w>
+<w>muy</w>
+<w>tarde</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u19">
+<w>de</w>
+<w>repente</w>
+<w>en</w>
+<w>el</w>
+<w>tren</w>
+<w>haber</w>
+<w>un</w>
+<w>gran</w>
+<w>revuelo</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u20">
+<g><w>crir<replacement><w>creer</w></replacement></w><error/></g>
+<w>que</w>
+<w>había</w>
+<g><w>una</w><k type="retracing with correction"/></g>
+<w>un</w>
+<w>problema</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u21">
+<w>sentir</w>
+<w>agua</w>
+<w>de</w>
+<g><w>lluvia</w><error/><k type="retracing with correction"/></g>
+<g><w>lluvia</w><error/></g>
+<t type="p"/>
+
+<a type="errcoding">luevia = lluvia, luvia = lluvia</a>
+</u>
+<u who="H15" uID="u22">
+<w>necesitar</w>
+<w>ayuda</w>
+<w>del</w>
+<w>revisor</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u23">
+<w>ayuda</w>
+<w>a</w>
+<w>cambiarse</w>
+<w>de</w>
+<w>asiento</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u24">
+<g><w>tranqüiliarzarse<replacement><w>tranquilizarse</w></replacement></w><error/></g>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u25">
+<w>al</w>
+<w>final</w>
+<w>en</w>
+<w>Barcelona</w>
+<w>comer</w>
+<w>una</w>
+<w>pizza</w>
+<t type="p"/>
+
+</u>
+<u who="H15" uID="u26">
+<w>reírse</w>
+<w>al</w>
+<w>recordar</w>
+<w>el</w>
+<w>viaje</w>
+<t type="p"/>
+
+</u>
+<u who="SJR" uID="u27">
+<w>gracias</w>
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

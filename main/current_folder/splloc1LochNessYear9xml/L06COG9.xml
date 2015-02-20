@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="1.4.2"
+      Lang="es"
+      Corpus="splloc"
+      Id="L06COG9"
+      Date="2007-06-19">
+<Participants>
+<participant
+  id="L06"
+  role="Participant"
+language="es"
+sex="male"
+group="Year9"
+
+/>
+<participant
+  id="COG"
+  role="Investigator"
+language="es"
+sex="female"
+
+/>
+</Participants>
+<comment type="Date">19-JUN-2007</comment>
+<comment type="Location">K</comment>
+<comment type="Situation">Loch Ness story telling task</comment>
+<comment type="Transcriber">CSP</comment>
+<comment type="Time Duration">00:08:15</comment>
+<u who="COG" uID="u0">
+<freecode>eng: this is student number six today is on the twenty sixth of March and Loch Ness task</freecode>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u1">
+<w>eh</w>
+<w>la</w>
+<w>familia</w>
+<w>de</w>
+<w>vacaciones</w>
+<w>eh</w>
+<g><w>tres</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>no</w>
+<w>dos</w>
+<w>hermanos</w>
+<pause symbolic-length="simple"></pause>
+<g><w>hermana</w><error/></g>
+<w>eh</w>
+<t type="p"/>
+
+<a type="errcoding">jermana = hermana .</a>
+</u>
+<u who="L06" uID="u2">
+<w>la</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>abuelo</w>
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<w>el</w>
+<w>abuelo</w>
+<g><w>el</w><k type="retracing"/></g>
+<w>el</w>
+<w>dibujo</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u3">
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<g><w>los</w><k type="retracing with correction"/></g>
+<w>el</w>
+<w>chico</w>
+<w>eh</w>
+<g><w>la</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>el</w>
+<w>eh</w>
+<w>pinta</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u4">
+<w>el</w>
+<w>abuelo</w>
+<w>pinta</w>
+<w>el</w>
+<w>monstruo</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u5">
+<w>el</w>
+<w>chico</w>
+<w>pinta</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>sinario<f type="neologism"/></w>
+<w xml:lang="d">scenary</w>
+<w>sí</w>
+<w>de</w>
+<g><w>verdad</w><error/></g>
+<w>sinario<f type="neologism"/></w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+<a type="errcoding">veldad = verdad</a>
+</u>
+<u who="L06" uID="u6">
+<g><w>ehm</w><k type="retracing with correction"/></g>
+<w>eh</w>
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>chico</w>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<freecode>eng: how do you say go shopping</freecode>
+<t type="q"/>
+
+</u>
+<u who="L06" uID="u7">
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<w>irse</w>
+<t type="trail off"/>
+
+</u>
+<u who="COG" uID="u8">
+<w>mmm</w>
+<w>van</w>
+<w>de</w>
+<w>compras</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u9">
+<w>ah</w>
+<w xml:lang="adv">yeah</w>
+<w>van<f type="generic"/></w>
+<w>de<f type="generic"/></w>
+<w>compras<f type="generic"/></w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u10">
+<w>sí</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u11">
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>el</w>
+<w>madre</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w xml:lang="v">looks</w>
+<w xml:lang="pre">in</w>
+<w>escapatados<f type="neologism"/></w>
+<w>ehm</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u12">
+<pause symbolic-length="simple"></pause>
+<w>el</w>
+<w>abuelo</w>
+<w>pinta</w>
+<g><w>el</w><k type="retracing with correction"/></g>
+<w>la</w>
+<w>rueda</w>
+<pause symbolic-length="simple"></pause>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u13">
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>el</w>
+<w>chico</w>
+<w>volver</w>
+<w>xx</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u14">
+<w>el</w>
+<w>madre</w>
+<w>y</w>
+<w>chico</w>
+<g><w>ehm</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>no</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u15">
+<w>el</w>
+<w>monstruo</w>
+<w>xx</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>chicos</w>
+<w>no</w>
+<t type="trail off"/>
+
+</u>
+<u who="COG" uID="u16">
+<g><w>hay</w><k type="retracing"/></g>
+<w>hay</w>
+<w>muchos</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u17">
+<w>hay<f type="generic"/></w>
+<w>muchos<f type="generic"/></w>
+<w>chicos</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u18">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u19">
+<w>hacer</w>
+<w>fotos</w>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>de</w>
+<w>el</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>tele</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u20">
+<w>mmm</w>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u21">
+<pause symbolic-length="simple"></pause>
+<pause symbolic-length="simple"></pause>
+<w>ehm</w>
+<w>el</w>
+<w>monstruo</w>
+<w>es</w>
+<w>falso</w>
+<g><w>eh</w><k type="retracing"/></g>
+<g><w>eh</w><k type="retracing"/></g>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<pause symbolic-length="simple"></pause>
+<t type="p"/>
+
+</u>
+<u who="L06" uID="u22">
+<pause symbolic-length="simple"></pause>
+<g><w>pero</w><k type="retracing with correction"/></g>
+<w>periodios<f type="neologism"/></w>
+<pause symbolic-length="simple"></pause>
+<w>eh</w>
+<w>xx</w>
+<w>xx</w>
+<w>de</w>
+<w>verdad</w>
+<w>monstruo</w>
+<w>en</w>
+<w>el</w>
+<w>xx</w>
+<t type="p"/>
+
+</u>
+<u who="COG" uID="u23">
+<w>mmm</w>
+<w>muy</w>
+<w>bien</w>
+<t type="p"/>
+
+</u>
+</CHAT>

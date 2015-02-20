@@ -1,0 +1,224 @@
+.	fp
+
+cuando	cs
+quieras	vmsp000
+.	fp
+
+eh	vmis000
+uno	dn0000
+familia	nc0s000
+eh	np00000
+van	vmip000
+a	sp000
+ir	vmn0000
+a	sp000
+Escocia	np00000
+y	cc
+.	fp
+
+en	sp000
+el	da0000
+el	da0000
+familia	nc0s000
+hay	vaip000
+un	di0000
+madre	nc0s000
+eh	rg
+tres	dn0000
+niñas	nc0p000
+y	cc
+eh	np00000
+y	cc
+un	di0000
+lago	nc0s000
+eh	np00000
+oh	np00000
+.	fp
+
+una	di0000
+persona	nc0s000
+eh	pp000000
+pinta	vmip000
+un	di0000
+dibujo	nc0s000
+y	cc
+.	fp
+
+también	rg
+el	da0000
+abuela	nc0s000
+no	rn
+la	da0000
+abuela	nc0s000
+eh	np00000
+es	vsip000
+pintar	vmn0000
+un	di0000
+dibujo	nc0s000
+oh	np00000
+.	fp
+
+están	vmip000
+al	aq0000
+lado	nc0s000
+de	sp000
+lago	nc0s000
+.	fp
+
+eh	vmis000
+el	da0000
+dibujo	nc0s000
+es	vsip000
+un	di0000
+eh	nc0s000
+es	vsip000
+un	di0000
+monstruo	nc0s000
+en	sp000
+el	da0000
+lago	nc0s000
+y	cc
+.	fp
+
+el	da0000
+no	rn
+la	pp000000
+abuelo	nc0s000
+eh	np00000
+pinta	aq0000
+este	dd0000
+dibujo	nc0s000
+.	fp
+
+eh	vmis000
+el	da0000
+madre	nc0s000
+va	vmip000
+a	sp000
+las	da0000
+tienda	nc0s000
+tiendas	nc0p000
+eh	np00000
+a	sp000
+las	da0000
+tiendas	nc0p000
+eh	np00000
+.	fp
+
+es	vsip000
+con	sp000
+un	di0000
+niño	nc0s000
+.	fp
+
+eh	vmis000
+la	da0000
+abuela	nc0s000
+tienes	vmip000
+ruedas	nc0p000
+y	cc
+pintar	vmn0000
+eh	np00000
+los	pp000000
+las	da0000
+ruedas	nc0p000
+eh	np00000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+eh	vmis000
+la	da0000
+abuela	nc0s000
+y	cc
+dos	dn0000
+niñas	nc0p000
+están	vmip000
+en	sp000
+un	di0000
+barco	nc0s000
+en	sp000
+el	da0000
+lago	nc0s000
+y	cc
+.	fp
+
+eh	nc0s000
+es	vsip000
+el	da0000
+el	da0000
+bote	nc0s000
+sí	pp000000
+una	pi000000
+barca	np00000
+.	fp
+.	fp
+
+eh	vmis000
+el	da0000
+madre	nc0s000
+eh	np00000
+ve	vmip000
+el	da0000
+monstruo	nc0s000
+en	sp000
+lago	nc0s000
+y	cc
+.	fp
+
+muchos	di0000
+personas	nc0p000
+ven	vmip000
+eh	np00000
+mucha	di0000
+gente	nc0s000
+eh	np00000
+ven	vmip000
+eh	np00000
+el	da0000
+monstruo	nc0s000
+y	cc
+.	fp
+
+está	vmip000
+en	sp000
+el	da0000
+tele	nc0s000
+eh	np00000
+.	fp
+
+mmm	nc0s000
+.	fp
+
+un	di0000
+periodista	nc0s000
+eh	np00000
+habla	vmip000
+con	sp000
+la	da0000
+abuela	nc0s000
+y	cc
+.	fp
+
+es	vsip000
+en	sp000
+la	da0000
+tele	nc0s000
+xxx	np00000
+.	fp
+
+de	sp000
+verdad	nc0s000
+monstruo	nc0s000
+está	vmip000
+en	sp000
+el	da0000
+lago	nc0s000
+.	fp
+
+mmm	nc0s000
+muchas	di0000
+gracias	nc0p000
+.	fp
+
