@@ -8,132 +8,6 @@ from io import StringIO
 from nltk import *
 
 
-class LemmaFeatures:
-
-    def __init__(self, rootdir): 
-        self.rootdir = rootdir
-        self.lemma_list = self.makeLemmaList()
-        
-
-
-    def makeLemmaList(self):  ### this should only be called once at top of document
-
-        lem_list = []
-
-        for subdir, dirs, files in os.walk(self.rootdir):
-            
-            for f in files:
-                  
-                if 'dependencies' in f:
-
-                    this_file = (os.path.join(subdir, f))
-                    
-                    infile = open(this_file, 'r').readlines()
-                    
-                    for line in infile:
-                        line = line.split('\t')
-                        
-                        if len(line) == 14:
-                           
-                            word = line[1]
-                            lemma = line[3]
-                            
-                            if lemma not in lem_list:
-                                lem_list.append(lemma)
-        return lem_list
-
-    def makeWeightedVector(self, sentences):
-
-        this_file_vector = {}
-
-        for sent in sentences:
-            for line in sent:
-                lemma = line[3]
-
-                if lemma in this_file_vector:
-                    this_file_vector[lemma] += 1
-                else:
-                    this_file_vector[lemma] = 1
-                
-        out_vector = []
-            
-        for word in self.lemma_list:
-            if word in this_file_vector.keys():
-                out_vector.append(this_file_vector[word])
-            else:
-                out_vector.append('0')
-                
-        return out_vector
-
-class PosTrigrams:
-
-    def __init__(self, rootdir):
-        
-        self.rootdir = rootdir
-        self.trigram_list = self.makePosTrigramList()
-
- 
-    def makePosTrigramList(self):
-
-        tri_list = []
-        rootdir = self.rootdir
-
-        for subdir, dirs, files in os.walk(rootdir):
-            for f in files:
-
-                if 'dependencies' in f:
-
-                    this_file = (os.path.join(subdir, f))
-                    
-                    infile = open(this_file, 'r').readlines()
-
-                    tags = []
-                    for line in infile:
-                        line = line.split('\t')
-                        if len(line) == 14:
-                            tags.append(line[5])
-
-                    t_grams = trigrams(tags)
-
-                    for tri in t_grams:   
-
-                        if tri not in tri_list:
-                            tri_list.append(tri)
-        return tri_list
-       
-
-    def getWeightedPosTrigram(self, sentences):
-        
-        these_pos = []
-
-        for sent in sentences:
-            for line in sent:
-                these_pos.append(line[5])
-
-        these_trigrams = trigrams(these_pos)
-        these_trigrams = (str(tri) for tri in these_trigrams)
-
-        this_file_vector = {}
-
-        for tri in these_trigrams:
-
-            if tri in this_file_vector:
-                this_file_vector[tri] += 1
-            else:
-                this_file_vector[tri] = 1
-            
-        out_vector = []
-        
-        for tri in self.trigram_list:
-            
-            if tri in this_file_vector.keys():
-                out_vector.append(this_file_vector[tri])
-              
-            else:
-                out_vector.append('0')
-        
-        return out_vector
-
 
 class WordFeatures:
 
@@ -538,9 +412,9 @@ class WordFeatures:
                                     if l[1].endswith('do'):
                                         progressive_verbs.append((word, (l[1].lower())))
 
-        print(perifrastic_future)
-        print(perfect_verbs)
-        print(progressive_verbs)
+        # print(perifrastic_future)
+        # print(perfect_verbs)
+        # print(progressive_verbs)
 
         return [len(perifrastic_future), len(perfect_verbs), len(progressive_verbs)]
         
@@ -552,7 +426,7 @@ class WordFeatures:
         for v in self.subj_dict.values():
             to_return.append(v)
 
-        verb_types = len(self.stem_dict())
+        verb_types = len(self.stem_dict.keys())
         verb_tokens = 0
 
         for v in self.stem_dict.values():
@@ -686,47 +560,6 @@ class WordFeatures:
         return [percentage_pro_drop]
 
 
-
-class Embeddings:
-
-    def __init__(self, freeling):
-        self.freeling = freeling
-
-    def countEmbeddings(self):
-        sentences = 0
-        subord = 0
-
-        for line in self.freeling:
-            for word in line:
-                if 'subord' in word:
-                    subord += 1
-                elif 'S_[' in word:
-                    sentences += 1
-
-        if sentences == 0:
-            return 0
-
-        else:
-            return subord/sentences
-
-    def getCoordinations(self):
-        coordinating = 0
-        subordinating = 0
-
-        for line in self.freeling:
-            if 'conj-subord_[' in line:
-                subordinating += 1
-            elif 'coord_[' in line:
-                coordinating += 1
-
-        if coordinating != 0:
-            ratio = subordinating/coordinating
-        else:
-            ratio = 0
-
-        return ratio
-
-
 class Capturing(list):
 
     def __enter__(self):
@@ -740,27 +573,21 @@ class Capturing(list):
 
 if  __name__ =='__main__': 
 
-    text = open('/Users/danielwhyatt/Desktop/for_github/SPLLOC/Current/current_folder/splloc2CatNativexml/C32NTV13N.text_only.txt.conll.lemmas.coursetags.dependencies.txt', 'r').readlines()
+    text = open('data/splloc1LochNessNativexml/L29MPSUN.text_only.txt.conll.lemmas.coursetags.dependencies.txt', 'r').readlines()
     
     testing = WordFeatures(text) ### instantiate
 
-   
-    # testing.getVerbFeatures() ### this has to be called first
-
     print(testing.findAgreementErrors())
-    # print(testing.getCompoundVerbs())
-    # print(testing.serEstar())
-    # print(testing.basicCountFeatures())
+    print(testing.getCompoundTenses())
+    print(testing.serEstar())
+    print(testing.basicCountFeatures())
     print(testing.getClitics())
-
     print(testing.getNullSubjets())
+    print(testing.getVerbBasics())
 
 
-    # directory = sys.argv[1]
-
-    # lemmas = lemmaFeatures(directory)
-    # all_lemmas = lemmas.makeLemmaList()
-    # print(all_lemmas)
+    
+    
 
 
 
