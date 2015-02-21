@@ -458,7 +458,7 @@ class WordFeatures:
                         if word.endswith(clitic):
                             clitics.append(word)
 
-        return [len(clitics)]
+        return [len(clitics), len(set(clitics))]   ### total clitic use + unique types; maybe we all want to look for sequential clitics (se me, se lo, etc.)
 
     def getNullSubjets(self):  ### still very crude, there is a lot of work which could be done to refine this
 
