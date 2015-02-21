@@ -129,9 +129,9 @@ class WordFeatures:
                 mod = 'M'
             elif mod.endswith('a'):
                 mod = 'F'
-            elif mod[:-1].endswith('o'):
+            elif mod.endswith('os'):
                 mod = 'M'
-            elif mod[:-1].endswith('a'):
+            elif mod.endswith('as'):
                 mod = 'F'
             elif mod == 'un' or mod == 'el':
                 mod = 'M'
