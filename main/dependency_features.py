@@ -311,8 +311,12 @@ class WordFeatures:
             elif sujeto == '1 persona plural':
                 subj_dict['1s'] += 1
 
+            elif sujeto == '2 persona plural':
+                subj_dict['2p'] += 1
+
+
             else:
-                print('misssed this one ', sujeto)
+                print('missed this one ', sujeto)
 
 
         # for k,v in stem_dict.items():

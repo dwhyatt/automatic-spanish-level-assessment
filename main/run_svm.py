@@ -46,14 +46,14 @@ tri_vector = tri.trigram_list
 
 
 training = ['1']
-train = [1]
-#train = [1,2,3,4,5,6,7,8,9,10,11,12]
+#train = [1]
+train = [1,2,3,4,5,6,7,8,9,10,11,12]
 
 for fold in training:   ##### 'training' here would be 10 iterations of random splits
 
     samples = []
     testing = []
-    file_number = 1 
+    file_number = 1
     
     
     for subdir, dirs, files in os.walk(rootdir): 
@@ -64,8 +64,8 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
         for f in files:
 
             this_file = (os.path.join(subdir, f))
-
-            if file_number > 15:
+            print('this_file', this_file)
+            if file_number > 16:
                     pass
             
             elif 'dependencies' in this_file:
@@ -73,7 +73,7 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
                 features = []
                 
                 file_id = this_file.split('.')[-8].split('/')[-1]   ### parsed from end so it can be moved
-                    
+                print('dependencies', file_id)
                 
                 text = open(this_file, 'r').readlines()
                 
@@ -82,6 +82,7 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
                 word_features = [words.findAgreementErrors, words.basicCountFeatures, words.getVerbFeatures, words.serEstar, 
                 words.getCompoundTenses, words.getClitics, words.getNullSubjets, words.getVerbBasics]
 
+                # word_features = [words.findAgreementErrors]
 
                 for feat in word_features:  ### what is returned from each call should be iterable.
                     f = feat()
@@ -103,16 +104,16 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
                 if file_number in train:
                     
                     samples.append(features); samples.append(file_id)
-                    file_number += 1
+                    # file_number += 1
                     
                     
                 else:
                     testing.append(features); testing.append(file_id)
-                    file_number += 1
+                    # file_number += 1
             
             elif 'freeling_parsed' in this_file:    
                 
-                file_id = this_file.split('.')[-5].split('/')[1]   ### should match file_id from dependencies files
+                file_id = this_file.split('.')[-5].split('/')[2]   ### should match file_id from dependencies files
                 print('freeling id', file_id)
                     
                 if file_id not in samples and file_id not in testing:   ### this should always match, we might want to add and exception here.
@@ -127,17 +128,20 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
                     coord = embedded.getCoordinations()
                     
                     if file_id in samples:
-                        
+                        print('in samples', file_id)
+                        print(count, coord)
                         insert_here = samples.index(file_id) - 1
                         samples[insert_here].append(count)
                         samples[insert_here].append(coord)
 
                     elif file_id in testing:
-
+                        print('in testing', file_id)
+                        print(count, coord)
                         insert_here = testing.index(file_id) - 1
                         testing[insert_here].append(count)
                         testing[insert_here].append(coord)
 
+                    file_number += 1
 
     training_classes = []
 
@@ -173,10 +177,10 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
             testing.remove(s)
 
       
-    print(samples, training_classes)
+    # print(samples, training_classes)
     for s in samples:
         print(len(s))
-    print(testing, gold_classes)
+    # print(testing, gold_classes)
     for t in testing:
         print(len(t))
     ####lin_clf = svm.LinearSVC()
@@ -192,17 +196,17 @@ for fold in training:   ##### 'training' here would be 10 iterations of random s
        
         prediction = str(clf.predict([testing[i]]))
         print('prediction', prediction)
-        while t < len(gold_classes):
+        while i < len(gold_classes):
             golden = str(gold_classes[i])
             if golden in prediction:
                 
                 r += 1
-                t += 1
+                i += 1
                 break
             else:
                 
                 w += 1
-                t += 1
+                i += 1
                 break
 
     accuracy = r/(r+w)

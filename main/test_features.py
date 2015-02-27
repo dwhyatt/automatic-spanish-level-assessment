@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.4
 # -*- coding: utf-8 -*-
 
-### this is done with the thought of producing descriptive stats for every feature.  Which one appear to be the most informative?
+### this is done with the thought of producing descriptive stats for every feature.  Which ones appear to be the most informative?
 
 from sklearn import svm as SVM
 import sys
@@ -16,7 +16,7 @@ from vector_features import *
 
 
 
-rootdir = sys.argv[1] ### marked_up
+rootdir = sys.argv[1] 
 
 scores = []  ### do we need this
 
@@ -63,8 +63,10 @@ for fold in training:
                 
                 words = WordFeatures(text)
 
-                word_features = [words.findAgreementErrors, words.basicCountFeatures, words.getVerbFeatures, words.serEstar, 
-                words.getCompoundTenses, words.getClitics, words.getNullSubjets]
+                # word_features = [words.findAgreementErrors, words.basicCountFeatures, words.getVerbFeatures, words.serEstar, 
+                # words.getCompoundTenses, words.getClitics, words.getNullSubjets]
+
+                word_features = [words.findAgreementErrors]
 
 
                 for feat in word_features:
@@ -90,28 +92,28 @@ for fold in training:
                     file_number += 1
                     
               
-            
-            elif 'freeling_parsed' in this_file:    
-                print(this_file)
-                file_id = this_file.split('.')[-5].split('/')[1]
-                print('freeling id', file_id)
+            ### this can be commented out if the features are not being tested
+            # elif 'freeling_parsed' in this_file:    
+            #     print(this_file)
+            #     file_id = this_file.split('.')[-5].split('/')[2]
+            #     print('freeling id', file_id)
                     
-                if file_id not in samples and file_id not in testing:
-                    print('cant find it')
-                    print('file_id', file_id)
+            #     if file_id not in samples and file_id not in testing:
+            #         print('cant find it')
+            #         print('file_id', file_id)
 
-                else:
+            #     else:
 
-                    text = open(this_file, 'r').readlines()
-                    embedded = Embeddings(text)
-                    count = embedded.countEmbeddings()
-                    coord = embedded.getCoordinations()
+            #         text = open(this_file, 'r').readlines()
+            #         embedded = Embeddings(text)
+            #         count = embedded.countEmbeddings()
+            #         coord = embedded.getCoordinations()
                     
-                    if file_id in samples:
+            #         if file_id in samples:
                         
-                        insert_here = samples.index(file_id) - 1
-                        samples[insert_here].append(count)
-                        samples[insert_here].append(coord)
+            #             insert_here = samples.index(file_id) - 1
+            #             samples[insert_here].append(count)
+            #             samples[insert_here].append(coord)
 
 
 
@@ -152,7 +154,7 @@ for fold in training:
         elif label == 'N':
             N.append(data)
 
-    print('A ', A)
+    print('A ', A)                  #### some works is still needed here ....
     print(sum(A)/len(A))
 
     print('B ', B)

@@ -2,6 +2,7 @@
 #!/bin/env python3.4
 
 import os
+from nltk import *
 
 class LemmaFeatures:
 

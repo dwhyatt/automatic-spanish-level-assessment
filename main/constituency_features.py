@@ -13,11 +13,11 @@ class Embeddings:
         subord = 0
 
         for line in self.freeling:
-            for word in line:
-                if 'subord' in word:
-                    subord += 1
-                elif 'S_[' in word:
-                    sentences += 1
+            # for word in line:
+            if 'subord' in line:
+                subord += 1
+            elif 'S_[' in line:
+                sentences += 1
 
         if sentences == 0:
             return 0
